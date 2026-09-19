@@ -1,6 +1,7 @@
 import { Header, TemaRow } from '../../components/ui';
 import { esquemaDeTema, temasDe } from '../../lib/data';
 import { useProgress } from '../../lib/storage';
+import { link } from '../../lib/router';
 import type { TemaMeta } from '../../types';
 
 function pctTema(checks: Record<string, boolean[]>, id: string): number {
@@ -27,6 +28,14 @@ export default function TemasA2() {
     <div className="screen">
       <Header title="A2 · Técnico de Gestión" backTo="/" />
       <main className="container">
+        <a className="temario-entry" href={link('/a2/temario')}>
+          <span className="temario-entry-ico" aria-hidden="true">📖</span>
+          <span className="temario-entry-text">
+            <strong>Temario desarrollado</strong>
+            <small>Temas completos con artículos pulsables</small>
+          </span>
+          <span className="tema-row-arrow" aria-hidden="true">›</span>
+        </a>
         <h2>Temas comunes</h2>
         {comunes.map((t) => (
           <TemaRow

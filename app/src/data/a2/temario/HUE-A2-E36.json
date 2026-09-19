@@ -1,0 +1,30 @@
+{
+ "id": "HUE-A2-E36",
+ "numero": 36,
+ "relacionados": [
+  "HUE-A2-E35",
+  "HUE-A2-E37",
+  "HUE-A2-E38"
+ ],
+ "secciones": [
+  {
+   "texto": "La adjudicación de un **contrato de obras** requerirá la previa **elaboración, supervisión, aprobación y replanteo** del correspondiente proyecto que defina con precisión el objeto del contrato [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 231]].\n\nEl proyecto deberá contener, como mínimo: una **memoria** en la que se describa el objeto de las obras; los **planos de conjunto y de detalle** necesarios para que la obra quede perfectamente definida; el **pliego de prescripciones técnicas particulares**; un **presupuesto**, integrado por mediciones, cuadros de precios, presupuesto de ejecución material, presupuesto base de licitación y, en su caso, presupuesto para conocimiento de la Administración; y un **programa de desarrollo de los trabajos** o plan de obra de carácter indicativo [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 233]].\n\nAprobado el proyecto y previamente a la tramitación del expediente de contratación se procederá a efectuar el **replanteo** del mismo, que consistirá en comprobar la realidad geométrica de la obra y la disponibilidad de los terrenos precisos para su normal ejecución [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 236]].",
+   "titulo": "1. Actuaciones preparatorias: proyecto y replanteo"
+  },
+  {
+   "texto": "La **ejecución** del contrato de obras comenzará con el **acta de comprobación del replanteo**, que se realizará en el plazo máximo de **un mes** desde la fecha de formalización del contrato, salvo casos excepcionales justificados [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 237]].\n\nEl contratista tendrá derecho a ser **indemnizado** por los daños y perjuicios que se le hubieren producido en los casos tasados de **fuerza mayor**: los incendios causados por la electricidad atmosférica; los fenómenos naturales de efectos catastróficos, como maremotos, terremotos, erupciones volcánicas, movimientos del terreno, temporales marítimos, inundaciones u otros semejantes; y los destrozos ocasionados violentamente en tiempo de guerra, robos tumultuosos o alteraciones graves del orden público [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 239]].\n\nA los efectos del pago, la Administración expedirá **mensualmente certificaciones** que comprendan la obra ejecutada conforme a proyecto durante dicho período de tiempo, cuyos abonos tienen el concepto de **pagos a cuenta** sujetos a las rectificaciones y variaciones que se produzcan en la medición final [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 240]].\n\nSerán **obligatorias para el contratista** las modificaciones del contrato de obras cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que **no exceda del 20 por ciento del precio inicial del contrato, IVA excluido** [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 242]].",
+   "titulo": "2. Ejecución: comprobación del replanteo, fuerza mayor y certificaciones"
+  },
+  {
+   "texto": "A la **recepción de las obras** concurrirá un **facultativo designado por la Administración** representante de esta, el facultativo encargado de la dirección de las obras y el contratista, asistido, si lo estima oportuno, de su facultativo. El **plazo de garantía** se establecerá en el pliego de cláusulas administrativas particulares atendiendo a la naturaleza y complejidad de la obra y **no podrá ser inferior a un año** salvo casos especiales [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 243]]. Dentro del plazo de **quince días anteriores** al cumplimiento del plazo de garantía, el director facultativo de la obra redactará un informe sobre el estado de las obras.\n\nSon **causas de resolución** del contrato de obras, además de las generales: la **demora injustificada en la comprobación del replanteo**; la **suspensión de la iniciación de las obras** por plazo superior a cuatro meses; la **suspensión de las obras** por plazo superior a ocho meses por parte de la Administración; y el **desistimiento** [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 245]].",
+   "titulo": "3. Cumplimiento y resolución del contrato de obras"
+  },
+  {
+   "titulo": "4. Modificación y responsabilidad por vicios ocultos",
+   "texto": "Las **modificaciones** del contrato de obras se rigen por las reglas generales de los artículos 203 a 205: las previstas en el pliego son obligatorias para el contratista cuando la alteración de la cuantía no exceda del **20 por ciento del precio inicial, IVA excluido**, y las no previstas solo proceden por razones de interés público en los supuestos tasados, sin alterar la naturaleza global del contrato [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | arts. 203 a 205]]. En las modificaciones no previstas, si suponen supresión o reducción de unidades de obra, el contratista no tendrá derecho a reclamar indemnización alguna.\n\nAdemás de la garantía mínima de un año, el contratista responde por los **vicios ocultos** de la construcción: si la obra se arruina o sufre deterioros graves incompatibles con su función con posterioridad a la expiración del plazo de garantía, debido a incumplimiento del contrato por parte del contratista, este responderá de los daños y perjuicios que se produzcan o se manifiesten durante un plazo de **quince años** a contar desde la recepción [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 244]]. Asimismo responde durante dicho plazo de los daños materiales causados en la obra por vicios o defectos que afecten a la **cimentación, los soportes, las vigas, los forjados, los muros de carga** u otros elementos estructurales que comprometan directamente la resistencia mecánica y la estabilidad de la construcción."
+  }
+ ],
+ "tema": "E36",
+ "tipo": "especifico",
+ "titulo": "El contrato de obras: actuaciones preparatorias. Ejecución. Modificación. Cumplimiento. Resolución."
+}

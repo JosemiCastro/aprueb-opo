@@ -753,3 +753,260 @@ button.cita-pill-btn:hover {
   border-top: 1px solid var(--border);
   padding-top: 10px;
 }
+
+/* ---------- Temario desarrollado ---------- */
+
+.temario-grupo {
+  font-size: 1.05rem;
+  margin: 10px 0 2px;
+  color: var(--primary-deep);
+}
+
+.tema-num {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  background: linear-gradient(135deg, var(--primary-deep), var(--primary));
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+
+.estudiado-chip {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: var(--success);
+  background: #e4f4e9;
+  border-radius: 999px;
+  padding: 4px 10px;
+  white-space: nowrap;
+}
+
+.temario-entry {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--accent-soft);
+  border: 1px solid #f0d48a;
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+
+.temario-entry:hover,
+.temario-entry:focus-visible {
+  border-color: var(--accent);
+}
+
+.temario-entry-ico {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.temario-entry-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.temario-entry-text strong {
+  color: var(--accent-dark);
+  font-size: 1rem;
+}
+
+.temario-entry-text small {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* Miga de pan del detalle del tema */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.breadcrumb a {
+  color: var(--primary-dark);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover,
+.breadcrumb a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Secciones del tema */
+.temario-sec-titulo {
+  font-size: 1.1rem;
+  margin: 0 0 10px;
+  color: var(--primary-deep);
+  overflow-wrap: break-word;
+}
+
+.temario-sec-texto {
+  overflow-wrap: break-word;
+}
+
+.temario-p {
+  margin: 0 0 12px;
+  line-height: 1.65;
+}
+
+.temario-h4 {
+  font-size: 1rem;
+  margin: 18px 0 8px;
+  color: var(--text);
+}
+
+.temario-ul,
+.temario-ol {
+  margin: 0 0 12px;
+  padding-left: 22px;
+}
+
+.temario-ul li,
+.temario-ol li {
+  margin-bottom: 6px;
+  line-height: 1.6;
+}
+
+/* "Ver también" */
+.chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip-link {
+  display: inline-block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--primary-dark);
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  box-shadow: var(--shadow);
+}
+
+.chip-link:hover,
+.chip-link:focus-visible {
+  border-color: var(--primary);
+}
+
+/* Anterior / siguiente */
+.prevnext {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.prevnext .btn {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* ---------- Barra inferior de navegación (móvil) ---------- */
+
+.screen {
+  /* Hueco para la barra inferior fija */
+  padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
+}
+
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 30;
+  display: flex;
+  background: rgba(255, 255, 255, 0.97);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -2px 14px rgba(49, 46, 129, 0.1);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.bottom-nav-item {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: 8px 2px 7px;
+  min-height: 62px;
+  text-decoration: none;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  font-weight: 700;
+  border-top: 3px solid transparent;
+}
+
+.bottom-nav-item .nav-ico {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.bottom-nav-item .nav-label {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.bottom-nav-item.active {
+  color: var(--primary-dark);
+  border-top-color: var(--accent);
+}
+
+.bottom-nav-item:hover,
+.bottom-nav-item:focus-visible {
+  color: var(--primary-dark);
+}
+
+@media (min-width: 720px) {
+  .bottom-nav {
+    left: 50%;
+    right: auto;
+    transform: translateX(-50%);
+    width: 680px;
+    max-width: 100%;
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    border-radius: 18px 18px 0 0;
+  }
+}
+
+/* ---------- Cabecera en pantallas muy estrechas ---------- */
+
+@media (max-width: 400px) {
+  /* El nombre de usuario cede el sitio al título: se mantiene "Salir". */
+  .user-chip {
+    display: none;
+  }
+  .header {
+    gap: 8px;
+    padding: 10px 12px;
+  }
+}

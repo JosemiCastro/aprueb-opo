@@ -16,6 +16,14 @@ export default function TemasC1() {
           <a className="btn btn-primary" href={link('/c1/test')}>Hacer test</a>
           <a className="btn btn-ghost" href={link('/c1/repaso')}>Repasar falladas</a>
         </div>
+        <a className="temario-entry" href={link('/c1/temario')}>
+          <span className="temario-entry-ico" aria-hidden="true">📖</span>
+          <span className="temario-entry-text">
+            <strong>Temario desarrollado</strong>
+            <small>Temas completos con artículos pulsables</small>
+          </span>
+          <span className="tema-row-arrow" aria-hidden="true">›</span>
+        </a>
         {temas.map((t) => {
           const preguntas = preguntasDeTema(t.id);
           const { pct } = masteryPct(progress, questionIdsDeTema(t.id));

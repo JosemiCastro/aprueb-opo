@@ -1,5 +1,5 @@
 import type { ReactElement } from 'react';
-import { Header } from './components/ui';
+import { BottomNav, Header } from './components/ui';
 import { RequireAuth } from './components/RequireAuth';
 import { link, useHashRoute } from './lib/router';
 import Login from './views/auth/Login';
@@ -12,6 +12,8 @@ import TestResult from './views/c1/TestResult';
 import Repaso from './views/c1/Repaso';
 import TemasA2 from './views/a2/TemasA2';
 import FichaTema from './views/a2/FichaTema';
+import ListaTemario from './views/temario/ListaTemario';
+import DetalleTema from './views/temario/DetalleTema';
 import Progreso from './views/Progreso';
 
 function Home() {
@@ -57,7 +59,9 @@ const routes: Record<string, () => ReactElement> = {
   '/c1/test/run': TestRun,
   '/c1/test/fin': TestResult,
   '/c1/repaso': Repaso,
+  '/c1/temario': () => <ListaTemario perfil="c1" />,
   '/a2': TemasA2,
+  '/a2/temario': () => <ListaTemario perfil="a2" />,
   '/progreso': Progreso,
 };
 
@@ -83,6 +87,16 @@ function resolveDynamic(path: string): () => ReactElement {
     const temaId = mA2[1];
     return () => <FichaTema temaId={temaId} />;
   }
+  const mT1 = path.match(/^\/c1\/temario\/([A-Za-z0-9-]+)$/);
+  if (mT1) {
+    const temaId = mT1[1];
+    return () => <DetalleTema perfil="c1" temaId={temaId} />;
+  }
+  const mT2 = path.match(/^\/a2\/temario\/([A-Za-z0-9-]+)$/);
+  if (mT2) {
+    const temaId = mT2[1];
+    return () => <DetalleTema perfil="a2" temaId={temaId} />;
+  }
   return NotFound;
 }
 
@@ -96,6 +110,7 @@ export default function App() {
   return (
     <RequireAuth>
       <Screen />
+      <BottomNav />
     </RequireAuth>
   );
 }

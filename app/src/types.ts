@@ -34,6 +34,22 @@ export interface TemaMeta {
   titulo: string;
 }
 
+// Temario desarrollado (app/src/data/{c1,a2}/temario/*.json)
+export interface SeccionTema {
+  titulo: string;
+  texto: string;
+}
+
+export interface TemaDesarrollado {
+  id: string;
+  tema: string;
+  tipo: 'comun' | 'especifico';
+  numero: number;
+  titulo: string;
+  secciones: SeccionTema[];
+  relacionados: string[];
+}
+
 export interface QAStat {
   ok: number;
   ko: number;

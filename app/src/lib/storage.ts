@@ -46,3 +46,68 @@ export function useProgress(): [ProgressState, Dispatch<SetStateAction<ProgressS
   }, [p]);
   return [p, setP];
 }
+
+/* ---------- Temas del temario marcados como estudiados ---------- */
+
+const KEY_TEMAS = 'oposdipu-temas-estudiados-v1';
+
+// Conjunto de ids de temario ("HUE-C1-T01") marcados como estudiados.
+export type TemasEstudiados = Record<string, true>;
+
+function isValidTemas(v: unknown): v is TemasEstudiados {
+  if (typeof v !== 'object' || v === null || Array.isArray(v)) return false;
+  return Object.values(v as Record<string, unknown>).every((x) => x === true);
+}
+
+export function loadTemasEstudiados(): TemasEstudiados {
+  try {
+    const raw = localStorage.getItem(KEY_TEMAS);
+    if (!raw) return {};
+    const parsed: unknown = JSON.parse(raw);
+    return isValidTemas(parsed) ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+export function saveTemasEstudiados(v: TemasEstudiados): void {
+  try {
+    localStorage.setItem(KEY_TEMAS, JSON.stringify(v));
+  } catch {
+    // almacenamiento no disponible: se ignora
+  }
+}
+
+// Puro y testeable: marca/desmarca un tema (inmutable)
+export function setTemaEstudiado(
+  prev: TemasEstudiados,
+  id: string,
+  val: boolean,
+): TemasEstudiados {
+  if (val) {
+    if (prev[id]) return prev;
+    return { ...prev, [id]: true };
+  }
+  if (!prev[id]) return prev;
+  const next = { ...prev };
+  delete next[id];
+  return next;
+}
+
+export function esTemaEstudiado(v: TemasEstudiados, id: string): boolean {
+  return v[id] === true;
+}
+
+// Hook: conjunto de estudiados persistido en localStorage
+export function useTemasEstudiados(): [
+  TemasEstudiados,
+  (id: string, val: boolean) => void,
+] {
+  const [v, setV] = useState<TemasEstudiados>(() => loadTemasEstudiados());
+  useEffect(() => {
+    saveTemasEstudiados(v);
+  }, [v]);
+  const toggle = (id: string, val: boolean) =>
+    setV((prev) => setTemaEstudiado(prev, id, val));
+  return [v, toggle];
+}

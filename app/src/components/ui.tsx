@@ -1,5 +1,5 @@
 import type { ButtonHTMLAttributes, ReactNode } from 'react';
-import { link } from '../lib/router';
+import { link, useHashRoute } from '../lib/router';
 import { useAuth } from '../lib/auth';
 
 export function Header({ title, backTo }: { title: string; backTo?: string }) {
@@ -80,5 +80,77 @@ export function TemaRow({
         ›
       </span>
     </a>
+  );
+}
+
+/* ---------- Navegación principal móvil (barra inferior) ---------- */
+
+interface NavItem {
+  key: string;
+  label: string;
+  icon: string;
+  to: string;
+  active: boolean;
+}
+
+// El destino de "Temario" depende del perfil que se esté viendo.
+function temarioPath(path: string): string {
+  return path.startsWith('/a2') ? '/a2/temario' : '/c1/temario';
+}
+
+export function BottomNav() {
+  const path = useHashRoute();
+  // Fuera de la app autenticada no hay navegación.
+  if (path === '/login' || path === '/register') return null;
+
+  const enTemario = /^\/(c1|a2)\/temario/.test(path);
+  const items: NavItem[] = [
+    { key: 'home', label: 'Inicio', icon: '🏠', to: '/', active: path === '/' },
+    {
+      key: 'c1',
+      label: 'C1',
+      icon: '📝',
+      to: '/c1',
+      active: path.startsWith('/c1') && !enTemario,
+    },
+    {
+      key: 'a2',
+      label: 'A2',
+      icon: '📋',
+      to: '/a2',
+      active: path.startsWith('/a2') && !enTemario,
+    },
+    {
+      key: 'temario',
+      label: 'Temario',
+      icon: '📖',
+      to: temarioPath(path),
+      active: enTemario,
+    },
+    {
+      key: 'progreso',
+      label: 'Progreso',
+      icon: '📊',
+      to: '/progreso',
+      active: path === '/progreso',
+    },
+  ];
+
+  return (
+    <nav className="bottom-nav" aria-label="Navegación principal">
+      {items.map((it) => (
+        <a
+          key={it.key}
+          className={`bottom-nav-item${it.active ? ' active' : ''}`}
+          href={link(it.to)}
+          aria-current={it.active ? 'page' : undefined}
+        >
+          <span className="nav-ico" aria-hidden="true">
+            {it.icon}
+          </span>
+          <span className="nav-label">{it.label}</span>
+        </a>
+      ))}
+    </nav>
   );
 }

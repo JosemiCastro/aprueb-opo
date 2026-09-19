@@ -1,0 +1,30 @@
+{
+ "id": "HUE-A2-E37",
+ "numero": 37,
+ "relacionados": [
+  "HUE-A2-E35",
+  "HUE-A2-E36",
+  "HUE-A2-E38"
+ ],
+ "secciones": [
+  {
+   "texto": "Son **contratos de suministro** los que tienen por objeto la **adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles** [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 16.1]]. Quedan sujetos a esta ley los contratos de suministro que, por razón de su cuantía, estén **sujetos a regulación armonizada**, sin perjuicio de determinadas normas de adjudicación que serán también de aplicación a los contratos de suministro no sujetos a regulación armonizada.\n\nEn los contratos de suministro con **entrega de una pluralidad de bienes de forma sucesiva y por precio unitario**, sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades de la Administración, deberá aprobarse un **presupuesto máximo**. En el caso de que, dentro de la vigencia del contrato, las necesidades reales fuesen superiores a las estimadas inicialmente, deberá tramitarse la correspondiente **modificación**; a tales efectos, habrá de preverse en la documentación que rija la licitación la posibilidad de que pueda modificarse el contrato como consecuencia de tal circunstancia [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 16.3]].",
+   "titulo": "1. Concepto y regulación de determinados contratos de suministro"
+  },
+  {
+   "texto": "El contratista estará obligado a **entregar los bienes** objeto de suministro en el **tiempo y lugar** fijados en el contrato y de conformidad con las prescripciones técnicas y las cláusulas administrativas. Cualquiera que sea el tipo de suministro, el adjudicatario **no tendrá derecho a indemnización** por causa de pérdidas, averías o perjuicios ocasionados en los bienes antes de su entrega a la Administración, salvo que esta hubiere incurrido en mora al recibirlos [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 298]].\n\nEl adjudicatario tendrá derecho al **abono del precio de los suministros efectivamente entregados y formalmente recibidos** por la Administración con arreglo a las condiciones establecidas en el contrato [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 299]].\n\nCuando razones técnicas o económicas debidamente justificadas en el expediente lo aconsejen, podrá establecerse en el pliego que el **pago del precio total** de los bienes a suministrar consista **parte en dinero y parte en la entrega de otros bienes** de la misma clase sin que, en ningún caso, el importe de estos pueda superar el **50 por ciento del precio total** [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 300]].\n\nLa Administración tiene la **facultad de inspeccionar** y de ser informada del **proceso de fabricación o elaboración** del producto que haya de ser entregado como consecuencia del contrato, pudiendo ordenar o realizar por sí misma análisis, ensayos y pruebas de los materiales que se vayan a emplear [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 301]].\n\nLos contratos de suministros de **prestación sucesiva** tendrán un plazo máximo de duración de **cinco años**, incluyendo las posibles prórrogas que en aplicación del apartado segundo del artículo 29 acuerde el órgano de contratación, respetando las condiciones y límites establecidos [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 29.4]].",
+   "titulo": "2. Ejecución del contrato de suministro"
+  },
+  {
+   "texto": "Salvo pacto en contrario, los gastos de la **entrega y transporte** de los bienes objeto del suministro al lugar convenido serán **de cuenta del contratista**. Si los bienes no se hallan en estado de ser recibidos se hará constar así en el acta de recepción y se darán las instrucciones precisas al contratista para que subsane los defectos observados o proceda a un nuevo suministro de conformidad con lo pactado.\n\nAdemás de las causas generales de resolución del artículo 211, en el contrato de suministro son **causas específicas de resolución** el **desistimiento** antes de la iniciación del suministro o la **suspensión** de la iniciación del suministro por causa imputable a la Administración por plazo superior a cuatro meses a partir de la fecha señalada en el contrato para la entrega, y el **desistimiento** una vez iniciado el suministro o la **suspensión** del suministro por plazo superior a ocho meses acordada por la Administración [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | arts. 211 y 306]].\n\nEn los supuestos de resolución por incumplimiento culpable del contratista, este deberá indemnizar a la Administración por los daños y perjuicios ocasionados.",
+   "titulo": "3. Cumplimiento y resolución"
+  },
+  {
+   "titulo": "4. Precio y modificaciones",
+   "texto": "El **precio** del contrato de suministro se abonará al contratista en función de la **prestación realmente ejecutada**, de acuerdo con lo pactado y con las reglas generales del artículo 102: tendrá siempre un **precio cierto**, formulado en términos de precios unitarios o a tanto alzado [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 102]]. En los suministros de tracto sucesivo con **precio unitario y presupuesto máximo** (artículo 16.3), si las necesidades reales superasen las estimadas inicialmente deberá tramitarse la correspondiente **modificación del contrato**, que habrá de haberse previsto en la documentación de la licitación [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público | art. 16.3]]. Rigen aquí las reglas generales de modificación de los artículos 203 a 205: solo por razones de interés público, con el límite del 20 por ciento para las previstas en el pliego."
+  }
+ ],
+ "tema": "E37",
+ "tipo": "especifico",
+ "titulo": "El contrato de suministro: regulación de determinados contratos de suministro. Ejecución. Cumplimiento. Resolución."
+}
