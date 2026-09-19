@@ -1,7 +1,9 @@
 import type { ButtonHTMLAttributes, ReactNode } from 'react';
 import { link } from '../lib/router';
+import { useAuth } from '../lib/auth';
 
 export function Header({ title, backTo }: { title: string; backTo?: string }) {
+  const { user, loading, logout } = useAuth();
   return (
     <header className="header">
       {backTo ? (
@@ -9,7 +11,21 @@ export function Header({ title, backTo }: { title: string; backTo?: string }) {
           ←
         </a>
       ) : null}
+      <img className="brand-logo" src="/logo.png" alt="" aria-hidden="true" />
       <h1 className="header-title">{title}</h1>
+      {!loading && user ? (
+        <div className="header-user">
+          <span className="user-chip">{user}</span>
+          <button
+            type="button"
+            className="link-button"
+            onClick={logout}
+            aria-label="Cerrar sesión"
+          >
+            Salir
+          </button>
+        </div>
+      ) : null}
     </header>
   );
 }

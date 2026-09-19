@@ -1,6 +1,9 @@
 import type { ReactElement } from 'react';
 import { Header } from './components/ui';
+import { RequireAuth } from './components/RequireAuth';
 import { link, useHashRoute } from './lib/router';
+import Login from './views/auth/Login';
+import Register from './views/auth/Register';
 import TemasC1 from './views/c1/TemasC1';
 import EstudioTema from './views/c1/EstudioTema';
 import TestConfig from './views/c1/TestConfig';
@@ -16,21 +19,36 @@ function Home() {
     <div className="screen">
       <Header title="OposDipu" />
       <main className="container">
-        <a className="home-card" href={link('/c1')}>
-          <h2>C1 — Administrativo</h2>
-          <p>Administrativo — 40 temas, preguntas y respuestas</p>
-        </a>
-        <a className="home-card" href={link('/a2')}>
-          <h2>A2 — Técnico Medio de Gestión</h2>
-          <p>Técnico Medio de Gestión — 60 temas, fichas-esquema</p>
-        </a>
+        <section className="hero">
+          <img className="hero-logo" src="/logo.png" alt="Logo de OposDipu" />
+          <p className="hero-title">OposDipu</p>
+          <p className="hero-sub">
+            Estudia las oposiciones de la Diputación de Huelva: cuestionarios,
+            fichas-esquema y seguimiento de tu progreso.
+          </p>
+        </section>
+        <div className="home-grid">
+          <a className="home-card home-card-c1" href={link('/c1')}>
+            <h2>C1 — Administrativo</h2>
+            <p>Administrativo — 40 temas, preguntas y respuestas</p>
+          </a>
+          <a className="home-card home-card-a2" href={link('/a2')}>
+            <h2>A2 — Técnico Medio de Gestión</h2>
+            <p>Técnico Medio de Gestión — 60 temas, fichas-esquema</p>
+          </a>
+        </div>
         <a className="home-link" href={link('/progreso')}>
-          Ver mi progreso
+          📊 Ver mi progreso
         </a>
       </main>
     </div>
   );
 }
+
+const publicRoutes: Record<string, () => ReactElement> = {
+  '/login': Login,
+  '/register': Register,
+};
 
 const routes: Record<string, () => ReactElement> = {
   '/': Home,
@@ -70,6 +88,14 @@ function resolveDynamic(path: string): () => ReactElement {
 
 export default function App() {
   const path = useHashRoute();
+  if (publicRoutes[path]) {
+    const Screen = publicRoutes[path];
+    return <Screen />;
+  }
   const Screen = routes[path] ?? resolveDynamic(path);
-  return <Screen />;
+  return (
+    <RequireAuth>
+      <Screen />
+    </RequireAuth>
+  );
 }

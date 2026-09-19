@@ -4,6 +4,12 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  server: {
+    proxy: {
+      // En desarrollo el backend corre en :3000 (cd server && npm start)
+      '/api': 'http://localhost:3000',
+    },
+  },
   plugins: [
     react(),
     VitePWA({
@@ -24,9 +30,14 @@ export default defineConfig({
         scope: '/',
         display: 'standalone',
         orientation: 'portrait',
-        theme_color: '#1a56db',
-        background_color: '#ffffff',
+        theme_color: '#4f46e5',
+        background_color: '#eef0fe',
         icons: [
+          {
+            src: '/apple-touch-icon.png',
+            sizes: '180x180',
+            type: 'image/png',
+          },
           {
             src: '/icons/icon-192.png',
             sizes: '192x192',

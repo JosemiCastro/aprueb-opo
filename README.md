@@ -34,3 +34,47 @@ fueron auditadas contra el texto consolidado del BOE (`doc/quality/informe-audit
 - `doc/app/app_prd.md` — PRD, `doc/app/app_spec.md` — especificación técnica,
   `doc/app/temario-*.md` — temarios oficiales, `doc/app/plan_trabajo.md` — plan.
 - `doc/fuentes/TANDA-V.pdf` — bases oficiales de la convocatoria.
+
+## Backend (`server/`)
+
+API de autenticación (Node 20 + Express + JWT) y servidor de los estáticos
+de la app. Endpoints:
+
+- `POST /api/auth/register` `{username, password}` → 201 / 400 / 409
+- `POST /api/auth/login` `{username, password}` → 200 `{token}` / 401
+- `GET /api/auth/me` (header `Authorization: Bearer <token>`) → 200 `{username}` / 401
+
+Los usuarios se guardan en `users.json` dentro de `DATA_DIR` (escritura atómica,
+passwords con bcrypt 10 rounds). El token JWT expira a los 7 días.
+
+```bash
+cd server
+npm install
+npm start   # http://localhost:3000
+npm test    # tests con node:test (8 casos)
+```
+
+### Variables de entorno
+
+| Variable     | Defecto                  | Descripción                                           |
+|--------------|--------------------------|-------------------------------------------------------|
+| `JWT_SECRET` | secreto de desarrollo    | **Obligatorio en producción.** Secreto para firmar JWT |
+| `PORT`       | `3000`                   | Puerto de escucha                                     |
+| `SEED_USER`  | `admin`                  | Usuario creado al arrancar (si no existe)             |
+| `SEED_PASS`  | `oposdipu-2026`          | Contraseña del usuario seed                           |
+| `DATA_DIR`   | `<server>/data`          | Directorio donde se guarda `users.json`               |
+
+Credenciales por defecto: **admin / oposdipu-2026** (solo desarrollo).
+En producción define `SEED_USER`/`SEED_PASS` propios o desactiva el seed con
+`NO_SEED=1` después de crear tu usuario.
+
+### Despliegue en Easypanel
+
+1. Conecta el repo de GitHub y elige **deploy con Dockerfile** (el de la raíz
+   construye el frontend con Vite y lo sirve junto a la API con un solo
+   proceso Node).
+2. Define `JWT_SECRET` como **secreto** (cadena larga aleatoria).
+3. Monta un **volumen persistente** en la ruta de `DATA_DIR`
+   (p. ej. `/srv/server/data`, que es el valor por defecto dentro del
+   contenedor) para no perder los usuarios entre despliegues.
+4. (Opcional) Define `SEED_USER`/`SEED_PASS` o `NO_SEED=1` según prefieras.
