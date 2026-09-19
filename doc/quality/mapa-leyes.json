@@ -1,0 +1,325 @@
+{
+ "Acuerdo Marco de Concertación de la Diputación de Huelva": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Constitución Española de 1978": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1978-31229.md",
+  "title": "Constitución Española de 1978",
+  "match": "manual"
+ },
+ "Constitución y Ley 39/2015": {
+  "path": null,
+  "reason": "cita doble: usar CE + Ley 39/2015"
+ },
+ "Convenio Marco de Concertación de la Diputación de Huelva (aprobado el 4 de octubre de 2023)": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Código Civil": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1889-4763.md",
+  "title": "Código Civil",
+  "match": "manual"
+ },
+ "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1955-10057.md",
+  "title": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+  "match": "manual"
+ },
+ "Documentación de LibreOffice": {
+  "path": null,
+  "reason": "no es una norma jurídica"
+ },
+ "Ley 15/2022": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2022-11589.md",
+  "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+  "match": "exacto"
+ },
+ "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2022-11589.md",
+  "title": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+  "match": "exacto"
+ },
+ "Ley 19/2013": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2013-12887.md",
+  "title": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+  "match": "exacto"
+ },
+ "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2013-12887.md",
+  "title": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+  "match": "exacto"
+ },
+ "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1998-16718.md",
+  "title": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+  "match": "exacto"
+ },
+ "Ley 31/1995": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1995-24292.md",
+  "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+  "match": "exacto"
+ },
+ "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1995-24292.md",
+  "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+  "match": "exacto"
+ },
+ "Ley 33/2003": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-20254.md",
+  "title": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-20254.md",
+  "title": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 38/2003": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-20977.md",
+  "title": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+  "match": "exacto"
+ },
+ "Ley 38/2003, de 17 de noviembre, General de Subvenciones": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-20977.md",
+  "title": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+  "match": "exacto"
+ },
+ "Ley 39/2015": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-10565.md",
+  "title": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-10565.md",
+  "title": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 40/2015": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-10566.md",
+  "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+  "match": "exacto"
+ },
+ "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-10566.md",
+  "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+  "match": "exacto"
+ },
+ "Ley 5/2010": {
+  "path": "doc/fuentes/legalize-es/es-an/BOE-A-2010-11491.md",
+  "title": "Ley 5/2010, de 11 de junio, de autonomía local de Andalucía",
+  "match": "exacto"
+ },
+ "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía": {
+  "path": "doc/fuentes/legalize-es/es-an/BOE-A-2010-11491.md",
+  "title": "Ley 5/2010, de 11 de junio, de autonomía local de Andalucía",
+  "match": "exacto-fecha"
+ },
+ "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local": {
+  "path": "doc/fuentes/legalize-es/es-an/BOE-A-2015-679.md",
+  "title": "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local",
+  "match": "exacto-fecha"
+ },
+ "Ley 53/1984": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-151.md",
+  "title": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 53/1984, de 26 de diciembre, de Incompatibilidades": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-151.md",
+  "title": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas",
+  "match": "exacto"
+ },
+ "Ley 58/2003": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-23186.md",
+  "title": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+  "match": "exacto"
+ },
+ "Ley 58/2003, de 17 de diciembre, General Tributaria": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2003-23186.md",
+  "title": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+  "match": "exacto"
+ },
+ "Ley 7/1985": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-5392.md",
+  "title": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+  "match": "exacto"
+ },
+ "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-5392.md",
+  "title": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+  "match": "exacto-fecha"
+ },
+ "Ley 9/2017": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2017-12902.md",
+  "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014",
+  "match": "exacto"
+ },
+ "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2017-12902.md",
+  "title": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014",
+  "match": "exacto-fecha"
+ },
+ "Ley Orgánica 10/1995": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1995-25444.md",
+  "title": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal",
+  "match": "exacto"
+ },
+ "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-16660.md",
+  "title": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",
+  "match": "exacto"
+ },
+ "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2007-5825.md",
+  "title": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+  "match": "exacto"
+ },
+ "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2012-5730.md",
+  "title": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+  "match": "exacto"
+ },
+ "Ley Orgánica 3/2007": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2007-6115.md",
+  "title": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+  "match": "exacto"
+ },
+ "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2007-6115.md",
+  "title": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+  "match": "exacto"
+ },
+ "Ley Orgánica 3/2018": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2018-16673.md",
+  "title": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+  "match": "exacto"
+ },
+ "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2018-16673.md",
+  "title": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+  "match": "exacto"
+ },
+ "Ley Orgánica 5/1985": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-11672.md",
+  "title": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+  "match": "exacto"
+ },
+ "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1985-11672.md",
+  "title": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+  "match": "exacto"
+ },
+ "Ley de Expropiación Forzosa de 1954": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1954-15431.md",
+  "title": "Ley de Expropiación Forzosa de 1954",
+  "match": "manual"
+ },
+ "Ley de Expropiación Forzosa, de 16 de diciembre de 1954": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1954-15431.md",
+  "title": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+  "match": "manual"
+ },
+ "Ley para la Reforma Política, de 4 de enero de 1977": {
+  "path": null,
+  "reason": "norma histórica derogada, no está en el corpus (solo normas vigentes)"
+ },
+ "Ordenanza fiscal de la Diputación de Huelva": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Plan Provincial de Concertación Municipal de la Diputación de Huelva": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Real Decreto 1372/1986": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1986-17958.md",
+  "title": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+  "match": "exacto"
+ },
+ "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1986-17958.md",
+  "title": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+  "match": "exacto"
+ },
+ "Real Decreto 203/2021": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2021-5032.md",
+  "title": "Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos",
+  "match": "exacto"
+ },
+ "Real Decreto 2568/1986": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1986-33252.md",
+  "title": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+  "match": "exacto"
+ },
+ "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1986-33252.md",
+  "title": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+  "match": "exacto"
+ },
+ "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, en materia de presupuestos": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1990-9664.md",
+  "title": "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales, en materia de presupuestos",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 2/2004": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2004-4214.md",
+  "title": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2004-4214.md",
+  "title": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-11430.md",
+  "title": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 5/2015": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-11719.md",
+  "title": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-11719.md",
+  "title": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-11723.md",
+  "title": "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana",
+  "match": "exacto"
+ },
+ "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-2015-11724.md",
+  "title": "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social",
+  "match": "exacto"
+ },
+ "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo": {
+  "path": "doc/fuentes/legalize-es/es/BOE-A-1977-6061.md",
+  "title": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+  "match": "exacto"
+ },
+ "Reglamento (UE) 2016/679": {
+  "path": null,
+  "reason": "norma europea, fuera del ámbito del corpus (legislación española)"
+ },
+ "Reglamento Orgánico de la Diputación de Huelva": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Reglamento de Organización y Funcionamiento de la Diputación de Huelva (BOP Huelva nº 136, 18/07/2016)": {
+  "path": null,
+  "reason": "normativa propia local, no está en el corpus"
+ },
+ "Tribunal Constitucional": {
+  "path": null,
+  "reason": "jurisprudencia, verificar caso por caso (STC citada)"
+ }
+}

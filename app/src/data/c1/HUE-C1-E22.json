@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 61",
+    "enunciado": "¿A quién corresponde la representación de las entidades del sector público en materia contractual?",
+    "explicacion": "Art. 61.1 LCSP: la representación contractual corresponde a los órganos de contratación, unipersonales o colegiados, con facultad para celebrar contratos.",
+    "id": "HUE-C1-E22-001",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A los órganos de contratación, unipersonales o colegiados, que en virtud de norma legal o reglamentaria o disposición estatutaria tengan atribuida la facultad de celebrar contratos en su nombre.",
+    "tema": "E22",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "disp. adic. 2ª",
+    "enunciado": "¿Cuándo es el Alcalde o Presidente el órgano de contratación en una Entidad Local?",
+    "explicacion": "Disposición adicional segunda, apartado 1 LCSP: reparte la competencia contractual entre Alcalde/Presidente y Pleno según el valor estimado y la duración.",
+    "id": "HUE-C1-E22-002",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando el valor estimado del contrato no supere el 10 por ciento de los recursos ordinarios del presupuesto ni, en ningún caso, la cuantía de seis millones de euros (en contratos plurianuales, si su duración no es superior a cuatro años, prórrogas incluidas).",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "disp. adic. 2ª",
+    "enunciado": "¿Cuándo corresponde al Pleno la competencia como órgano de contratación en una Entidad Local?",
+    "explicacion": "Disposición adicional segunda, apartado 2 LCSP: el Pleno asume los contratos que exceden los umbrales del Alcalde y aprueba los pliegos generales.",
+    "id": "HUE-C1-E22-003",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando por su valor o duración el contrato no corresponda al Alcalde o Presidente de la Entidad Local; asimismo corresponde al Pleno la aprobación de los pliegos de cláusulas administrativas generales.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 326",
+    "enunciado": "¿En qué procedimientos es obligatoria la asistencia de la mesa de contratación al órgano de contratación?",
+    "explicacion": "Art. 326.1 LCSP: la mesa asiste en los procedimientos con concurrencia competitiva; en los negociados sin publicidad su constitución es potestativa (salvo urgencia del art. 168).",
+    "id": "HUE-C1-E22-004",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En los procedimientos abiertos, abierto simplificado, restringidos, de licitación con negociación, de diálogo competitivo, de asociación para la innovación y en los concursos de proyectos, salvo que la competencia corresponda a una Junta de Contratación.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 326",
+    "enunciado": "¿Cómo se compone y designa la mesa de contratación?",
+    "explicacion": "Art. 326.2 y 326.3 LCSP: composición mínima (Presidente, vocales, Secretario) y designación por el órgano de contratación, con publicidad en el perfil de contratante.",
+    "id": "HUE-C1-E22-005",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por un Presidente, los vocales que se determinen reglamentariamente y un Secretario; sus miembros son designados por el órgano de contratación, con carácter permanente o de manera específica para cada contrato, y su composición se publica en el perfil de contratante.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 326",
+    "enunciado": "¿Quiénes no pueden formar parte de la mesa de contratación?",
+    "explicacion": "Art. 326.5 LCSP: prohibición para cargos públicos representativos y personal eventual; el interino solo en defecto de funcionarios de carrera cualificados.",
+    "id": "HUE-C1-E22-006",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los cargos públicos representativos ni el personal eventual; el personal funcionario interino únicamente cuando no existan funcionarios de carrera suficientemente cualificados y así se acredite en el expediente.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "disp. adic. 2ª",
+    "enunciado": "¿Cómo se compone la mesa de contratación en las Entidades Locales?",
+    "explicacion": "Disposición adicional segunda, apartado 7 LCSP: composición específica para las Entidades Locales, con presencia obligatoria del Secretario y del Interventor.",
+    "id": "HUE-C1-E22-007",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Presidida por un miembro de la Corporación o un funcionario; como vocales, el Secretario (o titular del asesoramiento jurídico), el Interventor (o titular del control económico-presupuestario) y otros designados por el órgano de contratación, sin que el total sea inferior a tres; los miembros electos no pueden superar un tercio; actúa como Secretario un funcionario de la Corporación.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 99",
+    "enunciado": "¿Puede fraccionarse un contrato para disminuir su cuantía y eludir los requisitos de publicidad o del procedimiento de adjudicación?",
+    "explicacion": "Art. 99.2 LCSP: prohibición de fraccionamiento fraudulento del objeto del contrato.",
+    "id": "HUE-C1-E22-008",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 100",
+    "enunciado": "¿Qué es el presupuesto base de licitación?",
+    "explicacion": "Art. 100.1 LCSP: el presupuesto base de licitación es el techo de gasto del órgano de contratación, IVA incluido, y debe indicarse de forma separada en los pliegos.",
+    "id": "HUE-C1-E22-009",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 100",
+    "enunciado": "¿Qué desglose exige el presupuesto base de licitación en los contratos de servicios?",
+    "explicacion": "Art. 100.2 LCSP: desglose de costes y, en servicios, costes salariales por categoría profesional según el convenio colectivo aplicable.",
+    "id": "HUE-C1-E22-010",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Desglose en costes directos e indirectos y otros eventuales gastos, con los costes salariales estimados a partir del convenio laboral de referencia, desagregados por categoría profesional.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 101",
+    "enunciado": "¿Qué es el valor estimado del contrato?",
+    "explicacion": "Art. 101.1 LCSP: el valor estimado es el importe total sin IVA, incluyendo prórrogas, modificaciones previstas, primas y opciones; determina el procedimiento y la regulación armonizada.",
+    "id": "HUE-C1-E22-011",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El importe total pagadero según las estimaciones del órgano de contratación, sin incluir el Impuesto sobre el Valor Añadido, teniendo en cuenta las eventuales prórrogas, las modificaciones previstas (art. 204), las primas o pagos a los licitadores y las opciones eventuales.",
+    "tema": "E22",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 101",
+    "enunciado": "¿Qué costes mínimos deben tenerse en cuenta al calcular el valor estimado del contrato?",
+    "explicacion": "Art. 101.2 LCSP: el cálculo debe incluir costes laborales, de ejecución material, gastos generales y beneficio industrial, y el método debe figurar en los pliegos.",
+    "id": "HUE-C1-E22-012",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los derivados de la aplicación de las normativas laborales vigentes, los de la ejecución material de los servicios, los gastos generales de estructura y el beneficio industrial; el método de cálculo debe figurar en los pliegos.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 136",
+    "enunciado": "¿Cuántas proposiciones puede presentar cada licitador en un procedimiento de contratación?",
+    "explicacion": "Art. 136.3 LCSP: una sola proposición por licitador, sin perjuicio de variantes y subasta electrónica.",
+    "id": "HUE-C1-E22-013",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Una sola, sin perjuicio de la admisibilidad de variantes (art. 142) y de la presentación de nuevos precios o valores en la subasta electrónica (art. 143).",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 139",
+    "enunciado": "¿Qué implica la presentación de una proposición por el licitador?",
+    "explicacion": "Art. 139.1 LCSP: la presentación supone aceptación incondicionada de los pliegos y autorización para recabar datos tributarios y de Seguridad Social.",
+    "id": "HUE-C1-E22-014",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La aceptación incondicionada por el empresario del contenido de la totalidad de los pliegos, sin salvedad o reserva alguna.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 139",
+    "enunciado": "¿Pueden los licitadores declarar confidencial la totalidad de su oferta?",
+    "explicacion": "Art. 139.2 LCSP: la confidencialidad debe referirse a documentos o datos concretos; no valen las declaraciones genéricas.",
+    "id": "HUE-C1-E22-015",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: deberán indicar qué documentos (o parte de los mismos) o datos concretos tienen la consideración de confidenciales, sin que resulten admisibles las declaraciones genéricas.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 139",
+    "enunciado": "¿Son públicas las proposiciones de los licitadores antes de su apertura?",
+    "explicacion": "Art. 139.3 LCSP: carácter secreto de las proposiciones hasta su apertura.",
+    "id": "HUE-C1-E22-016",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: serán secretas y se arbitrarán los medios que garanticen tal carácter hasta el momento de la apertura de las proposiciones.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 140",
+    "enunciado": "¿Cómo se acredita inicialmente el cumplimiento de los requisitos previos para contratar con el sector público?",
+    "explicacion": "Art. 140.1.a) LCSP: declaración responsable ajustada al DEUC como acreditación inicial, sin perjuicio de la aportación posterior de la documentación.",
+    "id": "HUE-C1-E22-017",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mediante una declaración responsable ajustada al documento europeo único de contratación (DEUC).",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 150",
+    "enunciado": "¿En qué plazo debe el licitador que haya presentado la mejor oferta aportar la documentación justificativa tras el requerimiento del órgano de contratación?",
+    "explicacion": "Art. 150.2 LCSP: diez días hábiles para aportar la documentación acreditativa del cumplimiento de requisitos y la garantía definitiva.",
+    "id": "HUE-C1-E22-018",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el plazo de diez días hábiles desde el requerimiento.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Cuándo se perfeccionan los contratos del sector público?",
+    "explicacion": "Art. 36.1 LCSP: la perfección se produce con la formalización, no con la adjudicación.",
+    "id": "HUE-C1-E22-019",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con su formalización.",
+    "tema": "E22",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 153",
+    "enunciado": "¿En qué plazos se formaliza el contrato y qué ocurre si el adjudicatario no lo formaliza por causa que le sea imputable?",
+    "explicacion": "Art. 153.1, 153.3 y 153.4 LCSP: plazo de espera de quince días hábiles en contratos SARA o susceptibles de recurso especial; quince días hábiles como máximo en los demás; penalidad del 3 % por incumplimiento imputable al adjudicatario.",
+    "id": "HUE-C1-E22-020",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En contratos sujetos a regulación armonizada y susceptibles de recurso especial, no antes de quince días hábiles desde la notificación de la adjudicación; en los restantes, no más tarde de quince días hábiles. Si no se formaliza por causa imputable al adjudicatario, se le exige una penalidad del 3 por ciento del presupuesto base de licitación, IVA excluido.",
+    "tema": "E22",
+    "verificado_corpus": false
+  }
+]

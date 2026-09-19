@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 79",
+    "enunciado": "¿Qué constituye el patrimonio de las entidades locales?",
+    "explicacion": "El artículo 79 de la Ley 7/1985 define el patrimonio local como el conjunto de bienes, derechos y acciones que pertenezcan a las entidades locales.",
+    "id": "HUE-C1-E08-001",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto de bienes, derechos y acciones que les pertenezcan.",
+    "tema": "E08",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿Cómo se clasifican los bienes de las entidades locales según el artículo 80 de la Ley 7/1985?",
+    "explicacion": "El artículo 80 de la Ley 7/1985 clasifica los bienes locales en bienes de dominio público y bienes patrimoniales.",
+    "id": "HUE-C1-E08-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En bienes de dominio público y bienes patrimoniales.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Cómo clasifica los bienes de las entidades locales el Reglamento de Bienes aprobado por el Real Decreto 1372/1986?",
+    "explicacion": "El artículo 2 del Real Decreto 1372/1986 distingue dentro del dominio público los de uso público y los de servicio público, y añade los bienes comunales y los patrimoniales.",
+    "id": "HUE-C1-E08-003",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En bienes de dominio público (de uso público y de servicio público), bienes comunales y bienes patrimoniales.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué son los bienes de uso público local? Ponga dos ejemplos.",
+    "explicacion": "El artículo 3 del Real Decreto 1372/1986 define los bienes de uso público como los caminos, plazas, calles, parques y demás obras de aprovechamiento general.",
+    "id": "HUE-C1-E08-004",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de la competencia de la entidad local.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué son los bienes de servicio público local? Ponga dos ejemplos.",
+    "explicacion": "El artículo 4 del Real Decreto 1372/1986 define los bienes de servicio público como los destinados directamente al cumplimiento de fines públicos de responsabilidad local.",
+    "id": "HUE-C1-E08-005",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los destinados directamente al cumplimiento de fines públicos de responsabilidad de las entidades locales, tales como las casas consistoriales, palacios provinciales, mataderos, mercados, hospitales o museos.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué son los bienes comunales?",
+    "explicacion": "El artículo 5 del Real Decreto 1372/1986 define los bienes comunales por su aprovechamiento correspondiente al común de los vecinos.",
+    "id": "HUE-C1-E08-006",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquellos cuyo aprovechamiento corresponda al común de los vecinos.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué bienes tienen la consideración de dominio público según la Ley 33/2003?",
+    "explicacion": "El artículo 5 de la Ley 33/2003 atribuye la condición demanial a los bienes afectados a un uso general o a un servicio público.",
+    "id": "HUE-C1-E08-007",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los afectados a un uso general o a un servicio público, y los que una ley declare expresamente como demaniales.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Qué principios rigen los bienes y derechos de dominio público?",
+    "explicacion": "El artículo 6 de la Ley 33/2003 establece que los bienes demaniales son inalienables, imprescriptibles e inembargables.",
+    "id": "HUE-C1-E08-008",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Son inalienables, imprescriptibles e inembargables.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Qué son los bienes patrimoniales según la Ley 33/2003 y con qué principios se gestionan?",
+    "explicacion": "El artículo 7 de la Ley 33/2003 define los bienes patrimoniales como los no afectados a uso o servicio público y somete su gestión a los principios de eficiencia y economía.",
+    "id": "HUE-C1-E08-009",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los bienes y derechos que, siendo titularidad de la Administración, no están afectados a un uso general o a un servicio público; su gestión se ajusta a los principios de eficiencia y economía.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 82",
+    "enunciado": "¿Qué prerrogativa tienen las entidades locales para recuperar la posesión de sus bienes de dominio público?",
+    "explicacion": "El artículo 82.a) de la Ley 7/1985 permite recuperar por sí mismas la posesión de los bienes de dominio público en cualquier momento, y de los patrimoniales en el plazo de un año.",
+    "id": "HUE-C1-E08-010",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La de recuperar por sí mismas su posesión en cualquier momento cuando se trate de bienes de dominio público, y en el plazo de un año cuando se trate de bienes patrimoniales.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 81",
+    "enunciado": "¿Qué se requiere para alterar la calificación jurídica de los bienes de las entidades locales?",
+    "explicacion": "El artículo 81.1 de la Ley 7/1985 exige expediente en el que se acrediten la oportunidad y la legalidad de la alteración.",
+    "id": "HUE-C1-E08-011",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un expediente en el que se acrediten su oportunidad y su legalidad.",
+    "tema": "E08",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 81",
+    "enunciado": "¿En qué supuestos se produce automáticamente la alteración de la calificación jurídica de los bienes locales?",
+    "explicacion": "El artículo 81.2 de la Ley 7/1985 prevé la alteración automática por aprobación definitiva de planes urbanísticos y proyectos de obras y servicios, y por adscripción de bienes patrimoniales por más de veinticinco años a un uso o servicio públicos.",
+    "id": "HUE-C1-E08-012",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por la aprobación definitiva de los planes de ordenación urbana y de los proyectos de obras y servicios; y por la adscripción de bienes patrimoniales por más de veinticinco años a un uso o a un servicio públicos.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué mayoría se requiere para la cesión del aprovechamiento de los bienes comunales?",
+    "explicacion": "El artículo 47.2.d) de la Ley 7/1985 exige la mayoría absoluta del número legal de miembros para la cesión por cualquier título del aprovechamiento de los bienes comunales.",
+    "id": "HUE-C1-E08-013",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 92",
+    "enunciado": "¿Cuál es el plazo máximo de las autorizaciones de uso de bienes de dominio público?",
+    "explicacion": "El artículo 92.3 de la Ley 33/2003 fija en cuatro años, incluidas las prórrogas, el plazo máximo de las autorizaciones demaniales.",
+    "id": "HUE-C1-E08-014",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuatro años, incluidas las prórrogas.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 93",
+    "enunciado": "¿Cuál es el plazo máximo de las concesiones demaniales?",
+    "explicacion": "El artículo 93.3 de la Ley 33/2003 limita a setenta y cinco años el plazo de las concesiones sobre bienes de dominio público.",
+    "id": "HUE-C1-E08-015",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Setenta y cinco años, salvo que se establezca otro menor en las normas especiales que sean de aplicación.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "arts. 6 y 81",
+    "enunciado": "¿Pueden enajenarse los bienes de dominio público de una entidad local sin más trámite?",
+    "explicacion": "El artículo 6 de la Ley 33/2003 declara inalienables los bienes demaniales, por lo que su enajenación exige la previa desafectación mediante la alteración de su calificación jurídica del artículo 81 de la Ley 7/1985.",
+    "id": "HUE-C1-E08-016",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; al ser inalienables, es necesaria su previa desafectación mediante la alteración de su calificación jurídica.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Están obligadas las corporaciones locales a formar inventario de sus bienes?",
+    "explicacion": "El artículo 17.1 del Real Decreto 1372/1986 obliga a las corporaciones locales a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición.",
+    "id": "HUE-C1-E08-017",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí; están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "¿Cómo se agrupan los bienes en el inventario de la entidad local?",
+    "explicacion": "El artículo 18 del Real Decreto 1372/1986 establece ocho epígrafes para la reseña separada de los bienes en el inventario.",
+    "id": "HUE-C1-E08-018",
+    "ley": "Real Decreto 1372/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por separado, según su naturaleza, en los epígrafes de inmuebles, derechos reales, muebles de carácter histórico, artístico o de considerable valor económico, valores mobiliarios y créditos, vehículos, semovientes, muebles no comprendidos en los anteriores y bienes y derechos revertibles.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Puede un particular adquirir por usucapión un bien de dominio público local?",
+    "explicacion": "El artículo 6 de la Ley 33/2003 declara imprescriptibles los bienes de dominio público, por lo que no cabe su adquisición por prescripción adquisitiva.",
+    "id": "HUE-C1-E08-019",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No, porque los bienes de dominio público son imprescriptibles.",
+    "tema": "E08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué mayoría requiere la concesión de bienes o servicios por más de cinco años cuando su cuantía exceda del veinte por ciento de los recursos ordinarios del presupuesto?",
+    "explicacion": "El artículo 47.2.e) de la Ley 7/1985 exige la mayoría absoluta del número legal de miembros para estas concesiones.",
+    "id": "HUE-C1-E08-020",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "tema": "E08",
+    "verificado_corpus": false
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: los efectos del contrato y las prerrogativas de la Administración.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ejecución del contrato (riesgo y ventura, pago del precio, obligaciones sociales y medioambientales).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la modificación de los contratos: previstas y no previstas.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la extinción, la cesión y la subcontratación.",
+    "Puedo citar con precisión los artículos 190, 197, 198, 203, 204, 205, 209, 211, 214 y 215 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E35",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 190",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Prerrogativas de la Administración: el órgano de contratación ostenta la prerrogativa de interpretar los contratos administrativos, resolver las dudas que ofrezca su cumplimiento, modificarlos por razones de interés público, declarar la responsabilidad imputable al contratista, suspender su ejecución, acordar su resolución y determinar los efectos de esta.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 197",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "La ejecución de los contratos se realizará a riesgo y ventura del contratista, sin perjuicio de lo establecido para el contrato de obras en el supuesto de fuerza mayor; el contratista tiene derecho al abono de la prestación realizada en los términos previstos en la ley y en el contrato.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 198",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Pago del precio: el contratista tendrá derecho al abono del precio convenido por la prestación realizada; la Administración deberá aprobar las certificaciones de obra o los documentos que acrediten la conformidad dentro de los treinta días siguientes a la entrega efectiva, y abonar el precio dentro de los treinta días siguientes a la aprobación, con intereses de demora en caso contrario.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 201",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Obligaciones en materia medioambiental, social o laboral: el órgano de contratación tomará las medidas pertinentes para garantizar que en la ejecución de los contratos los contratistas cumplen las obligaciones aplicables en estas materias establecidas en el derecho de la Unión Europea, el derecho nacional, los convenios colectivos o las disposiciones de derecho internacional.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 203",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Potestad de modificación: sin perjuicio de los supuestos de sucesión en la persona del contratista, cesión, revisión de precios y prórroga del plazo, los contratos administrativos solo podrán ser modificados por razones de interés público en los casos y en la forma previstos, y de acuerdo con el procedimiento regulado en el art. 207.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 204",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Modificaciones previstas en el pliego: los contratos podrán modificarse durante su vigencia hasta un máximo del veinte por ciento del precio inicial cuando en los pliegos se hubiere advertido expresamente de esta posibilidad, con la cláusula de modificación redactada de forma clara, precisa e inequívoca.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 205",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Modificaciones no previstas: solo podrán introducirse por razones de interés público cuando se justifique suficientemente la concurrencia de alguno de los supuestos tasados (prestaciones adicionales necesarias, circunstancias imprevisibles, modificaciones no sustanciales), con los límites cuantitativos que establece la ley para cada supuesto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 209 y 211",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Extinción de los contratos: los contratos se extinguen por su cumplimiento o por resolución (art. 209). Son causas de resolución, entre otras, la muerte o incapacidad del contratista, la declaración de concurso, el mutuo acuerdo, la demora en el cumplimiento de los plazos, el incumplimiento de la obligación principal y el impago por la Administración (art. 211).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 214",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Cesión de los contratos: los derechos y obligaciones dimanantes del contrato podrán ser cedidos a un tercero siempre que las cualidades técnicas o personales del cedente no hayan sido razón determinante de la adjudicación y que de la cesión no resulte una restricción efectiva de la competencia; se exige, entre otros requisitos, que se haya ejecutado al menos un 20 por ciento del importe del contrato y autorización previa y expresa del órgano de contratación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 215",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Subcontratación: el contratista podrá concertar con terceros la realización parcial de la prestación, salvo que el pliego disponga lo contrario o que por su naturaleza y condiciones se deduzca que ha de ser ejecutada directamente por el adjudicatario; deberá comunicar por escrito tras la adjudicación la identidad del subcontratista y justificar su aptitud.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E35",
+  "titulo": "Efectos, ejecución y modificación de los contratos del sector público. Las prerrogativas de la Administración. Ejecución de los contratos. Modificación de los contratos. Extinción de los contratos. La cesión de los contratos y la subcontratación."
+}

@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "art. 8.2",
+  "enunciado": "¿Qué clases de empleados públicos establece el art. 8 del Texto Refundido del Estatuto Básico del Empleado Público (RDL 5/2015)?",
+  "explicacion": "El art. 8 TREBEP clasifica a los empleados públicos en cuatro categorías: funcionarios de carrera, funcionarios interinos, personal laboral (ya sea fijo, por tiempo indefinido o temporal) y personal eventual.",
+  "id": "HUE-C1-T08-001",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Funcionarios de carrera; b) funcionarios interinos; c) personal laboral, ya sea fijo, por tiempo indefinido o temporal; d) personal eventual.",
+  "tema": 8,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 8.2.a)",
+  "enunciado": "¿Quiénes son funcionarios de carrera según el art. 8.2.a) del TREBEP?",
+  "explicacion": "El art. 8.2.a) TREBEP define al funcionario de carrera por tres notas: nombramiento legal, relación estatutaria regulada por Derecho administrativo y desempeño de servicios profesionales retribuidos de carácter permanente.",
+  "id": "HUE-C1-T08-002",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 10",
+  "enunciado": "¿Por qué causas puede nombrarse a un funcionario interino según el art. 10 del TREBEP?",
+  "explicacion": "El art. 10 TREBEP regula el nombramiento de funcionarios interinos, que solo procede por razones expresamente justificadas de necesidad y urgencia: plazas vacantes, sustitución transitoria, ejecución de programas temporales (máximo 3 años) y exceso o acumulación de tareas (máximo 6 meses).",
+  "id": "HUE-C1-T08-003",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) La existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera; b) la sustitución transitoria de los titulares; c) la ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años; d) el exceso o acumulación de tareas por plazo máximo de seis meses.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 8.2.c) y art. 11",
+  "enunciado": "¿Quiénes son el personal laboral al servicio de las Administraciones Públicas y qué norma regula su relación de servicio?",
+  "explicacion": "El art. 8.2.c) y el art. 11 TREBEP definen al personal laboral como quienes, en virtud de contrato de trabajo formalizado por escrito, prestan servicios retribuidos para las Administraciones Públicas, rigiéndose por la legislación laboral además del propio Estatuto.",
+  "id": "HUE-C1-T08-004",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Es personal laboral el que en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato este podrá ser fijo, por tiempo indefinido o temporal.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 8.2.d) y art. 12",
+  "enunciado": "¿Qué caracteriza al personal eventual según el TREBEP? ¿Qué funciones puede desempeñar?",
+  "explicacion": "El art. 12 TREBEP regula el personal eventual: solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, con nombramiento y cese libres. En ningún caso el desempeño de un puesto reservado a personal eventual constituirá mérito para el acceso a la Función Pública.",
+  "id": "HUE-C1-T08-005",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin. Su nombramiento y cese serán libres.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 55",
+  "enunciado": "¿Con qué principios deben regirse los procedimientos de selección del personal funcionario y laboral según el art. 55 del TREBEP?",
+  "explicacion": "El art. 55 TREBEP (principios rectores del acceso al empleo público) consagra la publicidad de las convocatorias, la transparencia, la imparcialidad y profesionalidad de los órganos de selección, la independencia y discrecionalidad técnica, la adecuación entre el contenido de los procesos y las funciones a desarrollar, y la agilidad sin menoscabo de la objetividad.",
+  "id": "HUE-C1-T08-006",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Publicidad de las convocatorias y de sus bases; b) transparencia; c) imparcialidad y profesionalidad de los miembros de los órganos de selección; d) independencia y discrecionalidad técnica en la actuación de los órganos de selección; e) adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar; f) agilidad, sin perjuicio de la objetividad, en los procesos de selección.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 56",
+  "enunciado": "¿Qué requisitos generales deben reunir los aspirantes para participar en los procesos selectivos según el art. 56 del TREBEP?",
+  "explicacion": "El art. 56 TREBEP establece los requisitos generales de acceso al empleo público: nacionalidad, capacidad funcional, edad mínima de dieciséis años, no haber sido separado ni hallarse inhabilitado, y poseer la titulación exigida.",
+  "id": "HUE-C1-T08-007",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Tener la nacionalidad española, sin perjuicio de lo dispuesto para el acceso de nacionales de otros Estados; b) poseer la capacidad funcional para el desempeño de las tareas; c) tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa; d) no haber sido separado mediante expediente disciplinario del servicio de cualquiera de las Administraciones Públicas ni hallarse en inhabilitación absoluta o especial; e) poseer la titulación exigida.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 61",
+  "enunciado": "¿Cuáles son los sistemas selectivos de funcionarios de carrera según el art. 61 del TREBEP y cuál es la regla general?",
+  "explicacion": "El art. 61.6 TREBEP establece que los sistemas selectivos son la oposición y el concurso-oposición, que deberán incluir pruebas para determinar la capacidad de los aspirantes; solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso.",
+  "id": "HUE-C1-T08-008",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición. Solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso, que consistirá únicamente en la valoración de méritos.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 60",
+  "enunciado": "¿Qué garantías de imparcialidad establece el art. 60 del TREBEP para los órganos de selección?",
+  "explicacion": "El art. 60 TREBEP garantiza la profesionalidad e imparcialidad de los órganos de selección: pertenencia a título individual, prohibición de que el personal eventual o de designación política forme parte de ellos, y composición tendente a la paridad entre mujeres y hombres.",
+  "id": "HUE-C1-T08-009",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La pertenencia a los órganos de selección será siempre a título individual, no pudiéndose ostentar esta en representación o por cuenta de nadie. No podrán formar parte de los órganos de selección el personal de elección o de designación política, los funcionarios interinos y el personal eventual. Los órganos de selección se regirán por los principios de imparcialidad y profesionalidad y tenderán a la paridad entre mujeres y hombres.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 14",
+  "enunciado": "Cita cinco derechos individuales de los empleados públicos reconocidos en el art. 14 del TREBEP.",
+  "explicacion": "El art. 14 TREBEP recoge los derechos individuales de los empleados públicos de carácter estatutario, entre los que destacan la inamovilidad en la condición de funcionario, la carrera profesional, las retribuciones, la formación y la conciliación.",
+  "id": "HUE-C1-T08-010",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) A la inamovilidad en su condición de funcionario de carrera; b) al desempeño efectivo de las funciones o tareas propias de su condición profesional; c) a la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad; d) a percibir las retribuciones y las indemnizaciones por razón del servicio; e) a recibir formación y actualización permanente y, en su caso, a la formación para la promoción.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 15",
+  "enunciado": "¿Qué derechos colectivos reconoce el art. 15 del TREBEP a los empleados públicos?",
+  "explicacion": "El art. 15 TREBEP consagra los derechos de ejercicio colectivo: libertad sindical, negociación colectiva y participación, ejercicio de la huelga con garantía de servicios esenciales, planteamiento de conflictos colectivos y derecho de reunión.",
+  "id": "HUE-C1-T08-011",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) A la libertad sindical; b) a la negociación colectiva y a la participación en la determinación de las condiciones de trabajo; c) al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad; d) al planteamiento de conflictos colectivos de trabajo; e) al de reunión, en los términos establecidos en el art. 46 del TREBEP.",
+  "tema": 8,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "arts. 52, 53 y 54",
+  "enunciado": "¿Cómo se estructura el código de conducta de los empleados públicos en el TREBEP? Cita dos deberes y dos principios éticos.",
+  "explicacion": "Los arts. 52, 53 y 54 TREBEP configuran el código de conducta: el art. 52 establece los deberes generales (objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia...), el art. 53 los principios éticos y el art. 54 los principios de conducta.",
+  "id": "HUE-C1-T08-012",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Se estructura en tres artículos: art. 52 (deberes), art. 53 (principios éticos) y art. 54 (principios de conducta). Deberes: desempeñar con diligencia las tareas asignadas y velar por los intereses generales con sujeción a la Constitución y al resto del ordenamiento jurídico; y guardar secreto de las materias clasificadas u otras cuya difusión esté prohibida legalmente. Principios éticos: actuarán de acuerdo con los principios de objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público y transparencia.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 85",
+  "enunciado": "¿Cuáles son las situaciones administrativas en las que pueden hallarse los funcionarios de carrera según el art. 85 del TREBEP?",
+  "explicacion": "El art. 85 TREBEP (Título VI) enumera las cinco situaciones administrativas: servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones, reguladas en los arts. 86 a 90.",
+  "id": "HUE-C1-T08-013",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Servicio activo; b) servicios especiales; c) servicio en otras Administraciones Públicas; d) excedencia; e) suspensión de funciones.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 86",
+  "enunciado": "¿Cuándo se hallan los funcionarios en situación de servicio activo según el art. 86 del TREBEP?",
+  "explicacion": "El art. 86 TREBEP define el servicio activo como la situación ordinaria del funcionario que desempeña un puesto de trabajo, incluyendo los supuestos de adscripción provisional, comisión de servicios y los periodos de disfrute de vacaciones, permisos y licencias.",
+  "id": "HUE-C1-T08-014",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Se hallan en servicio activo quienes presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración u organismo público o entidad en el que se encuentren destinados y cualquiera que sea la forma de ocupación del puesto: destino definitivo, adscripción provisional o comisión de servicios.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 87",
+  "enunciado": "Cita cuatro supuestos en los que un funcionario de carrera pasa a la situación de servicios especiales según el art. 87 del TREBEP.",
+  "explicacion": "El art. 87 TREBEP enumera los supuestos de servicios especiales: cargos electos y miembros de órganos de gobierno, altos cargos, personal al servicio del Tribunal Constitucional o del Defensor del Pueblo, servicio en organizaciones internacionales, etc. Durante esta situación se perciben las retribuciones del puesto o cargo efectivo y se computa el tiempo a efectos de carrera y trienios.",
+  "id": "HUE-C1-T08-015",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Cuando sean designados miembros del Gobierno o de los órganos de gobierno de las Comunidades Autónomas y Ciudades de Ceuta y Melilla; b) cuando sean autorizados para realizar una misión por periodo determinado superior a seis meses en organismos internacionales, gobiernos o entidades públicas extranjeras; c) cuando sean nombrados para desempeñar puestos o cargos en organismos públicos o entidades dependientes o vinculadas a las Administraciones Públicas que no se correspondan con su cuerpo o escala; d) cuando pasen a prestar servicios en el Tribunal Constitucional, Defensor del Pueblo o Tribunal de Cuentas.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 89",
+  "enunciado": "¿Qué modalidades de excedencia contempla el art. 89 del TREBEP y qué requisito temporal exige la excedencia voluntaria por interés particular?",
+  "explicacion": "El art. 89 TREBEP regula la excedencia: voluntaria por interés particular, por agrupación familiar, por cuidado de familiares, por razón de violencia de género o terrorista, y excedencia forzosa. La voluntaria por interés particular requiere cinco años de servicios efectivos y tiene una duración mínima de dos años.",
+  "id": "HUE-C1-T08-016",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Excedencia voluntaria por interés particular, por agrupación familiar, por cuidado de familiares y por razón de violencia de género o por razón de violencia terrorista, y excedencia forzosa. La excedencia voluntaria por interés particular requiere haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de cinco años inmediatamente anteriores, y su duración no podrá ser inferior a dos años continuados.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 90",
+  "enunciado": "¿En qué consiste la situación de suspensión de funciones del art. 90 del TREBEP y qué tipos existen?",
+  "explicacion": "El art. 90 TREBEP distingue la suspensión firme (impuesta en virtud de sentencia o sanción disciplinaria, que determina la pérdida del puesto y la privación de derechos económicos) de la suspensión provisional (medida cautelar durante la tramitación de un procedimiento judicial o disciplinario).",
+  "id": "HUE-C1-T08-017",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Es la situación del funcionario a quien se le ha impuesto, como sanción o como medida cautelar, la privación temporal del ejercicio de sus funciones. Puede ser firme (determinada por sentencia judicial o sanción disciplinaria) o provisional (acordada durante la tramitación de un procedimiento judicial o disciplinario). La suspensión firme de funciones por sanción disciplinaria no podrá exceder de seis años.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 93 y 94",
+  "enunciado": "¿Quiénes están sujetos al régimen disciplinario del TREBEP y a quién corresponde su ejercicio según los arts. 93 y 94?",
+  "explicacion": "El art. 93 TREBEP somete al régimen disciplinario a funcionarios e interinos (y al personal laboral conforme a la legislación laboral); el art. 94 atribuye su ejercicio a las Administraciones Públicas respecto de su personal, con audiencia del interesado.",
+  "id": "HUE-C1-T08-018",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el Título VII del TREBEP y en las normas que las leyes de Función Pública dicten en su desarrollo (art. 93). El ejercicio de la potestad disciplinaria corresponde a las Administraciones Públicas respecto del personal a su servicio, y se ejercerá de acuerdo con los principios de eficacia y celeridad, con sometimiento pleno a la ley y al Derecho (art. 94).",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 95 y 96",
+  "enunciado": "¿Cómo se clasifican las faltas disciplinarias en el TREBEP y qué sanciones pueden imponerse por faltas muy graves?",
+  "explicacion": "El art. 95 TREBEP tipifica las faltas muy graves (catorce supuestos) y remite la tipificación de graves y leves a las leyes de Función Pública; el art. 96 enumera las sanciones: separación del servicio, despido disciplinario del personal laboral, suspensión firme de funciones, traslado forzoso, demérito y apercibimiento.",
+  "id": "HUE-C1-T08-019",
+  "ley": "Real Decreto Legislativo 5/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las faltas disciplinarias pueden ser muy graves, graves y leves. Las faltas muy graves se tipifican en el art. 95 (incumplimiento del deber de respeto a la Constitución, discriminación, abandono del servicio, notoria falta de rendimiento, etc.); las graves y leves se establecen por ley de cada Administración en función del grado de afectación. Sanciones (art. 96): separación del servicio de los funcionarios (o revocación del nombramiento de interinos), despido disciplinario del personal laboral, suspensión firme de funciones, traslado forzoso, demérito y apercibimiento.",
+  "tema": 8,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 89 y art. 90",
+  "enunciado": "¿Qué especialidades introduce la Ley 7/1985 para el personal al servicio de las entidades locales en materia de plantilla y oferta de empleo público?",
+  "explicacion": "Los arts. 89 y 90 de la Ley 7/1985 regulan el personal local: la plantilla debe comprender todos los puestos reservados a funcionarios, personal laboral y eventual, y las Corporaciones locales deben aprobar anualmente, en el plazo de un mes desde la aprobación del Presupuesto, la oferta de empleo público.",
+  "id": "HUE-C1-T08-020",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El personal al servicio de las Entidades locales estará integrado por funcionarios de carrera, contratados en régimen de derecho laboral y personal eventual (art. 89). La plantilla deberá comprender todos los puestos de trabajo reservados a cada clase de personal, y las Corporaciones locales formarán públicamente su oferta de empleo, ajustándose a los criterios fijados en la normativa básica estatal, en el plazo de un mes desde la aprobación de su Presupuesto (art. 90). Además, la selección de todo el personal se realizará de acuerdo con la oferta de empleo público, mediante convocatoria pública y a través de los sistemas de concurso, oposición o concurso-oposición libre, garantizando los principios de igualdad, mérito, capacidad y publicidad (art. 91).",
+  "tema": 8,
+  "verificado_corpus": false
+ }
+]

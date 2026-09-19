@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: concepto de concertación local y su encaje en la Ley 5/2010, con cita de artículos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el Consejo Andaluz de Concertación Local, naturaleza, regulación y funciones.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el Acuerdo Marco de Concertación de la Diputación de Huelva y el Plan Provincial de Concertación Municipal anual.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los servicios concertables por los ayuntamientos, vinculados a las competencias de asistencia de la Diputación (art. 36 Ley 7/1985).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el procedimiento de elaboración de los planes provinciales y el papel de la información municipal (art. 13.2.a Ley 5/2010)."
+  ],
+  "id": "HUE-A2-E30",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 2.2",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "La concertación como objeto de la ley: la Ley 5/2010 regula las relaciones entre las entidades locales de Andalucía y las instituciones de la Junta de Andalucía, las relaciones para la concertación entre ambos ámbitos de gobierno, y las técnicas de cooperación y colaboración entre entidades locales y entre estas y la Administración autonómica.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 83",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Los convenios de cooperación como instrumento de concertación: las entidades locales pueden suscribir convenios de cooperación entre sí y con la Comunidad Autónoma para el ejercicio coordinado de competencias y la prestación conjunta de servicios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "El Consejo Andaluz de Concertación Local es el órgano supremo de colaboración entre la Comunidad Autónoma y los gobiernos locales; sus atribuciones, composición y funcionamiento se regulan por su propia ley de creación. Los órganos paritarios de colaboración tienen carácter deliberante o consultivo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 95",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Base estatutaria del Consejo: una ley de la Comunidad Autónoma regula la creación, composición y funciones de un órgano mixto con representación de la Junta de Andalucía y de los ayuntamientos andaluces, que funciona como ámbito permanente de diálogo y colaboración institucional.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(ley de creación)",
+      "ley": "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local",
+      "punto": "Ley de creación y regulación del Consejo Andaluz de Concertación Local: adecua sus funciones a su naturaleza de órgano mixto de diálogo permanente, concertación y colaboración entre el nivel autonómico y el local, con composición paritaria entre la Junta de Andalucía y la representación local.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(referencia genérica, sin número de artículo)",
+      "ley": "Convenio Marco de Concertación de la Diputación de Huelva (aprobado el 4 de octubre de 2023)",
+      "punto": "El Acuerdo Marco de Concertación es el instrumento que articula la concertación entre la Diputación Provincial de Huelva y los ayuntamientos de la provincia: fija el marco estable de colaboración y prevé la aprobación anual de un Plan Provincial de Concertación Municipal que integra la asistencia económica, técnica y material de cada anualidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(referencia genérica, sin número de artículo)",
+      "ley": "Plan Provincial de Concertación Municipal de la Diputación de Huelva",
+      "punto": "Cada anualidad la Diputación aprueba un Plan Provincial de Concertación Municipal (p. ej., resolución de inicio del Plan 2026) en el que se integran las líneas de asistencia económica, técnica y material a las entidades locales, previa recogida de información sobre sus necesidades e intereses peculiares.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 13.2.a)",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Para la elaboración de los planes o programas provinciales, la Diputación Provincial recabará de los ayuntamientos información detallada sobre sus necesidades e intereses peculiares, garantizando que la concertación responde a las demandas reales de los municipios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Base competencial de los servicios concertables: son competencias propias de la Diputación la coordinación de los servicios municipales, la asistencia y la cooperación jurídica, económica y técnica a los municipios, la prestación de servicios públicos de carácter supramunicipal y la cooperación en el fomento del desarrollo económico y social, así como los planes provinciales de cooperación a las obras y servicios municipales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(referencia genérica, sin número de artículo)",
+      "ley": "Reglamento de Organización y Funcionamiento de la Diputación de Huelva (BOP Huelva nº 136, 18/07/2016)",
+      "punto": "El Reglamento de Organización y Funcionamiento regula la organización y el funcionamiento interno de la Diputación Provincial de Huelva, marco en el que se insertan los órganos y procedimientos que gestionan la concertación con los ayuntamientos.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E30",
+  "titulo": "La concertación local. El Consejo Andaluz de Concertación Local. El Acuerdo Marco de Concertación de la Diputación de Huelva. Servicios concertables por los ayuntamientos con la Diputación de Huelva."
+}

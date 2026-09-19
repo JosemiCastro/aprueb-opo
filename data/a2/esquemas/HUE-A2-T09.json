@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la clasificación de las competencias de la Comunidad Autónoma de Andalucía (arts. 42 a 45 del Estatuto).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la competencia exclusiva en materia de régimen local (art. 60 del Estatuto).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la organización territorial de Andalucía y las competencias de los gobiernos locales (arts. 91 y 92 del Estatuto).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el marco constitucional de la competencia autonómica en régimen local (arts. 148.1.2.ª y 149.1.18.ª CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el desarrollo legislativo de la autonomía local en Andalucía (Ley 5/2010)."
+  ],
+  "id": "HUE-A2-T09",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 42",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Clasificación de las competencias de la Comunidad Autónoma: la Junta de Andalucía ejerce competencias exclusivas, compartidas y ejecutivas. Las exclusivas comprenden la potestad legislativa, la potestad reglamentaria y la función ejecutiva, íntegramente y sin perjuicio de las competencias atribuidas al Estado en la Constitución; las compartidas comprenden la potestad legislativa y reglamentaria de desarrollo y la función ejecutiva en el marco de las bases fijadas por el Estado; las ejecutivas comprenden la potestad de administración, la inspección y la potestad sancionadora.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 43",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Competencias exclusivas: la Comunidad Autónoma de Andalucía asume con carácter exclusivo, entre otras materias, la organización y estructura de sus instituciones de autogobierno, el procedimiento administrativo derivado de las especialidades de su organización propia, los bienes de dominio público y patrimoniales de su titularidad, la organización y administración de todos los servicios relacionados con la educación, la sanidad y los servicios sociales, y el régimen local (art. 60).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 42.2",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Competencias compartidas y ejecutivas: en las materias de competencia compartida corresponden a la Comunidad Autónoma la potestad legislativa y reglamentaria de desarrollo y la función ejecutiva, en el marco de las bases que fije el Estado en normas con rango de ley (art. 42.2.2.º); en las materias de competencia ejecutiva corresponde a la Comunidad Autónoma la potestad de administración, que incluye la inspección y la potestad sancionadora (art. 42.2.3.º).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 60",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Régimen local, competencia exclusiva: corresponde a la Comunidad Autónoma la competencia exclusiva en materia de régimen local que, respetando lo dispuesto en el artículo 149.1.18.ª de la Constitución y el principio de autonomía local, incluye: las relaciones entre las instituciones de la Junta de Andalucía y los entes locales, así como las técnicas de organización y de relación para la cooperación y la colaboración entre los entes locales y entre éstos y la Administración de la Comunidad Autónoma, incluyendo las distintas formas asociativas; la determinación de las competencias y de las potestades propias de los municipios y demás entes locales; el régimen de los bienes de las entidades locales y las modalidades de prestación de los servicios públicos locales; la determinación de los órganos de gobierno de los entes locales creados por la Junta de Andalucía; el régimen de los órganos complementarios de la organización territorial; y la regulación y administración de los procedimientos de fusión, segregación o agregación de municipios.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 91",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Estructura territorial de Andalucía: Andalucía se organiza territorialmente en municipios, provincias y demás entidades territoriales que puedan crearse por ley. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios, que goza de autonomía para la gestión de sus intereses.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 92",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Competencias de los gobiernos locales andaluces: los municipios y las provincias andaluzas disponen de competencias propias en materias como la seguridad en lugares públicos, la ordenación del tráfico de vehículos y personas en las vías urbanas, el urbanismo y la disciplina urbanística, la vivienda, el patrimonio histórico-artístico de interés para el municipio, la protección del medio ambiente, los abastecimientos, el transporte público de viajeros, la protección de la salubridad pública, los cementerios, la promoción del deporte y del ocio, la promoción de la cultura y la gestión de los servicios sociales comunitarios, entre otras.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 148.1.2.ª",
+      "ley": "Constitución Española de 1978",
+      "punto": "Título habilitante autonómico: las Comunidades Autónomas podrán asumir competencias en las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 149.1.18.ª",
+      "ley": "Constitución Española de 1978",
+      "punto": "Límite estatal: el Estado tiene competencia exclusiva sobre las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios; el procedimiento administrativo común; la legislación sobre expropiación forzosa; la legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones Públicas. Este precepto enmarca la competencia exclusiva autonómica en materia de régimen local del art. 60 del Estatuto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 1 y 2",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Desarrollo legislativo: la Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía, desarrolla el marco estatutario regulando las competencias propias de los municipios y de las provincias andaluzas, las relaciones interadministrativas, la cooperación económica y la participación de las entidades locales en los tributos de la Comunidad Autónoma.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 130",
+      "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+      "punto": "Control externo: la Cámara de Cuentas de Andalucía es el órgano de control externo de la actividad económica y presupuestaria de la Junta de Andalucía, de los entes locales y del resto del sector público de Andalucía, sin perjuicio de las competencias del Tribunal de Cuentas.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": 9,
+  "titulo": "El Estatuto de Autonomía de Andalucía: el ámbito competencial de la Junta de Andalucía. Especial referencia a las competencias en materia de régimen local."
+}

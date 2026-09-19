@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo explicar el sometimiento pleno de la Administración a la ley y al Derecho con su fundamento constitucional.",
+    "Puedo enumerar las fuentes del Derecho administrativo en orden jerárquico.",
+    "Puedo distinguir ley orgánica, ley ordinaria, decreto-ley y decreto legislativo citando su artículo.",
+    "Puedo explicar los requisitos y límites del decreto-ley.",
+    "Puedo definir el reglamento, su jerarquía y la potestad reglamentaria."
+  ],
+  "id": "HUE-A2-T03",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 103.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Sometimiento de la Administración: la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 9.1 y 9.3",
+      "ley": "Constitución Española de 1978",
+      "punto": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico (9.1); la Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales y la responsabilidad de los poderes públicos (9.3).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 106",
+      "ley": "Constitución Española de 1978",
+      "punto": "Control de la Administración: los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de esta a los fines que la justifican.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1.1 Código Civil (fuente general)",
+      "ley": "Código Civil",
+      "punto": "Fuentes del Derecho administrativo, por orden jerárquico: la Constitución, las leyes (orgánicas y ordinarias), las disposiciones del Ejecutivo con rango de ley (decretos-leyes y decretos legislativos), los reglamentos y demás disposiciones generales; completan el sistema la costumbre (solo en defecto de ley aplicable) y los principios generales del Derecho.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 81",
+      "ley": "Constitución Española de 1978",
+      "punto": "Clases de leyes (I): las leyes orgánicas desarrollan los derechos fundamentales y libertades públicas, aprueban los Estatutos de Autonomía y el régimen electoral general; su aprobación, modificación o derogación exige mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 66.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Clases de leyes (II): las leyes ordinarias son aprobadas por las Cortes Generales, que ejercen la potestad legislativa del Estado; se aprueban por mayoría simple, salvo los casos en que la Constitución exija mayoría cualificada. Las leyes de bases (arts. 82-83) delegan en el Gobierno la potestad de dictar normas con rango de ley sobre materias no reservadas a ley orgánica.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 86",
+      "ley": "Constitución Española de 1978",
+      "punto": "Decreto-ley: en caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes; no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general. Deberán ser sometidos a debate y votación de totalidad al Congreso en el plazo de los treinta días siguientes a su promulgación, que decidirá sobre su convalidación o derogación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 82 a 85",
+      "ley": "Constitución Española de 1978",
+      "punto": "Decreto legislativo: las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley mediante una ley de bases (para formar textos articulados) o una ley ordinaria (para refundir varios textos legales en uno solo). La delegación se agota por el uso que de ella haga el Gobierno y no puede entenderse concedida de modo implícito ni por tiempo indeterminado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 97",
+      "ley": "Constitución Española de 1978",
+      "punto": "El reglamento: el Gobierno ejerce la potestad reglamentaria de acuerdo con la Constitución y las leyes. El reglamento es la norma jurídica de rango inferior a la ley dictada por la Administración; los reglamentos no pueden vulnerar la Constitución ni las leyes (principio de jerarquía normativa, art. 9.3 CE).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 128 a 133 Ley 39/2015 (referencia)",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Otras disposiciones generales: junto al reglamento, la Administración dicta circulares e instrucciones, que no tienen naturaleza normativa sino que dirigen la actividad de los órganos jerárquicamente dependientes. La elaboración de reglamentos exige el procedimiento de los arts. 128 a 133 de la Ley 39/2015 (consulta pública, audiencia e información pública y evaluación normativa).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": 3,
+  "titulo": "Sometimiento de la Administración a la ley y al Derecho: fuentes, ley, disposiciones con rango de ley y reglamento"
+}

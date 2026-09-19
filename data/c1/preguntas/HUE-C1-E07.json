@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derecho reconoce el artículo 14.c) del Estatuto Básico del Empleado Público en materia de carrera?",
+    "explicacion": "El artículo 14.c) del Real Decreto Legislativo 5/2015 reconoce el derecho individual a la progresión en la carrera profesional y a la promoción interna según los principios de igualdad, mérito y capacidad.",
+    "id": "HUE-C1-E07-001",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a la progresión en la carrera profesional y a la promoción interna según principios constitucionales de igualdad, mérito y capacidad mediante la implantación de sistemas objetivos y transparentes de evaluación.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué modalidades de carrera profesional y promoción interna contempla el artículo 16.3 del Estatuto Básico del Empleado Público?",
+    "explicacion": "El artículo 16.3 del Real Decreto Legislativo 5/2015 distingue la carrera horizontal, la carrera vertical, la promoción interna vertical y la promoción interna horizontal.",
+    "id": "HUE-C1-E07-002",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La carrera horizontal, la carrera vertical, la promoción interna vertical y la promoción interna horizontal.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿En qué consiste la carrera horizontal de los funcionarios?",
+    "explicacion": "El artículo 17 del Real Decreto Legislativo 5/2015 define la carrera horizontal como la progresión de grado, categoría o escalón sin necesidad de cambiar de puesto de trabajo.",
+    "id": "HUE-C1-E07-003",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En la progresión de grado, categoría o escalón sin necesidad de cambiar de puesto de trabajo, conforme a lo establecido en las leyes de función pública.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿En qué consiste la promoción interna vertical?",
+    "explicacion": "El artículo 16.3.c) del Real Decreto Legislativo 5/2015 define la promoción interna vertical como el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación en el supuesto de que no exista subgrupo, a otro superior.",
+    "id": "HUE-C1-E07-004",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el ascenso desde un cuerpo o escala de un subgrupo, o grupo de clasificación en el supuesto de que no exista subgrupo, a otro superior.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿En qué consiste la promoción interna horizontal?",
+    "explicacion": "El artículo 16.3.d) del Real Decreto Legislativo 5/2015 define la promoción interna horizontal como el acceso a cuerpos o escalas del mismo subgrupo profesional.",
+    "id": "HUE-C1-E07-005",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el acceso a cuerpos o escalas del mismo subgrupo profesional, de acuerdo con lo que dispongan las leyes de función pública.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿Están obligadas las Administraciones Públicas a establecer sistemas de evaluación del desempeño?",
+    "explicacion": "El artículo 20.1 del Real Decreto Legislativo 5/2015 obliga a las Administraciones Públicas a establecer sistemas que permitan la evaluación del desempeño de sus empleados.",
+    "id": "HUE-C1-E07-006",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí; las Administraciones Públicas establecerán sistemas que permitan la evaluación del desempeño de sus empleados.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿A qué criterios deben adecuarse los sistemas de evaluación del desempeño?",
+    "explicacion": "El artículo 20.2 del Real Decreto Legislativo 5/2015 exige que la evaluación se adecue a los criterios de transparencia, objetividad, imparcialidad y no discriminación.",
+    "id": "HUE-C1-E07-007",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A criterios de transparencia, objetividad, imparcialidad y no discriminación.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿Qué efectos tiene la evaluación del desempeño según el Estatuto Básico del Empleado Público?",
+    "explicacion": "El artículo 20.3 del Real Decreto Legislativo 5/2015 vincula la evaluación a la carrera profesional horizontal, la formación, la provisión de puestos y la percepción de retribuciones complementarias.",
+    "id": "HUE-C1-E07-008",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La evaluación del desempeño tendrá efectos en la carrera profesional horizontal, la formación, la provisión de puestos de trabajo y la percepción de las retribuciones complementarias previstas.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el principio general de la Ley 53/1984, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "explicacion": "El artículo 1.3 de la Ley 53/1984 establece que el desempeño de un puesto público es incompatible con cualquier cargo, profesión o actividad que impida o menoscabe el cumplimiento de los deberes o comprometa la imparcialidad.",
+    "id": "HUE-C1-E07-009",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que el desempeño de un puesto de trabajo en el sector público será incompatible con el ejercicio de cualquier cargo, profesión o actividad, público o privado, que pueda impedir o menoscabar el estricto cumplimiento de sus deberes o comprometer su imparcialidad o independencia.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Cuántos puestos de trabajo en el sector público puede desempeñar un empleado público?",
+    "explicacion": "El artículo 3.1 de la Ley 53/1984 establece como regla general el desempeño de un solo puesto de trabajo en el sector público, salvo las excepciones de compatibilidad autorizada.",
+    "id": "HUE-C1-E07-010",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Uno solo, salvo en los supuestos de compatibilidad expresamente autorizados por la Ley 53/1984.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Puede autorizarse la compatibilidad para un segundo puesto en el sector público?",
+    "explicacion": "El artículo 3.1 de la Ley 53/1984 exige autorización previa y expresa de compatibilidad para el ejercicio de la segunda actividad, sin que suponga modificación de la jornada de trabajo y horario de los dos puestos y condicionada a su estricto cumplimiento en ambos.",
+    "id": "HUE-C1-E07-011",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, podrá autorizarse cuando no se supere la jornada de trabajo, se entienda cumplido el horario del primer puesto y no exista incompatibilidad de horarios, entre otros requisitos legales.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué actividades privadas son incompatibles para el personal al servicio de las Administraciones Públicas según el artículo 11 de la Ley 53/1984?",
+    "explicacion": "El artículo 11.1 de la Ley 53/1984 prohíbe las actividades privadas, por cuenta propia o ajena, que se relacionen directamente con las del departamento u organismo de destino.",
+    "id": "HUE-C1-E07-012",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las actividades privadas, incluidas las de carácter profesional, sean por cuenta propia o bajo la dependencia o al servicio de entidades o particulares, que se relacionen directamente con las que desarrolle el departamento, organismo o entidad donde el empleado estuviera destinado.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Puede un empleado público desempeñar un cargo en una empresa contratista de su ayuntamiento?",
+    "explicacion": "El artículo 12.1.c) de la Ley 53/1984 prohíbe el desempeño de cargos en empresas concesionarias, contratistas de obras, servicios o suministros, o con participación del sector público.",
+    "id": "HUE-C1-E07-013",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; es incompatible el desempeño, por sí o por persona interpuesta, de cargos de todo orden en empresas o sociedades concesionarias, contratistas de obras, servicios o suministros, arrendatarias o administradoras de monopolios, o con participación o aval del sector público.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué establece el artículo 16 de la Ley 53/1984 sobre la compatibilidad del personal que percibe complemento específico?",
+    "explicacion": "El artículo 16.1 de la Ley 53/1984 impide autorizar o reconocer compatibilidad cuando las retribuciones complementarias del artículo 24.b) del Real Decreto Legislativo 5/2015 incluyan el factor de incompatibilidad, y el artículo 16.4 permite, por excepción, reconocer la compatibilidad para el ejercicio de actividades privadas si el complemento específico no supera el 30 por 100 de la retribución básica, excluidos los conceptos de antigüedad.",
+    "id": "HUE-C1-E07-014",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No puede autorizarse ni reconocerse compatibilidad al personal funcionario, eventual y laboral cuando sus retribuciones complementarias del artículo 24.b) del Estatuto Básico del Empleado Público incluyan el factor de incompatibilidad; por excepción, puede reconocerse compatibilidad para el ejercicio de actividades privadas cuando el complemento específico, o concepto equiparable, no supere el 30 por 100 de la retribución básica, excluidos los conceptos que tengan su origen en la antigüedad.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Qué órgano autoriza o deniega la compatibilidad del personal al servicio de una corporación local?",
+    "explicacion": "El artículo 9 de la Ley 53/1984 atribuye al Pleno de la Corporación Local la autorización o denegación de compatibilidades de su personal.",
+    "id": "HUE-C1-E07-015",
+    "ley": "Ley 53/1984",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Pleno de la Corporación Local.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 95.2.n)",
+    "enunciado": "¿Cómo se califica el incumplimiento de las normas sobre incompatibilidades según el Estatuto Básico del Empleado Público?",
+    "explicacion": "El artículo 95.2.n) del Real Decreto Legislativo 5/2015 califica como falta muy grave el incumplimiento de las normas sobre incompatibilidades cuando dé lugar a una situación de incompatibilidad.",
+    "id": "HUE-C1-E07-016",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Como falta muy grave.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Cuándo tienen los particulares derecho a ser indemnizados por las Administraciones Públicas?",
+    "explicacion": "El artículo 32.1 de la Ley 40/2015 reconoce el derecho a indemnización por lesiones consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo fuerza mayor o deber jurídico de soportar.",
+    "id": "HUE-C1-E07-017",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando sufran una lesión en cualquiera de sus bienes y derechos como consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 34",
+    "enunciado": "¿Con referencia a qué fecha se calcula la cuantía de la indemnización por responsabilidad patrimonial?",
+    "explicacion": "El artículo 34.3 de la Ley 40/2015 fija el cálculo con referencia al día en que la lesión se produjo, con actualización al Índice de Garantía de la Competitividad.",
+    "id": "HUE-C1-E07-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con referencia al día en que la lesión efectivamente se produjo, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento con arreglo al Índice de Garantía de la Competitividad.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Cuándo puede la Administración exigir responsabilidad patrimonial a sus autoridades y empleados?",
+    "explicacion": "El artículo 36.2 de la Ley 40/2015 permite exigir de oficio en vía administrativa las indemnizaciones satisfechas cuando hubieran incurrido en dolo o culpa o negligencia graves, ponderando las circunstancias.",
+    "id": "HUE-C1-E07-019",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando hubieren incurrido en dolo, o culpa o negligencia graves; para exigirla se ponderarán el resultado dañoso producido, la existencia o no de intencionalidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso.",
+    "tema": "E07",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 404",
+    "enunciado": "¿Qué pena corresponde a la autoridad o funcionario que dicte a sabiendas una resolución arbitraria en un asunto administrativo?",
+    "explicacion": "El artículo 404 del Código Penal (Ley Orgánica 10/1995) castiga la prevaricación administrativa con inhabilitación especial para empleo o cargo público y para el sufragio pasivo de nueve a quince años.",
+    "id": "HUE-C1-E07-020",
+    "ley": "Ley Orgánica 10/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La pena de inhabilitación especial para empleo o cargo público y para el ejercicio del derecho de sufragio pasivo por tiempo de nueve a quince años.",
+    "tema": "E07",
+    "verificado_corpus": true
+  }
+]

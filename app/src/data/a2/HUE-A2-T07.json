@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el principio de suficiencia financiera de las Haciendas locales y su fundamento constitucional (arts. 133.2 y 142 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la enumeración de los recursos de las entidades locales (art. 2.1 TRLHL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los impuestos municipales obligatorios y potestativos (art. 59 TRLHL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las tasas, las contribuciones especiales y los precios públicos (arts. 20, 28 y 41 TRLHL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los recursos de las provincias, con especial referencia al recargo provincial sobre el IAE (arts. 158 y 159 TRLHL)."
+  ],
+  "id": "HUE-A2-T07",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 142",
+      "ley": "Constitución Española de 1978",
+      "punto": "Principio de suficiencia financiera: las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 133.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Potestad tributaria local: las Comunidades Autónomas y las Corporaciones locales podrán establecer y exigir tributos, de acuerdo con la Constitución y las leyes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2.1",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Recursos de las entidades locales: la hacienda de las entidades locales estará constituida por los siguientes recursos: a) los ingresos procedentes de su patrimonio y demás de derecho privado; b) los tributos propios clasificados en tasas, contribuciones especiales e impuestos y los recargos exigibles sobre los impuestos de las Comunidades Autónomas o de otras entidades locales; c) las participaciones en los tributos del Estado y de las Comunidades Autónomas; d) las subvenciones; e) los percibidos en concepto de precios públicos; f) el producto de las operaciones de crédito; g) el producto de las multas y sanciones en el ámbito de sus competencias; h) las demás prestaciones de derecho público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 59",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Impuestos municipales: los Ayuntamientos exigirán, de acuerdo con esta ley y las disposiciones que la desarrollan, los siguientes impuestos: a) Impuesto sobre Bienes Inmuebles; b) Impuesto sobre Actividades Económicas; c) Impuesto sobre Vehículos de Tracción Mecánica, que tienen carácter obligatorio (art. 59.1). Asimismo, los Ayuntamientos podrán establecer y exigir el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, de carácter potestativo (art. 59.2).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 20.1",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Tasas: las entidades locales podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 28",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Contribuciones especiales: constituye el hecho imponible de las contribuciones especiales la obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos, de carácter local, por las entidades respectivas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 41",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Precios públicos: las entidades locales podrán establecer precios públicos por la prestación de servicios o la realización de actividades de la competencia de la entidad local, siempre que no concurra ninguna de las circunstancias especificadas en el artículo 20.1.B) de esta ley (es decir, cuando no sean de solicitud o recepción obligatoria ni imprescindibles para la vida privada o social del solicitante y puedan ser prestados también por el sector privado).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 111, 112, 118, 119 y 122 a 124",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Participación de los municipios en los tributos del Estado: los municipios que sean capitales de provincia o de comunidad autónoma, o tengan población de derecho igual o superior a 75.000 habitantes (art. 111), participan en la recaudación de los impuestos estatales mediante la cesión de un porcentaje del IRPF, del IVA y de los impuestos especiales sobre la cerveza, el vino, productos intermedios, alcohol, hidrocarburos y labores del tabaco (art. 112), así como en el Fondo Complementario de Financiación (arts. 118 y 119); los municipios no incluidos en el ámbito del art. 111 participan con arreglo al modelo de los arts. 122 a 124.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 158 y 159",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Recursos de las provincias: la hacienda de las provincias se nutre, además de los recursos generales del artículo 2, del recargo provincial sobre las cuotas mínimas del Impuesto sobre Actividades Económicas, que podrán establecer las Diputaciones Provinciales (art. 159), de las participaciones en los tributos del Estado y de las subvenciones.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 15 a 19",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Ordenanzas fiscales: las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos (art. 15); la elaboración, publicación y publicidad de las ordenanzas se somete a información pública y aprobación definitiva (art. 17); contra los actos de aprobación definitiva de las ordenanzas fiscales los interesados podrán interponer recurso contencioso-administrativo (art. 19).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": 7,
+  "titulo": "Haciendas locales: recursos de los municipios y de las provincias."
+}

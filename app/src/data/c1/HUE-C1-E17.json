@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 112.1",
+    "enunciado": "¿Contra qué actos administrativos pueden interponerse los recursos de alzada y de reposición?",
+    "explicacion": "El art. 112.1 delimita los actos recurribles: las resoluciones y los actos de trámite cualificados (los que deciden el fondo, impiden continuar, causan indefensión o perjuicio irreparable). Contra los demás actos de trámite solo cabe alegación u oposición.",
+    "id": "HUE-C1-E17-001",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Contra las resoluciones y los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.",
+    "tema": "E17",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 112.2",
+    "enunciado": "¿Qué clases de recursos administrativos prevé la Ley 39/2015 contra los actos administrativos?",
+    "explicacion": "El art. 112.2 enumera las tres clases de recursos: alzada, potestativo de reposición y extraordinario de revisión. Contra las disposiciones administrativas de carácter general no cabe recurso en vía administrativa.",
+    "id": "HUE-C1-E17-002",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El recurso de alzada, el recurso potestativo de reposición y el recurso extraordinario de revisión.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 112.3",
+    "enunciado": "¿Pueden las leyes sustituir el recurso de alzada por otros procedimientos de impugnación?",
+    "explicacion": "El art. 112.3 permite esa sustitución legal, siempre con respeto a los principios, garantías y plazos que la Ley reconoce a las personas y a los interesados en todo procedimiento administrativo.",
+    "id": "HUE-C1-E17-003",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia lo justifique, por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o comisiones específicas no sometidas a instrucciones jerárquicas.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 114.1",
+    "enunciado": "¿La resolución de un recurso de alzada pone fin a la vía administrativa?",
+    "explicacion": "El art. 114.1 enumera los actos que agotan la vía administrativa: las resoluciones de los recursos de alzada, las de órganos sin superior jerárquico (salvo que la ley establezca lo contrario), los acuerdos del Consejo de Ministros y de los Consejos de Gobierno autonómicos, entre otros.",
+    "id": "HUE-C1-E17-004",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, según el art. 114.1.a) de la Ley 39/2015.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 121",
+    "enunciado": "¿Qué actos pueden recurrirse en alzada y ante qué órgano se interpone el recurso?",
+    "explicacion": "El art. 121.1 define el objeto del recurso de alzada: actos que no agotan la vía, impugnados ante el superior jerárquico. El recurso puede interponerse ante el órgano que dictó el acto o ante el competente para resolverlo.",
+    "id": "HUE-C1-E17-005",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las resoluciones y actos del art. 112.1 que no pongan fin a la vía administrativa, ante el órgano superior jerárquico del que los dictó.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 122",
+    "enunciado": "¿Cuál es el plazo para interponer el recurso de alzada?",
+    "explicacion": "Art. 122.1 y 122.2: un mes para actos expresos (transcurrido el cual la resolución es firme) y plazo abierto para actos presuntos, contado desde la producción de los efectos del silencio.",
+    "id": "HUE-C1-E17-006",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un mes si el acto es expreso; si el acto no es expreso, en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+    "tema": "E17",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 122",
+    "enunciado": "¿En qué plazo debe dictarse y notificarse la resolución del recurso de alzada y qué ocurre si no se resuelve?",
+    "explicacion": "Art. 122.3: tres meses para dictar y notificar la resolución del recurso de alzada; el silencio es desestimatorio, con la excepción prevista para el caso del art. 24.1, tercer párrafo.",
+    "id": "HUE-C1-E17-007",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El plazo máximo es de tres meses; transcurrido sin resolución, el recurso se entiende desestimado, salvo en el supuesto del art. 24.1, tercer párrafo.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 122",
+    "enunciado": "¿Cabe algún recurso administrativo contra la resolución de un recurso de alzada?",
+    "explicacion": "Art. 122.4: contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión.",
+    "id": "HUE-C1-E17-008",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No, salvo el recurso extraordinario de revisión en los casos establecidos en el art. 125.1.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 123",
+    "enunciado": "¿Qué actos pueden recurrirse potestativamente en reposición y ante quién?",
+    "explicacion": "Art. 123.1: el recurso de reposición es potestativo y se interpone ante el mismo órgano que dictó el acto que agota la vía, sin perjuicio de acudir directamente a la vía contencioso-administrativa.",
+    "id": "HUE-C1-E17-009",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los actos administrativos que pongan fin a la vía administrativa, ante el mismo órgano que los dictó; alternativamente pueden impugnarse directamente ante el orden jurisdiccional contencioso-administrativo.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 123",
+    "enunciado": "Interpuesto un recurso de reposición, ¿puede el interesado acudir directamente a la vía contencioso-administrativa sin esperar su resolución?",
+    "explicacion": "Art. 123.2: la interposición del recurso potestativo de reposición bloquea el acceso a la vía contenciosa hasta su resolución expresa o presunta.",
+    "id": "HUE-C1-E17-010",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: no podrá interponerse recurso contencioso-administrativo hasta que el recurso de reposición sea resuelto expresamente o se haya producido su desestimación presunta.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 124",
+    "enunciado": "¿Cuál es el plazo para interponer el recurso de reposición?",
+    "explicacion": "Art. 124.1 y 124.2: un mes para actos expresos y plazo abierto para actos presuntos, con la consecuencia de firmeza a efectos administrativos transcurrido el mes.",
+    "id": "HUE-C1-E17-011",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un mes si el acto es expreso; si el acto no es expreso, en cualquier momento a partir del día siguiente a la producción del acto presunto. Transcurrido el mes sin interponerlo, solo cabe el recurso contencioso-administrativo, sin perjuicio del extraordinario de revisión.",
+    "tema": "E17",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 124",
+    "enunciado": "¿En qué plazo se resuelve el recurso de reposición y cuál es el efecto del silencio?",
+    "explicacion": "Art. 124.2 (en relación con el art. 123.2): un mes para resolver el recurso de reposición, con silencio desestimatorio.",
+    "id": "HUE-C1-E17-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El plazo máximo para dictar y notificar la resolución es de un mes; transcurrido sin resolución, el recurso se entiende desestimado.",
+    "tema": "E17",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 125",
+    "enunciado": "¿En qué casos procede el recurso extraordinario de revisión?",
+    "explicacion": "El art. 125.1 enumera taxativamente los cuatro motivos del recurso extraordinario de revisión, que procede contra actos firmes en vía administrativa.",
+    "id": "HUE-C1-E17-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "a) Error de hecho que resulte de los propios documentos incorporados al expediente; b) aparición de documentos de valor esencial, aunque sean posteriores, que evidencien el error de la resolución; c) que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme; d) que la resolución se dictase por prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible declarada por sentencia judicial firme.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 125",
+    "enunciado": "¿Cuáles son los plazos para interponer el recurso extraordinario de revisión?",
+    "explicacion": "Art. 125.2: plazo de cuatro años para la causa de error de hecho (letra a) y de tres meses para las restantes causas (letras b, c y d).",
+    "id": "HUE-C1-E17-014",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuatro años desde la notificación de la resolución impugnada cuando se funde en error de hecho; tres meses en los demás casos, contados desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 115",
+    "enunciado": "¿Impide la tramitación del recurso que el recurrente se equivoque al calificar el tipo de recurso interpuesto?",
+    "explicacion": "Art. 115.2: prima el contenido real del escrito sobre la denominación que le dé el recurrente; el órgano debe tramitarlo según su verdadero carácter.",
+    "id": "HUE-C1-E17-015",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: el error o la ausencia de calificación del recurso no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 116",
+    "enunciado": "Cite tres causas de inadmisión de un recurso administrativo.",
+    "explicacion": "El art. 116 enumera las causas de inadmisión, que permiten al órgano resolver sin entrar en el fondo del asunto.",
+    "id": "HUE-C1-E17-016",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La falta de legitimación del recurrente, que el acto impugnado no sea susceptible de recurso y la interposición fuera de plazo (también son causas la incompetencia manifiesta del órgano y la carencia manifiesta de fundamento).",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 117",
+    "enunciado": "¿Suspende la ejecución del acto impugnado la interposición de un recurso administrativo?",
+    "explicacion": "Art. 117.1 y 117.2: la interposición no suspende por sí misma; la suspensión es una medida potestativa y motivada ante perjuicios irreparables o nulidad radical.",
+    "id": "HUE-C1-E17-017",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No, salvo que una disposición establezca lo contrario; no obstante, el órgano competente podrá suspenderla cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o cuando la impugnación se fundamente en causa de nulidad de pleno derecho del art. 47.1.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 118",
+    "enunciado": "Cuando en el recurso hayan de tenerse en cuenta hechos o documentos no recogidos en el expediente originario, ¿qué trámite de audiencia se concede a los interesados?",
+    "explicacion": "Art. 118.1: la audiencia en el procedimiento de recurso es obligatoria cuando se valoran hechos, alegaciones o pruebas distintos de los aducidos por los interesados; el plazo es de diez a quince días.",
+    "id": "HUE-C1-E17-018",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se les pone de manifiesto el expediente por un plazo no inferior a diez días ni superior a quince, para formular alegaciones y presentar documentos.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 225",
+    "enunciado": "En materia tributaria, ¿suspende la ejecución del acto impugnado la interposición del recurso de reposición previo a la reclamación económico-administrativa?",
+    "explicacion": "Art. 225.1 de la Ley General Tributaria: el recurso de reposición tributario, potestativo y previo a la reclamación económico-administrativa, no tiene efecto suspensivo automático.",
+    "id": "HUE-C1-E17-019",
+    "ley": "Ley 58/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: la interposición del recurso de reposición no suspenderá la ejecución del acto impugnado, con las consecuencias legales consiguientes, salvo los supuestos previstos legalmente.",
+    "tema": "E17",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 235",
+    "enunciado": "¿Cuál es el plazo para interponer la reclamación económico-administrativa?",
+    "explicacion": "Art. 235.1 LGT: plazo de un mes para la reclamación económico-administrativa, que se interpone ante el Tribunal Económico-Administrativo competente.",
+    "id": "HUE-C1-E17-020",
+    "ley": "Ley 58/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un mes, contado desde el día siguiente al de la notificación del acto impugnado, o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+    "tema": "E17",
+    "verificado_corpus": false
+  }
+]

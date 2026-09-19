@@ -1,0 +1,82 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la obligación de defensa del patrimonio local (art. 9 RBEL) y la protección constitucional de la demanialidad (art. 132 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar y describir las cuatro prerrogativas del art. 44 RBEL (investigación, deslinde, recuperación de oficio y desahucio administrativo).",
+    "Puedo desarrollar este tema por escrito en 2 horas: detallar el procedimiento de investigación de bienes (arts. 45-46 RBEL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el contenido y la rectificación del inventario de bienes locales (arts. 17-36 RBEL) y su inscripción registral (art. 36)."
+  ],
+  "id": "HUE-A2-E16",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 9.2 y 9.3",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Conservación y defensa: las entidades locales tienen la obligación de ejercer las acciones necesarias para la defensa de sus bienes y derechos; los acuerdos para el ejercicio de acciones se adoptan previo dictamen del secretario, de la asesoría jurídica o, en su defecto, de un letrado (art. 9.3).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 9.1",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Las entidades locales tienen capacidad jurídica plena para adquirir y poseer bienes de todas las clases y para ejercitar las acciones y recursos procedentes en defensa de su patrimonio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 132.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Protección reforzada de la demanialidad: los bienes de dominio público son inalienables, imprescriptibles e inembargables; su defensa no depende solo de la acción de la entidad titular, sino de un estatuto constitucional indisponible.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Prerrogativas de los entes locales respecto a sus bienes: corresponden a los municipios, provincias e islas, en todo caso, y a las demás entidades locales de carácter territorial si así lo prevén las leyes autonómicas: a) potestad de investigación, b) potestad de deslinde, c) potestad de recuperación de oficio y d) potestad de desahucio administrativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 45-46",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Potestad de investigación: faculta a la corporación para investigar la situación de los bienes y derechos que se presuman de su propiedad cuando esta no conste, a fin de determinar su titularidad; puede acordarse de oficio o por denuncia de los particulares.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Potestad de deslinde: permite a la entidad local delimitar administrativamente sus bienes demaniales frente a los colindantes, con un procedimiento contradictorio y efectos frente a los poseedores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Potestad de recuperación de oficio: la corporación puede recobrar por sí misma, en vía administrativa y sin acudir a los tribunales, la posesión de sus bienes indebidamente perdida, en cualquier tiempo si son demaniales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Potestad de desahucio administrativo: permite desalojar en vía administrativa a los ocupantes de bienes demaniales que carezcan de título o cuyo título se haya extinguido.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44.2",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Para la defensa de su patrimonio y para asegurar su adecuada utilización, las corporaciones locales también pueden establecer e imponer sanciones de acuerdo con lo previsto en la normativa sectorial aplicable.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 17-36",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Inventario de bienes locales: las corporaciones están obligadas a formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición (art. 17); se estructura en epígrafes (inmuebles, derechos reales, muebles de carácter histórico-artístico, valores mobiliarios, vehículos, semovientes, muebles, bienes y derechos revertibles) y se rectifica anualmente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Las corporaciones locales deben inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria, como instrumento de defensa y publicidad de su patrimonio.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E16",
+  "titulo": "Conservación y defensa de los bienes locales. Prerrogativas de los entes locales respecto a sus bienes. El inventario de bienes locales"
+}

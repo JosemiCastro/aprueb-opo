@@ -1,0 +1,65 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la imposición y ordenación de los tributos locales: el acuerdo de imposición.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las ordenanzas fiscales: contenido mínimo y procedimiento de elaboración.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la publicación, entrada en vigor e impugnación de las ordenanzas fiscales.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el sistema de tributos locales: impuestos obligatorios y potestativos, tasas y contribuciones especiales.",
+    "Puedo citar con precisión los artículos 15, 16, 17, 18, 19, 20, 28 y 59 del Texto Refundido de la Ley Reguladora de las Haciendas Locales."
+  ],
+  "id": "HUE-A2-E41",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 15",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Imposición y ordenación de los tributos locales: salvo en los supuestos de impuestos de exacción obligatoria en que la imposición viene establecida por la ley, las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 16",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Contenido de las ordenanzas fiscales: las ordenanzas reguladoras de los impuestos contendrán, como mínimo, la determinación del hecho imponible, sujeto pasivo, responsables, exenciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota, período impositivo y devengo, y regímenes de declaración y de ingreso.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 17",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Procedimiento de elaboración: los acuerdos provisionales de imposición y las ordenanzas fiscales se expondrán en el tablón de anuncios y se publicarán en el boletín oficial durante treinta días como mínimo para examen y reclamaciones; resueltas estas, se adoptará el acuerdo definitivo o, en caso de no haberse presentado reclamaciones, el acuerdo provisional se entenderá definitivamente adoptado. Las ordenanzas se publicarán íntegramente en el boletín oficial y entrarán en vigor desde su publicación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 18",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Interesados y reclamaciones: tendrán la consideración de interesados quienes tengan un interés directo o resulten afectados por los acuerdos; las entidades locales facilitarán el acceso a los expedientes para formular reclamaciones durante el período de exposición pública.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 19",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Impugnación: contra los actos de imposición y ordenación de los tributos locales solo cabrá el recurso contencioso-administrativo, que podrá interponerse a partir de la publicación en el boletín oficial; no procederá reclamación económico-administrativa ni recurso de reposición contra estos actos normativos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 59",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Impuestos locales: los ayuntamientos exigirán los impuestos sobre Bienes Inmuebles, sobre Actividades Económicas y sobre Vehículos de Tracción Mecánica (de exacción obligatoria), y podrán establecer y exigir el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana (potestativos).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 20",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Tasas: las entidades locales podrán establecer tasas por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 28",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Contribuciones especiales: constituyen el hecho imponible la obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos de carácter local; la base imponible no podrá exceder del 90 por ciento del coste soportado por la entidad.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E41",
+  "titulo": "Imposición y ordenación de los tributos locales. Las ordenanzas fiscales: contenido, procedimiento de elaboración e impugnación."
+}

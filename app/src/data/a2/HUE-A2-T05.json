@@ -1,0 +1,89 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el fundamento constitucional del Estado autonómico y las vías de acceso a la autonomía (arts. 2, 143, 144 y 151 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los Estatutos de Autonomía como norma institucional básica y su contenido mínimo (art. 147 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el régimen de competencias entre el Estado y las Comunidades Autónomas (arts. 148, 149 y 150 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las relaciones entre el Estado y las Comunidades Autónomas: control, Delegado del Gobierno y cumplimiento forzoso (arts. 152 a 155 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los conflictos de competencias y su resolución ante el Tribunal Constitucional (arts. 161 y 163 CE)."
+  ],
+  "id": "HUE-A2-T05",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Fundamento del Estado autonómico: la Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 143",
+      "ley": "Constitución Española de 1978",
+      "punto": "Vía lenta u ordinaria de acceso a la autonomía: podrán acceder al autogobierno las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica. La iniciativa corresponde a las Diputaciones interesadas u órgano interinsular y a las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 151 y disposición transitoria segunda",
+      "ley": "Constitución Española de 1978",
+      "punto": "Vía rápida: no será preciso dejar transcurrir el plazo de cinco años del art. 148.2 cuando la iniciativa autonómica sea acordada, además de por las Diputaciones o los órganos interinsulares correspondientes, por las tres cuartas partes de los municipios de cada una de las provincias afectadas que representen, al menos, la mayoría del censo electoral de cada una de ellas y dicha iniciativa sea ratificada mediante referéndum por el voto afirmativo de la mayoría absoluta de los electores de cada provincia. La disposición transitoria segunda permitió el acceso directo por esta vía a los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de Autonomía.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 144",
+      "ley": "Constitución Española de 1978",
+      "punto": "Intervención de las Cortes Generales por motivos de interés nacional: podrán autorizar la constitución de una Comunidad Autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143.1; autorizar o acordar un Estatuto de Autonomía para territorios que no estén integrados en la organización provincial; y sustituir la iniciativa de las Corporaciones locales a que se refiere el art. 143.2.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 147",
+      "ley": "Constitución Española de 1978",
+      "punto": "Los Estatutos de Autonomía: serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico (art. 147.1). Contenido mínimo: la denominación de la Comunidad; la delimitación de su territorio; la denominación, organización y sede de las instituciones autónomas propias; y las competencias asumidas dentro del marco de la Constitución y las bases para el traspaso de los servicios correspondientes (art. 147.2).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 148",
+      "ley": "Constitución Española de 1978",
+      "punto": "Competencias asumibles por la vía del art. 143: las Comunidades Autónomas podrán asumir competencias en materias como la organización de sus instituciones de autogobierno, las alteraciones de los términos municipales, la ordenación del territorio, las obras públicas de interés autonómico, los ferrocarriles y carreteras de su territorio, la agricultura y ganadería, los montes y aprovechamientos forestales, la gestión ambiental, los proyectos de construcción y explotación de aprovechamientos hidráulicos de interés autonómico, la pesca en aguas interiores, las ferias interiores, el fomento del desarrollo económico, la artesanía, los museos y bibliotecas de interés autonómico, el deporte y el ocio, la asistencia social, la sanidad e higiene, entre otras. Transcurridos cinco años, y mediante la reforma de sus Estatutos, podrán ampliar sucesivamente sus competencias dentro del marco del art. 149 (art. 148.2).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 149.1 y 149.3",
+      "ley": "Constitución Española de 1978",
+      "punto": "Competencias exclusivas del Estado (art. 149.1): nacionalidad, inmigración y extranjería; relaciones internacionales; defensa y Fuerzas Armadas; Administración de Justicia; legislación mercantil, penal y penitenciaria; legislación laboral; legislación civil (sin perjuicio de los derechos forales); bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios; procedimiento administrativo común; legislación básica sobre contratos y concesiones administrativas; sistema monetario; Hacienda general y Deuda del Estado; fomento y coordinación de la investigación científica y técnica; sanidad exterior; bases y coordinación general de la sanidad; legislación sobre productos farmacéuticos; seguridad pública; entre otras. Cláusulas de cierre (art. 149.3): las materias no atribuidas expresamente al Estado por la Constitución podrán corresponder a las Comunidades Autónomas en virtud de sus respectivos Estatutos; la competencia sobre las materias que no se hayan asumido por los Estatutos corresponderá al Estado; las normas del Estado prevalecerán, en caso de conflicto, sobre las de las Comunidades Autónomas en todo lo que no esté atribuido a la exclusiva competencia de éstas; el Derecho estatal será, en todo caso, supletorio del Derecho de las Comunidades Autónomas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 150",
+      "ley": "Constitución Española de 1978",
+      "punto": "Técnicas de atribución y armonización: las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal (leyes marco, art. 150.1); el Estado podrá transferir o delegar en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materias de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación (art. 150.2); y el Estado podrá dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas, aun en el caso de materias atribuidas a la competencia de éstas, cuando así lo exija el interés general, requiriéndose mayoría absoluta de cada Cámara (leyes de armonización, art. 150.3).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 152.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Organización institucional de las Comunidades Autónomas constituidas por la vía del art. 151: se basará en una Asamblea legislativa elegida por sufragio universal con arreglo a un sistema de representación proporcional que asegure, además, la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas y un Presidente, elegido por la Asamblea de entre sus miembros, y nombrado por el Rey, al que corresponde la dirección del Consejo de Gobierno, la suprema representación de la respectiva Comunidad y la ordinaria del Estado en aquélla.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 154",
+      "ley": "Constitución Española de 1978",
+      "punto": "Delegado del Gobierno: un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 155",
+      "ley": "Constitución Española de 1978",
+      "punto": "Cumplimiento forzoso: si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, o actuare de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en el caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso de dichas obligaciones o para la protección del mencionado interés general.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 161 y 163",
+      "ley": "Constitución Española de 1978",
+      "punto": "Conflictos de competencias: el Tribunal Constitucional conocerá de los conflictos de competencia entre el Estado y las Comunidades Autónomas o de éstas entre sí (art. 161.1.c). El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas, produciendo la impugnación la suspensión de la disposición o resolución recurrida, debiendo el Tribunal ratificarla o levantarla en un plazo no superior a cinco meses (art. 161.2). Están legitimados para plantear conflictos: el Gobierno, cincuenta Diputados, cincuenta Senadores y los órganos colegiados ejecutivos de las Comunidades Autónomas (art. 162, en relación con el art. 163).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": 5,
+  "titulo": "La organización territorial del Estado en la Constitución: las Comunidades Autónomas, vías de acceso a la autonomía. Los Estatutos de Autonomía. Régimen de competencias. Relación entre el Estado y las Comunidades Autónomas."
+}

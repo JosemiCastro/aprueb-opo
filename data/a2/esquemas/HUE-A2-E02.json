@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto de administrado y sus clases (arts. 3.c y 4 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la capacidad de obrar del administrado y sus causas modificativas (art. 3 Ley 39/2015 y normas civiles).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la representación del administrado ante la Administración (art. 5 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las situaciones jurídicas del administrado: activas y pasivas.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos subjetivos y los intereses legítimos: concepto y diferencias, y su reflejo en la legitimación (art. 4)."
+  ],
+  "id": "HUE-A2-E02",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Concepto de administrado: es la persona física o jurídica en su relación con la Administración Pública, titular de situaciones jurídicas subjetivas frente a ella. Cuando interviene en un procedimiento administrativo concreto, la Ley 39/2015 lo denomina interesado (art. 4): titulares de derechos o intereses legítimos individuales o colectivos; quienes tengan derechos que puedan resultar afectados por la decisión; y quienes, teniendo intereses legítimos afectados, se personen antes de la resolución definitiva.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 3.c) y 4",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Clases de administrados: por su posición en el procedimiento, interesados necesarios (promueven el procedimiento o tienen derechos afectados) e interesados voluntarios o simples (se personan por tener intereses legítimos afectados); por su naturaleza, personas físicas, personas jurídicas y, cuando la ley lo declare expresamente, grupos de afectados, uniones y entidades sin personalidad jurídica y patrimonios independientes o autónomos (art. 3.c).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Capacidad del administrado: tendrán capacidad de obrar ante las Administraciones Públicas las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles; los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de quien ejerza la patria potestad, tutela o curatela; y los grupos, uniones sin personalidad jurídica y patrimonios independientes cuando la ley lo declare expresamente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3.a)",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Causas modificativas de la capacidad: la capacidad de obrar ante la Administración se rige por las normas civiles, por lo que la modifican la minoría de edad (se actúa por medio de los titulares de la patria potestad, tutela o curatela, salvo los derechos que el menor pueda ejercitar por sí mismo conforme al art. 3.b), la incapacitación judicial con el alcance fijado en la sentencia, y las situaciones de prodigalidad en los términos establecidos por la ley civil.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 5",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Representación: los interesados con capacidad de obrar podrán actuar por medio de representante. La representación deberá acreditarse para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona. Las Administraciones Públicas dispondrán de registros electrónicos generales y particulares de apoderamientos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Situaciones jurídicas del administrado: pueden ser activas, cuando otorgan al administrado una posición de ventaja o poder frente a la Administración (derechos subjetivos, intereses legítimos y expectativas de derecho), o pasivas, cuando le imponen una posición de desventaja o deber (obligaciones, deberes públicos, sujeciones especiales y cargas).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4.1.a)",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Derechos subjetivos: son situaciones de poder concreto atribuidas por el ordenamiento a una persona determinada para la satisfacción de un interés propio, tuteladas mediante acciones que permiten exigir a la Administración una conducta determinada. Confieren la máxima intensidad de legitimación para intervenir en el procedimiento y para recurrir.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4.1.a) y c)",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Intereses legítimos: son situaciones jurídicas intermedias entre el derecho subjetivo y el mero interés, en las que la satisfacción del interés personal del administrado está conectada con la legalidad de la actuación administrativa. La titularidad de un interés legítimo, individual o colectivo, es título suficiente para ser considerado interesado en el procedimiento (art. 4.1.a y c) y para estar legitimado en la vía contencioso-administrativa.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 7 y 8",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Pluralidad de interesados: cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término (art. 7). Si durante la instrucción se advierte la existencia de personas titulares de derechos o intereses legítimos que puedan resultar afectados y no hayan comparecido, se les comunicará la tramitación para que aleguen lo que a su derecho convenga (art. 8).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 9 a 11",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Identificación y firma del administrado: las Administraciones Públicas están obligadas a verificar la identidad de los interesados mediante sistemas de identificación (art. 9: firma electrónica, sello electrónico, claves concertadas) y admitirán como sistemas de firma los previstos en el artículo 10 (firma electrónica reconocida o cualificada y avanzada, sello electrónico, claves concertadas). Con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo será suficiente que los interesados acrediten previamente su identidad (art. 11).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E02",
+  "titulo": "El administrado: concepto y clases. La capacidad del administrado y sus causas modificativas. Las situaciones jurídicas del administrado. Derechos subjetivos e intereses legítimos."
+}

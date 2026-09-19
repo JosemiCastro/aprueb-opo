@@ -1,0 +1,78 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: las disposiciones generales de la LO 3/2018 (objeto y ámbito).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los principios del tratamiento (exactitud, confidencialidad, consentimiento).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos de las personas (acceso, rectificación, supresión, limitación, portabilidad y oposición).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el registro de las actividades de tratamiento y el delegado de protección de datos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la protección de datos y el acceso a la información en la normativa de transparencia (art. 15 Ley 19/2013).",
+    "Puedo citar con precisión los artículos 1, 4, 5, 6, 13, 31 y 34 de la LO 3/2018 y el art. 15 de la Ley 19/2013."
+  ],
+  "id": "HUE-A2-E45",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 1",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Objeto: la ley tiene por objeto adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y garantizar los derechos digitales de la ciudadanía conforme al art. 18.4 de la Constitución.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Ámbito de aplicación: se aplica a todo tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado incluido en un fichero; se aplica a los tratamientos realizados por las Administraciones Públicas en el ejercicio de sus competencias.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Principio de exactitud: los datos serán exactos y, si fuere necesario, actualizados; se adoptarán todas las medidas razonables para que se supriman o rectifiquen sin dilación los datos personales que sean inexactos con respecto a los fines para los que se tratan.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 5",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Deber de confidencialidad: el responsable y el encargado del tratamiento, así como todas las personas que intervengan en cualquier fase de este, estarán sujetas al deber de confidencialidad, que subsistirá aun cuando hubiese finalizado la relación con el responsable o encargado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 6",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Tratamiento basado en el consentimiento del afectado: el tratamiento será lícito cuando el interesado haya dado su consentimiento para fines determinados; cuando se pretenda fundar el tratamiento en el consentimiento para una pluralidad de finalidades, será preciso que conste de manera específica e inequívoca que dicho consentimiento se otorga para todas ellas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13 a 18",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Los derechos de las personas: derecho de acceso (art. 13: obtener confirmación del tratamiento y copia de los datos), rectificación (art. 14), supresión o derecho al olvido (art. 15), limitación del tratamiento (art. 16), portabilidad (art. 17) y oposición (art. 18); se ejercitarán ante el responsable del tratamiento, que deberá resolver en el plazo de un mes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 31",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Registro de las actividades de tratamiento: los responsables y encargados del tratamiento mantendrán un registro de las actividades de tratamiento efectuadas bajo su responsabilidad, con el contenido mínimo (fines, categorías de interesados y de datos, destinatarios, plazos de supresión y medidas de seguridad); las Administraciones Públicas lo harán público por medios electrónicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 34",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "Delegado de protección de datos: los responsables y encargados deberán designar un delegado de protección de datos en los supuestos previstos, entre ellos cuando el tratamiento lo lleve a cabo una autoridad u organismo público; el delegado será designado atendiendo a sus cualidades profesionales y actuará con independencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+      "punto": "La Agencia Española de Protección de Datos es la autoridad administrativa independiente de ámbito estatal encargada de la supervisión de la aplicación de la normativa de protección de datos, con potestad de investigación, de autorización y sancionadora.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 15",
+      "ley": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+      "punto": "Protección de datos y acceso a la información: si la información solicitada contuviera datos personales, el órgano concederá el acceso previa ponderación suficientemente razonada del interés público en la divulgación y los derechos de los afectados; se concederá el acceso cuando los datos sean meramente identificativos relacionados con la organización y actividad pública, y se denegará con carácter general cuando afecten a datos especialmente protegidos.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E45",
+  "titulo": "La protección de datos de carácter personal. Ley Orgánica de protección de datos de carácter personal: disposiciones generales. Principios. Los derechos de las personas. Registro de las actividades de tratamiento. La protección de datos y el acceso a la información en la normativa sobre transparencia administrativa."
+}

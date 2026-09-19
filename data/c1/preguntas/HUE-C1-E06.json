@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué clases de empleados públicos distingue el Estatuto Básico del Empleado Público?",
+    "explicacion": "El artículo 8 del Real Decreto Legislativo 5/2015 clasifica a los empleados públicos en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.",
+    "id": "HUE-C1-E06-001",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual.",
+    "tema": "E06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿En qué supuestos puede nombrarse personal funcionario interino?",
+    "explicacion": "El artículo 10.1 del Real Decreto Legislativo 5/2015 enumera las cuatro causas de interinidad: vacante, sustitución, programas temporales y exceso de tareas, con sus límites temporales.",
+    "id": "HUE-C1-E06-002",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por existencia de plazas vacantes no cubiertas por funcionarios de carrera (máximo tres años); sustitución transitoria de titulares; ejecución de programas temporales (máximo tres años, ampliables doce meses); y exceso o acumulación de tareas (máximo nueve meses en dieciocho).",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué caracteriza al personal eventual y cuándo cesa?",
+    "explicacion": "El artículo 12 del Real Decreto Legislativo 5/2015 define el personal eventual por sus funciones de confianza o asesoramiento, su nombramiento y cese libres y su cese automático con la autoridad que lo nombró.",
+    "id": "HUE-C1-E06-003",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Desempeña funciones de confianza o asesoramiento especial; su nombramiento y cese son libres; el número máximo lo establecen los órganos de gobierno; y cesa automáticamente cuando cesa la autoridad a la que presta su función de confianza.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 55",
+    "enunciado": "¿Con arreglo a qué principios se selecciona el personal al servicio de las Administraciones Públicas?",
+    "explicacion": "El artículo 55 del Real Decreto Legislativo 5/2015 recoge los principios rectores del acceso al empleo público: igualdad, mérito, capacidad, publicidad, transparencia, imparcialidad, entre otros.",
+    "id": "HUE-C1-E06-004",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De acuerdo con los principios constitucionales de igualdad, mérito y capacidad, y con los de publicidad de las convocatorias, transparencia, imparcialidad y profesionalidad de los órganos de selección, independencia y discrecionalidad técnica, adecuación entre el contenido de los procesos y las funciones a desarrollar, y agilidad.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 56",
+    "enunciado": "¿Qué requisitos generales se exigen para participar en los procesos selectivos?",
+    "explicacion": "El artículo 56 del Real Decreto Legislativo 5/2015 enumera los requisitos: nacionalidad, capacidad funcional, edad, no haber sido separado ni estar inhabilitado, y titulación.",
+    "id": "HUE-C1-E06-005",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Tener la nacionalidad requerida; poseer la capacidad funcional para el desempeño de las tareas; tener cumplidos dieciséis años y no exceder de la edad máxima de jubilación forzosa; no haber sido separado mediante expediente disciplinario ni hallarse inhabilitado; y poseer la titulación exigida.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "¿Qué reserva de plazas para personas con discapacidad debe incluir la oferta de empleo público?",
+    "explicacion": "El artículo 59.1 del Real Decreto Legislativo 5/2015 reserva un cupo no inferior al siete por ciento de las vacantes para personas con discapacidad.",
+    "id": "HUE-C1-E06-006",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un cupo no inferior al siete por ciento de las vacantes, para ser cubiertas entre personas con discapacidad.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 61",
+    "enunciado": "¿Cuáles son los sistemas selectivos para el acceso a la función pública?",
+    "explicacion": "El artículo 61 del Real Decreto Legislativo 5/2015 establece la oposición y el concurso-oposición como sistemas ordinarios, y el concurso solo con carácter excepcional.",
+    "id": "HUE-C1-E06-007",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La oposición y el concurso-oposición, que deberán incluir pruebas para determinar la capacidad de los aspirantes; solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso que consistirá únicamente en la valoración de méritos.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 62",
+    "enunciado": "¿Cómo se adquiere la condición de funcionario de carrera?",
+    "explicacion": "El artículo 62 del Real Decreto Legislativo 5/2015 exige la superación del proceso selectivo, el nombramiento, el acatamiento constitucional y la toma de posesión en plazo.",
+    "id": "HUE-C1-E06-008",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por la superación del correspondiente proceso selectivo, el nombramiento por el órgano competente, el acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía, y la toma de posesión dentro del plazo establecido.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 63",
+    "enunciado": "¿Cuáles son las causas de pérdida de la condición de funcionario de carrera?",
+    "explicacion": "El artículo 63 del Real Decreto Legislativo 5/2015 enumera taxativamente las cinco causas de pérdida de la relación de servicio.",
+    "id": "HUE-C1-E06-009",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La renuncia a la condición de funcionario; la pérdida de la nacionalidad; la jubilación total del funcionario; la sanción disciplinaria de separación del servicio; y la pena principal o accesoria de inhabilitación absoluta o especial para cargo público.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 67",
+    "enunciado": "¿A qué edad se produce la jubilación forzosa de los funcionarios y puede prolongarse?",
+    "explicacion": "El artículo 67.3 del Real Decreto Legislativo 5/2015 fija la jubilación forzosa a los sesenta y cinco años, con posibilidad de prolongación hasta los setenta.",
+    "id": "HUE-C1-E06-010",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se declara de oficio al cumplir los sesenta y cinco años de edad; no obstante, los funcionarios pueden solicitar la prolongación de la permanencia en el servicio activo, como máximo, hasta cumplir los setenta años.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 70",
+    "enunciado": "¿Qué es la oferta de empleo público y en qué plazo debe ejecutarse?",
+    "explicacion": "El artículo 70 del Real Decreto Legislativo 5/2015 define la oferta de empleo público, su aprobación anual por los órganos de gobierno y su ejecución en el plazo improrrogable de tres años.",
+    "id": "HUE-C1-E06-011",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El instrumento que recoge las necesidades de recursos humanos con asignación presupuestaria a cubrir con personal de nuevo ingreso; se aprueba anualmente por los órganos de gobierno y debe ejecutarse en el plazo improrrogable de tres años.",
+    "tema": "E06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 74",
+    "enunciado": "¿Qué es la relación de puestos de trabajo y qué contenido mínimo debe tener?",
+    "explicacion": "El artículo 74 del Real Decreto Legislativo 5/2015 configura la RPT como instrumento de ordenación de puestos, con contenido mínimo y carácter público.",
+    "id": "HUE-C1-E06-012",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El instrumento organizativo a través del cual las Administraciones Públicas estructuran su organización; debe comprender, al menos, la denominación de los puestos, los grupos de clasificación profesional, los cuerpos o escalas a que estén adscritos, los sistemas de provisión y las retribuciones complementarias, y es pública.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿Qué órgano aprueba la plantilla de personal y la relación de puestos de trabajo en el ayuntamiento?",
+    "explicacion": "El artículo 22.2.i) de la Ley 7/1985 atribuye al Pleno la aprobación de la plantilla y de la relación de puestos de trabajo, la fijación de retribuciones complementarias y el régimen del personal eventual.",
+    "id": "HUE-C1-E06-013",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Pleno de la Corporación.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 90",
+    "enunciado": "¿Cómo se aprueba la plantilla de personal de las entidades locales?",
+    "explicacion": "El artículo 90.1 de la Ley 7/1985 dispone que cada corporación aprueba anualmente, a través del Presupuesto, la plantilla con todos los puestos reservados a funcionarios, personal laboral y eventual.",
+    "id": "HUE-C1-E06-014",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Anualmente, a través del Presupuesto, y debe comprender todos los puestos de trabajo reservados a funcionarios, personal laboral y personal eventual.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 91",
+    "enunciado": "¿Cómo se selecciona el personal de las entidades locales?",
+    "explicacion": "El artículo 91 de la Ley 7/1985 exige que la selección se realice de acuerdo con la oferta de empleo público, mediante convocatoria pública y garantizando la igualdad, el mérito, la capacidad y la publicidad.",
+    "id": "HUE-C1-E06-015",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De acuerdo con la oferta de empleo público, mediante convocatoria pública y a través de los sistemas de concurso, oposición o concurso-oposición libre, garantizando en todo caso los principios de igualdad, mérito, capacidad y publicidad.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 76",
+    "enunciado": "¿Qué grupos de clasificación profesional establece el Estatuto Básico del Empleado Público?",
+    "explicacion": "El artículo 76 del Real Decreto Legislativo 5/2015 establece los grupos A (subgrupos A1 y A2), B, C (subgrupos C1 y C2) y las agrupaciones profesionales del antiguo grupo E.",
+    "id": "HUE-C1-E06-016",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Grupo A, dividido en los subgrupos A1 y A2; Grupo B; Grupo C, dividido en los subgrupos C1 y C2; y las agrupaciones profesionales sin requisito de titulación.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 78",
+    "enunciado": "¿Cuáles son los procedimientos de provisión de puestos de trabajo de los funcionarios de carrera?",
+    "explicacion": "El artículo 78 del Real Decreto Legislativo 5/2015 establece el concurso y la libre designación con convocatoria pública como procedimientos de provisión.",
+    "id": "HUE-C1-E06-017",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El concurso y la libre designación con convocatoria pública.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿En qué consiste la libre designación con convocatoria pública y cómo cesan sus titulares?",
+    "explicacion": "El artículo 80 del Real Decreto Legislativo 5/2015 define la libre designación como apreciación discrecional de la idoneidad, reservada a puestos de especial responsabilidad y confianza, con cese discrecional.",
+    "id": "HUE-C1-E06-018",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Consiste en la apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos del puesto; se reserva a puestos de especial responsabilidad y confianza; y sus titulares pueden ser cesados discrecionalmente.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 92",
+    "enunciado": "¿Qué funciones están reservadas a los funcionarios de administración local con habilitación de carácter nacional?",
+    "explicacion": "El artículo 92.1 del Real Decreto Legislativo 5/2015 reserva a estos funcionarios la secretaría (fe pública y asesoramiento legal) y el control y fiscalización interna de la gestión económico-financiera, con la contabilidad, tesorería y recaudación.",
+    "id": "HUE-C1-E06-019",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La de secretaría, comprensiva de la fe pública y el asesoramiento legal preceptivo; y el control y la fiscalización interna de la gestión económico-financiera y presupuestaria, y la contabilidad, tesorería y recaudación.",
+    "tema": "E06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 92",
+    "enunciado": "¿En qué subescalas se divide la escala de funcionarios de administración local con habilitación de carácter nacional?",
+    "explicacion": "El artículo 92.2 del Real Decreto Legislativo 5/2015 subdivide la escala en las subescalas de secretaría, intervención-tesorería y secretaría-intervención.",
+    "id": "HUE-C1-E06-020",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En las subescalas de secretaría (con las categorías de entrada y superior), intervención-tesorería (con las categorías de entrada y superior) y secretaría-intervención.",
+    "tema": "E06",
+    "verificado_corpus": false
+  }
+]

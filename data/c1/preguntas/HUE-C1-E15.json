@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Quiénes tienen capacidad de obrar ante las Administraciones públicas?",
+    "explicacion": "Art. 3 Ley 39/2015.",
+    "id": "HUE-C1-E15-001",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles; los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela; y los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos cuando la Ley así lo declare expresamente.",
+    "tema": "E15",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Quiénes son interesados en el procedimiento administrativo?",
+    "explicacion": "Art. 4.1 Ley 39/2015: concepto de interesado.",
+    "id": "HUE-C1-E15-002",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos; los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte; y aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Cómo pueden actuar los interesados en el procedimiento administrativo?",
+    "explicacion": "Art. 5.1 Ley 39/2015: representación.",
+    "id": "HUE-C1-E15-003",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con representación o sin ella.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Cuándo debe acreditarse la representación en el procedimiento administrativo?",
+    "explicacion": "Art. 5.3 Ley 39/2015.",
+    "id": "HUE-C1-E15-004",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona deberá acreditarse la representación.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Cómo puede acreditarse la representación en el procedimiento administrativo?",
+    "explicacion": "Art. 5.4 Ley 39/2015.",
+    "id": "HUE-C1-E15-005",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia; a estos efectos, se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica, o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué son las medidas provisionales en el procedimiento administrativo?",
+    "explicacion": "Art. 56 Ley 39/2015: medidas provisionales.",
+    "id": "HUE-C1-E15-006",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las medidas que el órgano competente para resolver puede adoptar, de oficio o a instancia de parte y de forma motivada, para asegurar la eficacia de la resolución que pudiera recaer, si existiesen elementos de juicio suficientes para ello.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Cuándo pueden adoptarse medidas provisionales en el procedimiento administrativo?",
+    "explicacion": "Art. 56.1 Ley 39/2015.",
+    "id": "HUE-C1-E15-007",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Iniciado el procedimiento, el órgano administrativo competente para resolver podrá adoptar medidas provisionales; antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir podrá adoptarlas en los casos de urgencia inaplazable y para la protección provisional de los intereses implicados.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué límites tienen las medidas provisionales?",
+    "explicacion": "Art. 56.3 Ley 39/2015.",
+    "id": "HUE-C1-E15-008",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No podrán adoptarse medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 64",
+    "enunciado": "¿Cómo se inician de oficio los procedimientos administrativos?",
+    "explicacion": "Art. 58 Ley 39/2015: iniciación de oficio.",
+    "id": "HUE-C1-E15-009",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 65",
+    "enunciado": "¿Cómo se inician a solicitud del interesado los procedimientos administrativos?",
+    "explicacion": "Art. 59 Ley 39/2015: iniciación a solicitud del interesado.",
+    "id": "HUE-C1-E15-010",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por solicitud del interesado dirigida al órgano competente.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 66",
+    "enunciado": "¿Qué contenido mínimo debe tener la solicitud de iniciación de un procedimiento?",
+    "explicacion": "Art. 66.1 Ley 39/2015: solicitudes de iniciación.",
+    "id": "HUE-C1-E15-011",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Nombre y apellidos del interesado y, en su caso, de la persona que lo represente; identificación del medio electrónico, o en su defecto, lugar físico en que desea que se practique la notificación; hechos, razones y petición en que se concrete la solicitud; lugar y fecha; firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier medio; y órgano, centro o unidad administrativa a la que se dirige y su correspondiente código de identificación.",
+    "tema": "E15",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 68",
+    "enunciado": "¿Qué ocurre si la solicitud de iniciación no reúne los requisitos exigidos?",
+    "explicacion": "Art. 68.1 Ley 39/2015: subsanación y mejora de la solicitud.",
+    "id": "HUE-C1-E15-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 69",
+    "enunciado": "¿Qué es la declaración responsable?",
+    "explicacion": "Art. 69.1 Ley 39/2015.",
+    "id": "HUE-C1-E15-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita, que la pondrá a disposición de la Administración cuando le sea requerida, y que se compromete a mantener el cumplimiento de las anteriores obligaciones durante el período de tiempo inherente a dicho reconocimiento o ejercicio.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 69",
+    "enunciado": "¿Qué efectos tiene la presentación de una declaración responsable?",
+    "explicacion": "Art. 69.3 Ley 39/2015.",
+    "id": "HUE-C1-E15-014",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Permitirá, con carácter general, el reconocimiento o ejercicio de un derecho o bien el inicio de una actividad, desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección que tengan atribuidas las Administraciones Públicas.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 69",
+    "enunciado": "¿Qué es la comunicación?",
+    "explicacion": "Art. 69.2 Ley 39/2015.",
+    "id": "HUE-C1-E15-015",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿Cuál es el plazo máximo para resolver y notificar un procedimiento administrativo?",
+    "explicacion": "Art. 21.3 Ley 39/2015: obligación de resolver.",
+    "id": "HUE-C1-E15-016",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El fijado por la norma reguladora del correspondiente procedimiento, que no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿Qué ocurre si la norma del procedimiento no fija un plazo máximo para resolver?",
+    "explicacion": "Art. 21.3 Ley 39/2015.",
+    "id": "HUE-C1-E15-017",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Será de tres meses.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿Cuándo nace la obligación de resolver de la Administración?",
+    "explicacion": "Art. 21.1 y 21.3.b) Ley 39/2015.",
+    "id": "HUE-C1-E15-018",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación; en los procedimientos iniciados de oficio, el plazo máximo se contará desde la fecha del acuerdo de iniciación.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Qué es el silencio administrativo positivo?",
+    "explicacion": "Art. 24.1 Ley 39/2015: silencio administrativo en procedimientos iniciados a solicitud del interesado.",
+    "id": "HUE-C1-E15-019",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado para entenderla estimada por silencio administrativo, excepto en los supuestos en que una norma con rango de ley o una norma de Derecho de la Unión Europea establezca lo contrario.",
+    "tema": "E15",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Qué efectos produce el silencio administrativo estimatorio?",
+    "explicacion": "Art. 24.2 Ley 39/2015.",
+    "id": "HUE-C1-E15-020",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento.",
+    "tema": "E15",
+    "verificado_corpus": false
+  }
+]

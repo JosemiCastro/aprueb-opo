@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el procedimiento en primera o única instancia: interposición, expediente, demanda, contestación, prueba y sentencia (arts. 45 a 67).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el procedimiento abreviado: ámbito y especialidades (art. 78).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ejecución de sentencias: obligación de cumplir y procedimiento de ejecución (arts. 103 a 113).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las medidas cautelares: presupuestos, adopción y modificación (arts. 129 a 136).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los modos de terminación anormal del procedimiento: desistimiento, allanamiento, satisfacción extraprocesal y transacción."
+  ],
+  "id": "HUE-A2-E10",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 45 y 46",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Interposición y plazos: el recurso contencioso-administrativo se iniciará por un escrito reducido a citar la disposición, acto, inactividad o actuación constitutiva de vía de hecho que se impugne y a solicitar que se tenga por interpuesto el recurso (art. 45). El plazo para interponerlo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso; si no lo fuera, el plazo será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del día siguiente a aquél en que se produzca el acto presunto (art. 46.1).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 48",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Reclamación del expediente: el Secretario judicial reclamará el expediente a la Administración demandada, que deberá remitirlo en el plazo improrrogable de veinte días, con emplazamiento a cuantos aparezcan como interesados en él para que puedan comparecer como demandados en el plazo de nueve días. La Administración conservará siempre el original o una copia autentificada de los expedientes que remita.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 52 a 54",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Demanda y contestación: recibido el expediente administrativo, el Secretario judicial pondrá de manifiesto las actuaciones a los recurrentes para que presenten la demanda en el plazo de veinte días, en la que se consignarán con la debida separación los hechos, los fundamentos de Derecho y las pretensiones que se deduzcan (art. 52). De la demanda se dará traslado a las partes demandadas para que la contesten en el plazo de veinte días, con los mismos requisitos formales (art. 54). En la contestación podrán alegarse los motivos de inadmisibilidad del recurso.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 60",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Prueba: solamente podrá pedirse el recibimiento del proceso a prueba por medio de otrosí en los escritos de demanda y contestación y en los de alegaciones complementarias. El Juez o Tribunal acordará el recibimiento a prueba cuando exista disconformidad en los hechos y éstos fueran de trascendencia, a juicio del órgano jurisdiccional, para la resolución del pleito. La prueba se desarrollará con arreglo a las normas generales establecidas para el proceso civil, siendo el plazo para practicarla de treinta días.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 62 a 68",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Vista, conclusiones y sentencia: concluido el período de prueba o cuando no hubiere lugar a él, el Secretario judicial declarará concluso el pleito y el Juez o Tribunal dictará auto acordando la celebración de vista pública o, si lo estima procedente, la formulación de conclusiones escritas. La sentencia se dictará en el plazo de diez días desde que el pleito haya sido declarado concluso y decidirá todas las cuestiones controvertidas en el proceso, pronunciándose sobre la inadmisibilidad, la estimación o la desestimación del recurso y, en su caso, sobre las costas.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 74 a 77",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Terminación anormal del procedimiento: el recurrente podrá desistir del recurso en cualquier momento anterior a la sentencia (art. 74); el demandado podrá allanarse a la pretensión del demandante; interpuesto el recurso, si la Administración demandada reconociese totalmente en vía administrativa las pretensiones del demandante, el Juez o Tribunal, por auto, declarará terminado el procedimiento por satisfacción extraprocesal; y las partes podrán llegar a un acuerdo transaccional que ponga fin al litigio cuando el objeto sea susceptible de transacción.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 78",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Procedimiento abreviado: se tramitarán por este procedimiento los recursos que se deduzcan en cuestiones de personal al servicio de las Administraciones Públicas, en materia de extranjería y sobre inadmisión de peticiones de asilo político, en materia de disciplina deportiva en materia de dopaje, así como en todas aquellas cuya cuantía no exceda de 30.000 euros. El recurso se iniciará por demanda, a la que se acompañará el documento que acredite la representación y la copia del acto impugnado, y se celebrará vista con citación de las partes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 103",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Ejecución de sentencias: la potestad de hacer ejecutar las sentencias y demás resoluciones judiciales corresponde exclusivamente a los Juzgados y Tribunales de este orden jurisdiccional, y su ejercicio compete al que haya conocido del asunto en primera o única instancia. Las partes están obligadas a cumplir las sentencias en la forma y términos que en éstas se consignen.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 104 a 113",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Procedimiento de ejecución: luego que sea firme una sentencia, el Secretario judicial lo comunicará en el plazo de diez días al órgano que hubiera realizado la actividad objeto del recurso, a fin de que la lleve a puro y debido efecto y practique lo que exija el cumplimiento de las declaraciones contenidas en el fallo (art. 104). Transcurridos dos meses sin ejecución, el órgano jurisdiccional adoptará las medidas necesarias para lograr la efectividad de lo mandado, pudiendo imponer multas coercitivas y deducir el oportuno testimonio por delito de desobediencia. Cuando la ejecución resulte imposible material o legalmente, el Juez o Tribunal adoptará las medidas necesarias para que la imposibilidad no produzca perjuicio, fijando en su caso la indemnización sustitutoria (arts. 105 a 113).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 129 a 136",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Medidas cautelares: los interesados podrán solicitar en cualquier estado del proceso la adopción de cuantas medidas aseguren la efectividad de la sentencia (art. 129). La medida cautelar podrá acordarse únicamente cuando la ejecución del acto o la aplicación de la disposición pudieran hacer perder su finalidad legítima al recurso (periculum in mora), ponderando los intereses en conflicto y el fumus boni iuris (art. 130). Podrá exigirse caución o garantía suficiente para responder de los perjuicios (art. 133); las medidas podrán modificarse o revocarse en atención al cambio de circunstancias (art. 134).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E10",
+  "titulo": "El procedimiento contencioso-administrativo. Procedimiento en primera o única instancia. Procedimiento abreviado. Ejecución de sentencias. Medidas cautelares."
+}

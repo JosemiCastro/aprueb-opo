@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "—",
+  "enunciado": "¿En qué fechas fue ratificada en referéndum, sancionada por el Rey y publicada con entrada en vigor la Constitución Española de 1978?",
+  "explicacion": "El 6 de diciembre (Día de la Constitución) el pueblo español aprobó la Constitución en referéndum; el Rey la sancionó el 27 de diciembre de 1978 y se publicó en el BOE el 29 de diciembre, fecha de su entrada en vigor según su disposición final.",
+  "id": "HUE-C1-T01-001",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Ratificada en referéndum el 6 de diciembre de 1978, sancionada y promulgada por el Rey el 27 de diciembre de 1978, y publicada en el BOE con entrada en vigor el 29 de diciembre de 1978.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "—",
+  "enunciado": "¿Cuál fue el antecedente legislativo inmediato que abrió el proceso de elaboración de la Constitución de 1978?",
+  "explicacion": "Aprobada en referéndum el 15 de diciembre de 1976, la Ley para la Reforma Política permitió convocar elecciones democráticas (15 de junio de 1977); las Cortes resultantes actuaron como Cortes constituyentes y elaboraron la Constitución de 1978.",
+  "id": "HUE-C1-T01-002",
+  "ley": "Ley para la Reforma Política, de 4 de enero de 1977",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La Ley para la Reforma Política, de 4 de enero de 1977.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "—",
+  "enunciado": "¿Cuántos artículos tiene la Constitución Española de 1978 y cómo se organiza su estructura?",
+  "explicacion": "La Constitución es una norma extensa y consensuada: consta de 169 artículos organizados en un Título Preliminar y diez Títulos numerados del I al X.",
+  "id": "HUE-C1-T01-003",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "169 artículos, distribuidos en un Título Preliminar y diez Títulos (del I al X).",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "—",
+  "enunciado": "¿Cuántas disposiciones adicionales, transitorias, derogatorias y finales contiene la Constitución de 1978?",
+  "explicacion": "Además de sus 169 artículos, la Constitución se cierra con cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final, que regula su entrada en vigor.",
+  "id": "HUE-C1-T01-004",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 1.1",
+  "enunciado": "Según el artículo 1.1 de la Constitución, ¿cómo se constituye España como Estado y cuáles son los valores superiores de su ordenamiento jurídico?",
+  "explicacion": "El art. 1.1 CE define la fórmula del Estado (social y democrático de Derecho) y enumera sus valores superiores: libertad, justicia, igualdad y pluralismo político.",
+  "id": "HUE-C1-T01-005",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "España se constituye en un Estado social y democrático de Derecho; sus valores superiores son la libertad, la justicia, la igualdad y el pluralismo político.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 1.2 y 1.3",
+  "enunciado": "¿En quién reside la soberanía nacional según el artículo 1.2 CE y cuál es la forma política del Estado español según el artículo 1.3?",
+  "explicacion": "Los apartados 2 y 3 del art. 1 CE fijan dos principios estructurales: la soberanía popular como origen de todos los poderes y la Monarquía parlamentaria como forma política del Estado.",
+  "id": "HUE-C1-T01-006",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado (art. 1.2); la forma política del Estado español es la Monarquía parlamentaria (art. 1.3).",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 2",
+  "enunciado": "¿Qué establece el artículo 2 de la Constitución sobre la unidad de España y la autonomía?",
+  "explicacion": "El art. 2 CE combina dos principios: la unidad indisoluble de la Nación española y el reconocimiento del derecho a la autonomía de nacionalidades y regiones, junto al principio de solidaridad entre todas ellas.",
+  "id": "HUE-C1-T01-007",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 9.3",
+  "enunciado": "¿Qué principios garantiza la Constitución en su artículo 9.3?",
+  "explicacion": "El art. 9.3 CE recoge las garantías del ordenamiento jurídico frente a los poderes públicos: legalidad, jerarquía normativa, publicidad, irretroactividad de lo sancionador no favorable, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad.",
+  "id": "HUE-C1-T01-008",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 10.1",
+  "enunciado": "Según el artículo 10.1 CE, ¿qué constituye el fundamento del orden político y de la paz social?",
+  "explicacion": "El art. 10.1 CE sitúa la dignidad de la persona y los derechos inviolables como fundamento del orden político y de la paz social, pórtico del Título I dedicado a los derechos y deberes fundamentales.",
+  "id": "HUE-C1-T01-009",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 14",
+  "enunciado": "¿Qué dispone el artículo 14 de la Constitución sobre la igualdad?",
+  "explicacion": "El art. 14 CE proclama la igualdad formal ante la ley y prohíbe toda discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición personal o social.",
+  "id": "HUE-C1-T01-010",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 15",
+  "enunciado": "¿Qué derecho reconoce el artículo 15 CE y qué establece sobre la pena de muerte?",
+  "explicacion": "El art. 15 CE reconoce el derecho a la vida y a la integridad física y moral, prohíbe la tortura y los tratos inhumanos o degradantes, y abole la pena de muerte con la única salvedad de las leyes penales militares para tiempos de guerra.",
+  "id": "HUE-C1-T01-011",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El derecho a la vida y a la integridad física y moral; queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+  "tema": 1,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 16",
+  "enunciado": "¿Qué garantiza el artículo 16 CE y cuál es la posición del Estado ante las confesiones religiosas?",
+  "explicacion": "El art. 16 CE garantiza la libertad ideológica, religiosa y de culto y consagra la aconfesionalidad del Estado, que no obstante cooperará con las confesiones religiosas.",
+  "id": "HUE-C1-T01-012",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La libertad ideológica, religiosa y de culto de los individuos y las comunidades; ninguna confesión tendrá carácter estatal, y los poderes públicos mantendrán relaciones de cooperación con la Iglesia Católica y las demás confesiones.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 17.2",
+  "enunciado": "¿Cuál es el plazo máximo de la detención preventiva según el artículo 17.2 CE?",
+  "explicacion": "El art. 17 CE reconoce el derecho a la libertad y a la seguridad, y su apartado 2 limita la detención preventiva al tiempo estrictamente necesario, con un máximo absoluto de setenta y dos horas.",
+  "id": "HUE-C1-T01-013",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Setenta y dos horas; transcurrido ese plazo, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 18",
+  "enunciado": "¿Qué derechos protege el artículo 18.1 CE y qué garantías establece para el domicilio y las comunicaciones?",
+  "explicacion": "El art. 18 CE protege el honor, la intimidad y la propia imagen, declara la inviolabilidad del domicilio y garantiza el secreto de las comunicaciones, especialmente postales, telegráficas y telefónicas, salvo resolución judicial.",
+  "id": "HUE-C1-T01-014",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El derecho al honor, a la intimidad personal y familiar y a la propia imagen; el domicilio es inviolable (ninguna entrada sin consentimiento del titular, resolución judicial o flagrante delito) y se garantiza el secreto de las comunicaciones, salvo resolución judicial.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 23.1",
+  "enunciado": "¿Qué derecho reconoce el artículo 23.1 CE?",
+  "explicacion": "El art. 23.1 CE reconoce el derecho de participación política, directamente o a través de representantes elegidos por sufragio universal; el 23.2 añade el acceso a funciones y cargos públicos en condiciones de igualdad.",
+  "id": "HUE-C1-T01-015",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El derecho de los ciudadanos a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 24.1 y 24.2",
+  "enunciado": "¿Qué garantiza el artículo 24.1 CE y qué derecho fundamental del proceso recoge el artículo 24.2?",
+  "explicacion": "El art. 24 CE consagra la tutela judicial efectiva sin indefensión (24.1) y las garantías procesales, entre ellas el derecho a la presunción de inocencia (24.2).",
+  "id": "HUE-C1-T01-016",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La tutela efectiva de los jueces y tribunales en el ejercicio de los derechos e intereses legítimos, sin que pueda producirse indefensión; el 24.2 recoge, entre otros, el derecho a la presunción de inocencia.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 27.4",
+  "enunciado": "¿Qué establece el artículo 27.4 CE sobre la enseñanza básica?",
+  "explicacion": "Dentro del derecho a la educación (art. 27 CE), su apartado 4 establece que la enseñanza básica será obligatoria y gratuita.",
+  "id": "HUE-C1-T01-017",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Que la enseñanza básica es obligatoria y gratuita.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 53.2",
+  "enunciado": "¿Qué derechos pueden protegerse mediante el recurso de amparo ante el Tribunal Constitucional según el artículo 53.2 CE?",
+  "explicacion": "El art. 53.2 CE permite recabar la tutela del art. 14 y de la Sección 1.ª del Capítulo II del Título I (arts. 15 a 29) ante los tribunales ordinarios por procedimiento preferente y sumario y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional.",
+  "id": "HUE-C1-T01-018",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las libertades y derechos reconocidos en el artículo 14 y en la Sección primera del Capítulo segundo del Título I, es decir, los artículos 15 a 29.",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 30.1, 31.1 y 35.1",
+  "enunciado": "Cite tres deberes de los españoles recogidos en la Constitución.",
+  "explicacion": "Junto a los derechos, la Constitución impone deberes fundamentales: defender a España (art. 30.1), contribuir al sostenimiento de los gastos públicos mediante un sistema tributario justo (art. 31.1) y el deber de trabajar (art. 35.1).",
+  "id": "HUE-C1-T01-019",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El deber de defender a España (art. 30.1); el deber de contribuir al sostenimiento de los gastos públicos de acuerdo con la capacidad económica (art. 31.1); y el deber de trabajar (art. 35.1).",
+  "tema": 1,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 168",
+  "enunciado": "¿Qué mayorías y trámites exige el artículo 168 CE para la reforma agravada de la Constitución?",
+  "explicacion": "El art. 168 CE regula la reforma agravada, exigible para la revisión total o la que afecte al Título Preliminar, a la Sección 1.ª del Capítulo II del Título I (arts. 15 a 29) o al Título II: exige dos tercios de cada Cámara, disolución de las Cortes, nuevas elecciones, ratificación por dos tercios y referéndum.",
+  "id": "HUE-C1-T01-020",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Aprobación del principio por dos tercios de cada Cámara, disolución inmediata de las Cortes, elección de nuevas Cámaras, ratificación de la decisión por dos tercios de las nuevas Cámaras y sometimiento a referéndum para su ratificación.",
+  "tema": 1,
+  "verificado_corpus": false
+ }
+]

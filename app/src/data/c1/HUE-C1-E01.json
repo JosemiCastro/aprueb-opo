@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el término municipal según la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local?",
+    "explicacion": "El artículo 12 de la Ley 7/1985 define el término municipal como el territorio en que el Ayuntamiento ejerce sus competencias.",
+    "id": "HUE-C1-E01-001",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El territorio en que el Ayuntamiento ejerce sus competencias.",
+    "tema": "E01",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Quién regula la creación o supresión de municipios y la alteración de términos municipales, y qué requisito de población exige la ley para crear nuevos municipios?",
+    "explicacion": "El artículo 13.1 de la Ley 7/1985 remite a la legislación autonómica la creación, supresión y alteración de términos municipales, y el artículo 13.2 exige núcleos territorialmente diferenciados de al menos 5.000 habitantes con recursos suficientes para los municipios resultantes.",
+    "id": "HUE-C1-E01-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se regulan por la legislación de las Comunidades Autónomas; la creación de nuevos municipios solo puede realizarse sobre núcleos de población territorialmente diferenciados de al menos 5.000 habitantes, siempre que los municipios resultantes cuenten con recursos suficientes.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Cuáles son los elementos del municipio según la Ley 7/1985?",
+    "explicacion": "El artículo 11 de la Ley 7/1985 establece que el municipio es la entidad local básica de la organización territorial del Estado y que tiene como elementos el territorio, la población y la organización.",
+    "id": "HUE-C1-E01-003",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El territorio, la población y la organización.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Quién está obligado a inscribirse en el padrón municipal?",
+    "explicacion": "El artículo 15 de la Ley 7/1985 impone la obligación de empadronamiento en el municipio de residencia habitual, con la regla del mayor tiempo de habitación para quienes residan en varios municipios.",
+    "id": "HUE-C1-E01-004",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Toda persona que viva en España está obligada a inscribirse en el padrón del municipio en que resida habitualmente; quien viva en varios municipios deberá inscribirse únicamente en aquel en que habite durante más tiempo al año.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es el padrón municipal y qué valor tienen sus datos?",
+    "explicacion": "El artículo 16.1 de la Ley 7/1985 define el padrón municipal y atribuye a sus datos valor probatorio de la residencia y del domicilio habitual.",
+    "id": "HUE-C1-E01-005",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es el registro administrativo donde constan los vecinos del municipio; sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo, y las certificaciones que de dichos datos se expidan son documentos públicos y fehacientes.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿A quién corresponde la formación, mantenimiento, revisión y custodia del padrón municipal?",
+    "explicacion": "El artículo 17.1 de la Ley 7/1985 atribuye al Ayuntamiento la formación, mantenimiento, revisión y custodia del padrón, y el artículo 17.2 encomienda al Instituto Nacional de Estadística la coordinación del conjunto.",
+    "id": "HUE-C1-E01-006",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al Ayuntamiento, sin perjuicio de la gestión coordinada del conjunto del padrón que corresponde al Instituto Nacional de Estadística.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "Cite cuatro derechos de los vecinos reconocidos en el artículo 18.1 de la Ley 7/1985.",
+    "explicacion": "El artículo 18.1 de la Ley 7/1985 enumera los derechos y deberes de los vecinos, entre ellos el sufragio activo y pasivo, la participación, el uso de los servicios públicos y la información.",
+    "id": "HUE-C1-E01-007",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Ser elector y elegible de acuerdo con la legislación electoral; participar en la gestión municipal; utilizar, de acuerdo con su naturaleza, los servicios públicos municipales; ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal; pedir la consulta popular; exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "¿La inscripción de un extranjero en el padrón municipal acredita su residencia legal en España?",
+    "explicacion": "El artículo 18.2 de la Ley 7/1985 aclara que el empadronamiento del extranjero no prueba la residencia legal ni atribuye derechos no conferidos por la legislación vigente, sin perjuicio de que sea condición para adquirir la vecindad.",
+    "id": "HUE-C1-E01-008",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No. La inscripción de los extranjeros en el padrón municipal no constituye prueba de su residencia legal en España ni les atribuye ningún derecho que no les confiera la legislación vigente.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "¿Qué servicios debe prestar en todo caso cualquier municipio, con independencia de su número de habitantes?",
+    "explicacion": "El artículo 26.1 de la Ley 7/1985 enumera los servicios mínimos que los municipios deben prestar en todo caso, cualquiera que sea su población.",
+    "id": "HUE-C1-E01-009",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "¿Qué servicios mínimos adicionales corresponden a los municipios de más de 5.000, de más de 20.000 y de más de 50.000 habitantes?",
+    "explicacion": "El artículo 26.1, letras b), c) y d), de la Ley 7/1985 establece los servicios mínimos por tramos de población.",
+    "id": "HUE-C1-E01-010",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Más de 5.000: parque público, biblioteca pública y tratamiento de residuos. Más de 20.000: protección civil, evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público. Más de 50.000: transporte colectivo urbano de viajeros y medio ambiente urbano.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "En los municipios de menos de 20.000 habitantes, ¿quién coordina la prestación de los servicios municipales?",
+    "explicacion": "El artículo 26.2 de la Ley 7/1985 atribuye a la Diputación Provincial o entidad equivalente la coordinación de la prestación de los servicios en municipios de menos de 20.000 habitantes.",
+    "id": "HUE-C1-E01-011",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Diputación Provincial o entidad equivalente coordina la prestación de los servicios de los municipios con población inferior a 20.000 habitantes.",
+    "tema": "E01",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Cómo se determinan las competencias propias de los municipios y cómo se ejercen?",
+    "explicacion": "El artículo 7.1 de la Ley 7/1985 reserva a la ley la determinación de las competencias propias, y el artículo 7.2 dispone su ejercicio en régimen de autonomía y bajo la propia responsabilidad.",
+    "id": "HUE-C1-E01-012",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las competencias propias solo pueden ser determinadas por ley y se ejercen en régimen de autonomía y bajo la propia responsabilidad, atendiendo siempre a la debida coordinación con las demás Administraciones Públicas.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "arts. 7 y 8",
+    "enunciado": "¿Quién puede delegar competencias en los municipios y en qué términos se ejercen las competencias delegadas?",
+    "explicacion": "El artículo 7.3 de la Ley 7/1985 permite la delegación por el Estado y las Comunidades Autónomas, y el artículo 8 dispone que se ejercen en los términos de la disposición o acuerdo de delegación, con sujeción a las reglas del artículo 27.",
+    "id": "HUE-C1-E01-013",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias; las competencias delegadas se ejercen en los términos establecidos en la disposición o en el acuerdo de delegación, con sujeción a la legislación del Estado o de la Comunidad Autónoma delegante.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 27",
+    "enunciado": "Cite cuatro materias de las enumeradas en el artículo 27.3 de la Ley 7/1985 como susceptibles de delegación del Estado o de las Comunidades Autónomas en los municipios.",
+    "explicacion": "El artículo 27.3 de la Ley 7/1985 enumera las materias que pueden ser objeto de delegación en los municipios.",
+    "id": "HUE-C1-E01-014",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Vigilancia y control de la contaminación ambiental; prestación de los servicios sociales y de promoción y reinserción social; creación, mantenimiento y gestión de las escuelas infantiles de titularidad pública de primer ciclo de educación infantil; gestión de instalaciones deportivas de titularidad de la entidad delegante; realización de actividades complementarias en los centros docentes; e inspección y sanción de establecimientos y actividades comerciales.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 25",
+    "enunciado": "¿Qué establece el artículo 25.1 de la Ley 7/1985 sobre la capacidad general de actuación del municipio?",
+    "explicacion": "El artículo 25.1 de la Ley 7/1985 recoge la cláusula general de competencia del municipio para satisfacer las necesidades de la comunidad vecinal.",
+    "id": "HUE-C1-E01-015",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que el municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 25",
+    "enunciado": "Cite cinco materias del artículo 25.2 de la Ley 7/1985 en las que el municipio ejercerá competencias propias.",
+    "explicacion": "El artículo 25.2 de la Ley 7/1985 enumera las materias en las que el municipio ejercerá, en todo caso, competencias propias.",
+    "id": "HUE-C1-E01-016",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Urbanismo; medio ambiente urbano; abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales; infraestructura viaria y otros equipamientos de titularidad municipal; evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social; policía local, protección civil, prevención y extinción de incendios; y tráfico, estacionamiento de vehículos y movilidad.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 140",
+    "enunciado": "¿Qué establece el artículo 140 de la Constitución Española sobre el gobierno y la administración de los municipios?",
+    "explicacion": "El artículo 140 de la Constitución garantiza la autonomía municipal y atribuye su gobierno y administración a los Ayuntamientos, regulando la elección de concejales y alcaldes.",
+    "id": "HUE-C1-E01-017",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales son elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 137",
+    "enunciado": "¿Qué reconoce el artículo 137 de la Constitución Española a los municipios y a las provincias?",
+    "explicacion": "El artículo 137 de la Constitución organiza territorialmente el Estado en municipios, provincias y Comunidades Autónomas y les reconoce autonomía para la gestión de sus intereses.",
+    "id": "HUE-C1-E01-018",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que gozan de autonomía para la gestión de sus respectivos intereses.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Puede un municipio ejercer competencias distintas de las propias y de las atribuidas por delegación?",
+    "explicacion": "El artículo 7.4 de la Ley 7/1985 permite el ejercicio de competencias distintas de las propias y delegadas solo cuando no se ponga en riesgo la sostenibilidad financiera de la hacienda municipal, no exista duplicidad y se emitan los informes previos vinculantes exigidos.",
+    "id": "HUE-C1-E01-019",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, pero solo cuando no se ponga en riesgo la sostenibilidad financiera de la hacienda municipal, no se incurra en duplicidad con otra Administración y se emitan los informes previos y vinculantes de la Administración competente por razón de la materia y de la que tenga la tutela financiera.",
+    "tema": "E01",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿La delegación de competencias en un municipio transfiere la titularidad de la competencia a la entidad local?",
+    "explicacion": "El artículo 8 de la Ley 7/1985 dispone que las competencias atribuidas por delegación se ejercen en los términos de la disposición o acuerdo de delegación, manteniéndose la titularidad en la Administración delegante.",
+    "id": "HUE-C1-E01-020",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; la delegación atribuye únicamente el ejercicio de la competencia, cuya titularidad permanece en la Administración delegante, y se ejerce en los términos establecidos en la disposición o en el acuerdo de delegación.",
+    "tema": "E01",
+    "verificado_corpus": false
+  }
+]

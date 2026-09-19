@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el sufragio activo y pasivo y las causas de inelegibilidad e incompatibilidad (arts. 6, 176-178 LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir la circunscripción, la escala de concejales y el sistema D'Hondt con barrera del 5% (arts. 179-180 LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la elección del alcalde (art. 196 LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la elección de diputados provinciales y del presidente de la diputación (arts. 205-208 LOREG)."
+  ],
+  "id": "HUE-A2-E21",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 176-200",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Marco: el Título III contiene las disposiciones especiales para las elecciones municipales; se convocan cada cuatro años, el cuarto domingo de mayo (art. 42.3).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 176",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Sufragio activo: gozan del derecho de sufragio activo en las elecciones municipales los españoles mayores de edad inscritos en el censo electoral, y los residentes extranjeros conforme a los tratados internacionales y al derecho de la Unión Europea.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 177",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Son elegibles los españoles mayores de edad que ostenten la condición de elector y no se hallen incursos en causa de inelegibilidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 6 y 178",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Causas de inelegibilidad: las generales del art. 6 (condenas por sentencia firme, inhabilitaciones, determinados cargos y empleos públicos) y las específicas del ámbito local del art. 178.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 6 y 178",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Incompatibilidades: las causas de inelegibilidad lo son también de incompatibilidad cuando sobrevienen tras la elección; el mandato de concejal es incompatible con determinados cargos, empleos y actividades públicas y privadas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 179",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Circunscripción y número de concejales: cada término municipal constituye una circunscripción; se elige un número de concejales según la escala de población (de 3 hasta 100 residentes a 25 hasta 100.000), añadiéndose un concejal más por cada 100.000 residentes o fracción a partir de esa cifra.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 163 y 180",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Sistema electoral: listas cerradas y bloqueadas; atribución de puestos por el sistema proporcional de la fórmula D'Hondt, sin tener en cuenta las candidaturas que no obtengan al menos el 5 por 100 de los votos válidos emitidos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 196",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Elección del alcalde: pueden ser candidatos todos los concejales que encabecen sus correspondientes listas; se proclama electo al que obtenga la mayoría absoluta; si ninguno la alcanza, es proclamado el concejal que encabece la lista que haya obtenido mayor número de votos; en caso de empate se resuelve por sorteo.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 204-206",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Elección de diputados provinciales: elección indirecta por los concejales de los partidos judiciales de la provincia (art. 206); el número de diputados se fija según la población provincial: 25, 27, 31 o 51 (art. 204); la atribución de los puestos a cada partido judicial y a cada candidatura se hace de forma proporcional y por la fórmula D'Hondt (arts. 204.2 y 205.3).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 207",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Elección del presidente de la diputación: en la sesión constitutiva, los diputados eligen al presidente por mayoría absoluta en primera votación y por mayoría simple en segunda.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E21",
+  "titulo": "El sistema electoral local. Causas de inelegibilidad e incompatibilidad. Elección de los concejales y alcaldes. Elección de diputados provinciales y presidentes"
+}

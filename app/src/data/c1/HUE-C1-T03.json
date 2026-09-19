@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "art. 10.1",
+  "enunciado": "¿A qué deberes recíprocos deben ajustar sus relaciones la Administración local y las demás Administraciones públicas?",
+  "explicacion": "El art. 10.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, establece que la Administración local y las demás Administraciones públicas ajustarán sus relaciones recíprocas a los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.",
+  "id": "HUE-C1-T03-001",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "A los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.",
+  "tema": 3,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 55",
+  "enunciado": "Según el art. 55 de la Ley 7/1985, ¿qué información deben facilitarse entre sí el Estado, las Comunidades Autónomas y las entidades locales?",
+  "explicacion": "El art. 55.c) de la Ley 7/1985 impone el deber de facilitar a las otras Administraciones la información sobre la propia gestión que sea relevante para el adecuado desarrollo por éstas de sus cometidos, junto con el respeto al ejercicio legítimo de las competencias ajenas y la ponderación de la totalidad de los intereses públicos implicados.",
+  "id": "HUE-C1-T03-002",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La información sobre la propia gestión que sea relevante para el adecuado desarrollo por las otras Administraciones de sus cometidos.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 56.1",
+  "enunciado": "¿Qué obligación impone el art. 56.1 de la Ley 7/1985 a las entidades locales respecto de sus actos y acuerdos?",
+  "explicacion": "El art. 56.1 de la Ley 7/1985 establece el deber de las entidades locales de remitir a las Administraciones del Estado y de las Comunidades Autónomas copia o extracto comprensivo de los actos y acuerdos de las mismas, lo que permite el ejercicio de la tutela de legalidad sobre la actuación local.",
+  "id": "HUE-C1-T03-003",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Remitir a las Administraciones del Estado y de las Comunidades Autónomas, en los plazos y forma que reglamentariamente se determinen, copia o, en su caso, extracto comprensivo de sus actos y acuerdos.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 57",
+  "enunciado": "¿Con qué carácter se desarrolla la cooperación económica, técnica y administrativa entre la Administración local y las Administraciones del Estado y de las Comunidades Autónomas?",
+  "explicacion": "El art. 57 de la Ley 7/1985 dispone que la cooperación económica, técnica y administrativa entre la Administración local y las Administraciones del Estado y de las Comunidades Autónomas, tanto en servicios locales como en asuntos de interés común, se desarrollará con carácter voluntario, bajo las formas y en los términos previstos en las leyes.",
+  "id": "HUE-C1-T03-004",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Con carácter voluntario, bajo las formas y en los términos previstos en las leyes.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 58.1",
+  "enunciado": "¿Qué órganos pueden crear las leyes del Estado o de las Comunidades Autónomas para la coordinación administrativa con las entidades locales y qué carácter tienen?",
+  "explicacion": "El art. 58.1 de la Ley 7/1985 permite que las leyes del Estado o de las Comunidades Autónomas creen, para la coordinación administrativa, órganos de colaboración de las Administraciones correspondientes con las entidades locales; estos órganos serán únicamente deliberantes o consultivos y podrán tener ámbito autonómico o provincial y carácter general o sectorial.",
+  "id": "HUE-C1-T03-005",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Órganos de colaboración de las Administraciones correspondientes con las entidades locales, que serán únicamente deliberantes o consultivos.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 59",
+  "enunciado": "¿Qué derecho garantiza el art. 59 de la Ley 7/1985 a los municipios, provincias e islas?",
+  "explicacion": "El art. 59 de la Ley 7/1985 establece que, a fin de asegurar la coherencia de la actuación administrativa en los distintos ámbitos sectoriales, la legislación del Estado y de las Comunidades Autónomas deberá asegurar a los municipios, provincias e islas su derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles, cuando proceda, la facultad de intervenir en la tramitación o resolución de los procedimientos administrativos correspondientes.",
+  "id": "HUE-C1-T03-006",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 62",
+  "enunciado": "Cuando una obra o servicio de competencia local trasciende el interés local, ¿a quién puede atribuirse la coordinación y con qué límite?",
+  "explicacion": "El art. 62 de la Ley 7/1985 prevé que, cuando una obra o servicio de competencia local trascienda el interés local, coadyuve o sea necesario para el cumplimiento de los fines del Estado o de la Comunidad Autónoma, las leyes correspondientes atribuirán a la Administración del Estado o a la de la Comunidad Autónoma la coordinación de todos los intereses públicos implicados, con el límite expreso de que dicha coordinación no podrá afectar en ningún caso a la autonomía de las entidades locales.",
+  "id": "HUE-C1-T03-007",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "A la Administración del Estado o a la de la Comunidad Autónoma, sin que la coordinación pueda afectar en ningún caso a la autonomía de las entidades locales.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 63",
+  "enunciado": "Además de los sujetos legitimados en el régimen general contencioso-administrativo, ¿quiénes pueden impugnar los actos y acuerdos de las entidades locales que infrinjan el ordenamiento jurídico?",
+  "explicacion": "El art. 63 de la Ley 7/1985 legitima a la Administración del Estado y a la de las Comunidades Autónomas para impugnar, junto a los sujetos legitimados en el régimen general del proceso contencioso-administrativo, los actos y acuerdos de las entidades locales que incurran en infracción del ordenamiento jurídico.",
+  "id": "HUE-C1-T03-008",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La Administración del Estado y la de las Comunidades Autónomas.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 64",
+  "enunciado": "Si el Estado o la Comunidad Autónoma considera que un acto local infringe el ordenamiento jurídico, ¿qué puede requerir a la entidad local y en qué plazo debe ésta anularlo?",
+  "explicacion": "El art. 64 de la Ley 7/1985 dispone que, cuando la Administración del Estado o la de las Comunidades Autónomas considere, en el ámbito de sus respectivas competencias, que un acto o acuerdo de una entidad local infringe el ordenamiento jurídico, podrá requerirla, invocando expresamente este artículo, para que anule dicho acto en el plazo máximo de un mes; el requerimiento debe ser motivado y expresar la normativa vulnerada.",
+  "id": "HUE-C1-T03-009",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Requerirla, invocando expresamente el art. 64, para que anule el acto en el plazo máximo de un mes.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 65",
+  "enunciado": "¿En qué supuesto puede suspenderse el acto o acuerdo de una entidad local impugnado por el Estado o la Comunidad Autónoma?",
+  "explicacion": "El art. 65 de la Ley 7/1985 regula la impugnación de actos locales que menoscaben competencias del Estado, interfieran su control o excedan de la competencia de la entidad local, previo requerimiento para su anulación con plazo de contestación de quince días hábiles; su apartado 2 establece que el requerimiento producirá la suspensión del acto o acuerdo impugnado hasta que se resuelva el recurso, si así lo solicita la Administración impugnante y el Tribunal lo acuerda en el auto correspondiente.",
+  "id": "HUE-C1-T03-010",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Cuando el acto menoscabe competencias del Estado, interfiera su control o exceda de la competencia de la entidad local; el requerimiento previo de anulación (con plazo de contestación de quince días hábiles) produce la suspensión si la Administración impugnante lo solicita y el Tribunal lo acuerda.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 63-65",
+  "enunciado": "El control que el Estado y las Comunidades Autónomas ejercen sobre las entidades locales, ¿es de legalidad o de oportunidad?",
+  "explicacion": "Los arts. 63 a 65 de la Ley 7/1985 configuran la tutela sobre las entidades locales como un control de legalidad: el Estado y las Comunidades Autónomas solo pueden impugnar los actos y acuerdos locales que infrinjan el ordenamiento jurídico o menoscaben competencias ajenas, sin que quepa un control de oportunidad política sobre las decisiones locales, en garantía de la autonomía local.",
+  "id": "HUE-C1-T03-011",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Exclusivamente de legalidad.",
+  "tema": 3,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 140",
+  "enunciado": "Enumere los principios con los que las Administraciones públicas actúan y se relacionan entre sí según el art. 140 de la Ley 40/2015.",
+  "explicacion": "El art. 140 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, enumera los principios de las relaciones interadministrativas: lealtad institucional, adecuación al orden de distribución de competencias establecido en la Constitución, los Estatutos de Autonomía y la normativa de régimen local, colaboración, cooperación, coordinación, eficiencia en la gestión de los recursos públicos, responsabilidad de cada Administración en el cumplimiento de sus obligaciones y garantía e igualdad en el ejercicio de los derechos de todos los ciudadanos.",
+  "id": "HUE-C1-T03-012",
+  "ley": "Ley 40/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Lealtad institucional; adecuación al orden de distribución de competencias; colaboración; cooperación; coordinación; eficiencia en la gestión de los recursos públicos; responsabilidad; y garantía e igualdad en el ejercicio de los derechos de todos los ciudadanos.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 141",
+  "enunciado": "Según el art. 141 de la Ley 40/2015, ¿en qué consiste el deber de colaboración entre Administraciones públicas?",
+  "explicacion": "El art. 141 de la Ley 40/2015 concreta el deber de colaboración: las Administraciones deberán respetar el ejercicio legítimo por las otras Administraciones de sus competencias; ponderar, en el ejercicio de las competencias propias, la totalidad de los intereses públicos implicados; facilitar a las otras Administraciones la información que precisen sobre la actividad que desarrollen; y prestar, en el ámbito propio, la cooperación y asistencia activas que las otras Administraciones pudieran recabar para el eficaz cumplimiento de sus tareas.",
+  "id": "HUE-C1-T03-013",
+  "ley": "Ley 40/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "En respetar el ejercicio legítimo por las otras Administraciones de sus competencias, ponderar la totalidad de los intereses públicos implicados, facilitarles la información que precisen y prestarles la cooperación y asistencia activas que recaben.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 142",
+  "enunciado": "¿Cuáles son las técnicas de colaboración entre Administraciones públicas previstas en el art. 142 de la Ley 40/2015?",
+  "explicacion": "El art. 142 de la Ley 40/2015 establece que las obligaciones que se derivan del deber de colaboración se harán efectivas a través de las siguientes técnicas: el suministro de información, datos, documentos o medios probatorios que se hallen a disposición de la Administración a la que se dirige la solicitud; la creación y mantenimiento de sistemas integrados de información administrativa; el deber de asistencia y auxilio para atender las solicitudes de otras Administraciones; y cualquier otra prevista en una ley.",
+  "id": "HUE-C1-T03-014",
+  "ley": "Ley 40/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El suministro de información, datos, documentos o medios probatorios; la creación y mantenimiento de sistemas integrados de información administrativa; el deber de asistencia y auxilio; y cualquier otra prevista en una ley.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 146",
+  "enunciado": "¿Qué son las Conferencias Sectoriales y quiénes las integran?",
+  "explicacion": "El art. 146 de la Ley 40/2015 define las Conferencias Sectoriales como órganos de cooperación, de composición multilateral y ámbito sectorial determinado, que reúnen, como Presidente, al miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente por razón de la materia, y a los correspondientes miembros de los Consejos de Gobierno, en representación de las Comunidades Autónomas.",
+  "id": "HUE-C1-T03-015",
+  "ley": "Ley 40/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Órganos de cooperación de composición multilateral y ámbito sectorial determinado que reúnen a miembros del Gobierno y a los correspondientes miembros de los Consejos de Gobierno de las Comunidades Autónomas.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 145",
+  "enunciado": "¿Qué es la Conferencia de Presidentes?",
+  "explicacion": "El art. 145 de la Ley 40/2015 configura la Conferencia de Presidentes como el órgano de cooperación política, de composición multilateral, del que forman parte el Presidente del Gobierno, que la preside, y los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+  "id": "HUE-C1-T03-016",
+  "ley": "Ley 40/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El órgano de cooperación política de composición multilateral del que forman parte el Presidente del Gobierno, que la preside, y los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 36",
+  "enunciado": "¿Qué función de asistencia atribuye el art. 36 de la Ley 7/1985 a las Diputaciones respecto de los municipios?",
+  "explicacion": "El art. 36 de la Ley 7/1985 atribuye a las Diputaciones Provinciales, entre sus competencias propias, la asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión, lo que constituye la principal manifestación de la tutela y cooperación de la provincia sobre los municipios.",
+  "id": "HUE-C1-T03-017",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 61",
+  "enunciado": "¿En qué supuesto puede el Consejo de Ministros disolver los órganos de las corporaciones locales y con qué requisito previo?",
+  "explicacion": "El art. 61 de la Ley 7/1985 dispone que el Consejo de Ministros, a iniciativa propia y con conocimiento del Consejo de Gobierno de la Comunidad Autónoma correspondiente o a solicitud de éste y, en todo caso, previo acuerdo favorable del Senado, podrá proceder, mediante Real Decreto, a la disolución de los órganos de las corporaciones locales en el supuesto de gestión gravemente dañosa para los intereses generales que suponga incumplimiento de sus obligaciones constitucionales.",
+  "id": "HUE-C1-T03-018",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "En el supuesto de gestión gravemente dañosa para los intereses generales que suponga incumplimiento de sus obligaciones constitucionales, mediante Real Decreto y previo acuerdo favorable del Senado.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 137",
+  "enunciado": "Según el art. 137 de la Constitución, ¿cómo se organiza territorialmente el Estado y de qué gozan estas entidades?",
+  "explicacion": "El art. 137 de la Constitución Española de 1978 establece la organización territorial del Estado en municipios, provincias y Comunidades Autónomas, reconociendo a todas estas entidades autonomía para la gestión de sus respectivos intereses, fundamento constitucional de las relaciones interadministrativas y de la tutela limitada a la legalidad.",
+  "id": "HUE-C1-T03-019",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan; todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+  "tema": 3,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 136",
+  "enunciado": "¿Qué órgano ejerce la fiscalización externa de la gestión económico-financiera de las entidades locales?",
+  "explicacion": "El art. 136 de la Constitución configura el Tribunal de Cuentas como el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público, lo que incluye a las entidades locales; en las Comunidades Autónomas con órgano propio de control externo, éste ejerce la fiscalización sin perjuicio de las competencias del Tribunal de Cuentas (LO 2/1982).",
+  "id": "HUE-C1-T03-020",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El Tribunal de Cuentas, sin perjuicio de los órganos de fiscalización externa de las Comunidades Autónomas.",
+  "tema": 3,
+  "verificado_corpus": false
+ }
+]

@@ -1,0 +1,65 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto y las modalidades del contrato de suministro.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la entrega, recepción y pago en el contrato de suministro.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las facultades de la Administración en el proceso de fabricación y el plazo de duración.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la extinción del contrato de suministro: cumplimiento y resolución.",
+    "Puedo citar con precisión los artículos 16, 298, 299, 301 y 29 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E37",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 16.1",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Concepto: son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 16.3",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Regulación de determinados contratos de suministro: en los contratos de suministro con entrega de una pluralidad de bienes de forma sucesiva y por precio unitario, sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato por estar subordinadas las entregas a las necesidades de la Administración, el empresario se obliga a entregar una pluralidad de bienes de forma sucesiva.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 298",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Entrega y recepción: el contratista estará obligado a entregar los bienes objeto de suministro en el tiempo y lugar fijados en el contrato y de conformidad con las prescripciones técnicas y las cláusulas administrativas; la Administración se reserva la facultad de comprobar en la recepción que los bienes se ajustan a lo contratado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 299",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Pago del precio: el adjudicatario tendrá derecho al abono del precio de los suministros efectivamente entregados y formalmente recibidos por la Administración con arreglo a las condiciones establecidas en el contrato.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 300",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Pago en metálico y en otros bienes: cuando razones técnicas o económicas debidamente justificadas en el expediente lo aconsejen, podrá establecerse en el pliego que el pago del precio total de los bienes a suministrar consista parte en dinero y parte en la entrega de otros bienes de la misma clase, sin que en ningún caso el importe de estos pueda superar el 50 por ciento del precio total.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 301",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Facultades de la Administración en el proceso de fabricación: la Administración tiene la facultad de inspeccionar y de ser informada del proceso de fabricación o elaboración del producto que haya de ser entregado como consecuencia del contrato, pudiendo ordenar o realizar por sí misma análisis, ensayos y pruebas de los materiales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 29.4",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Plazo de duración: los contratos de suministros de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas que en aplicación del apartado segundo de este artículo acuerde el órgano de contratación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 211 y 213",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Resolución y efectos: además de las causas generales de resolución del art. 211 (mutuo acuerdo, incumplimiento, demora, impago), en el contrato de suministro son causas específicas el desistimiento antes de iniciar el suministro o la suspensión del contrato por causa imputable a la Administración por plazo superior a cuatro meses; los efectos de la resolución se determinan conforme al art. 213, con liquidación del contrato y abono de lo ejecutado.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E37",
+  "titulo": "El contrato de suministro: regulación de determinados contratos de suministro. Ejecución. Cumplimiento. Resolución."
+}

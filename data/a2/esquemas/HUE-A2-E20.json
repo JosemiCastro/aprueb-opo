@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: definir el municipio y sus elementos (arts. 1 y 11 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el término municipal y su delimitación (art. 12 LBRL, arts. 89-90 Ley 5/2010).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir las alteraciones de términos municipales en la legislación básica (arts. 13-14 LBRL) y autonómica (arts. 91-94 Ley 5/2010).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la población (padrón, arts. 16-18 LBRL) y la organización municipal (arts. 19-20 LBRL)."
+  ],
+  "id": "HUE-A2-E20",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 11.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Concepto: el municipio es la entidad local básica de la organización territorial del Estado; tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Elementos: son elementos del municipio el territorio, la población y la organización.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Término municipal: el territorio en el que el ayuntamiento ejerce sus competencias; en Andalucía es continuo y no puede exceder del territorio de una provincia (art. 89 de la Ley 5/2010).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 90",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Delimitación: la demarcación municipal corresponde al Consejo de Gobierno de la Junta de Andalucía, por acuerdo adoptado mediante decreto; el deslinde es la actuación de comprobación y ejecución de la demarcación y en ningún caso puede implicar modificación de términos municipales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13 y 14",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Alteraciones en la legislación básica: la creación o supresión de municipios y la alteración de términos municipales requieren audiencia de los municipios interesados, dictamen del Consejo de Estado u órgano consultivo autonómico e informe de la Administración que ejerza la tutela financiera; los nuevos municipios solo pueden crearse sobre núcleos de población territorialmente diferenciados que cuenten con recursos suficientes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 91",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Modificaciones en la legislación autonómica: los términos municipales pueden modificarse por segregación, fusión, agregación, incorporación y aumento o disminución de su cabida por dinámicas de la naturaleza; la competencia para efectuarlas corresponde en exclusiva a la Junta de Andalucía.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 92",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Fusión: creación de un nuevo municipio resultado de la unión de dos o más preexistentes y limítrofes de la misma provincia, que se suprimen; puede acordarse por falta de recursos para prestar los servicios mínimos, confusión de núcleos de población o razones geográficas, económicas, demográficas o administrativas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 93 y 94",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Segregación: separación de parte del territorio para crear un municipio distinto (carácter excepcional, sobre núcleos de población y con conformidad expresa por mayoría absoluta del pleno del municipio matriz) o para agregarlo a otro limítrofe; incorporación: agregación de un municipio a otro limítrofe, con supresión del incorporado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 95-99",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Procedimiento: iniciativa municipal o de la consejería competente o la diputación provincial, formación del expediente con informe técnico, resolución por decreto del Consejo de Gobierno e inscripción en el Registro Andaluz de Entidades Locales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 16, 18, 19 y 20",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Población y organización: el padrón municipal es el registro administrativo donde constan los vecinos del municipio (art. 16), con sus derechos y deberes (art. 18); el gobierno y la administración municipal corresponden al ayuntamiento, integrado por el alcalde y los concejales, con la organización necesaria de alcalde, tenientes de alcalde y pleno (arts. 19 y 20).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E20",
+  "titulo": "El municipio: concepto y elementos. El término municipal. Alteraciones de los términos municipales. Legislación básica y legislación autonómica"
+}

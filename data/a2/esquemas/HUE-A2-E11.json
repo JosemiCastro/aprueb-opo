@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la evolución del concepto de servicio público desde la escuela de Burdeos (Duguit, Jèze) hasta el criterio funcional actual.",
+    "Puedo desarrollar este tema por escrito en 2 horas: citar el fundamento constitucional de la iniciativa pública y la reserva de servicios esenciales (arts. 38, 103.1 y 128.2 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar las formas de gestión directa e indirecta del art. 85.2 LBRL.",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la concesión de servicios y la transferencia del riesgo operacional (art. 15 LCSP).",
+    "Puedo desarrollar este tema por escrito en 2 horas: listar los servicios mínimos obligatorios del art. 26 LBRL por tramos de población."
+  ],
+  "id": "HUE-A2-E11",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 103.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Evolución doctrinal del concepto: de la escuela de Burdeos (Duguit: el servicio público como fundamento y límite del poder del Estado; Jèze) al criterio funcional actual, en el que lo decisivo es la satisfacción de intereses generales con independencia de quién gestione, pues la Administración sirve con objetividad los intereses generales.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 128.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Base constitucional de la iniciativa pública: se reconoce la iniciativa pública en la actividad económica y, mediante ley, se puede reservar al sector público recursos o servicios esenciales, especialmente en caso de monopolio, así como acordar la intervención de empresas cuando lo exija el interés general.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 38",
+      "ley": "Constitución Española de 1978",
+      "punto": "La libertad de empresa se reconoce en el marco de la economía de mercado y los poderes públicos garantizan y protegen su ejercicio: el servicio público convive con la libre iniciativa privada salvo reserva legal expresa.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Noción legal en el ámbito local: son servicios públicos locales los que prestan las entidades locales en el ámbito de sus competencias; implican titularidad pública (publicatio) aunque la gestión pueda encomendarse a terceros.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Formas de gestión: A) Gestión directa: 1.º gestión por la propia entidad local, 2.º organismo autónomo local, 3.º entidad pública empresarial local, 4.º sociedad mercantil local cuyo capital social sea de titularidad pública. B) Gestión indirecta: mediante las formas previstas para el contrato de concesión de servicios en la legislación de contratos del sector público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Los servicios de competencia local deben gestionarse de la forma más sostenible y eficiente; las formas de entidad pública empresarial y sociedad mercantil solo pueden usarse cuando una memoria justificativa acredite que resultan más sostenibles y eficientes que la gestión por la propia entidad o el organismo autónomo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 15 y 285-294",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Gestión indirecta mediante concesión de servicios: el poder adjudicador encomienda a un operador económico la gestión de un servicio de su titularidad o competencia, transfiriéndole el riesgo operacional (de demanda o de suministro); se rige por sus normas especiales de duración, derechos y obligaciones.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 103.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Principios de la prestación (leyes de Rolland): continuidad y regularidad del servicio, igualdad de trato a los usuarios y adaptación o mutabilidad ante las necesidades colectivas, al servicio objetivo de los intereses generales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 26",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Servicios mínimos obligatorios de los municipios, graduados por población: en todos (alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento de agua, alcantarillado, acceso a los núcleos, pavimentación y control de alimentos y bebidas); desde 5.000 habitantes se añaden parque público, biblioteca, mercado y tratamiento de residuos; desde 20.000, protección civil, servicios sociales, extinción de incendios, instalaciones deportivas y matadero; desde 50.000, transporte colectivo urbano y protección del medio ambiente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Las diputaciones provinciales garantizan la prestación integral y adecuada de los servicios de competencia municipal mediante la coordinación de los servicios municipales entre sí y la asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E11",
+  "titulo": "El servicio público. Evolución del concepto. Las formas de prestación de los servicios públicos"
+}

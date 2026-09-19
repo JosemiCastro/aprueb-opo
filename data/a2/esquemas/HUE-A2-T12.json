@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la competencia administrativa: naturaleza, irrenunciabilidad, clases y criterios de delimitación (arts. 5 y 8 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la delegación de competencias y la avocación: requisitos y efectos (arts. 9 y 10 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la encomienda de gestión y la delegación de firma: diferencias y régimen jurídico (arts. 11 y 12 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la suplencia de los titulares de los órganos administrativos (art. 13 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los convenios: concepto, requisitos de validez, trámites y extinción (arts. 47 a 53 Ley 40/2015)."
+  ],
+  "id": "HUE-A2-T12",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 5",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Órganos administrativos: tendrán la consideración de órganos administrativos las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo. Su creación requerirá el cumplimiento de los requisitos de determinación de su forma de integración en la Administración, delimitación de sus funciones y competencias, y dotación de los créditos necesarios para su puesta en marcha y funcionamiento.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 8",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Naturaleza de la competencia: la competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en esta u otras leyes. La encomienda de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 8 a 13",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Clases y criterios de delimitación: la competencia puede ser propia o delegada, y exclusiva, compartida o ejecutiva según su distribución territorial. Se delimita por razón de la materia (ámbito funcional atribuido), del territorio (ámbito espacial de actuación), de la jerarquía o grado (posición del órgano en la estructura) y del tiempo (período de vigencia de la atribución).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Delegación de competencias: los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los organismos públicos o entidades de derecho público vinculados o dependientes de aquéllas. No podrán delegarse las competencias relativas a los asuntos del Consejo de Ministros, la adopción de disposiciones de carácter general, la resolución de recursos en los órganos que hayan dictado el acto objeto de recurso, ni las materias en que así se determine por norma con rango de ley. La delegación será revocable en cualquier momento por el órgano que la haya conferido; las resoluciones administrativas adoptadas por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 10",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Avocación: los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente. La avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final que se dicte. Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Encomienda de gestión: la realización de actividades de carácter material o técnico de la competencia de los órganos administrativos o de las entidades de Derecho Público podrá ser encomendada a otros órganos o entidades de Derecho Público de la misma o de distinta Administración, siempre que entre sus competencias estén esas actividades, por razones de eficacia o cuando no se posean los medios técnicos idóneos para su desempeño. La encomienda de gestión no supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo responsabilidad del órgano o entidad encomendante dictar cuantos actos o resoluciones de carácter jurídico den soporte a la concreta actividad material objeto de encomienda.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Delegación de firma: los titulares de los órganos administrativos podrán, en materias de su propia competencia, que las firmas de sus resoluciones y actos administrativos sean autorizadas por los titulares de los órganos o unidades administrativas que de ellos dependan, dentro de los límites que señale el delegante. La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación. En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 13",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Suplencia: en la forma que disponga cada Administración Pública, los titulares de los órganos administrativos podrán ser suplidos temporalmente en los supuestos de vacante, ausencia o enfermedad, así como en los casos en que haya sido declarada su abstención o recusación. Si no se designa suplente, la competencia del órgano administrativo se ejercerá por quien designe el órgano administrativo inmediato de quien dependa. La suplencia no implicará alteración de la competencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 47",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Convenios, concepto: son convenios los acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común. No tendrán la consideración de convenios los protocolos generales de actuación o instrumentos similares que comporten meras declaraciones de intención, ni aquellos cuyo contenido se corresponda con prestaciones propias de los contratos, en cuyo caso su naturaleza y régimen jurídico se ajustará a la legislación de contratos del sector público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 48",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Requisitos de validez y eficacia de los convenios: la suscripción de convenios deberá mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a la realización de actividades de utilidad pública y cumplir con la legislación de estabilidad presupuestaria y sostenibilidad financiera. Tendrán un plazo de vigencia determinado no superior a cuatro años, salvo prórroga expresa por mutuo acuerdo por un período de hasta cuatro años adicionales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 51 y 53",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Extinción y control de los convenios: los convenios se extinguen por el cumplimiento de las actuaciones que constituyen su objeto o por incurrir en causa de resolución (transcurso del plazo de vigencia sin prórroga, acuerdo unánime de los firmantes, incumplimiento de las obligaciones, decisión judicial declaratoria de nulidad, u otra causa prevista). Las copias de los convenios y sus modificaciones deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización de la Comunidad Autónoma (art. 53).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 12,
+  "titulo": "La Ley de Régimen Jurídico del Sector Público. La competencia: naturaleza, clases y criterios de delimitación. La delegación de firma. La encomienda de gestión. La avocación y la suplencia. Los convenios."
+}

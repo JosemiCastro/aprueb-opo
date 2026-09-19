@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 31",
+    "enunciado": "¿Qué es la provincia según la Ley 7/1985?",
+    "explicacion": "El artículo 31 de la Ley 7/1985 define la provincia como entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad.",
+    "id": "HUE-C1-E02-001",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+    "tema": "E02",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Cuáles son los órganos necesarios de la Diputación Provincial?",
+    "explicacion": "El artículo 32.1 de la Ley 7/1985 enumera los órganos necesarios de todas las Diputaciones: Presidente, Vicepresidentes, Junta de Gobierno y Pleno.",
+    "id": "HUE-C1-E02-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿En qué consiste la competencia de coordinación atribuida a las Diputaciones por el artículo 36.1.a) de la Ley 7/1985?",
+    "explicacion": "El artículo 36.1.a) de la Ley 7/1985 atribuye a la Diputación la coordinación de los servicios municipales entre sí para garantizar su prestación integral y adecuada en todo el territorio provincial.",
+    "id": "HUE-C1-E02-003",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada de los mismos en la totalidad del territorio provincial.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Qué asistencia deben prestar las Diputaciones a los municipios según el artículo 36.1.b) de la Ley 7/1985?",
+    "explicacion": "El artículo 36.1.b) de la Ley 7/1985 establece la asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad, y la garantía de secretaría e intervención en los de menos de 1.000 habitantes.",
+    "id": "HUE-C1-E02-004",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La asistencia y la cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión, garantizando en todo caso en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "Cite las restantes competencias propias de la Diputación del artículo 36.1 de la Ley 7/1985, además de la coordinación y la asistencia a los municipios.",
+    "explicacion": "El artículo 36.1, letras c) y d), de la Ley 7/1985 completa las competencias propias de la Diputación con los servicios supramunicipales y el fomento de los intereses provinciales.",
+    "id": "HUE-C1-E02-005",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal y el fomento o, en su caso, coordinación de la prestación unificada de servicios de los municipios de su ámbito territorial; y, en general, el fomento y la administración de los intereses peculiares de la provincia.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué regula el artículo 11 de la Ley 5/2010, de Autonomía Local de Andalucía?",
+    "explicacion": "El artículo 11 de la Ley 5/2010, titulado «Competencias de asistencia a los municipios», es el precepto cabecera de la regulación de la asistencia provincial, desarrollada en los artículos 12 (técnica), 13 (económica) y 14 (material).",
+    "id": "HUE-C1-E02-006",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las competencias de asistencia de la provincia a los municipios, que se concretan en asistencia técnica (art. 12), asistencia económica (art. 13) y asistencia material (art. 14).",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿En qué principios se basa el procedimiento de solicitud de asistencia técnica de la provincia al municipio según el artículo 12 de la Ley 5/2010?",
+    "explicacion": "El artículo 12 de la Ley 5/2010, «Asistencia técnica de la provincia al municipio», somete el procedimiento de solicitud a los principios de eficacia, transparencia y celeridad.",
+    "id": "HUE-C1-E02-007",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En los principios de eficacia, transparencia y celeridad.",
+    "tema": "E02",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Qué tipo de asistencia provincial regula el artículo 13 de la Ley 5/2010?",
+    "explicacion": "El artículo 13 de la Ley 5/2010, titulado «Asistencia económica de la provincia al municipio», regula la ayuda económica que la Diputación presta a los municipios andaluces.",
+    "id": "HUE-C1-E02-008",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La asistencia económica de la provincia al municipio.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué comprende la asistencia técnica de la provincia al municipio según el artículo 12 de la Ley 5/2010?",
+    "explicacion": "El artículo 12 de la Ley 5/2010, «Asistencia técnica de la provincia al municipio», incluye el asesoramiento jurídico, técnico y económico, incluida la representación y defensa jurídica en vía administrativa y jurisdiccional.",
+    "id": "HUE-C1-E02-009",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El asesoramiento jurídico, técnico y económico, incluida la representación y defensa jurídica en vía administrativa y jurisdiccional.",
+    "tema": "E02",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Qué regula el artículo 15 de la Ley 5/2010, de Autonomía Local de Andalucía?",
+    "explicacion": "El artículo 15 de la Ley 5/2010, titulado «Competencias materiales de la provincia», regula las competencias materiales propias de las Diputaciones andaluzas, distintas de las de asistencia de los artículos 11 a 14.",
+    "id": "HUE-C1-E02-010",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las competencias materiales propias de la provincia.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades tienen la condición de entidades locales según el artículo 3 de la Ley 7/1985?",
+    "explicacion": "El artículo 3 de la Ley 7/1985 distingue entre entidades locales territoriales (municipio, provincia e isla) y las que gozan asimismo de dicha condición: comarcas, áreas metropolitanas y mancomunidades.",
+    "id": "HUE-C1-E02-011",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Son entidades locales territoriales el municipio, la provincia y la isla en los archipiélagos balear y canario; gozan asimismo de la condición de entidades locales las comarcas u otras entidades que agrupen varios municipios, las áreas metropolitanas y las mancomunidades de municipios.",
+    "tema": "E02",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 42",
+    "enunciado": "¿Cómo se crean las comarcas y qué límite establece el artículo 42 de la Ley 7/1985 respecto de los municipios?",
+    "explicacion": "El artículo 42 de la Ley 7/1985 remite a las leyes autonómicas la creación de comarcas y prohíbe que su creación prive a los municipios de prestar los servicios del artículo 26 o de intervenir en las materias del artículo 25.2.",
+    "id": "HUE-C1-E02-012",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se crean por ley de la Comunidad Autónoma; su creación no puede suponer la pérdida por los municipios de la competencia de prestar los servicios del artículo 26 ni privarles de toda intervención en cada una de las materias del artículo 25.2.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 43",
+    "enunciado": "¿Quién puede crear, modificar y suprimir las áreas metropolitanas y qué representación exigen?",
+    "explicacion": "El artículo 43 de la Ley 7/1985 atribuye a las Comunidades Autónomas, mediante ley, la creación, modificación y supresión de áreas metropolitanas, con representación de todos los municipios integrados.",
+    "id": "HUE-C1-E02-013",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las Comunidades Autónomas, mediante ley, y en sus órganos de gobierno deben estar representados todos los municipios integrados en el área.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 44",
+    "enunciado": "¿Qué son las mancomunidades de municipios y qué deben regular sus estatutos?",
+    "explicacion": "El artículo 44.1 y 44.2 de la Ley 7/1985 reconoce a los municipios el derecho a asociarse en mancomunidades, con personalidad jurídica propia, y enumera el contenido mínimo de sus estatutos.",
+    "id": "HUE-C1-E02-014",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Asociaciones voluntarias de municipios para la ejecución en común de obras y servicios de su competencia, con personalidad y capacidad jurídicas para sus fines específicos; sus estatutos deben regular el ámbito territorial, el objeto y la competencia, los órganos de gobierno y recursos, el plazo de duración y cuantos extremos sean necesarios para su funcionamiento.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 44",
+    "enunciado": "¿Cuál es el procedimiento de aprobación de los estatutos de una mancomunidad según el artículo 44.3 de la Ley 7/1985?",
+    "explicacion": "El artículo 44.3 de la Ley 7/1985 fija las reglas mínimas del procedimiento de aprobación de estatutos de mancomunidades, que desarrolla la legislación autonómica.",
+    "id": "HUE-C1-E02-015",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La elaboración corresponde a los concejales de todos los municipios promotores constituidos en asamblea, las Diputaciones provinciales interesadas emiten informe sobre el proyecto y los Plenos de todos los ayuntamientos aprueban los estatutos.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 45",
+    "enunciado": "¿Qué son las entidades de ámbito territorial inferior al municipio?",
+    "explicacion": "El artículo 45 de la Ley 7/1985 prevé que las leyes autonómicas regulen estas entidades para la administración descentralizada de núcleos de población separados.",
+    "id": "HUE-C1-E02-016",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Entidades locales creadas por las leyes de las Comunidades Autónomas para la administración descentralizada de núcleos de población separados, bajo la denominación tradicional de caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, lugares anejos y otros análogos.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 87",
+    "enunciado": "¿Con quién pueden las entidades locales constituir consorcios según el artículo 87 de la Ley 7/1985?",
+    "explicacion": "El artículo 87 de la Ley 7/1985 permite constituir consorcios con otras Administraciones públicas para fines de interés común o con entidades privadas sin ánimo de lucro que persigan fines de interés público.",
+    "id": "HUE-C1-E02-017",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con otras Administraciones públicas para fines de interés común o con entidades privadas sin ánimo de lucro que persigan fines de interés público concurrentes con los de las Administraciones públicas.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 118",
+    "enunciado": "¿Qué es un consorcio según el artículo 118 de la Ley 40/2015?",
+    "explicacion": "El artículo 118.1 de la Ley 40/2015 define los consorcios como entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o por estas con entidades privadas sin ánimo de lucro para fines de interés común.",
+    "id": "HUE-C1-E02-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Una entidad de derecho público, con personalidad jurídica propia y diferenciada, creada por varias Administraciones Públicas o por estas con entidades privadas sin ánimo de lucro para el desarrollo de actividades de interés común a todas ellas dentro del ámbito de sus competencias.",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "arts. 120 y 122",
+    "enunciado": "¿Cómo se crea un consorcio y a qué Administración queda adscrito?",
+    "explicacion": "El artículo 120 de la Ley 40/2015 exige convenio con estatutos para la creación del consorcio, y el artículo 122 determina su adscripción a una de las Administraciones consorciadas según criterios de prioridad.",
+    "id": "HUE-C1-E02-019",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mediante convenio entre las partes, al que se acompañan los estatutos del consorcio; los estatutos determinan la Administración pública a la que queda adscrito, conforme a los criterios de prioridad del artículo 122 (mayoría de votos, nombramiento de órganos ejecutivos, control por normativa especial, entre otros).",
+    "tema": "E02",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 82",
+    "enunciado": "¿Qué régimen se aplica a la modificación de estatutos, adhesión, separación y disolución de un consorcio local en Andalucía?",
+    "explicacion": "El artículo 82 de la Ley 5/2010 remite, para la modificación de estatutos, adhesión, separación, disolución y liquidación del consorcio, a lo dispuesto en la propia ley para las mancomunidades.",
+    "id": "HUE-C1-E02-020",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se estará a lo dispuesto en la Ley 5/2010 para las mancomunidades, sin perjuicio de las particularidades derivadas de la naturaleza de los distintos entes consorciados.",
+    "tema": "E02",
+    "verificado_corpus": false
+  }
+]

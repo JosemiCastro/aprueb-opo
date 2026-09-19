@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Qué principios rigen la contratación del sector público según la Ley de Contratos del Sector Público?",
+    "explicacion": "El art. 1.1 LCSP fija los principios que informan toda la contratación pública: acceso, publicidad, igualdad y competencia, con selección de la oferta económicamente más ventajosa.",
+    "id": "HUE-C1-E21-001",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La libertad de acceso a las licitaciones, la publicidad y transparencia de los procedimientos, la no discriminación e igualdad de trato entre los licitadores, la salvaguarda de la libre competencia y la selección de la oferta económicamente más ventajosa.",
+    "tema": "E21",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades tienen la consideración de Administraciones Públicas a efectos de la Ley 9/2017?",
+    "explicacion": "El art. 3.2 LCSP delimita el concepto de Administración Pública, más restringido que el de sector público del art. 3.1.",
+    "id": "HUE-C1-E21-002",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local; las Entidades Gestoras y los Servicios Comunes de la Seguridad Social; los Organismos Autónomos, las Universidades Públicas y las entidades de derecho público con funciones de regulación o control externo, entre otras.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Cómo se califican los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios celebrados por entidades del sector público?",
+    "explicacion": "Art. 12.1 LCSP: son los contratos típicos del sector público; el apartado 2 remite al art. 26 para los contratos privados.",
+    "id": "HUE-C1-E21-003",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Como contratos del sector público.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Qué es el contrato de obras y qué se entiende por «obra»?",
+    "explicacion": "Art. 13 LCSP: define el contrato de obras por su objeto (ejecución de obra o trabajos del Anexo I) y el concepto de obra como resultado funcional.",
+    "id": "HUE-C1-E21-004",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es el que tiene por objeto la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I. Por «obra» se entiende el resultado de un conjunto de trabajos de construcción o de ingeniería civil destinado a cumplir por sí mismo una función económica o técnica.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿En qué consiste el contrato de concesión de obras?",
+    "explicacion": "Art. 14.1 LCSP: la concesión de obras encomienda al concesionario prestaciones propias del contrato de obras, retribuidas con el derecho de explotación.",
+    "id": "HUE-C1-E21-005",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En encomendar al concesionario la realización de alguna de las prestaciones propias del contrato de obras (incluidas restauración, reparación, conservación y mantenimiento), siendo la contraprestación el derecho a explotar la obra, solo o acompañado del derecho a percibir un precio.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es el contrato de concesión de servicios?",
+    "explicacion": "Art. 15 LCSP: la concesión de servicios transfiere al concesionario la gestión de un servicio público con su riesgo operacional.",
+    "id": "HUE-C1-E21-006",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquel por el que uno o varios poderes adjudicadores encomiendan a título oneroso la gestión de un servicio de su titularidad o competencia, con derecho a explotarlo (solo o acompañado de un precio), transfiriendo al concesionario el riesgo operacional.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es el contrato de suministro?",
+    "explicacion": "Art. 16.1 LCSP: el suministro recae sobre productos o bienes muebles, bajo distintas fórmulas (adquisición, arrendamiento financiero o arrendamiento).",
+    "id": "HUE-C1-E21-007",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Qué son los contratos de servicios?",
+    "explicacion": "Art. 17 LCSP: los servicios son prestaciones de hacer distintas de obras y suministros, incluidas las de tracto sucesivo por precio unitario.",
+    "id": "HUE-C1-E21-008",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los que tienen por objeto prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "¿Qué es un contrato mixto y qué normas rigen su adjudicación?",
+    "explicacion": "Art. 18.1 LCSP: el contrato mixto combina prestaciones de distinta clase y se adjudica según la prestación principal.",
+    "id": "HUE-C1-E21-009",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquel que contiene prestaciones correspondientes a contratos de distinta clase; para determinar las normas de su adjudicación se atiende al carácter de la prestación principal.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 19",
+    "enunciado": "¿Qué contratos están sujetos a regulación armonizada?",
+    "explicacion": "Art. 19.1 LCSP: la regulación armonizada depende del valor estimado y de que la entidad contratante sea poder adjudicador.",
+    "id": "HUE-C1-E21-010",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios cuyo valor estimado sea igual o superior a las cuantías indicadas en los arts. 20 a 22, celebrados por entidades del sector público que tengan el carácter de poderes adjudicadores.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 25",
+    "enunciado": "¿Qué contratos celebrados por una Administración Pública tienen carácter administrativo?",
+    "explicacion": "Art. 25.1.a) LCSP: los contratos típicos (obras, concesiones, suministro y servicios) son administrativos, con la excepción de determinados servicios (financieros, artísticos), que son privados.",
+    "id": "HUE-C1-E21-011",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los contratos de obra, concesión de obra, concesión de servicios, suministro y servicios, excepto los de servicios financieros y los de creación e interpretación artística y espectáculos (que son privados), así como los declarados de carácter administrativo por una Ley.",
+    "tema": "E21",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "¿Qué contratos tienen la consideración de contratos privados?",
+    "explicacion": "Art. 26 LCSP: son privados los celebrados por entidades del sector público sin condición de Administración Pública y los de objeto atípico de las Administraciones.",
+    "id": "HUE-C1-E21-012",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los celebrados por entidades del sector público que no reúnan la condición de Administración Pública, y los celebrados por Administraciones Públicas cuyo objeto sea distinto del previsto en el art. 25.1.a) y b).",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 27",
+    "enunciado": "¿Qué orden jurisdiccional conoce de los contratos administrativos y de los contratos privados?",
+    "explicacion": "Art. 27 LCSP: reparte la competencia entre el orden contencioso-administrativo y el civil según el tipo de contrato y la fase controvertida.",
+    "id": "HUE-C1-E21-013",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El orden contencioso-administrativo conoce de la preparación, adjudicación, efectos, modificación y extinción de los contratos administrativos, y de la preparación y adjudicación de los privados de las Administraciones Públicas; el orden civil, de los efectos, modificación y extinción de los contratos privados.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 28",
+    "enunciado": "¿Qué deben justificar las entidades del sector público antes de celebrar un contrato?",
+    "explicacion": "Art. 28.1 LCSP: principio de necesidad e idoneidad; solo pueden celebrarse los contratos necesarios para los fines institucionales.",
+    "id": "HUE-C1-E21-014",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La necesidad e idoneidad del contrato: no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales, determinando la naturaleza y extensión de las necesidades y la idoneidad de su objeto.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 29",
+    "enunciado": "¿Cuál es la duración máxima de los contratos de suministros y de servicios de prestación sucesiva?",
+    "explicacion": "Art. 29.4 LCSP: cinco años como máximo incluyendo prórrogas, respetando las normas presupuestarias aplicables.",
+    "id": "HUE-C1-E21-015",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cinco años, incluyendo las posibles prórrogas que acuerde el órgano de contratación.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 29",
+    "enunciado": "¿Qué requisito deben cumplir las prórrogas previstas en un contrato del sector público?",
+    "explicacion": "Art. 29.8 LCSP: la prórroga no puede alterar las características del contrato.",
+    "id": "HUE-C1-E21-016",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que las características del contrato permanezcan inalterables durante el período de duración de estas, sin perjuicio de las modificaciones de los arts. 203 a 207.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 99",
+    "enunciado": "¿Debe dividirse el objeto del contrato en lotes?",
+    "explicacion": "Art. 99.3 LCSP: la división en lotes es la regla general cuando la naturaleza o el objeto lo permitan, para favorecer la concurrencia (especialmente de pymes).",
+    "id": "HUE-C1-E21-017",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: siempre que la naturaleza o el objeto del contrato lo permitan, deberá preverse la realización independiente de cada una de sus partes mediante su división en lotes.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 118",
+    "enunciado": "¿Qué son los contratos menores y cuáles son sus umbrales?",
+    "explicacion": "Art. 118.1 LCSP: los contratos menores se definen por su valor estimado y tienen tramitación simplificada y duración limitada.",
+    "id": "HUE-C1-E21-018",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los contratos de valor estimado inferior a 40.000 euros cuando se trate de contratos de obras, o a 15.000 euros cuando se trate de contratos de suministro o de servicios, con duración no superior a un año y sin posibilidad de prórroga.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 118",
+    "enunciado": "¿Qué debe justificarse en el expediente de un contrato menor?",
+    "explicacion": "Art. 118.2 LCSP: garantía antifraccionamiento; debe motivarse la necesidad y justificarse que no se eluden las reglas generales.",
+    "id": "HUE-C1-E21-019",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que no se está alterando el objeto del contrato para evitar la aplicación de las reglas generales de contratación, además del informe motivando la necesidad del contrato y la aprobación del gasto.",
+    "tema": "E21",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 34",
+    "enunciado": "¿Qué pactos, cláusulas y condiciones pueden incluirse en los contratos del sector público?",
+    "explicacion": "Art. 34.1 LCSP: libertad de pactos con los límites del interés público, el ordenamiento jurídico y los principios de buena administración.",
+    "id": "HUE-C1-E21-020",
+    "ley": "Ley 9/2017",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración.",
+    "tema": "E21",
+    "verificado_corpus": false
+  }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "arts. 34.1 y 38",
+  "enunciado": "¿Qué se entiende por acto administrativo?",
+  "explicacion": "Es la definición clásica asumida por la Ley 39/2015, que dedica su Título III (arts. 34 a 52) a los actos administrativos: se producen por el órgano competente ajustándose a los requisitos y al procedimiento establecido (art. 34.1) y, cuando están sujetos al Derecho Administrativo, serán ejecutivos con arreglo a lo dispuesto en la Ley (art. 38).",
+  "id": "HUE-C1-T05-001",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La declaración de voluntad, de juicio, de conocimiento o de deseo realizada por una Administración Pública en el ejercicio de una potestad administrativa y sometida al Derecho Administrativo.",
+  "tema": 5,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 35.1.a)",
+  "enunciado": "¿Qué diferencia hay entre un acto favorable y un acto de gravamen?",
+  "explicacion": "La Ley 39/2015 distingue expresamente los actos que limiten derechos subjetivos o intereses legítimos, que deben ser motivados con sucinta referencia de hechos y fundamentos de derecho (art. 35.1.a). Los actos de gravamen son además los típicamente susceptibles de ejecución forzosa por producir efectos desfavorables.",
+  "id": "HUE-C1-T05-002",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El acto favorable amplía la esfera jurídica del interesado (reconoce derechos, autoriza, concede), mientras que el acto de gravamen la restringe (limita derechos o intereses legítimos, impone obligaciones o sanciones).",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 112.1",
+  "enunciado": "¿Qué actos de trámite pueden ser recurridos en vía administrativa?",
+  "explicacion": "El art. 112.1 de la Ley 39/2015 permite interponer contra estos actos de trámite cualificados los recursos de alzada y potestativo de reposición, fundados en motivos de nulidad o anulabilidad (arts. 47 y 48). La oposición a los restantes actos de trámite solo podrá alegarse para su consideración en la resolución que ponga fin al procedimiento.",
+  "id": "HUE-C1-T05-003",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Los que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 24.2 y 24.4",
+  "enunciado": "¿Qué es un acto presunto?",
+  "explicacion": "El art. 24.2 de la Ley 39/2015 dispone que la estimación por silencio administrativo tiene a todos los efectos la consideración de acto administrativo finalizador del procedimiento, y el art. 24.4 que estos actos producen efectos desde el vencimiento del plazo máximo en que debía dictarse y notificarse la resolución expresa.",
+  "id": "HUE-C1-T05-004",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El acto administrativo que se produce por silencio administrativo cuando la Administración no dicta ni notifica resolución expresa dentro del plazo máximo.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 34.1",
+  "enunciado": "¿Qué requisito debe cumplir el órgano que dicta un acto administrativo?",
+  "explicacion": "Art. 34.1 de la Ley 39/2015 (elemento subjetivo del acto). La competencia es esencial: el acto dictado por órgano manifiestamente incompetente por razón de la materia o del territorio es nulo de pleno derecho (art. 47.1.b).",
+  "id": "HUE-C1-T05-005",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Debe ser el órgano competente, y el acto debe producirse ajustándose a los requisitos y al procedimiento establecido.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 34.2",
+  "enunciado": "¿Qué requisitos debe reunir el contenido de un acto administrativo?",
+  "explicacion": "Art. 34.2 de la Ley 39/2015 (elemento objetivo del acto). Si el contenido es imposible, el acto es nulo de pleno derecho (art. 47.1.c); si es contrario al ordenamiento jurídico sin encajar en causa de nulidad, será anulable (art. 48.1).",
+  "id": "HUE-C1-T05-006",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Debe ajustarse a lo dispuesto por el ordenamiento jurídico y ser determinado y adecuado a los fines del acto.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 36.1",
+  "enunciado": "¿Cuál es la forma general de producción de los actos administrativos?",
+  "explicacion": "Art. 36.1 de la Ley 39/2015 (elemento formal). Si la competencia se ejerce de forma verbal, la constancia escrita del acto se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente (art. 36.2).",
+  "id": "HUE-C1-T05-007",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Se producirán por escrito a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 40.3",
+  "enunciado": "¿Qué contenido mínimo debe incluir toda notificación de un acto administrativo?",
+  "explicacion": "El art. 40.3 de la Ley 39/2015 exige que toda notificación contenga el texto íntegro de la resolución e indique si es o no definitiva en vía administrativa, los recursos procedentes, el órgano competente y los plazos.",
+  "id": "HUE-C1-T05-008",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, los recursos que procedan (administrativos y judiciales), el órgano ante el que deben presentarse y el plazo para interponerlos.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 39.1",
+  "enunciado": "¿Desde cuándo producen efectos los actos administrativos?",
+  "explicacion": "Art. 39.1 de la Ley 39/2015 (eficacia): presunción de validez y eficacia inmediata. La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior (art. 39.2).",
+  "id": "HUE-C1-T05-009",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Se presumen válidos y producen efectos desde la fecha en que se dictan, salvo que en ellos se disponga otra cosa.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 39.3",
+  "enunciado": "¿Cuándo puede otorgarse eficacia retroactiva a un acto administrativo?",
+  "explicacion": "Art. 39.3 de la Ley 39/2015: la retroactividad de los actos es excepcional y nunca puede lesionar derechos o intereses legítimos de terceros.",
+  "id": "HUE-C1-T05-010",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Excepcionalmente, cuando se dicte en sustitución de un acto anulado o produzca efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia y esta no lesione derechos o intereses legítimos de otras personas.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 38",
+  "enunciado": "¿Qué significa que los actos administrativos son ejecutivos?",
+  "explicacion": "Art. 38 de la Ley 39/2015 (ejecutividad): los actos sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la Ley. Es la manifestación de la autotutela ejecutiva: la interposición de un recurso no suspende por sí sola la ejecución del acto impugnado (art. 117.1).",
+  "id": "HUE-C1-T05-011",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Que la Administración puede imponer su cumplimiento de forma inmediata y, en su caso, ejecutarlos forzosamente sin necesidad de acudir previamente a los tribunales.",
+  "tema": 5,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 40.2",
+  "enunciado": "¿En qué plazo debe cursarse la notificación de un acto administrativo y qué debe contener?",
+  "explicacion": "Art. 40.2 de la Ley 39/2015. Si la notificación contiene el texto íntegro pero omite alguno de los demás requisitos, surtirá efecto desde que el interesado realice actuaciones que supongan el conocimiento del acto o interponga el recurso procedente (art. 40.3).",
+  "id": "HUE-C1-T05-012",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Dentro de los diez días siguientes a la fecha en que el acto haya sido dictado; debe contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, los recursos que procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 44",
+  "enunciado": "¿Cómo se practica la notificación cuando el interesado es desconocido o, intentada la notificación, no se ha podido practicar?",
+  "explicacion": "Art. 44 de la Ley 39/2015 (notificación infructuosa): cuando los interesados sean desconocidos, se ignore el lugar de la notificación o, intentada esta, no se hubiese podido practicar, la notificación se hará por medio de anuncio en el BOE. Con carácter facultativo y previo, puede publicarse anuncio en el boletín autonómico o provincial o en el tablón de edictos del Ayuntamiento.",
+  "id": "HUE-C1-T05-013",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Mediante un anuncio publicado en el Boletín Oficial del Estado.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 45.1",
+  "enunciado": "¿En qué casos la publicación de un acto administrativo surte los efectos de la notificación?",
+  "explicacion": "Art. 45.1 de la Ley 39/2015. La publicación se realiza en el diario oficial que corresponda según la Administración de procedencia del acto (art. 45.3) y debe contener los mismos elementos que el art. 40.2 exige para las notificaciones (art. 45.2).",
+  "id": "HUE-C1-T05-014",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Cuando el acto tenga por destinatario una pluralidad indeterminada de personas (o la notificación individual sea insuficiente para garantizar la notificación a todos) y cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 47.1",
+  "enunciado": "¿Qué actos administrativos son nulos de pleno derecho?",
+  "explicacion": "Art. 47.1 de la Ley 39/2015, letras a) a g). La nulidad de pleno derecho es el vicio de validez más grave: el acto no produce efectos válidos y la nulidad puede declararse en cualquier momento, sin plazo de prescripción.",
+  "id": "HUE-C1-T05-015",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Los que lesionen derechos y libertades susceptibles de amparo constitucional; los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio; los de contenido imposible; los constitutivos de infracción penal o dictados como consecuencia de esta; los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido; los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos careciendo de los requisitos esenciales; y cualquier otro que una disposición con rango de ley declare nulo.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 48",
+  "enunciado": "¿Qué son los actos anulables y qué efecto tiene el defecto de forma?",
+  "explicacion": "Art. 48.1 y 48.2 de la Ley 39/2015. Además, la realización de actuaciones fuera del tiempo establecido solo implica la anulabilidad cuando así lo imponga la naturaleza del término o plazo (art. 48.3).",
+  "id": "HUE-C1-T05-016",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder; el defecto de forma solo determina la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 52",
+  "enunciado": "¿Pueden convalidarse los actos administrativos anulables?",
+  "explicacion": "Art. 52.1 y 52.2 de la Ley 39/2015. Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación la realiza el órgano competente cuando sea superior jerárquico del que dictó el acto viciado (art. 52.3). Solo los actos anulables son convalidables; los nulos de pleno derecho no admiten convalidación.",
+  "id": "HUE-C1-T05-017",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Sí; la Administración puede convalidarlos subsanando los vicios de que adolezcan, y el acto de convalidación produce efectos desde su fecha.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 35.1",
+  "enunciado": "¿Qué significa que un acto administrativo debe estar motivado y qué actos requieren motivación?",
+  "explicacion": "Art. 35.1 de la Ley 39/2015, letras a) a i): también deben motivarse los actos que resuelvan procedimientos de revisión de oficio, los acuerdos de suspensión de actos y de medidas provisionales, los de tramitación de urgencia o ampliación de plazos y los que acuerden la terminación por imposibilidad material sobrevenida.",
+  "id": "HUE-C1-T05-018",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Motivar es exponer, con sucinta referencia de hechos y fundamentos de derecho, las razones de la decisión. Deben motivarse, entre otros, los actos que limiten derechos o intereses legítimos, los que resuelvan recursos o procedimientos sancionadores, los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, los que rechacen pruebas y los dictados en ejercicio de potestades discrecionales.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 24.1",
+  "enunciado": "¿Cuál es el sentido del silencio administrativo en los procedimientos iniciados a solicitud del interesado?",
+  "explicacion": "Art. 24.1 de la Ley 39/2015. El silencio es desestimatorio, entre otros, en los procedimientos relativos al ejercicio del derecho de petición, los que impliquen transferencia de facultades sobre el dominio público o el servicio público, los que puedan dañar el medio ambiente, los de responsabilidad patrimonial y los de impugnación de actos y disposiciones y de revisión de oficio iniciados a solicitud de los interesados.",
+  "id": "HUE-C1-T05-019",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Con carácter general es estimatorio: vencido el plazo máximo sin haberse notificado resolución expresa, el interesado puede entender estimada su solicitud, salvo que una norma con rango de ley (o una norma de Derecho de la Unión Europea o de Derecho internacional aplicable en España) establezca lo contrario.",
+  "tema": 5,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 21.1 y 24.3",
+  "enunciado": "¿Está obligada la Administración a dictar resolución expresa aunque ya haya operado el silencio administrativo?",
+  "explicacion": "Art. 21.1 (obligación de resolver) y art. 24.3 de la Ley 39/2015. La estimación por silencio tiene la consideración de acto administrativo finalizador del procedimiento, mientras que la desestimación solo permite interponer los recursos procedentes (art. 24.2); los actos producidos por silencio producen efectos desde el vencimiento del plazo máximo (art. 24.4).",
+  "id": "HUE-C1-T05-020",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Sí; la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación. Si el silencio fue estimatorio, la resolución posterior solo podrá ser confirmatoria del acto presunto; si fue desestimatorio, se dictará sin vinculación alguna al sentido del silencio.",
+  "tema": 5,
+  "verificado_corpus": false
+ }
+]

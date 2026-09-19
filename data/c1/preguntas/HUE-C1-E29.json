@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿Qué principios rigen la actuación de la Administración Pública según el artículo 103.1 de la Constitución?",
+    "explicacion": "El art. 103.1 CE dispone que la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "id": "HUE-C1-E29-001",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho, sirviendo con objetividad los intereses generales.",
+    "tema": "E29",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿Qué significa que la Administración sirve con objetividad los intereses generales?",
+    "explicacion": "El art. 103.1 CE impone a la Administración el servicio objetivo a los intereses generales, lo que se traduce en los principios de objetividad e imparcialidad: debe actuar sin favoritismos ni discriminaciones, atendiendo únicamente al interés público.",
+    "id": "HUE-C1-E29-002",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que debe actuar con objetividad e imparcialidad, atendiendo únicamente a los intereses generales y sin favoritismos ni discriminaciones.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿Qué implica el principio de eficacia en la actuación administrativa?",
+    "explicacion": "El principio de eficacia (art. 103.1 CE, art. 3 Ley 40/2015) exige que la Administración consiga los fines y objetivos que le son propios, es decir, que su actuación produzca resultados reales en la satisfacción de los intereses generales.",
+    "id": "HUE-C1-E29-003",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que la actuación administrativa debe conseguir los fines y objetivos que le son propios, produciendo resultados efectivos en la satisfacción de los intereses generales.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿En qué consiste el principio de jerarquía?",
+    "explicacion": "El principio de jerarquía (art. 103.1 CE) supone la ordenación vertical de los órganos administrativos, de modo que los órganos superiores dirigen y controlan la actuación de los inferiores, pudiendo dictar instrucciones y órdenes de servicio (art. 6 Ley 40/2015).",
+    "id": "HUE-C1-E29-004",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La ordenación vertical de los órganos administrativos: los superiores dirigen, instruyen y controlan a los inferiores.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "Distinga entre descentralización y desconcentración.",
+    "explicacion": "Ambos son principios del art. 103.1 CE: la descentralización supone la transferencia de competencias a entes dotados de personalidad jurídica propia (p. ej., Comunidades Autónomas, Entidades Locales u organismos públicos); la desconcentración es la transferencia de competencias dentro de la misma persona jurídica, de órganos superiores a órganos inferiores jerárquicamente dependientes.",
+    "id": "HUE-C1-E29-005",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La descentralización transfiere competencias a entes con personalidad jurídica propia; la desconcentración las transfiere, dentro de la misma persona jurídica, de órganos superiores a órganos inferiores.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿Qué exige el principio de coordinación en la actuación administrativa?",
+    "explicacion": "El principio de coordinación (art. 103.1 CE, arts. 3 y 140 Ley 40/2015) exige que las distintas Administraciones y órganos armonicen su actuación para evitar duplicidades y contradicciones y lograr la plena efectividad de las políticas públicas.",
+    "id": "HUE-C1-E29-006",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que las Administraciones y órganos armonicen su actuación, evitando duplicidades y contradicciones, para lograr la plena efectividad de los fines públicos.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.1",
+    "enunciado": "¿Qué significa el sometimiento pleno de la Administración a la ley y al Derecho?",
+    "explicacion": "El art. 103.1 CE consagra el principio de legalidad en la actuación administrativa: toda la actividad de la Administración debe ajustarse al ordenamiento jurídico, sin que pueda actuar al margen o en contra de la ley.",
+    "id": "HUE-C1-E29-007",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que toda la actuación administrativa debe ajustarse al ordenamiento jurídico (principio de legalidad): la Administración no puede actuar al margen ni en contra de la ley.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "Además de los principios del artículo 103 CE, ¿qué otros principios generales recoge el artículo 3.1 de la Ley 40/2015?",
+    "explicacion": "El art. 3.1 Ley 40/2015 añade: servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad; participación, objetividad y transparencia; racionalización y agilidad; buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión pública; planificación y dirección por objetivos; evaluación de resultados; economía, suficiencia y adecuación de los medios a los fines; eficiencia en la asignación de recursos; y cooperación, colaboración y coordinación.",
+    "id": "HUE-C1-E29-008",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad; participación, objetividad y transparencia; racionalización y agilidad; buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión; planificación por objetivos y evaluación; economía y adecuación de medios a fines; eficiencia; y cooperación, colaboración y coordinación.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿Qué exige el principio de servicio efectivo a los ciudadanos?",
+    "explicacion": "El art. 3.1.a) Ley 40/2015 sitúa el servicio efectivo a los ciudadanos como primer principio general: la Administración existe para servir a los ciudadanos, prestando servicios públicos de calidad de forma accesible, sencilla y próxima.",
+    "id": "HUE-C1-E29-009",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que la Administración oriente su actuación a prestar a los ciudadanos servicios públicos de calidad, de forma accesible, sencilla y próxima (simplicidad, claridad y proximidad).",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿Qué contenido tienen los principios de buena fe, confianza legítima y lealtad institucional?",
+    "explicacion": "El art. 3.1.f) Ley 40/2015 recoge la buena fe y la confianza legítima, que protegen al ciudadano frente a cambios arbitrarios de criterio de la Administración cuando ha generado expectativas razonables, y la lealtad institucional, que exige a las Administraciones comportarse con fidelidad y respeto mutuo en sus relaciones.",
+    "id": "HUE-C1-E29-010",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La buena fe y la confianza legítima protegen al ciudadano frente a actuaciones administrativas contradictorias con expectativas razonablemente generadas; la lealtad institucional exige a las Administraciones fidelidad y respeto mutuo en sus relaciones.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿Qué implican los principios de planificación y dirección por objetivos y de control de la gestión?",
+    "explicacion": "El art. 3.1.g) Ley 40/2015 exige que la Administración planifique su actuación fijando objetivos, dirija su actividad hacia su consecución y controle la gestión y evalúe los resultados obtenidos, como instrumento de eficacia y responsabilidad.",
+    "id": "HUE-C1-E29-011",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que la Administración fije objetivos en su planificación, dirija su actuación a conseguirlos y controle la gestión evaluando los resultados obtenidos.",
+    "tema": "E29",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿Qué exigen los principios de economía, suficiencia y adecuación de los medios a los fines?",
+    "explicacion": "El art. 3.1.j) Ley 40/2015 exige economía, suficiencia y adecuación estricta de los medios a los fines institucionales, y eficiencia en la asignación y utilización de los recursos públicos: no gastar más de lo necesario ni mantener medios desproporcionados respecto de los fines.",
+    "id": "HUE-C1-E29-012",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que los medios empleados sean estrictamente adecuados a los fines institucionales, con economía y eficiencia en la asignación y utilización de los recursos públicos.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿En qué se diferencian la eficacia y la eficiencia como principios de actuación administrativa?",
+    "explicacion": "Ambos figuran en el art. 3.1 Ley 40/2015: la eficacia exige conseguir los objetivos propuestos; la eficiencia exige conseguirlos con el menor coste y la mejor asignación posibles de los recursos públicos.",
+    "id": "HUE-C1-E29-013",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La eficacia es conseguir los objetivos; la eficiencia es conseguirlos con el menor coste y la óptima asignación de los recursos públicos.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "¿Qué principios rigen las relaciones entre Administraciones Públicas según el artículo 3.1.k) de la Ley 40/2015?",
+    "explicacion": "El art. 3.1.k) Ley 40/2015 recoge la cooperación, la colaboración y la coordinación entre las Administraciones Públicas, desarrollados en los arts. 140 y siguientes de la misma Ley.",
+    "id": "HUE-C1-E29-014",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La cooperación, la colaboración y la coordinación.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.2",
+    "enunciado": "¿Qué principios deben respetar las Administraciones Públicas cuando intervengan en la actividad de los ciudadanos?",
+    "explicacion": "El art. 3.2 Ley 40/2015 exige que la intervención administrativa se ajuste a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, accesibilidad, simplicidad y comprensión.",
+    "id": "HUE-C1-E29-015",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, accesibilidad, simplicidad y comprensión.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.2",
+    "enunciado": "¿Qué exige el principio de proporcionalidad en la intervención administrativa?",
+    "explicacion": "El principio de proporcionalidad (art. 3.2 Ley 40/2015) exige que las medidas de intervención sean adecuadas al fin perseguido y no impongan a los ciudadanos cargas o restricciones superiores a las estrictamente necesarias para conseguirlo.",
+    "id": "HUE-C1-E29-016",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que las medidas de intervención sean adecuadas al fin perseguido y no impongan cargas o restricciones superiores a las estrictamente necesarias.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Con qué instrumentos debe limitar la Administración los derechos de los particulares o imponerles requisitos para el desarrollo de una actividad?",
+    "explicacion": "El art. 4 Ley 40/2015 exige que la limitación de derechos o la imposición de requisitos se establezca mediante norma con rango de ley (o norma de la Unión Europea), y que se elija el medio menos restrictivo posible, como la declaración responsable o la comunicación.",
+    "id": "HUE-C1-E29-017",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mediante norma con rango de ley (o norma de la Unión Europea), eligiendo el medio menos restrictivo, como la declaración responsable o la comunicación.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué habilitación conserva la Administración cuando la actividad queda sujeta a declaración responsable o comunicación?",
+    "explicacion": "El art. 4 Ley 40/2015 dispone que, cuando por ley queden establecidas las prohibiciones o limitaciones o se exija declaración responsable o comunicación, la Administración queda habilitada para comprobar, inspeccionar e investigar el ejercicio de la actividad y el cumplimiento de los requisitos.",
+    "id": "HUE-C1-E29-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La de comprobar, inspeccionar e investigar el ejercicio de la actividad y el cumplimiento de los requisitos establecidos.",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9.3",
+    "enunciado": "¿Qué principio constitucional protege a los ciudadanos frente a la arbitrariedad de los poderes públicos?",
+    "explicacion": "El art. 9.3 CE garantiza, entre otros, el principio de interdicción de la arbitrariedad de los poderes públicos, junto con la legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de lo sancionador no favorable, la seguridad jurídica y la responsabilidad.",
+    "id": "HUE-C1-E29-019",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El principio de interdicción de la arbitrariedad de los poderes públicos (art. 9.3 CE).",
+    "tema": "E29",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103.3",
+    "enunciado": "¿Qué principios rigen el acceso a la función pública según la Constitución?",
+    "explicacion": "El art. 103.3 CE establece que la ley regulará el estatuto de los funcionarios públicos y el acceso a la función pública de acuerdo con los principios de mérito y capacidad.",
+    "id": "HUE-C1-E29-020",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El mérito y la capacidad.",
+    "tema": "E29",
+    "verificado_corpus": false
+  }
+]

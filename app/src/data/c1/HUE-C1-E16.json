@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "Título IV",
+    "enunciado": "¿Cuáles son las fases del procedimiento administrativo?",
+    "explicacion": "Estructura general del procedimiento administrativo común regulado en el Título IV de la Ley 39/2015: iniciación, ordenación, instrucción y finalización.",
+    "id": "HUE-C1-E16-001",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Iniciación, ordenación, instrucción y finalización.",
+    "tema": "E16",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 74",
+    "enunciado": "¿Qué son los actos de ordenación del procedimiento?",
+    "explicacion": "Art. 74.1 Ley 39/2015.",
+    "id": "HUE-C1-E16-002",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los actos necesarios para su impulso y desarrollo: se realizarán de oficio y se adecuarán al principio de celeridad.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 74",
+    "enunciado": "¿En qué orden deben despacharse los asuntos en el procedimiento administrativo?",
+    "explicacion": "Art. 74.2 Ley 39/2015.",
+    "id": "HUE-C1-E16-003",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por riguroso orden de incoación, salvo orden motivada en contrario.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 75",
+    "enunciado": "¿Qué es la instrucción del procedimiento?",
+    "explicacion": "Art. 75 Ley 39/2015: actos de instrucción.",
+    "id": "HUE-C1-E16-004",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto de actos necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 75",
+    "enunciado": "¿Cómo se practican los actos de instrucción del procedimiento?",
+    "explicacion": "Art. 75.1 Ley 39/2015.",
+    "id": "HUE-C1-E16-005",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De oficio por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones que requieran su intervención o constituyan trámites legal o reglamentariamente establecidos.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 76",
+    "enunciado": "¿Pueden los interesados formular alegaciones en el procedimiento?",
+    "explicacion": "Art. 76.1 Ley 39/2015: alegaciones.",
+    "id": "HUE-C1-E16-006",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 77",
+    "enunciado": "¿Cuándo se abre el período de prueba en el procedimiento administrativo?",
+    "explicacion": "Art. 77.1 Ley 39/2015: medios y período de prueba.",
+    "id": "HUE-C1-E16-007",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 77",
+    "enunciado": "¿Qué plazo tiene el período de prueba en el procedimiento administrativo?",
+    "explicacion": "Art. 77.2 Ley 39/2015.",
+    "id": "HUE-C1-E16-008",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No será superior a treinta días ni inferior a diez.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 77",
+    "enunciado": "¿Quién propone las pruebas en el procedimiento administrativo?",
+    "explicacion": "Art. 77.1 y 77.4 Ley 39/2015.",
+    "id": "HUE-C1-E16-009",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El instructor del procedimiento podrá abrir un período de prueba por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes; asimismo, cuando lo considere necesario, el instructor, a petición de los interesados, podrá decidir la apertura de un período extraordinario de prueba por un plazo no superior a diez días.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 79",
+    "enunciado": "¿Qué son los informes en el procedimiento administrativo?",
+    "explicacion": "Art. 79.1 Ley 39/2015: petición.",
+    "id": "HUE-C1-E16-010",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los dictámenes que el órgano instructor puede solicitar de otros órganos o entidades para la resolución del procedimiento; serán facultativos y no vinculantes, salvo disposición en contrario.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿En qué plazo deben emitirse los informes solicitados en el procedimiento?",
+    "explicacion": "Art. 80.1 Ley 39/2015: evacuación.",
+    "id": "HUE-C1-E16-011",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor.",
+    "tema": "E16",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿Qué ocurre si no se emite un informe preceptivo en plazo?",
+    "explicacion": "Art. 80.3 Ley 39/2015.",
+    "id": "HUE-C1-E16-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se podrán proseguir las actuaciones cualquiera que sea el carácter del informe solicitado, excepto en los supuestos de informes preceptivos que sean determinantes para la resolución del procedimiento, en cuyo caso se podrá interrumpir el plazo de los trámites sucesivos.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 82",
+    "enunciado": "¿En qué consiste el trámite de audiencia?",
+    "explicacion": "Art. 82.1 Ley 39/2015: audiencia de los interesados.",
+    "id": "HUE-C1-E16-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para lo que se tendrán en cuenta las limitaciones previstas en su caso en la Ley 19/2013, de 9 de diciembre.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 82",
+    "enunciado": "¿Qué plazo tiene el trámite de audiencia?",
+    "explicacion": "Art. 82.2 Ley 39/2015.",
+    "id": "HUE-C1-E16-014",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un plazo no inferior a diez días ni superior a quince, para alegar y presentar los documentos y justificaciones que estimen pertinentes.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 82",
+    "enunciado": "¿Puede prescindirse del trámite de audiencia?",
+    "explicacion": "Art. 82.4 Ley 39/2015.",
+    "id": "HUE-C1-E16-015",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 88",
+    "enunciado": "¿Qué debe contener la resolución que pone fin al procedimiento administrativo?",
+    "explicacion": "Art. 88.1 Ley 39/2015: contenido mínimo.",
+    "id": "HUE-C1-E16-016",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo; contendrá la decisión, que será motivada en los casos a que se refiere el artículo 35.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 88",
+    "enunciado": "¿Es congruente la resolución que agrava la situación inicial del interesado?",
+    "explicacion": "Art. 88.2 Ley 39/2015: prohíbe la reformatio in pejus.",
+    "id": "HUE-C1-E16-017",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: en ningún caso podrá la Administración abstenerse de resolver so pretexto de silencio, oscuridad o insuficiencia de los preceptos legales aplicables al caso, aunque podrá resolver inadmitiendo las solicitudes de reconocimiento de derechos no previstos en el Ordenamiento jurídico o manifiestamente carentes de fundamento, sin perjuicio del derecho de petición previsto por el artículo 29 de la Constitución.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 94",
+    "enunciado": "¿Qué es el desistimiento en el procedimiento administrativo?",
+    "explicacion": "Art. 94.1 Ley 39/2015: desistimiento y renuncia.",
+    "id": "HUE-C1-E16-018",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El interesado puede desistir de su solicitud y, cuando no esté prohibido por el Ordenamiento Jurídico, renunciar a sus derechos, por cualquier medio que permita su constancia, siempre que incorpore las firmas que correspondan de acuerdo con la normativa aplicable.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 94",
+    "enunciado": "¿Qué diferencia hay entre desistimiento y renuncia?",
+    "explicacion": "Art. 94.1 y 94.4 Ley 39/2015.",
+    "id": "HUE-C1-E16-019",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El desistimiento afecta a la solicitud y al procedimiento, pero no impide volver a ejercitar el derecho en otro procedimiento posterior; la renuncia afecta al derecho mismo, que se extingue y no puede volver a ejercitarse.",
+    "tema": "E16",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 95",
+    "enunciado": "¿Qué es la caducidad del procedimiento administrativo?",
+    "explicacion": "Art. 95.1 Ley 39/2015: requisitos y efectos.",
+    "id": "HUE-C1-E16-020",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento; la caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.",
+    "tema": "E16",
+    "verificado_corpus": false
+  }
+]

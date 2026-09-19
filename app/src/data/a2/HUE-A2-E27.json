@@ -1,0 +1,82 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el concepto de contrato de trabajo y sus clases (arts. 1, 11, 12, 15 y 16 RDL 2/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir la modificación (arts. 39-41), la suspensión (arts. 45 y 48) y la extinción (art. 49) de la relación laboral.",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el despido disciplinario y la calificación de improcedencia con su indemnización (arts. 54-56).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el contrato de relevo (art. 12 ET) y la jubilación parcial (art. 215 LGSS)."
+  ],
+  "id": "HUE-A2-E27",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 7 y 11",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Régimen específico: el personal laboral al servicio de las Administraciones públicas se rige por la legislación laboral, por el convenio colectivo aplicable y por los preceptos del Estatuto Básico que así lo dispongan; es personal laboral quien presta servicios retribuidos en virtud de contrato de trabajo formalizado por escrito.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 1.1",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Concepto de contrato de trabajo: prestación voluntaria de servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección del empresario; notas caracterizadoras: voluntariedad, ajenidad, dependencia y retribución.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Fuentes de la relación laboral: las disposiciones legales y reglamentarias del Estado, los convenios colectivos, la voluntad de las partes manifestada en el contrato y los usos y costumbres locales y profesionales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 11, 12, 15 y 16",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Clases: contrato indefinido como regla y contratos de duración determinada por circunstancias de la producción o por sustitución de persona trabajadora (art. 15); contratos formativos para la obtención de la práctica profesional y de formación en alternancia (art. 11); contrato a tiempo parcial (art. 12) y contrato fijo discontinuo (art. 16).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Contrato de relevo: se concierta con un trabajador en situación de desempleo o con contrato temporal para sustituir a otro que accede a la jubilación parcial, con la correlativa reducción de jornada; su duración se extiende como mínimo hasta la jubilación total del trabajador relevado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 39, 40 y 41",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Modificación: movilidad funcional dentro del grupo profesional (art. 39), movilidad geográfica mediante traslados y desplazamientos temporales (art. 40) y modificación sustancial de condiciones de trabajo por causas económicas, técnicas, organizativas o de producción, con periodo de consultas con los representantes (art. 41).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 45 y 48",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Suspensión: mutuo acuerdo, incapacidad temporal, nacimiento y cuidado del menor, riesgo durante el embarazo o la lactancia, excedencia forzosa, privación de libertad sin sentencia, huelga, cierre legal y violencia de género, entre otras causas (art. 45); excedencias forzosa, voluntaria y por cuidado de familiares (art. 48).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 49",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Extinción: mutuo acuerdo de las partes, causas consignadas válidamente en el contrato, expiración del tiempo convenido, dimisión del trabajador, jubilación, causas objetivas legalmente procedentes y despido disciplinario, entre otras.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 54 y 55",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Despido disciplinario: incumplimiento grave y culpable del trabajador (faltas de asistencia o puntualidad, indisciplina, ofensas, transgresión de la buena fe contractual, disminución continuada del rendimiento, embriaguez o toxicomanía, acoso); exige notificación escrita con los hechos motivadores y la fecha de efectos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 56",
+      "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+      "punto": "Calificación: el despido declarado improcedente da al empresario la opción entre la readmisión y la indemnización de treinta y tres días de salario por año de servicio, prorrateándose por meses los periodos inferiores a un año, hasta un máximo de veinticuatro mensualidades.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 215",
+      "ley": "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social",
+      "punto": "Jubilación parcial: el trabajador que haya cumplido la edad ordinaria de jubilación puede acceder a ella con una reducción de jornada entre el 25 y el 75 por 100, sin necesidad de contrato de relevo; antes de la edad ordinaria, con simultáneo contrato de relevo, la reducción será también del 25 al 75 por 100 (del 20 al 33 por 100 durante el primer año si se anticipa más de dos años), y el contrato de relevo tendrá carácter indefinido y a jornada completa, compatibilizando el salario a tiempo parcial con la pensión de jubilación.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E27",
+  "titulo": "El régimen específico del personal laboral: regulación jurídica. El contrato de trabajo: concepto y clases. Modificación, suspensión y extinción de la relación laboral. Especial referencia al contrato de relevo y a la jubilación parcial"
+}

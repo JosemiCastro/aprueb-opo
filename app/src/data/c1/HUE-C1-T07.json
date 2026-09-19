@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "art. 4.1",
+  "enunciado": "¿Quiénes tienen la consideración de interesados en el procedimiento administrativo según el art. 4.1 de la Ley 39/2015?",
+  "explicacion": "El art. 4.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece los tres supuestos taxativos de interesado: quienes lo promuevan como titulares de derechos o intereses legítimos; quienes, sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión; y titulares de intereses legítimos que se personan antes de que recaiga resolución definitiva.",
+  "id": "HUE-C1-T07-001",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos; b) los que, sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte; c) quienes tengan intereses legítimos, individuales o colectivos, que puedan resultar afectados por la resolución y se personen antes de que recaiga resolución definitiva.",
+  "tema": 7,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 4.2 y art. 5",
+  "enunciado": "¿Puede el interesado actuar a través de representante en el procedimiento administrativo? ¿Quiénes pueden ser representantes de las personas interesadas?",
+  "explicacion": "El art. 4.2 Ley 39/2015 consagra la actuación mediante representante, y el art. 5 regula la representación: se presume para los actos de mero trámite salvo oposición, y debe acreditarse para formular solicitudes, presentar declaraciones responsables, interponer recursos, desistir de acciones y renunciar a derechos.",
+  "id": "HUE-C1-T07-002",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Sí, salvo manifestación expresa en contrario, el interesado puede actuar por medio de representante (art. 4.2). Pueden actuar en representación otras personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos, o resulte de la normativa por la que se rijan (art. 5.2).",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 3",
+  "enunciado": "¿Quiénes tienen capacidad de obrar ante las Administraciones Públicas según el art. 3 de la Ley 39/2015?",
+  "explicacion": "El art. 3 Ley 39/2015 regula la capacidad de obrar en el procedimiento administrativo, extendiéndola más allá de la capacidad civil plena para incluir a menores en el ámbito de sus derechos y a entes sin personalidad cuando una ley lo declare.",
+  "id": "HUE-C1-T07-003",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles; b) los menores de edad para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de quienes ejerzan la patria potestad, tutela o curatela; c) cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 13",
+  "enunciado": "Enumera tres derechos de las personas en sus relaciones con las Administraciones Públicas recogidos en el art. 13 de la Ley 39/2015.",
+  "explicacion": "El art. 13 Ley 39/2015 recoge los derechos generales de las personas (interesadas o no) frente a las Administraciones Públicas, destacando la comunicación electrónica, la asistencia digital, la no aportación reiterada de documentos y la información sobre el estado del procedimiento.",
+  "id": "HUE-C1-T07-004",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Entre otros: a) a comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico; b) a ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas; c) a no aportar aquellos datos y documentos no exigidos por las normas aplicables o que ya se encuentren en poder de las Administraciones Públicas; d) a conocer en cualquier momento el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 14",
+  "enunciado": "Según el art. 14 de la Ley 39/2015, ¿quiénes están OBLIGADOS a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite?",
+  "explicacion": "El art. 14.2 Ley 39/2015 impone la obligación de relacionarse electrónicamente a los cinco colectivos enumerados; el art. 14.1 reconoce, en cambio, el derecho (no la obligación) de las personas físicas a elegir en todo momento el canal de comunicación.",
+  "id": "HUE-C1-T07-005",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Están obligados: a) las personas jurídicas; b) las entidades sin personalidad jurídica; c) quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional; d) quienes representen a un interesado obligado a relacionarse electrónicamente; e) los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 53.1",
+  "enunciado": "Cita cuatro derechos del interesado en el procedimiento administrativo recogidos en el art. 53.1 de la Ley 39/2015.",
+  "explicacion": "El art. 53.1 Ley 39/2015 regula los derechos específicos del interesado en el procedimiento (distintos de los derechos generales del art. 13), reforzando la transparencia del procedimiento, la aportación de documentos y la defensa técnica.",
+  "id": "HUE-C1-T07-006",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tenga la condición de interesado y la identidad de las personas o autoridades y del personal que los tramiten; b) a no presentar datos y documentos no exigidos o que ya se encuentren en poder de las Administraciones Públicas; c) a formular alegaciones, utilizar los medios de defensa admitidos por el ordenamiento jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia; d) a actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 82",
+  "enunciado": "¿En qué consiste el trámite de audiencia a los interesados y cuál es su plazo según la Ley 39/2015?",
+  "explicacion": "El art. 82 Ley 39/2015 regula el trámite de audiencia, garantía esencial del derecho de defensa: se practica antes de la propuesta de resolución, salvo que no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
+  "id": "HUE-C1-T07-007",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución, se pondrá de manifiesto a los interesados o, en su caso, a sus representantes. Los interesados podrán alegar y presentar los documentos y justificaciones que estimen pertinentes en un plazo no inferior a diez días ni superior a quince (días hábiles).",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 83",
+  "enunciado": "¿Qué plazo mínimo tiene el trámite de información pública y en qué procedimientos NO se aplica según el art. 83 de la Ley 39/2015?",
+  "explicacion": "El art. 83 Ley 39/2015 regula la información pública: el órgano al que corresponda la resolución puede acordarla cuando la naturaleza del procedimiento lo requiera, con anuncio en el diario oficial correspondiente y plazo mínimo de veinte días hábiles.",
+  "id": "HUE-C1-T07-008",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El plazo para formular alegaciones no podrá ser inferior a veinte días hábiles. No se aplica: a) a la elaboración de disposiciones de carácter tributario; b) a los procedimientos sancionadores o disciplinarios; c) cuando, en procedimientos en que participen organizaciones o asociaciones que representen intereses económicos y sociales, estas hayan participado por medio de informes o consultas que les sean preceptivas.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 29",
+  "enunciado": "¿Qué reconoce el art. 29 de la Constitución Española y ante quién puede ejercerse?",
+  "explicacion": "El art. 29 CE consagra el derecho de petición como cauce básico de colaboración y participación de los ciudadanos en la Administración, ejercitable ante todos los poderes públicos.",
+  "id": "HUE-C1-T07-009",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Reconoce el derecho de petición, individual y colectiva, por escrito, en la forma y con los efectos que determine la ley. Puede ejercerse ante todos los poderes públicos; los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercerlo solo individualmente y con arreglo a lo dispuesto en su legislación específica.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 18",
+  "enunciado": "Enumera cuatro derechos que el art. 18 de la Ley 7/1985 reconoce a los vecinos.",
+  "explicacion": "El art. 18 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, reconoce los derechos de los vecinos, entre los que destacan la participación en la gestión municipal, el uso de los servicios públicos y el acceso a la información y a la documentación municipal.",
+  "id": "HUE-C1-T07-010",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral; b) participar en la gestión municipal de acuerdo con lo dispuesto en las leyes; c) utilizar, de acuerdo con su naturaleza, los servicios públicos municipales y acceder a los aprovechamientos comunales, conforme a las normas aplicables; d) ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en lo referente a todos los expedientes y documentación municipal.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 18",
+  "enunciado": "¿Qué otros derechos vecinales reconoce el art. 18 de la Ley 7/1985 además del de ser elector y elegible? Cita tres.",
+  "explicacion": "El art. 18 Ley 7/1985 completa el estatuto del vecino con el derecho a contribuir al sostenimiento municipal, pedir consulta popular y exigir la prestación de los servicios públicos obligatorios.",
+  "id": "HUE-C1-T07-011",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "a) Contribuir mediante las prestaciones económicas y personales legalmente previstas a la realización de las competencias municipales; b) pedir la consulta popular en los términos previstos en la Ley; c) exigir la prestación y, en su caso, el establecimiento del correspondiente servicio público, en el supuesto de constituir una competencia municipal propia de carácter obligatorio.",
+  "tema": 7,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 69",
+  "enunciado": "¿Qué establece el art. 69 de la Ley 7/1985 sobre información y participación ciudadana en el ámbito local?",
+  "explicacion": "El art. 69 Ley 7/1985 impone a las Corporaciones locales el deber de facilitar la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.",
+  "id": "HUE-C1-T07-012",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 70",
+  "enunciado": "¿Qué formas de participación en la gestión municipal debe garantizar la legislación de régimen local según el art. 70 de la Ley 7/1985?",
+  "explicacion": "El art. 70 Ley 7/1985 remite a las leyes (estatales y autonómicas) el establecimiento de formas, medios y procedimientos de participación vecinal en la gestión municipal.",
+  "id": "HUE-C1-T07-013",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las leyes establecerán las formas, medios y procedimientos de participación de los vecinos, individual o colectivamente, en la gestión municipal.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 71",
+  "enunciado": "¿Qué requisitos exige el art. 71 de la Ley 7/1985 para someter a consulta popular un asunto de competencia local?",
+  "explicacion": "El art. 71 Ley 7/1985 regula la consulta popular municipal: requiere acuerdo por mayoría absoluta del Pleno y autorización del Gobierno de la Nación, y solo cabe en materias de competencia propia municipal de carácter local, excluyendo las relativas a la Hacienda local.",
+  "id": "HUE-C1-T07-014",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "De conformidad con la legislación del Estado y de la Comunidad Autónoma, cuando esta tenga competencia estatutariamente atribuida, los Alcaldes, previo acuerdo por mayoría absoluta del Pleno y autorización del Gobierno de la Nación, podrán someter a consulta popular aquellos asuntos de la competencia propia municipal y de carácter local que sean de especial relevancia para los intereses de los vecinos, con excepción de los relativos a la Hacienda local.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 72",
+  "enunciado": "¿Qué papel atribuye el art. 72 de la Ley 7/1985 a las asociaciones vecinales?",
+  "explicacion": "El art. 72 Ley 7/1985 consagra la colaboración de las Corporaciones locales con las asociaciones vecinales: pueden declararlas de utilidad pública, subvencionarlas y darles acceso a los medios públicos municipales.",
+  "id": "HUE-C1-T07-015",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las Corporaciones locales favorecen el desarrollo de las asociaciones para la defensa de los intereses generales o sectoriales de los vecinos, les facilitan la más amplia información sobre sus actividades y, dentro de sus posibilidades, el uso de los medios públicos y el acceso a las ayudas económicas para la realización de sus actividades; pueden declarar de utilidad pública las asociaciones de vecinos y ser declaradas de utilidad pública municipal.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 13",
+  "enunciado": "¿Qué derecho tienen las personas respecto al uso de las lenguas en sus relaciones con las Administraciones Públicas según el art. 13 de la Ley 39/2015?",
+  "explicacion": "El art. 13.c) Ley 39/2015 reconoce el derecho a utilizar las lenguas oficiales en el territorio de la Comunidad Autónoma, en desarrollo del principio de cooficialidad lingüística del art. 3 CE.",
+  "id": "HUE-C1-T07-016",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la Ley 39/2015 y en el resto del ordenamiento jurídico.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 5.4",
+  "enunciado": "¿Cómo se puede acreditar la representación en el procedimiento administrativo? ¿Y mediante qué medio se puede otorgar apud acta?",
+  "explicacion": "El art. 5.4 Ley 39/2015 establece los medios de acreditación de la representación: apud acta presencial o electrónico, acreditación de la inscripción en el registro electrónico de apoderamientos, y cualquier medio válido en Derecho que deje constancia fidedigna.",
+  "id": "HUE-C1-T07-017",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia. Se entenderá acreditada la representación realizada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica, o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 53.1",
+  "enunciado": "¿En qué momento del procedimiento puede el interesado formular alegaciones y aportar documentos según el art. 53.1 de la Ley 39/2015?",
+  "explicacion": "El art. 53.1.e) Ley 39/2015 reconoce el derecho a formular alegaciones y aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+  "id": "HUE-C1-T07-018",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "En cualquier fase del procedimiento anterior al trámite de audiencia. Las alegaciones y documentos deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 14.1",
+  "enunciado": "¿Qué derecho reconoce el art. 14.1 de la Ley 39/2015 a las personas físicas en su relación con las Administraciones Públicas?",
+  "explicacion": "El art. 14.1 Ley 39/2015 consagra el principio de voluntariedad electrónica para las personas físicas: tienen derecho a elegir en todo momento si se comunican por medios electrónicos o no, salvo que estén obligadas por el art. 14.2 o por una norma con rango de ley.",
+  "id": "HUE-C1-T07-019",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas por el art. 14.2. El medio elegido podrá ser modificado por aquella en cualquier momento.",
+  "tema": 7,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 13",
+  "enunciado": "Según el art. 13 de la Ley 39/2015, ¿qué derecho asiste a las personas respecto a los actos administrativos que les afecten y a la responsabilidad de las Administraciones?",
+  "explicacion": "El art. 13.h) Ley 39/2015 recoge el derecho a exigir las responsabilidades de las Administraciones Públicas y autoridades, en desarrollo del art. 106.2 CE; y el art. 13.g) el derecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes.",
+  "id": "HUE-C1-T07-020",
+  "ley": "Ley 39/2015",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "A exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando legalmente corresponda (art. 13.h). Además, tienen derecho a obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar (art. 13.g).",
+  "tema": 7,
+  "verificado_corpus": false
+ }
+]

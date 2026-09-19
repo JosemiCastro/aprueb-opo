@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar los derechos individuales y los deberes de los empleados públicos (arts. 14 y 52 RDL 5/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar los derechos de ejercicio colectivo: sindicación, representación, huelga y negociación (art. 15).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el derecho de huelga: fundamento constitucional, preaviso y servicios esenciales (art. 28.2 CE, RDL 17/1977).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir la negociación colectiva: principios, materias, mesas, pactos y acuerdos (arts. 31-38 RDL 5/2015)."
+  ],
+  "id": "HUE-A2-E28",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 14",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Derechos individuales: inamovilidad en la condición de funcionario de carrera, desempeño efectivo de las funciones del puesto, progresión en la carrera profesional y promoción interna, percepción de las retribuciones, defensa jurídica, formación continua, entre otros.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 15",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Derechos individuales de ejercicio colectivo: libertad sindical, negociación colectiva y participación en la determinación de las condiciones de trabajo, ejercicio de la huelga con la garantía del mantenimiento de los servicios esenciales, planteamiento de conflictos colectivos de trabajo y de reunión.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 52",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Deberes: los empleados públicos deben desempeñar sus funciones con objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad y accesibilidad; se desarrollan en los principios éticos (art. 53) y de conducta (art. 54).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 1 y 2",
+      "ley": "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",
+      "punto": "Sindicación: todos los trabajadores tienen derecho a sindicarse libremente para la promoción y defensa de sus intereses económicos y sociales, incluido el personal al servicio de las Administraciones públicas; comprende fundar sindicatos, afiliarse al de su elección y no ser obligado a afiliarse (art. 28.1 CE).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 39-44",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Representación: los funcionarios se representan mediante delegados de personal y juntas de personal, con funciones de información, negociación y vigilancia del cumplimiento de la normativa; el personal laboral se rige por la legislación laboral (delegados y comités de empresa).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 28.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Derecho de huelga: se reconoce a los trabajadores para la defensa de sus intereses; la ley que regule su ejercicio establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 3, 4 y 10",
+      "ley": "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo",
+      "punto": "Ejercicio de la huelga: requiere preaviso de cinco días, o de diez días cuando afecte a empresas encargadas de la prestación de servicios públicos; la autoridad gubernativa puede acordar las medidas necesarias para asegurar el funcionamiento de los servicios públicos o de reconocida e inaplazable necesidad (servicios mínimos).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 31, 33 y 37",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Negociación colectiva: principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia (art. 31); tiene por objeto la determinación de las condiciones de trabajo de los funcionarios (art. 33), siendo materias negociables las retribuciones, la jornada, la formación, la acción social y los planes de igualdad, entre otras (art. 37).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 34-36",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Mesas de negociación: mesa general de negociación de las Administraciones públicas y, en cada Administración, mesas generales de negociación comunes para el personal funcionario y laboral; su constitución y composición se rigen por criterios de representatividad sindical.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 38",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Pactos y acuerdos: los pactos se celebran sobre materias de competencia del órgano que los suscribe y se aplican directamente al personal del ámbito correspondiente; los acuerdos versan sobre materias de competencia de los órganos de gobierno y requieren para su validez la aprobación expresa y formal de dichos órganos.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E28",
+  "titulo": "Derechos y deberes individuales de los empleados públicos. Derechos de ejercicio colectivo. Sindicación y representación. El derecho de huelga. La negociación colectiva"
+}

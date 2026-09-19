@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: los sujetos del contrato (aptitud, prohibiciones, solvencia) y el objeto contractual.",
+    "Puedo desarrollar este tema por escrito en 2 horas: presupuesto base de licitación, valor estimado y precio, con sus definiciones legales.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la revisión de precios, sus requisitos y límites.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las garantías provisional y definitiva: cuantías, formas y devolución.",
+    "Puedo citar con precisión los artículos 65, 71, 99, 100, 101, 102, 103, 106 y 107 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E33",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 65",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Sujetos: aptitud para contratar con el sector público. Solo podrán contratar las personas naturales o jurídicas que tengan plena capacidad de obrar, no estén incursas en alguna prohibición de contratar y acrediten su solvencia económica, financiera y técnica o profesional.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 71",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Prohibiciones de contratar: no podrán contratar, entre otros, quienes hayan sido condenados por delitos de corrupción, fraude o contra la Hacienda Pública, quienes estén incursos en concurso sin convenio, quienes no estén al corriente en obligaciones tributarias o de Seguridad Social, o hayan incurrido en falsedad en la declaración responsable.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 99",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Objeto del contrato: deberá ser determinado. No podrá fraccionarse un contrato con la finalidad de disminuir su cuantía y eludir así los requisitos de publicidad o el procedimiento de adjudicación que corresponda; siempre que la naturaleza o el objeto lo permitan deberá preverse la realización independiente de sus partes mediante su división en lotes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 100",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Presupuesto base de licitación: es el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido; deberá ser adecuado a los precios del mercado y desglosarse indicando los costes directos e indirectos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 101",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Valor estimado: vendrá determinado por el importe total pagadero según las estimaciones del órgano de contratación, sin incluir el IVA; deberá tenerse en cuenta cualquier forma de opción eventual, las eventuales prórrogas, las primas o pagos a los licitadores y las modificaciones previstas. Determina la sujeción a regulación armonizada y el procedimiento.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 102",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Precio: los contratos del sector público tendrán siempre un precio cierto, que se abonará al contratista en función de la prestación realmente ejecutada y de acuerdo con lo convenido; con carácter general comprenderá la totalidad de los tributos que graven la operación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 103",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Revisión de precios: tendrá lugar en los términos establecidos cuando se haya ejecutado al menos el 20 por ciento del importe del contrato y hubiesen transcurrido dos años desde su formalización; el importe de las revisiones no podrá superar el 85 por ciento de la variación experimentada por el índice adoptado. No cabe revisión en contratos con precio cerrado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 106",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Garantía provisional: en los procedimientos abiertos y restringidos los órganos de contratación podrán exigir una garantía provisional que no podrá ser superior al 3 por ciento del presupuesto base de licitación, IVA excluido; se extinguirá automáticamente y será devuelta tras la perfección del contrato.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 107",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Garantía definitiva: el licitador que presente la mejor oferta deberá constituir garantía definitiva del 5 por ciento del precio final ofertado, excluido el IVA; en casos especiales podrá exigirse una garantía complementaria de hasta un 5 por ciento adicional. Responde de las penalidades, la correcta ejecución y los daños y perjuicios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 108 y 111",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Las garantías podrán prestarse en efectivo o valores de Deuda Pública, mediante aval o mediante contrato de seguro de caución (art. 108). La garantía definitiva será devuelta o cancelada cuando se haya producido el vencimiento del plazo de garantía y cumplido satisfactoriamente el contrato, o cuando se resuelva sin culpa del contratista (art. 111).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E33",
+  "titulo": "La contratación en el sector público: sujetos. Objeto. Presupuesto base de licitación y valor estimado. Precio. Revisión de precios. Garantías."
+}

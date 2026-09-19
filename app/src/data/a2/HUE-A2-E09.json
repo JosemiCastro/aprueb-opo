@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la naturaleza y la normativa de la jurisdicción contencioso-administrativa (art. 1 Ley 29/1998).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el ámbito y la extensión del orden contencioso-administrativo (arts. 1 a 3).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los órganos del orden jurisdiccional contencioso-administrativo (arts. 8 a 12).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las partes en el proceso contencioso: capacidad, legitimación y representación (arts. 18 y 19).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el objeto del recurso contencioso-administrativo y las pretensiones de las partes (arts. 25 y 31)."
+  ],
+  "id": "HUE-A2-E09",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Naturaleza: los Juzgados y Tribunales del orden contencioso-administrativo conocerán de las pretensiones que se deduzcan en relación con la actuación de las Administraciones Públicas sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos legislativos cuando excedan los límites de la delegación. Se entenderá a estos efectos por Administraciones Públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración local y las entidades de Derecho Público vinculadas o dependientes de las anteriores.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Normativa: la jurisdicción contencioso-administrativa se regula por la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, complementada por la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en lo relativo a la planta y organización de los órganos jurisdiccionales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Ámbito: el orden jurisdiccional contencioso-administrativo conocerá de las cuestiones que se susciten en relación con la protección jurisdiccional de los derechos fundamentales, los actos y disposiciones de las Corporaciones de Derecho Público adoptados en el ejercicio de funciones públicas, los actos de la Administración electoral, los actos del Consejo General del Poder Judicial, del Congreso de los Diputados, del Senado, del Tribunal Constitucional, del Tribunal de Cuentas y del Defensor del Pueblo en materia de personal, administración y gestión patrimonial, y los contratos administrativos y actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación de las Administraciones Públicas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Extensión (materias excluidas): no corresponden al orden jurisdiccional contencioso-administrativo las cuestiones expresamente atribuidas a los órdenes jurisdiccionales civil, penal y social, aunque estén relacionadas con la actividad de la Administración Pública; el recurso contencioso-disciplinario militar; y los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración Pública y los conflictos de atribuciones entre órganos de una misma Administración.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 8 a 12",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Órganos: la potestad jurisdiccional contencioso-administrativa se ejerce por los Juzgados de lo Contencioso-administrativo (art. 8), los Juzgados Centrales de lo Contencioso-administrativo (art. 9), las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia (art. 10), la Sala de lo Contencioso-administrativo de la Audiencia Nacional (art. 11) y la Sala de lo Contencioso-administrativo del Tribunal Supremo (art. 12).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 18",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Capacidad procesal: tienen capacidad procesal ante el orden jurisdiccional contencioso-administrativo, además de quienes la ostenten con arreglo a la Ley de Enjuiciamiento Civil, los menores de edad para la defensa de aquellos de sus derechos e intereses legítimos cuya actuación les esté permitida por el ordenamiento jurídico sin necesidad de asistencia de la persona que ejerza la patria potestad, tutela o curatela, y los grupos de afectados, uniones sin personalidad jurídica y patrimonios independientes o autónomos cuando la ley así lo declare expresamente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 19",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Legitimación: están legitimados ante el orden jurisdiccional contencioso-administrativo las personas físicas o jurídicas que ostenten un derecho o interés legítimo; las corporaciones, asociaciones, sindicatos y grupos y entidades que resulten afectados o estén legalmente habilitados para la defensa de los derechos e intereses legítimos colectivos; y las Administraciones Públicas para impugnar los actos y disposiciones de otra Administración cuando ostenten un derecho o interés legítimo o actúen en defensa de sus competencias.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 21",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Representación y defensa: las partes deberán conferir su representación a un Procurador y ser asistidas, en todo caso, por Abogado. En los recursos contra actos de las Administraciones Públicas, la representación y defensa de éstas corresponderá a los Letrados de sus respectivos servicios jurídicos o, en su defecto, a Abogado colegiado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 25",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Objeto del recurso: el recurso contencioso-administrativo es admisible en relación con las disposiciones de carácter general y con los actos expresos y presuntos de la Administración Pública que pongan fin a la vía administrativa, ya sean definitivos o de trámite si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos o intereses legítimos. También es admisible el recurso contra la inactividad de la Administración (art. 29) y contra las actuaciones materiales que constituyan vía de hecho (art. 30).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 31 y 44",
+      "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+      "punto": "Pretensiones y litigios entre Administraciones: el demandante podrá pretender la declaración de no ser conformes a Derecho y, en su caso, la anulación de los actos y disposiciones impugnados; el reconocimiento de una situación jurídica individualizada y la adopción de las medidas adecuadas para su pleno restablecimiento; el resarcimiento de daños y perjuicios; y, frente a la inactividad o la vía de hecho, la condena a la Administración a realizar la actividad debida o el cese de la actuación material (art. 31). En los litigios entre Administraciones Públicas no cabrá interponer recurso en vía administrativa, si bien la Administración demandante podrá requerir previamente a la demandada para que derogue la disposición o anule el acto (art. 44).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E09",
+  "titulo": "La jurisdicción contencioso-administrativa. Naturaleza. Normativa. Ámbito y extensión. Órganos. Las partes. Objeto del recurso."
+}

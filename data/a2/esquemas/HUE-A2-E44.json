@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: las fases de ejecución del presupuesto de gastos (autorización, disposición, reconocimiento y ordenación del pago).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ejecución del presupuesto de ingresos y la ordenación de pagos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las modificaciones de crédito: créditos extraordinarios, suplementos, transferencias, generación e incorporación de remanentes.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el cierre y la liquidación del presupuesto: contenido, aprobación y remanente de tesorería.",
+    "Puedo citar con precisión los artículos 177, 182, 184, 186, 191, 192 y 193 del TRLRHL y los artículos 52 a 54 del RD 500/1990."
+  ],
+  "id": "HUE-A2-E44",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 184",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Fases de la gestión del presupuesto de gastos: la gestión presupuestaria se realizará en las siguientes fases: autorización del gasto, disposición o compromiso del gasto, reconocimiento o liquidación de la obligación y ordenación del pago.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 52 a 54",
+      "ley": "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, en materia de presupuestos",
+      "punto": "Definición de las fases: la autorización (A) es el acto por el que se acuerda la realización de un gasto determinado por una cuantía cierta o aproximada; la disposición (D) es el acto por el que se acuerda la realización concreta del gasto previamente autorizado; el reconocimiento y liquidación de la obligación (O) es el acto por el que se declara la existencia de un crédito exigible contra la entidad; la ordenación del pago (P) es el acto por el que el ordenador de pagos dispone el pago de la obligación reconocida.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 185",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Competencias en materia de gestión: dentro del importe de los créditos autorizados corresponderá la autorización y disposición de los gastos al presidente o al Pleno según la cuantía y la materia; corresponderá al presidente el reconocimiento y liquidación de las obligaciones derivadas de compromisos de gastos legalmente adquiridos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 186",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Ordenación de pagos: compete al presidente de la entidad local; la expedición de las órdenes de pago habrá de acomodarse al plan de disposición de fondos de la tesorería que se establezca por el presidente, con la prioridad legal de los gastos de personal y las obligaciones de ejercicios anteriores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 187",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "La tesorería de las entidades locales se regirá por el principio de unidad de caja y por lo dispuesto en el plan de disposición de fondos, que recogerá necesariamente la prioridad de los gastos de personal y de las obligaciones contraídas en ejercicios anteriores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 177",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Modificaciones de crédito: cuando haya de realizarse algún gasto que no pueda demorarse hasta el ejercicio siguiente y no exista crédito en el presupuesto, el presidente ordenará la incoación del expediente de concesión de crédito extraordinario (gasto sin crédito) o de suplemento de crédito (crédito insuficiente); su aprobación corresponde al Pleno y se financiarán con remanente de tesorería, nuevos ingresos o bajas de otros créditos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 182",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Incorporación de remanentes de crédito: los créditos para gastos que en el último día del ejercicio no estén afectados al cumplimiento de obligaciones reconocidas quedarán anulados de pleno derecho, sin perjuicio de que puedan incorporarse al ejercicio siguiente los remanentes de crédito no utilizados procedentes de créditos extraordinarios, suplementos, ampliaciones, créditos generados por ingresos y compromisos de gasto debidamente adquiridos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 191",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Cierre y liquidación: el presupuesto de cada ejercicio se liquidará en cuanto a la recaudación de derechos y al pago de obligaciones el 31 de diciembre del año natural; la confección de los estados demostrativos de la liquidación deberá realizarse antes del día primero de marzo del ejercicio siguiente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 192",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Contenido de la liquidación: la liquidación pondrá de manifiesto, respecto al presupuesto de gastos y para cada partida, los créditos iniciales, sus modificaciones y los créditos definitivos, los gastos comprometidos, las obligaciones reconocidas netas, los pagos ordenados y los realizados; y determinará los derechos pendientes de cobro y las obligaciones pendientes de pago a 31 de diciembre, el resultado presupuestario del ejercicio, los remanentes de crédito y el remanente de tesorería.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 193",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Aprobación de la liquidación: corresponderá al presidente de la entidad local, previo informe de la Intervención; de la liquidación se dará cuenta al Pleno en la primera sesión que celebre y se remitirá copia a la Administración del Estado y a la comunidad autónoma antes de finalizar el mes de marzo.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E44",
+  "titulo": "La ejecución y liquidación del presupuesto de las entidades locales."
+}

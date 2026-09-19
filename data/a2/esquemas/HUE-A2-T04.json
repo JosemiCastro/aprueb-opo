@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos de las personas en sus relaciones con las Administraciones Públicas (art. 13 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto de interesado y sus derechos en el procedimiento (arts. 4 y 53 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el fundamento constitucional de la participación ciudadana (arts. 9.2, 23, 29 y 105 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos de los vecinos y las formas de participación en la Administración local (arts. 18, 69, 70 bis, 71 y 72 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la audiencia en la elaboración de disposiciones y el acceso a archivos y registros administrativos."
+  ],
+  "id": "HUE-A2-T04",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 9.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Mandato de participación: corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 23.1 y 29",
+      "ley": "Constitución Española de 1978",
+      "punto": "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes libremente elegidos en elecciones periódicas por sufragio universal (art. 23.1), y el derecho de petición, individual y colectiva, por escrito, en la forma y con los efectos que determine la ley (art. 29).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 105",
+      "ley": "Constitución Española de 1978",
+      "punto": "La ley regulará: a) la audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten; b) el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas; c) el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 13",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Derechos de las personas en sus relaciones con las Administraciones Públicas: comunicarse a través de un punto de acceso general electrónico; ser asistidos en el uso de medios electrónicos; utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma; acceder a la información pública, archivos y registros; ser tratados con respeto y deferencia por las autoridades y empleados públicos; exigir las responsabilidades de las Administraciones Públicas y autoridades; obtener y utilizar los medios de identificación y firma electrónica; y cualesquiera otros que les reconozcan la Constitución y las leyes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 14",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Derecho y obligación de relacionarse electrónicamente: las personas físicas podrán elegir en todo momento si se comunican por medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos. Están obligados: las personas jurídicas, las entidades sin personalidad jurídica, quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, quienes representen a un interesado que esté obligado, y los empleados de las Administraciones Públicas para los trámites que realicen con ellas por razón de su condición.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 53",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Derechos del interesado en el procedimiento administrativo: conocer el estado de la tramitación y el sentido del silencio; identificar a las autoridades y al personal responsable; no presentar documentos originales salvo excepciones; no presentar datos y documentos ya en poder de las Administraciones Públicas o elaborados por cualquier Administración; formular alegaciones y aportar documentos en cualquier fase anterior al trámite de audiencia; obtener información y orientación; actuar asistidos de asesor; y cumplir las obligaciones de pago a través de medios electrónicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Consideración especial del interesado: se consideran interesados en el procedimiento administrativo los titulares de derechos o intereses legítimos individuales o colectivos; quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte; y aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 18",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Derechos y deberes de los vecinos: ser elector y elegible; participar en la gestión municipal; utilizar los servicios públicos municipales y acceder a los aprovechamientos comunales; contribuir a la realización de las competencias municipales; ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal (art. 105 CE); pedir la consulta popular; exigir la prestación de los servicios públicos de competencia municipal obligatoria; y ejercer la iniciativa popular.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 69",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Información y participación en la vida local: las Corporaciones locales facilitarán la más amplia información sobre su actividad y la participación de todos los ciudadanos en la vida local, sin perjuicio de las facultades de decisión correspondientes a los órganos representativos regulados por la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 70 bis",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Iniciativa popular local: los vecinos que gocen del derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal, suscritas al menos por el 20 % de los vecinos en municipios de hasta 5.000 habitantes, el 15 % en los de 5.001 a 20.000 y el 10 % en los de más de 20.000.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 71 y 72",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Consulta popular y asociacionismo: los Alcaldes, previo acuerdo por mayoría absoluta del Pleno y autorización del Gobierno de la Nación, podrán someter a consulta popular los asuntos de la competencia propia municipal y de carácter local que sean de especial relevancia para los intereses de los vecinos, con excepción de los relativos a la Hacienda local (art. 71). Las Corporaciones locales favorecerán el desarrollo de las asociaciones vecinales, facilitándoles la más amplia información sobre sus actividades y, dentro de sus posibilidades, el uso de los medios públicos y el acceso a las ayudas económicas (art. 72).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 4,
+  "titulo": "Los derechos del ciudadano ante la Administración Pública. Consideración especial del interesado. Colaboración y participación de los ciudadanos en la Administración, con especial referencia a la Administración local."
+}

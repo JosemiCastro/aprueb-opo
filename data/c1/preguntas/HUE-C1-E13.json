@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 70",
+    "enunciado": "¿Qué es un expediente administrativo?",
+    "explicacion": "Art. 70.1 Ley 39/2015.",
+    "id": "HUE-C1-E13-001",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+    "tema": "E13",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Cómo deben formarse los expedientes administrativos?",
+    "explicacion": "Art. 70.2 Ley 39/2015.",
+    "id": "HUE-C1-E13-002",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De forma electrónica, y se conservarán en este mismo formato.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué debe contener el expediente electrónico?",
+    "explicacion": "Art. 70.3 Ley 39/2015, desarrollado por el Esquema Nacional de Interoperabilidad y las Normas Técnicas de Interoperabilidad.",
+    "id": "HUE-C1-E13-003",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Documentos electrónicos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué es el folio del expediente administrativo?",
+    "explicacion": "Art. 70.3 Ley 39/2015.",
+    "id": "HUE-C1-E13-004",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El documento electrónico que contiene la relación de todos los documentos que lo integran, el índice numerado, las firmas y las fechas de incorporación, garantizando la integridad e inmutabilidad del expediente.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿Qué deben garantizar las Administraciones respecto de los sistemas de información y archivos?",
+    "explicacion": "Art. 10 Real Decreto 203/2021: archivo electrónico de documentos.",
+    "id": "HUE-C1-E13-005",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Dispondrán de un archivo electrónico único que garantice la integridad, autenticidad, confidencialidad, disponibilidad y conservación de los documentos administrativos.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué debe contener el expediente administrativo electrónico?",
+    "explicacion": "Art. 11 Real Decreto 203/2021: expediente administrativo electrónico.",
+    "id": "HUE-C1-E13-006",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Documentos electrónicos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el archivo electrónico único?",
+    "explicacion": "Art. 12 Real Decreto 203/2021, en desarrollo del art. 46 de la Ley 40/2015.",
+    "id": "HUE-C1-E13-007",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto de sistemas y servicios que sustenta la gestión y custodia de los documentos y expedientes electrónicos una vez finalizados los procedimientos administrativos, así como de aquellas copias auténticas de documentos que requieran un plazo de conservación superior al del procedimiento que los originó.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué documentos no necesitan ser conservados en el archivo electrónico único?",
+    "explicacion": "Art. 12.2 Real Decreto 203/2021.",
+    "id": "HUE-C1-E13-008",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las copias de documentos originales que no tengan la consideración de documentos administrativos y los documentos de apoyo informativo.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Cómo deben conservarse los documentos electrónicos según la Ley 40/2015?",
+    "explicacion": "Art. 46.1 Ley 40/2015: archivo electrónico de documentos.",
+    "id": "HUE-C1-E13-009",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En un formato que permita garantizar la autenticidad, integridad y conservación del documento, así como su consulta con independencia del tiempo transcurrido desde su emisión.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Es válida la eliminación de los documentos originales en papel una vez digitalizados?",
+    "explicacion": "Art. 46.2 Ley 40/2015.",
+    "id": "HUE-C1-E13-010",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, en los términos previstos en la normativa aplicable; los medios o soportes en que se almacenen documentos deberán contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de los documentos almacenados.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué es la copia auténtica?",
+    "explicacion": "Art. 47.1 Real Decreto 203/2021, en relación con el art. 27 de la Ley 39/2015.",
+    "id": "HUE-C1-E13-011",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La copia realizada, cualquiera que sea su soporte, por los órganos competentes de las Administraciones Públicas en la que se garantiza la identidad del órgano que ha realizado la copia y su contenido.",
+    "tema": "E13",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 27",
+    "enunciado": "¿Qué validez tienen las copias auténticas?",
+    "explicacion": "Art. 27.2 Ley 39/2015.",
+    "id": "HUE-C1-E13-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La misma validez y eficacia que los documentos originales.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 27",
+    "enunciado": "¿Qué validez tienen las copias realizadas por el interesado mediante una imagen electrónica?",
+    "explicacion": "Art. 27.3.a) Ley 39/2015: tendrán la consideración de copia los documentos expedidos por las oficinas de asistencia en materia de registros, en las que se haya digitalizado la documentación presentada para su incorporación al expediente.",
+    "id": "HUE-C1-E13-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Tienen la eficacia de las copias auténticas siempre que se garantice su autenticidad, integridad y conservación.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿Qué es el documento electrónico administrativo?",
+    "explicacion": "Art. 20.1 Real Decreto 203/2021, en relación con el art. 26 de la Ley 39/2015.",
+    "id": "HUE-C1-E13-014",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El objeto digital administrativo que contiene la información objeto (datos) y datos asociados a esta (firma electrónica y metadatos), con el formato y estructura de la Norma Técnica de Interoperabilidad de Documento Electrónico.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "¿Qué requisitos debe cumplir un documento público administrativo para ser válido?",
+    "explicacion": "Art. 26.1 Ley 39/2015: emisión de documentos por las Administraciones Públicas.",
+    "id": "HUE-C1-E13-015",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Contener información de cualquier naturaleza archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento diferenciado; disponer de los datos de identificación que permitan su individualización; e incorporar una referencia temporal del momento en que han sido emitidos.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 26",
+    "enunciado": "¿Qué requisitos de firma deben reunir los documentos administrativos emitidos por las Administraciones Públicas?",
+    "explicacion": "Art. 26.2 Ley 39/2015.",
+    "id": "HUE-C1-E13-016",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable, y la referencia temporal de su emisión.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Qué es el Esquema Nacional de Interoperabilidad?",
+    "explicacion": "Art. 17.1 Real Decreto 203/2021, en relación con el art. 156 de la Ley 40/2015.",
+    "id": "HUE-C1-E13-017",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deben ser tenidos en cuenta por las Administraciones Públicas para asegurar un adecuado nivel de interoperabilidad organizativa, semántica y técnica.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 156",
+    "enunciado": "¿Qué comprende el Esquema Nacional de Seguridad?",
+    "explicacion": "Art. 156.2 Ley 40/2015.",
+    "id": "HUE-C1-E13-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los principios básicos y requisitos mínimos que garanticen adecuadamente la seguridad de la información tratada por los medios electrónicos de las Administraciones Públicas.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué principios rigen la actuación administrativa automatizada?",
+    "explicacion": "Art. 3.2 Real Decreto 203/2021.",
+    "id": "HUE-C1-E13-019",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los principios generales de actuación de las Administraciones públicas recogidos en el artículo 3 de la Ley 40/2015, y los principios de transparencia, explicabilidad, accesibilidad, ordenación e instrucción, y proporcionalidad.",
+    "tema": "E13",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué debe publicarse con carácter previo en la actuación administrativa automatizada?",
+    "explicacion": "Art. 4 Real Decreto 203/2021.",
+    "id": "HUE-C1-E13-020",
+    "ley": "Real Decreto 203/2021",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El diseño y funcionamiento de los sistemas de actuación administrativa automatizada, los algoritmos, el responsable del sistema y los datos de entrenamiento utilizados, y el procedimiento de auditoría del sistema y de sus resultados.",
+    "tema": "E13",
+    "verificado_corpus": false
+  }
+]

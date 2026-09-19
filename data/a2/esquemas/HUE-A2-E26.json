@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el fundamento del régimen disciplinario y la tipificación de faltas muy graves, graves y leves (arts. 93 y 95 RDL 5/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar las sanciones, su proporcionalidad y los plazos de prescripción (arts. 96 y 97).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir el procedimiento disciplinario y sus garantías (art. 98).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el régimen de incompatibilidades: principio de puesto único, actividades privadas y calificación como falta muy grave (arts. 1, 2, 10, 11 y 19 Ley 53/1984)."
+  ],
+  "id": "HUE-A2-E26",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 93",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Fundamento: los funcionarios públicos quedan sujetos al régimen disciplinario por el incumplimiento de los deberes y obligaciones inherentes a su condición.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 95.2",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Faltas muy graves: incumplimiento del deber de respeto a la Constitución y al Estatuto de Autonomía, toda actuación que suponga discriminación, abandono del servicio, adopción de acuerdos manifiestamente ilegales, publicación o utilización indebida de secretos oficiales, notoria falta de rendimiento, violación de la neutralidad política, entre otras tasadas por la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 95.3 y 95.4",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Faltas graves y leves: las leyes de función pública determinan el régimen aplicable a las faltas graves, y los reglamentos o convenios colectivos tipifican las faltas leves, atendiendo a criterios como el grado de intencionalidad, el descuido o la perturbación del servicio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 96",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Sanciones: separación del servicio o despido disciplinario del personal laboral (solo por faltas muy graves), suspensión firme de funciones, traslado forzoso con o sin cambio de localidad de residencia, demérito y apercibimiento; deben guardar proporción con la gravedad de la falta.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 97",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Prescripción: las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescriben a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año; se regulan el inicio del cómputo y la interrupción.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 98",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Procedimiento disciplinario: se ajusta a los principios de eficacia, celeridad y economía procesal, con pleno respeto a los derechos y garantías del presunto responsable: presunción de inocencia, formulación de pliego de cargos, trámite de audiencia y práctica de prueba.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+      "punto": "Principio general: el personal al servicio de las Administraciones públicas no podrá compatibilizar sus actividades con el desempeño de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo autorización por razones de interés público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+      "punto": "Ámbito de aplicación: el personal civil y militar al servicio del Estado, de las Comunidades Autónomas, de las entidades locales y de los entes y organismos públicos, cualquiera que sea la naturaleza jurídica de su relación de empleo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+      "punto": "Actividades privadas: incompatibilidad con el ejercicio de actividades privadas, por cuenta propia o ajena, que se relacionen directamente con las que desarrolle el departamento, organismo o entidad de destino, o que puedan comprometer la imparcialidad e independencia del empleado público.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 19",
+      "ley": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+      "punto": "El incumplimiento de las normas sobre incompatibilidades constituye falta muy grave, sin perjuicio de la revocación de la compatibilidad indebidamente concedida y de las demás responsabilidades a que hubiere lugar.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E26",
+  "titulo": "Régimen disciplinario de los empleados públicos. Incompatibilidades"
+}

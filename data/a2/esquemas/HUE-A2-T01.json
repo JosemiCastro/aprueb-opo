@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo explicar el significado jurídico de la Constitución como norma suprema y citar su fundamento.",
+    "Puedo citar la estructura de la Constitución (preámbulo, título preliminar, títulos y disposiciones).",
+    "Puedo enumerar los principios del Título Preliminar con su artículo correspondiente.",
+    "Puedo explicar las diferencias entre los procedimientos de reforma de los arts. 167 y 168.",
+    "Puedo situar la soberanía nacional, la monarquía parlamentaria y el Estado social y democrático de Derecho en el art. 1."
+  ],
+  "id": "HUE-A2-T01",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 9.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Significado jurídico: la Constitución es la norma suprema del ordenamiento jurídico; los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 1-9",
+      "ley": "Constitución Española de 1978",
+      "punto": "Características: Constitución extensa (169 artículos), escrita, rígida (reforma agravada), normativa, de consenso y abierta (permite el desarrollo autonómico). Estructura: Preámbulo, Título Preliminar (arts. 1 a 9), diez títulos numerados del I al X, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Principio definitorio del Estado: España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1.3",
+      "ley": "Constitución Española de 1978",
+      "punto": "La forma política del Estado español es la Monarquía parlamentaria.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Unidad y autonomías: la Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Constitución Española de 1978",
+      "punto": "Lenguas: el castellano es la lengua española oficial del Estado y todos los españoles tienen el deber de conocerla y el derecho a usarla; las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 6 y 7",
+      "ley": "Constitución Española de 1978",
+      "punto": "Pluralismo político y social: los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política (art. 6); los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales (art. 7).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 8 y 9",
+      "ley": "Constitución Española de 1978",
+      "punto": "Las Fuerzas Armadas tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional (art. 8). El art. 9 consagra el principio de legalidad y los principios de seguridad jurídica: legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables y responsabilidad de los poderes públicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 167",
+      "ley": "Constitución Española de 1978",
+      "punto": "Reforma constitucional ordinaria: los proyectos de reforma deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras; si no hay acuerdo, se crea una Comisión mixta paritaria; de no lograrse la aprobación, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de dos tercios. Aprobada la reforma, una décima parte de los miembros de cualquiera de las Cámaras puede pedir referéndum.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 168",
+      "ley": "Constitución Española de 1978",
+      "punto": "Reforma agravada: cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera del Título I, o al Título II, se requiere aprobación por mayoría de dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación de la decisión por las nuevas Cámaras (también por dos tercios) y sometimiento a referéndum para su ratificación.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 1,
+  "titulo": "El sistema constitucional: la Constitución Española de 1978, Título Preliminar y reforma constitucional"
+}

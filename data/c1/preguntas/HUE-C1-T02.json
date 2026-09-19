@@ -1,0 +1,262 @@
+[
+ {
+  "articulo": "art. 137",
+  "enunciado": "¿Cómo se organiza territorialmente el Estado según el artículo 137 CE y de qué gozan esas entidades?",
+  "explicacion": "El art. 137 CE es la base de la organización territorial del Estado y de la autonomía local: municipios, provincias y Comunidades Autónomas gozan de autonomía para la gestión de sus respectivos intereses.",
+  "id": "HUE-C1-T02-001",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan; todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+  "tema": 2,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 140",
+  "enunciado": "¿Quién ostenta el gobierno y la administración de los municipios según el artículo 140 CE?",
+  "explicacion": "El art. 140 CE garantiza la autonomía de los municipios, con personalidad jurídica plena, y atribuye su gobierno y administración a los Ayuntamientos, integrados por Alcaldes y Concejales de elección democrática.",
+  "id": "HUE-C1-T02-002",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales; los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 141.1",
+  "enunciado": "¿Qué es la provincia según el artículo 141.1 CE?",
+  "explicacion": "El art. 141.1 CE define la provincia como entidad local con personalidad jurídica propia, configurada por la agrupación de municipios, y exige ley orgánica para alterar los límites provinciales.",
+  "id": "HUE-C1-T02-003",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 141.2",
+  "enunciado": "¿A quién encomienda el artículo 141.2 CE el gobierno y la administración autónoma de las provincias?",
+  "explicacion": "El art. 141.2 CE encomienda el gobierno y la administración autónoma de las provincias a las Diputaciones u otras Corporaciones de carácter representativo.",
+  "id": "HUE-C1-T02-004",
+  "ley": "Constitución Española de 1978",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "A las Diputaciones u otras Corporaciones de carácter representativo.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 3",
+  "enunciado": "¿Cuáles son las entidades locales territoriales según el artículo 3.1 de la Ley 7/1985 y qué otras entidades gozan de la condición de entidad local según el artículo 3.2?",
+  "explicacion": "El art. 3 LRBRL distingue las entidades locales territoriales (Municipio, Provincia e Isla) de las que también gozan de esa condición por agrupar municipios o prestar servicios comunes: comarcas, áreas metropolitanas y mancomunidades.",
+  "id": "HUE-C1-T02-005",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Entidades locales territoriales: el Municipio, la Provincia y la Isla (en los archipiélagos balear y canario). Gozan además de la condición de entidad local: las comarcas u otras entidades que agrupen varios municipios, las áreas metropolitanas y las mancomunidades de municipios.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 11",
+  "enunciado": "¿Qué es el Municipio según el artículo 11 de la Ley 7/1985 y cuáles son sus elementos?",
+  "explicacion": "El art. 11 LRBRL define el Municipio como la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad, y fija sus tres elementos: territorio, población y organización.",
+  "id": "HUE-C1-T02-006",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El Municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines; sus elementos son el territorio, la población y la organización.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 19.1",
+  "enunciado": "Según el artículo 19.1 de la Ley 7/1985, ¿a quién corresponde el gobierno y la administración municipal?",
+  "explicacion": "El art. 19.1 LRBRL atribuye el gobierno y la administración municipal al Ayuntamiento, integrado por el Alcalde y los Concejales, salvo en los municipios que funcionen en régimen de Concejo Abierto.",
+  "id": "HUE-C1-T02-007",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Al Ayuntamiento, integrado por el Alcalde y los Concejales.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 20.1",
+  "enunciado": "¿Qué órganos existen en todos los ayuntamientos y en qué municipios existe la Junta de Gobierno Local según el artículo 20.1 de la Ley 7/1985?",
+  "explicacion": "El art. 20.1 LRBRL establece los órganos necesarios de la organización municipal: Alcalde, Tenientes de Alcalde y Pleno en todos los ayuntamientos; la Junta de Gobierno Local en los de más de 5.000 habitantes (y en los de menos si lo acuerda el Pleno o lo dispone su reglamento orgánico).",
+  "id": "HUE-C1-T02-008",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "En todos los ayuntamientos existen el Alcalde, los Tenientes de Alcalde y el Pleno. La Junta de Gobierno Local existe en los municipios con población superior a 5.000 habitantes.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 21",
+  "enunciado": "Cite cuatro atribuciones del Alcalde según el artículo 21 de la Ley 7/1985.",
+  "explicacion": "El art. 21 LRBRL enumera las atribuciones del Alcalde como presidente de la corporación: dirige el gobierno y la administración municipal, representa al ayuntamiento, convoca y preside los órganos colegiados, dicta bandos y ejerce la jefatura superior del personal y de la Policía Municipal.",
+  "id": "HUE-C1-T02-009",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Dirigir el gobierno y la administración municipal; representar al ayuntamiento; convocar y presidir las sesiones del Pleno y de la Junta de Gobierno Local; dictar bandos; y desempeñar la jefatura superior de todo el personal y la jefatura de la Policía Municipal.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 22",
+  "enunciado": "¿Qué funciones corresponden al Pleno del Ayuntamiento según el artículo 22 de la Ley 7/1985?",
+  "explicacion": "El art. 22 LRBRL atribuye al Pleno el control y la fiscalización de los órganos de gobierno y las decisiones de mayor trascendencia: ordenanzas, presupuestos, plantilla, planes y la votación de la moción de censura al Alcalde.",
+  "id": "HUE-C1-T02-010",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "El control y la fiscalización de los órganos de gobierno, y entre sus atribuciones: votar la moción de censura al Alcalde, aprobar y modificar ordenanzas y reglamentos, aprobar los presupuestos y la plantilla de personal, y aprobar los planes de ordenación.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 23",
+  "enunciado": "¿Cómo se integra la Junta de Gobierno Local y cuáles son sus funciones según el artículo 23 de la Ley 7/1985?",
+  "explicacion": "El art. 23 LRBRL fija la composición de la Junta de Gobierno Local (Alcalde más un número de Concejales no superior al tercio del número legal, de libre nombramiento y separación por el Alcalde) y sus funciones: asistir al Alcalde y ejercer las atribuciones delegadas.",
+  "id": "HUE-C1-T02-011",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La integran el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por el Alcalde; sus funciones son la asistencia al Alcalde en el ejercicio de sus atribuciones y las que le delegue el Alcalde u otro órgano municipal o le atribuyan las leyes.",
+  "tema": 2,
+  "verificado_corpus": true
+ },
+ {
+  "articulo": "art. 25.1",
+  "enunciado": "¿Qué puede hacer el Municipio para la gestión de sus intereses según el artículo 25.1 de la Ley 7/1985?",
+  "explicacion": "El art. 25.1 LRBRL contiene la cláusula general de actuación municipal: en el ámbito de sus competencias, el Municipio puede promover actividades y prestar los servicios públicos que satisfagan las necesidades y aspiraciones de la comunidad vecinal.",
+  "id": "HUE-C1-T02-012",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal, en el ámbito de sus competencias.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 25.2",
+  "enunciado": "Cite cuatro materias en las que el Municipio ejerce en todo caso competencias propias según el artículo 25.2 de la Ley 7/1985.",
+  "explicacion": "El art. 25.2 LRBRL lista las materias de competencia propia municipal, entre ellas: urbanismo, medio ambiente urbano, abastecimiento de agua, infraestructura viaria, policía local y protección civil, cementerios, deporte, cultura y participación en la vigilancia de la escolaridad obligatoria.",
+  "id": "HUE-C1-T02-013",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Urbanismo; medio ambiente urbano; abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales; policía local, protección civil, prevención y extinción de incendios; cementerios y actividades funerarias; y promoción del deporte y de la cultura.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 26.1.a",
+  "enunciado": "¿Qué servicios deben prestar obligatoriamente todos los municipios según el artículo 26.1.a) de la Ley 7/1985?",
+  "explicacion": "El art. 26.1.a) LRBRL fija los servicios mínimos obligatorios para todos los municipios, con independencia de su población.",
+  "id": "HUE-C1-T02-014",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 26.1.b",
+  "enunciado": "¿Qué servicios adicionales deben prestar los municipios con población superior a 5.000 habitantes según el artículo 26.1.b) de la Ley 7/1985?",
+  "explicacion": "El art. 26.1.b) LRBRL añade servicios mínimos para los municipios de más de 5.000 habitantes, sobre los exigidos a todos los municipios.",
+  "id": "HUE-C1-T02-015",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Parque público, biblioteca pública, mercado y tratamiento de residuos.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 26.1.c y 26.1.d",
+  "enunciado": "¿Qué servicios mínimos corresponden a los municipios de más de 20.000 habitantes y a los de más de 50.000 habitantes?",
+  "explicacion": "El art. 26.1.c) LRBRL fija los servicios para municipios de más de 20.000 habitantes y el art. 26.1.d) los de más de 50.000 habitantes, siempre acumulativos respecto de los tramos inferiores.",
+  "id": "HUE-C1-T02-016",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Más de 20.000 habitantes: protección civil, evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público. Más de 50.000 habitantes: además, transporte colectivo urbano de viajeros y medio ambiente urbano.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 26.2",
+  "enunciado": "En los municipios de menos de 20.000 habitantes, ¿quién coordina la prestación de servicios como la recogida de residuos o el abastecimiento de agua?",
+  "explicacion": "El art. 26.2 LRBRL atribuye a la Diputación provincial la coordinación de la prestación de servicios básicos (residuos, agua, limpieza viaria, acceso a núcleos, pavimentación y alumbrado) en los municipios de menos de 20.000 habitantes.",
+  "id": "HUE-C1-T02-017",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La Diputación provincial o entidad equivalente coordina la prestación de esos servicios.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 31",
+  "enunciado": "¿Qué es la Provincia según el artículo 31 de la Ley 7/1985 y cuáles son sus fines propios y específicos?",
+  "explicacion": "El art. 31 LRBRL define la Provincia como entidad local por agrupación de municipios y le asigna fines propios: garantizar la solidaridad y el equilibrio intermunicipales, asegurar la prestación integral de los servicios municipales y coordinar la Administración local con la autonómica y la estatal.",
+  "id": "HUE-C1-T02-018",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La Provincia es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines; sus fines propios son garantizar los principios de solidaridad y equilibrio intermunicipales, asegurar la prestación integral y adecuada en todo el territorio provincial de los servicios de competencia municipal, y participar en la coordinación de la Administración local con la de la Comunidad Autónoma y la del Estado.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "arts. 33.1 y 34",
+  "enunciado": "¿Cuáles son los órganos necesarios de la Diputación provincial y qué atribuciones corresponden a su Presidente?",
+  "explicacion": "El art. 33.1 LRBRL fija los órganos necesarios de la Diputación (Presidente, Vicepresidentes, Junta de Gobierno y Pleno) y el art. 34 atribuye al Presidente la dirección del gobierno y la administración de la provincia, su representación legal y la presidencia de los órganos colegiados.",
+  "id": "HUE-C1-T02-019",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "Órganos necesarios: el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno. El Presidente dirige el gobierno y la administración de la provincia, ostenta su representación legal y convoca y preside las sesiones del Pleno, de la Junta de Gobierno y de los demás órganos de la Diputación.",
+  "tema": 2,
+  "verificado_corpus": false
+ },
+ {
+  "articulo": "art. 36.1",
+  "enunciado": "Cite tres competencias de la Diputación provincial según el artículo 36.1 de la Ley 7/1985.",
+  "explicacion": "El art. 36.1 LRBRL atribuye a la Diputación la coordinación de los servicios municipales, la asistencia y cooperación a los municipios (especialmente los de menor capacidad), la prestación de servicios supramunicipales y la cooperación en el desarrollo económico y social del territorio provincial, además de los planes provinciales de cooperación (art. 36.2).",
+  "id": "HUE-C1-T02-020",
+  "ley": "Ley 7/1985",
+  "perfil": [
+   "c1"
+  ],
+  "respuesta": "La coordinación de los servicios municipales entre sí para garantizar su prestación integral y adecuada; la asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente los de menor capacidad económica y de gestión; la prestación de servicios públicos de carácter supramunicipal; y la cooperación en el fomento del desarrollo económico y social y en la planificación en el territorio provincial.",
+  "tema": 2,
+  "verificado_corpus": false
+ }
+]

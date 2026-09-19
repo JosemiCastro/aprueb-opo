@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo enumerar los derechos de la Sección 1ª del Capítulo II con su artículo.",
+    "Puedo explicar el triple nivel de garantías del art. 53 CE.",
+    "Puedo citar la reserva de ley orgánica para los derechos fundamentales y su contenido esencial.",
+    "Puedo explicar qué derechos se suspenden en los estados de excepción y sitio y cuáles en la suspensión individualizada.",
+    "Puedo situar el recurso de amparo ante el Tribunal Constitucional y el Defensor del Pueblo."
+  ],
+  "id": "HUE-A2-T02",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 14 a 29",
+      "ley": "Constitución Española de 1978",
+      "punto": "Los derechos fundamentales y libertades públicas se recogen en la Sección 1ª del Capítulo II del Título I: igualdad ante la ley (14), derecho a la vida y a la integridad física y moral (15), libertad ideológica, religiosa y de culto (16), derecho a la libertad y a la seguridad (17), honor, intimidad personal y familiar y propia imagen (18), elección de residencia y circulación por el territorio nacional (19), libertad de expresión e información (20), reunión pacífica y sin armas (21), asociación (22), participación en los asuntos públicos (23), tutela judicial efectiva (24), principio de legalidad penal y penitenciaria (25), prohibición de los Tribunales de Honor (26), derecho a la educación (27), libertad sindical y derecho de huelga (28) y derecho de petición (29).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 53.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Primera garantía: los derechos y libertades reconocidos en el Capítulo II vinculan a todos los poderes públicos; solo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse su ejercicio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 81",
+      "ley": "Constitución Española de 1978",
+      "punto": "Reserva de ley orgánica: son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, que requieren para su aprobación mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 53.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Tutela reforzada: cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el art. 14 y la Sección 1ª del Capítulo II ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 161.1.b)",
+      "ley": "Constitución Española de 1978",
+      "punto": "El recurso de amparo ante el Tribunal Constitucional se interpone por violación de los derechos y libertades referidos en el art. 53.2 (art. 14 y Sección 1ª), en los casos y formas que la ley establezca (Ley Orgánica del Tribunal Constitucional).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 54",
+      "ley": "Constitución Española de 1978",
+      "punto": "Defensor del Pueblo: una ley orgánica regulará esta institución como alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos comprendidos en el Título I, a cuyo efecto podrá supervisar la actividad de la Administración.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 10",
+      "ley": "Constitución Española de 1978",
+      "punto": "Fundamento del orden político: la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social; las normas sobre derechos fundamentales se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 55.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Suspensión general: los derechos reconocidos en los arts. 17, 18 apartados 2 y 3, 19, 20 apartados 1.a) y d) y 5, 21, 28 apartado 2 y 37 apartado 2 podrán ser suspendidos cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución (desarrollado por la Ley Orgánica 4/1981).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 55.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Suspensión individualizada: una ley orgánica podrá determinar la forma y los casos en los que, de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario, los derechos reconocidos en los arts. 17.2, 18.2 y 18.3 podrán ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 116",
+      "ley": "Constitución Española de 1978",
+      "punto": "Marco de la suspensión general: el art. 116 regula los estados de alarma, excepción y sitio; el estado de excepción y el de sitio son los que habilitan la suspensión de derechos del art. 55.1, con autorización previa del Congreso y bajo su control.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": 2,
+  "titulo": "Los derechos fundamentales y las libertades públicas: garantías, tutela y suspensión"
+}

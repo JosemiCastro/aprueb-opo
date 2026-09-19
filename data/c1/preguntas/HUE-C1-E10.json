@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 85",
+    "enunciado": "¿Cómo define la Ley 5/2010, de Autonomía Local de Andalucía, al Consejo Andaluz de Concertación Local?",
+    "explicacion": "Art. 85 LAULA, en consonancia con el art. 95 del Estatuto de Autonomía para Andalucía, que lo configura como ámbito permanente de diálogo y colaboración institucional.",
+    "id": "HUE-C1-E10-001",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Como el órgano supremo de colaboración entre la Comunidad Autónoma y los gobiernos locales.",
+    "tema": "E10",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué composición tiene el Consejo Andaluz de Concertación Local?",
+    "explicacion": "Su composición mixta responde a su objetivo de instrumentar el diálogo permanente, la concertación y la colaboración entre ambos niveles de gobierno; se diferencia así del Consejo Andaluz de Gobiernos Locales, de composición exclusivamente local.",
+    "id": "HUE-C1-E10-002",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mixta y paritaria: con representación de la Junta de Andalucía y de los gobiernos locales.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué naturaleza tiene el Consejo Andaluz de Concertación Local y a qué Consejería está adscrito?",
+    "explicacion": "Es un órgano colegiado permanente, de carácter deliberante y consultivo de la Junta de Andalucía. Su consulta es preceptiva en los casos legalmente establecidos y sus dictámenes no son vinculantes, salvo previsión legal expresa.",
+    "id": "HUE-C1-E10-003",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es un órgano colegiado permanente, deliberante y consultivo de la Junta de Andalucía, adscrito a la Consejería competente en materia de régimen local.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué norma prevé el Consejo Andaluz de Concertación Local y qué le encomienda?",
+    "explicacion": "Previsión desarrollada por la Ley 5/2010 (art. 85) y por la Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local.",
+    "id": "HUE-C1-E10-004",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El artículo 95 del Estatuto de Autonomía para Andalucía: un órgano mixto con representación de la Junta de Andalucía y de los Ayuntamientos andaluces, que funcionará como ámbito permanente de diálogo y colaboración institucional y será consultado en la tramitación parlamentaria de las disposiciones legislativas y planes que afecten de forma específica a las Corporaciones locales.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 57",
+    "enunciado": "¿Qué es el Consejo Andaluz de Gobiernos Locales y en qué se diferencia del Consejo Andaluz de Concertación Local?",
+    "explicacion": "Art. 57 LAULA. El Consejo de Gobiernos Locales conforma de modo autónomo el parecer del nivel de gobierno local, sin interferencias de otros niveles de gobierno, mientras que el de Concertación Local instrumenta el diálogo entre ambos niveles.",
+    "id": "HUE-C1-E10-005",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es el órgano de representación de los municipios y las provincias ante las instituciones de la Junta de Andalucía, con la finalidad de garantizar el respeto a las competencias locales; su composición es exclusivamente local, mientras que la del Consejo Andaluz de Concertación Local es mixta.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Cómo se adoptan los acuerdos del Consejo Andaluz de Concertación Local?",
+    "explicacion": "Se entiende producido el consenso cuando emite voto afirmativo la mayoría de los miembros presentes en cada una de las representaciones; de no alcanzarse, se hacen constar las posturas discrepantes.",
+    "id": "HUE-C1-E10-006",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por consenso entre las representaciones de la Junta de Andalucía y de los gobiernos locales.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Cuál es la sede del Consejo Andaluz de Concertación Local?",
+    "explicacion": "Dato organizativo básico del órgano, previsto en su ley reguladora.",
+    "id": "HUE-C1-E10-007",
+    "ley": "Ley 5/2010",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La ciudad de Sevilla.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es el Acuerdo Marco de Concertación de la Diputación de Huelva?",
+    "explicacion": "Es la plasmación provincial de la concertación local: la Diputación pone sus medios al servicio de los municipios que se adhieren, en ejercicio de su función de asistencia y cooperación.",
+    "id": "HUE-C1-E10-008",
+    "ley": "Acuerdo Marco de Concertación de la Diputación de Huelva",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El instrumento que regula la concertación entre la Diputación de Huelva y los ayuntamientos de la provincia para la prestación de servicios y la cooperación con los municipios.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Quiénes son parte del Acuerdo Marco de Concertación de la Diputación de Huelva?",
+    "explicacion": "La adhesión de cada ayuntamiento es voluntaria, en respeto a la autonomía local garantizada por la Constitución y la Ley 7/1985.",
+    "id": "HUE-C1-E10-009",
+    "ley": "Acuerdo Marco de Concertación de la Diputación de Huelva",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Diputación Provincial de Huelva y los ayuntamientos de la provincia que se adhieran a él.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué se entiende por servicios concertables en el Acuerdo Marco de Concertación?",
+    "explicacion": "La concertación permite a los municipios, especialmente a los de menor capacidad económica y de gestión, garantizar la prestación de servicios con el apoyo de la Diputación (art. 36.1.b LBRL).",
+    "id": "HUE-C1-E10-010",
+    "ley": "Acuerdo Marco de Concertación de la Diputación de Huelva",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquellos servicios de competencia municipal que los ayuntamientos pueden concertar con la Diputación de Huelva para su prestación, asistencia técnica o cooperación.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué principio preside la adhesión de los ayuntamientos al Acuerdo Marco de Concertación?",
+    "explicacion": "La concertación es una técnica de cooperación, no de imposición: cada ayuntamiento decide qué servicios concierta con la Diputación.",
+    "id": "HUE-C1-E10-011",
+    "ley": "Acuerdo Marco de Concertación de la Diputación de Huelva",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La voluntariedad, en garantía de la autonomía local.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Qué asistencia debe prestar la Diputación a los municipios según el artículo 36.1.b) de la Ley 7/1985?",
+    "explicacion": "Art. 36.1.b) LBRL: base legal de la cooperación provincial que articula la concertación con los municipios.",
+    "id": "HUE-C1-E10-012",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Asistencia y cooperación jurídica, económica y técnica, especialmente a los de menor capacidad económica y de gestión; garantizando en todo caso en los municipios de menos de 1.000 habitantes la prestación de los servicios de secretaría e intervención.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Qué función de coordinación atribuye el artículo 36.1.a) de la Ley 7/1985 a las Diputaciones?",
+    "explicacion": "Art. 36.1.a) LBRL, en relación con el art. 31.2.a).",
+    "id": "HUE-C1-E10-013",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada a que se refiere el apartado a) del número 2 del artículo 31.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 57",
+    "enunciado": "¿Cómo puede desarrollarse la cooperación entre la Administración local y las Administraciones del Estado y de las Comunidades Autónomas?",
+    "explicacion": "Art. 57 LBRL: la cooperación económica, técnica y administrativa se desarrolla con carácter voluntario.",
+    "id": "HUE-C1-E10-014",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con carácter voluntario, bajo las formas y en los términos previstos en las leyes, pudiendo tener lugar, en todo caso, mediante los consorcios o los convenios administrativos que suscriban.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿A qué deberes deben ajustar sus relaciones recíprocas la Administración local y las demás Administraciones públicas?",
+    "explicacion": "Art. 10.1 LBRL.",
+    "id": "HUE-C1-E10-015",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A los deberes de información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 140",
+    "enunciado": "Cite tres principios que rigen las relaciones entre Administraciones públicas según el artículo 140 de la Ley 40/2015.",
+    "explicacion": "Art. 140.1 Ley 40/2015: lealtad institucional, adecuación al orden de distribución de competencias, colaboración, cooperación, coordinación, eficiencia en la gestión de los recursos públicos, responsabilidad, garantía e igualdad en el ejercicio de los derechos, y solidaridad interterritorial.",
+    "id": "HUE-C1-E10-016",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Lealtad institucional, colaboración y cooperación (también valen: coordinación, eficiencia en la gestión de los recursos públicos, responsabilidad o solidaridad interterritorial).",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 141",
+    "enunciado": "¿En qué consiste el deber de colaboración entre Administraciones públicas del artículo 141 de la Ley 40/2015?",
+    "explicacion": "Art. 141.1 Ley 40/2015.",
+    "id": "HUE-C1-E10-017",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En respetar el ejercicio legítimo por las otras Administraciones de sus competencias; ponderar, en el ejercicio de las competencias propias, la totalidad de los intereses públicos implicados; facilitar a las otras Administraciones la información que precisen sobre la actividad desarrollada en el ejercicio de sus competencias; y prestar la asistencia que las otras Administraciones pudieran solicitar para el eficaz ejercicio de sus competencias.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué son los convenios según el artículo 47 de la Ley 40/2015?",
+    "explicacion": "Art. 47.1 Ley 40/2015. Los convenios no podrán tener por objeto prestaciones propias de los contratos.",
+    "id": "HUE-C1-E10-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los acuerdos con efectos jurídicos adoptados por las Administraciones públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 143",
+    "enunciado": "¿Qué se requiere para que exista cooperación entre Administraciones públicas según el artículo 143 de la Ley 40/2015?",
+    "explicacion": "Art. 143.2 Ley 40/2015: la cooperación es voluntaria y requiere aceptación expresa.",
+    "id": "HUE-C1-E10-019",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La aceptación expresa de las partes, formulada en acuerdos de órganos de cooperación o en convenios.",
+    "tema": "E10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 144",
+    "enunciado": "Cite dos técnicas de cooperación entre Administraciones públicas del artículo 144 de la Ley 40/2015.",
+    "explicacion": "Art. 144.1 Ley 40/2015.",
+    "id": "HUE-C1-E10-020",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La prestación de medios materiales, económicos o personales a otras Administraciones; y la cooperación interadministrativa para la ejecución conjunta de competencias (también vale: el intercambio de información para el ejercicio de las propias competencias).",
+    "tema": "E10",
+    "verificado_corpus": false
+  }
+]

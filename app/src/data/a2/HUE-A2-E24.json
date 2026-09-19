@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el fundamento de la intervención y el concepto de licencia (art. 84 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la naturaleza jurídica de la licencia: acto declarativo, reglado y de control preventivo.",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir las clases de licencias y su régimen jurídico (arts. 84 y 84 bis LBRL, art. 9 RSCL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: detallar el procedimiento de otorgamiento: solicitud, informes, subsanación, plazos y silencio (art. 9 RSCL, art. 11.4 TRLSRU).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el condicionamiento, la transmisibilidad, la vigencia y la extinción de las licencias (arts. 12, 13 y 15 RSCL)."
+  ],
+  "id": "HUE-A2-E24",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 84.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Fundamento: entre las formas de actividad de las entidades locales figura la intervención administrativa en la actividad privada, que se ejerce mediante ordenanzas y bandos, sometimiento a previa licencia y otros actos de control preventivo, y órdenes individuales constitutivas de mandato.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 84.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Concepto: la licencia es la autorización administrativa previa por la que la entidad local remueve el obstáculo legal que impide al particular el ejercicio de un derecho preexistente o el desarrollo de una actividad privada.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Naturaleza jurídica: acto administrativo declarativo (constata una situación jurídica conforme al ordenamiento, no crea derechos), reglado (la Administración carece de discrecionalidad: cumplidos los requisitos legales, debe otorgarse) y de control preventivo (se exige antes del inicio de la actividad).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 6",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Principios: el contenido de los actos de intervención será congruente con los motivos y fines que los justifiquen, y entre varios medios admisibles se elegirá el menos restrictivo de la libertad individual; la intervención se ajusta además a la igualdad de trato, la necesidad y la proporcionalidad (art. 84.2 LBRL).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84 bis",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Excepcionalidad: la licencia solo es exigible cuando una norma la prevea y concurran razones imperiosas de interés general (orden público, seguridad y salud públicas, protección del medio ambiente o del patrimonio histórico-artístico); con carácter general el ejercicio de actividades no se somete a autorización previa.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Clases: licencias de obras y edificación, de actividad o apertura de establecimientos, de parcelación y de primera ocupación o utilización; su régimen jurídico sustantivo viene determinado por la normativa sectorial aplicable a cada materia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Procedimiento de otorgamiento: solicitud en el registro general con proyecto técnico cuando se trate de obras o instalaciones; petición de informes a los organismos competentes en cinco días; trámite de subsanación de deficiencias en quince días; resolución en el plazo de un mes (actividades personales, parcelaciones con plan aprobado, obras menores, pequeños establecimientos) o de dos meses (nueva construcción o reforma de edificios e industrias, mataderos, mercados y grandes establecimientos).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11.4",
+      "ley": "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana",
+      "punto": "Resolución y silencio: la resolución debe ser motivada cuando sea denegatoria (arts. 35 y 88 LPAC); el transcurso del plazo sin resolución expresa produce los efectos del silencio administrativo, pero en ningún caso pueden entenderse adquiridas por silencio facultades contrarias a la ordenación territorial o urbanística.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Condicionamiento: las licencias pueden otorgarse sujetas a condiciones; se entienden otorgadas salvo el derecho de propiedad y sin perjuicio del de tercero, y no eximen al beneficiario de la responsabilidad civil o penal en que incurra en el ejercicio de la actividad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13 y 15",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Transmisibilidad, vigencia y extinción: las licencias relativas a obras, instalaciones o servicios son transmisibles con comunicación escrita a la corporación, salvo las de número limitado; mantienen su vigencia mientras subsistan las condiciones que las motivaron y se extinguen por caducidad (incumplimiento de condiciones o plazos), revocación o renuncia.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E24",
+  "titulo": "Las formas de actividad en las entidades locales. La intervención administrativa en la actividad privada. Las licencias. Naturaleza jurídica. Régimen jurídico y procedimiento de otorgamiento. El condicionamiento de las licencias"
+}

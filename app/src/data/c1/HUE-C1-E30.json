@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Qué establece el artículo 14 de la Constitución en relación con la igualdad entre mujeres y hombres?",
+    "explicacion": "El art. 14 CE proclama que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "id": "HUE-C1-E30-001",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La igualdad ante la ley y la prohibición de toda discriminación por razón de sexo (entre otras causas).",
+    "tema": "E30",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 9.2",
+    "enunciado": "¿Qué mandato dirige el artículo 9.2 de la Constitución a los poderes públicos en materia de igualdad?",
+    "explicacion": "El art. 9.2 CE ordena a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+    "id": "HUE-C1-E30-002",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Promover que la libertad y la igualdad sean reales y efectivas, remover los obstáculos que impidan su plenitud y facilitar la participación de todos en la vida política, económica, cultural y social.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley Orgánica 3/2007, de 22 de marzo?",
+    "explicacion": "El art. 1 LO 3/2007 establece como objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida.",
+    "id": "HUE-C1-E30-003",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, eliminando la discriminación de la mujer en cualesquiera ámbitos de la vida.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué es el principio de igualdad de trato entre mujeres y hombres según la LO 3/2007?",
+    "explicacion": "El art. 3 LO 3/2007 define el principio de igualdad de trato como la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+    "id": "HUE-C1-E30-004",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La ausencia de toda discriminación, directa o indirecta, por razón de sexo, incluidas las derivadas de la maternidad, las obligaciones familiares y el estado civil.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6.1",
+    "enunciado": "¿Qué se entiende por discriminación directa por razón de sexo?",
+    "explicacion": "El art. 6.1 LO 3/2007 define la discriminación directa como la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.",
+    "id": "HUE-C1-E30-005",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La situación en que una persona es, ha sido o pudiera ser tratada, por razón de su sexo, de manera menos favorable que otra en situación comparable.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6.2",
+    "enunciado": "¿Qué se entiende por discriminación indirecta por razón de sexo?",
+    "explicacion": "El art. 6.2 LO 3/2007 define la discriminación indirecta como la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados.",
+    "id": "HUE-C1-E30-006",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto a las del otro, salvo justificación objetiva con finalidad legítima y medios necesarios y adecuados.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Qué son el acoso sexual y el acoso por razón de sexo según la LO 3/2007?",
+    "explicacion": "El art. 7 LO 3/2007 define el acoso sexual como cualquier comportamiento, verbal o físico, de naturaleza sexual con el propósito o el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo; y el acoso por razón de sexo como cualquier comportamiento realizado en función del sexo de una persona con el mismo propósito o efecto.",
+    "id": "HUE-C1-E30-007",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El acoso sexual es cualquier comportamiento verbal o físico de naturaleza sexual que atente contra la dignidad de una persona, creando un entorno intimidatorio, degradante u ofensivo; el acoso por razón de sexo es el mismo tipo de comportamiento realizado en función del sexo de la persona.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Cómo se califica el trato desfavorable relacionado con el embarazo o la maternidad?",
+    "explicacion": "El art. 8 LO 3/2007 establece que constituye discriminación directa por razón de sexo todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad.",
+    "id": "HUE-C1-E30-008",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Constituye discriminación directa por razón de sexo.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué son las acciones positivas y cuándo pueden adoptarse?",
+    "explicacion": "El art. 11 LO 3/2007 permite a los Poderes Públicos adoptar medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres; tales medidas serán aplicables en tanto subsistan dichas situaciones y habrán de ser razonables y proporcionadas en relación con el objetivo perseguido.",
+    "id": "HUE-C1-E30-009",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Medidas específicas en favor de las mujeres para corregir desigualdades de hecho respecto de los hombres; se aplican mientras subsistan esas situaciones y deben ser razonables y proporcionadas.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿Qué consecuencias jurídicas tienen los actos y cláusulas que causen discriminación por razón de sexo?",
+    "explicacion": "El art. 10 LO 3/2007 declara nulos y sin efecto los actos y las cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo, y reconoce el derecho a una indemnización real, efectiva y proporcionada al perjuicio sufrido.",
+    "id": "HUE-C1-E30-010",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Son nulos y sin efecto; además, la persona discriminada tiene derecho a una indemnización real, efectiva y proporcionada al perjuicio sufrido.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Cómo se distribuye la carga de la prueba en los procesos por discriminación por razón de sexo?",
+    "explicacion": "El art. 13 LO 3/2007 establece que, en aquellos procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad.",
+    "id": "HUE-C1-E30-011",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Corresponde a la parte demandada probar la ausencia de discriminación y la proporcionalidad de las medidas adoptadas (inversión de la carga de la prueba).",
+    "tema": "E30",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es el principio de transversalidad de la igualdad?",
+    "explicacion": "El art. 15 LO 3/2007 establece que el principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos, que lo integrarán activamente en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas y en el desarrollo del conjunto de sus actividades.",
+    "id": "HUE-C1-E30-012",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que el principio de igualdad debe informar con carácter transversal toda la actuación de los Poderes Públicos: normas, políticas públicas, presupuestos y actividades.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 45",
+    "enunciado": "¿Qué empresas están obligadas a elaborar y aplicar un plan de igualdad?",
+    "explicacion": "El art. 45 LO 3/2007, tras la reforma operada por el Real Decreto-ley 6/2019, obliga a las empresas de cincuenta o más personas trabajadoras a elaborar y aplicar un plan de igualdad, negociado con la representación legal de las personas trabajadoras.",
+    "id": "HUE-C1-E30-013",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las empresas de cincuenta o más personas trabajadoras.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Qué es un plan de igualdad y qué debe contener?",
+    "explicacion": "El art. 46 LO 3/2007 define los planes de igualdad como un conjunto ordenado de medidas evaluables, dirigidas a remover los obstáculos que impiden o dificultan la igualdad efectiva de mujeres y hombres; antes de su establecimiento deberá elaborarse un diagnóstico negociado de la situación de la empresa.",
+    "id": "HUE-C1-E30-014",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un conjunto ordenado de medidas evaluables para remover los obstáculos a la igualdad efectiva; requiere un diagnóstico previo negociado de la situación de la empresa.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 48",
+    "enunciado": "¿Qué obligaciones tienen las empresas para prevenir el acoso sexual y el acoso por razón de sexo?",
+    "explicacion": "El art. 48 LO 3/2007 obliga a las empresas a promover condiciones de trabajo que eviten el acoso sexual y el acoso por razón de sexo y a arbitrar procedimientos específicos para su prevención y para dar cauce a las denuncias o reclamaciones que puedan formular quienes los hayan sufrido.",
+    "id": "HUE-C1-E30-015",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Promover condiciones de trabajo que eviten el acoso sexual y por razón de sexo y establecer procedimientos específicos para su prevención y para tramitar las denuncias.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "disp. adic. 1ª",
+    "enunciado": "¿Qué se entiende por presencia o composición equilibrada?",
+    "explicacion": "La disposición adicional primera de la LO 3/2007 define la presencia o composición equilibrada como aquella en la que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento en el conjunto al que se refiera.",
+    "id": "HUE-C1-E30-016",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquella en la que ningún sexo supera el 60 % ni representa menos del 40 % del conjunto de que se trate.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué criterio deben seguir los Poderes Públicos en los nombramientos que realicen?",
+    "explicacion": "El art. 16 LO 3/2007 dispone que los Poderes Públicos procurarán atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan.",
+    "id": "HUE-C1-E30-017",
+    "ley": "Ley Orgánica 3/2007",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Procurar atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de cargos de responsabilidad.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación?",
+    "explicacion": "El art. 1 Ley 15/2022 establece como objeto garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas y prevenir y erradicar cualquier forma de discriminación, en aplicación de los arts. 9.2 y 14 CE.",
+    "id": "HUE-C1-E30-018",
+    "ley": "Ley 15/2022",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Garantizar y promover el derecho a la igualdad de trato y no discriminación, respetar la igual dignidad de las personas y prevenir y erradicar cualquier forma de discriminación.",
+    "tema": "E30",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué formas de discriminación define el artículo 4 de la Ley 15/2022?",
+    "explicacion": "El art. 4 Ley 15/2022 define la discriminación directa, la discriminación indirecta, la discriminación por asociación (trato desfavorable por la relación con una persona o grupo discriminado), la discriminación por error (basada en una apreciación incorrecta sobre las características de la persona), la discriminación múltiple e interseccional, el acoso discriminatorio y la orden o instrucción de discriminar.",
+    "id": "HUE-C1-E30-019",
+    "ley": "Ley 15/2022",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La discriminación directa, indirecta, por asociación, por error, múltiple e interseccional, el acoso discriminatorio y la orden o instrucción de discriminar.",
+    "tema": "E30",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 40",
+    "enunciado": "¿Qué órgano crea la Ley 15/2022 para la protección de la igualdad de trato y la no discriminación?",
+    "explicacion": "El art. 40 Ley 15/2022 crea, en el ámbito de la Administración del Estado, la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, como autoridad independiente encargada de proteger y promover la igualdad de trato y no discriminación.",
+    "id": "HUE-C1-E30-020",
+    "ley": "Ley 15/2022",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Autoridad Independiente para la Igualdad de Trato y la No Discriminación.",
+    "tema": "E30",
+    "verificado_corpus": true
+  }
+]

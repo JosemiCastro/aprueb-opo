@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el concepto y los fines de la provincia (art. 31 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar las competencias propias de las diputaciones del art. 36.1 LBRL y el plan provincial de cooperación (art. 36.2).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer las competencias de asistencia técnica, económica y material (arts. 11-14 Ley 5/2010) y las competencias materiales (art. 15).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la transferencia y delegación de competencias a las provincias (arts. 16-23 Ley 5/2010)."
+  ],
+  "id": "HUE-A2-E19",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 31",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "La Provincia es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines: garantizar los principios de solidaridad y equilibrio intermunicipales, asegurar la prestación integral y adecuada de los servicios de competencia municipal y participar en la coordinación de la Administración local con la autonómica y la estatal.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 36.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Competencias propias en la legislación básica: a) coordinación de los servicios municipales entre sí; b) asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión; c) prestación de servicios públicos de carácter supramunicipal; d) cooperación en el fomento del desarrollo económico y social; e) funciones de coordinación; f) asistencia en la gestión de la recaudación tributaria; g) prestación de servicios de administración electrónica y contratación centralizada en municipios de menos de 20.000 habitantes; h) seguimiento de los costes efectivos; i) coordinación de la prestación unificada de servicios; j) asistencia para la elaboración de planes económico-financieros.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "La diputación aprueba anualmente un plan provincial de cooperación a las obras y servicios de competencia municipal, en cuya elaboración deben participar los municipios de la provincia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "En la legislación andaluza son competencias propias de la provincia las competencias de asistencia a los municipios, con la finalidad de asegurar el ejercicio íntegro de las competencias municipales supliendo sus carencias técnicas, económicas o materiales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Asistencia técnica: información, asesoramiento, realización de estudios, elaboración de planes y disposiciones, formación y apoyo tecnológico; se presta con criterios de atención preferente a los municipios de menor población y de insuficiente capacidad económica y de gestión, así como atendiendo a la urgencia de la asistencia requerida.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 11.2, 13 y 13.2",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Asistencia económica: financiación de inversiones, actividades y servicios municipales; para que la asistencia tenga lugar es necesario el concurso de la voluntad de los municipios, que han de solicitarla a la diputación o concertarla con ella.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 14",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Asistencia material: apoyo con medios materiales de la diputación para la prestación de los servicios y el ejercicio de las competencias municipales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 15",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Competencias materiales de la provincia: competencias propias en materias de interés provincial atribuidas por la legislación sectorial andaluza.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 16-23",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Transferencia y delegación de competencias: la Comunidad Autónoma puede transferir competencias a las provincias mediante ley, o delegar su ejercicio con aceptación expresa de la entidad delegada y con la dotación de los medios materiales, económicos y humanos necesarios (art. 19).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 31.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "La provincia participa en la coordinación de la Administración local con la Administración de la Comunidad Autónoma y la del Estado, como expresión de su función de vertebración territorial.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E19",
+  "titulo": "Competencias de las diputaciones provinciales. Las competencias propias en la legislación básica. Las competencias de asistencia y competencias materiales en la legislación andaluza"
+}

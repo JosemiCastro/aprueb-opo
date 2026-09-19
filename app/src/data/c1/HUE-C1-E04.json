@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 84",
+    "enunciado": "¿A través de qué medios pueden las entidades locales intervenir la actividad de los ciudadanos según el artículo 84.1.a) de la Ley 7/1985?",
+    "explicacion": "El artículo 84.1.a) de la Ley 7/1985 incluye entre los medios de intervención de las entidades locales las ordenanzas y los bandos.",
+    "id": "HUE-C1-E04-001",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A través de ordenanzas y bandos, además del sometimiento a previa licencia, a comunicación previa o declaración responsable, al control posterior y a órdenes individuales.",
+    "tema": "E04",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿A quién corresponde dictar bandos en el municipio?",
+    "explicacion": "El artículo 21.1.e) de la Ley 7/1985 atribuye al Alcalde la potestad de dictar bandos.",
+    "id": "HUE-C1-E04-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al Alcalde.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿Qué órgano aprueba el reglamento orgánico y las ordenanzas municipales?",
+    "explicacion": "El artículo 22.2.d) de la Ley 7/1985 atribuye al Pleno la aprobación del reglamento orgánico y de las ordenanzas.",
+    "id": "HUE-C1-E04-003",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Pleno del Ayuntamiento.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Cuál es el procedimiento de aprobación de las ordenanzas locales según el artículo 49 de la Ley 7/1985?",
+    "explicacion": "El artículo 49 de la Ley 7/1985 regula el procedimiento: aprobación inicial por el Pleno, información pública y audiencia por treinta días como mínimo, y resolución de reclamaciones con aprobación definitiva.",
+    "id": "HUE-C1-E04-004",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aprobación inicial por el Pleno; información pública y audiencia a los interesados por el plazo mínimo de treinta días para presentar reclamaciones y sugerencias; y resolución de las reclamaciones presentadas con aprobación definitiva por el Pleno.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Qué ocurre si no se presenta ninguna reclamación durante la información pública de una ordenanza local?",
+    "explicacion": "El artículo 49.c) de la Ley 7/1985 dispone que, en ausencia de reclamaciones, el acuerdo hasta entonces provisional se entiende definitivamente adoptado.",
+    "id": "HUE-C1-E04-005",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se entiende definitivamente adoptado el acuerdo hasta entonces provisional, sin necesidad de nuevo acuerdo plenario.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 70",
+    "enunciado": "¿Cuándo entran en vigor las ordenanzas locales?",
+    "explicacion": "El artículo 70.2 de la Ley 7/1985 exige la publicación íntegra en el Boletín Oficial de la Provincia y el transcurso del plazo del artículo 65.2 (quince días hábiles) para la entrada en vigor.",
+    "id": "HUE-C1-E04-006",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando se haya publicado completamente su texto en el Boletín Oficial de la Provincia y haya transcurrido el plazo de quince días hábiles previsto en el artículo 65.2 de la Ley 7/1985.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué mayoría se requiere para la aprobación de una ordenanza municipal?",
+    "explicacion": "Las ordenanzas no figuran entre las materias del artículo 47.2 de la Ley 7/1985, por lo que se aprueban por la mayoría simple del artículo 47.1.",
+    "id": "HUE-C1-E04-007",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La mayoría simple, al no estar la aprobación de ordenanzas entre las materias que el artículo 47.2 reserva a la mayoría absoluta.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Qué deben acordar las entidades locales respecto de sus tributos propios según el artículo 15 del texto refundido de la Ley Reguladora de las Haciendas Locales?",
+    "explicacion": "El artículo 15.1 del Real Decreto Legislativo 2/2004 obliga a las entidades locales a acordar la imposición y supresión de sus tributos propios y a aprobar las correspondientes ordenanzas fiscales.",
+    "id": "HUE-C1-E04-008",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La imposición y supresión de sus tributos propios y la aprobación de las correspondientes ordenanzas fiscales reguladoras de estos tributos.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué contenido mínimo deben tener las ordenanzas fiscales según el artículo 16 del Real Decreto Legislativo 2/2004?",
+    "explicacion": "El artículo 16.1 del Real Decreto Legislativo 2/2004 enumera el contenido mínimo de las ordenanzas fiscales de los impuestos.",
+    "id": "HUE-C1-E04-009",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota tributaria, período impositivo y devengo; los regímenes de declaración y de ingreso; y las fechas de aprobación y de inicio de aplicación.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Cuál es el procedimiento de elaboración de las ordenanzas fiscales según el artículo 17 del Real Decreto Legislativo 2/2004?",
+    "explicacion": "El artículo 17 del Real Decreto Legislativo 2/2004 regula la aprobación provisional, la exposición pública por treinta días y la aprobación definitiva, con elevación automática si no hay reclamaciones.",
+    "id": "HUE-C1-E04-010",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aprobación provisional por el Pleno; exposición en el tablón de anuncios durante treinta días como mínimo para examinar el expediente y presentar reclamaciones; y adopción de los acuerdos definitivos resolviendo las reclamaciones; si no se presentan reclamaciones, el acuerdo provisional se entiende definitivamente adoptado sin necesidad de acuerdo plenario.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 19",
+    "enunciado": "¿Cómo se publican las ordenanzas fiscales y qué recurso cabe contra ellas?",
+    "explicacion": "El artículo 19 del Real Decreto Legislativo 2/2004 exige la publicación de los acuerdos definitivos y del texto íntegro en el Boletín Oficial de la Provincia y limita la impugnación al recurso contencioso-administrativo.",
+    "id": "HUE-C1-E04-011",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los acuerdos definitivos y el texto íntegro de las ordenanzas o de sus modificaciones se publican en el Boletín Oficial de la Provincia, sin que entren en vigor hasta dicha publicación; contra ellas solo cabe el recurso contencioso-administrativo.",
+    "tema": "E04",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 129",
+    "enunciado": "¿Qué principios de buena regulación deben respetar las Administraciones Públicas en el ejercicio de la potestad reglamentaria?",
+    "explicacion": "El artículo 129 de la Ley 39/2015 enumera los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+    "id": "HUE-C1-E04-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 128",
+    "enunciado": "¿Qué límite impone el principio de jerarquía normativa a la potestad reglamentaria de las entidades locales?",
+    "explicacion": "El artículo 128.3 de la Ley 39/2015 prohíbe que las disposiciones administrativas vulneren los preceptos de otra norma de rango superior.",
+    "id": "HUE-C1-E04-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que los reglamentos y ordenanzas no pueden vulnerar la Constitución ni las leyes, ni los preceptos de otra disposición de rango superior.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 128",
+    "enunciado": "¿Pueden las ordenanzas municipales regular materias reservadas a las Cortes Generales o a las Asambleas Legislativas autonómicas?",
+    "explicacion": "El artículo 128.2 de la Ley 39/2015 prohíbe a los reglamentos regular las materias que la Constitución o los Estatutos de Autonomía reservan a las Cortes Generales o a las Asambleas Legislativas.",
+    "id": "HUE-C1-E04-014",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; los reglamentos no pueden regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Qué principio constitucional garantiza que ninguna norma pueda contradecir a otra de rango superior?",
+    "explicacion": "El artículo 9.3 de la Constitución Española garantiza, entre otros, el principio de jerarquía normativa.",
+    "id": "HUE-C1-E04-015",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El principio de jerarquía normativa, garantizado por el artículo 9.3 de la Constitución, junto con la legalidad, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables y la seguridad jurídica.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 139",
+    "enunciado": "¿En qué casos pueden las ordenanzas locales tipificar infracciones e imponer sanciones?",
+    "explicacion": "El artículo 139 de la Ley 7/1985 permite a los entes locales tipificar infracciones e imponer sanciones por ordenanza, en defecto de normativa sectorial específica, para la ordenación de la convivencia local y del uso de servicios y espacios públicos.",
+    "id": "HUE-C1-E04-016",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En defecto de normativa sectorial específica, para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, equipamientos, infraestructuras, instalaciones y espacios públicos.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 140",
+    "enunciado": "¿Cómo se clasifican las infracciones tipificadas por las ordenanzas locales?",
+    "explicacion": "El artículo 140 de la Ley 7/1985 clasifica las infracciones en muy graves, graves y leves según los criterios que enumera.",
+    "id": "HUE-C1-E04-017",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En muy graves, graves y leves, atendiendo a criterios como la perturbación de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos, el impedimento del uso de un servicio público o el deterioro grave de equipamientos e infraestructuras.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 141",
+    "enunciado": "¿Cuáles son las cuantías máximas de las multas que pueden imponer las ordenanzas locales?",
+    "explicacion": "El artículo 141 de la Ley 7/1985 fija los límites de las sanciones pecuniarias: 3.000 euros para muy graves, 1.500 para graves y 750 para leves.",
+    "id": "HUE-C1-E04-018",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Infracciones muy graves: hasta 3.000 euros; infracciones graves: hasta 1.500 euros; e infracciones leves: hasta 750 euros.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 133",
+    "enunciado": "¿Puede una ordenanza fiscal municipal crear un tributo no previsto en la ley?",
+    "explicacion": "El artículo 133.1 de la Constitución reserva al Estado, mediante ley, la potestad originaria para establecer tributos, por lo que las ordenanzas fiscales solo pueden regular los tributos previstos legalmente.",
+    "id": "HUE-C1-E04-019",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; la potestad originaria para establecer los tributos corresponde exclusivamente al Estado, mediante ley, por lo que las ordenanzas fiscales solo pueden desarrollar los tributos establecidos por la ley.",
+    "tema": "E04",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Qué procedimiento se sigue para modificar una ordenanza municipal?",
+    "explicacion": "La modificación de las ordenanzas sigue el mismo procedimiento de elaboración y aprobación del artículo 49 de la Ley 7/1985: aprobación inicial, información pública y audiencia por treinta días y aprobación definitiva.",
+    "id": "HUE-C1-E04-020",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El mismo procedimiento que para su aprobación: aprobación inicial por el Pleno, información pública y audiencia a los interesados por un mínimo de treinta días y aprobación definitiva, entendiéndose definitivamente adoptado el acuerdo si no se presentan reclamaciones.",
+    "tema": "E04",
+    "verificado_corpus": false
+  }
+]

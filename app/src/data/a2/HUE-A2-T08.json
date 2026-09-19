@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la organización municipal: órganos necesarios y organización complementaria (arts. 19 y 20 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las atribuciones del Alcalde, del Pleno y de la Junta de Gobierno Local (arts. 21, 22 y 23 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la organización de la provincia y las atribuciones de sus órganos (arts. 31 a 35 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las competencias propias de los municipios y los servicios mínimos obligatorios (arts. 25 y 26 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las competencias de las Diputaciones Provinciales (art. 36 LBRL)."
+  ],
+  "id": "HUE-A2-T08",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 20.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Órganos necesarios del municipio: el Alcalde, los Tenientes de Alcalde, el Pleno y la Junta de Gobierno Local existen en todos los Ayuntamientos; la Junta de Gobierno Local existe en los municipios con población de derecho superior a 5.000 habitantes y en los de menos cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 20",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Organización municipal complementaria: las leyes de las Comunidades Autónomas sobre régimen local podrán establecer una organización municipal complementaria; en todo caso existirán órganos que tengan por objeto el estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno (comisiones informativas), así como la Comisión Especial de Cuentas. Podrán crearse además consejos sectoriales, órganos desconcentrados y Juntas Municipales de Distrito.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 21",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Atribuciones del Alcalde: dirigir el gobierno y la administración municipal; representar al Ayuntamiento; convocar y presidir las sesiones del Pleno, de la Junta de Gobierno Local y de cualesquiera otros órganos municipales; dirigir, inspeccionar e impulsar los servicios y obras municipales; dictar bandos; el desarrollo de la gestión económica; aprobar la oferta de empleo público; el desempeño de la jefatura superior de todo el personal; y ejercer las acciones judiciales y administrativas en caso de urgencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 22",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Atribuciones del Pleno: el control y fiscalización de los órganos de gobierno; los acuerdos relativos a la participación en organizaciones supramunicipales y a la alteración del término municipal; la aprobación de los reglamentos y ordenanzas; la determinación de los recursos propios de carácter tributario; la aprobación y modificación de los presupuestos; la aprobación de la plantilla de personal y de la relación de puestos de trabajo; y el planteamiento de conflictos de competencias a otras entidades locales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 23",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Junta de Gobierno Local: se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por aquél, dando cuenta al Pleno. Corresponde a la Junta la asistencia al Alcalde en el ejercicio de sus atribuciones, así como las atribuciones que el Alcalde u otro órgano municipal le delegue o le atribuyan las leyes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 31 y 32",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "La Provincia: es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines (art. 31). Son órganos necesarios de la Diputación el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno (art. 32).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 34 y 35",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Atribuciones en la Diputación: corresponde al Presidente dirigir el gobierno y la administración de la provincia, representar a la Diputación, convocar y presidir las sesiones, y las demás atribuciones análogas a las del Alcalde (art. 34); corresponde al Pleno el control y fiscalización de los órganos de gobierno, la aprobación de reglamentos, presupuestos y plantilla, y las demás atribuciones análogas a las del Pleno municipal (art. 35).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 7",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Clases de competencias locales: las competencias de las entidades locales son propias o atribuidas por delegación. Las competencias propias se ejercen en régimen de autonomía y bajo la propia responsabilidad, atendiendo siempre a la debida coordinación en su programación y ejecución con las demás Administraciones Públicas; las competencias delegadas se ejercen en los términos establecidos en la disposición o en el acuerdo de delegación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 25",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Competencias propias de los municipios: el Municipio, para la gestión de sus intereses y en el ámbito de sus competencias, puede promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades y aspiraciones de la comunidad vecinal. Ejercerá en todo caso como competencias propias las materias de urbanismo, medio ambiente urbano, abastecimiento de agua potable a domicilio, infraestructura viaria, evaluación e información de situaciones de necesidad social, policía local, tráfico, estacionamiento de vehículos y movilidad, protección civil, prevención y extinción de incendios, ferias, abastos, mercados, lonjas y comercio ambulante, protección de la salubridad pública, cementerios y actividades funerarias, promoción del deporte e instalaciones deportivas, y promoción de la cultura y equipamientos culturales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 26",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Servicios mínimos obligatorios: los municipios deberán prestar, en todo caso, los servicios de alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas. Según tramos de población se añaden: parque público, biblioteca pública y mercado (más de 5.000 habitantes); protección civil, evaluación de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público (más de 20.000); transporte colectivo urbano de viajeros y medio ambiente urbano (más de 50.000).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Competencias de la Diputación: la coordinación de los servicios municipales entre sí para la garantía de la prestación integral y adecuada de los servicios de competencia municipal; la asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente los de menor capacidad económica y de gestión; la prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal; la cooperación en el fomento del desarrollo económico y social y en la planificación en el territorio provincial; y el ejercicio de funciones de coordinación en la prestación de los servicios mínimos obligatorios.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 8,
+  "titulo": "Organización y competencias municipales y provinciales."
+}

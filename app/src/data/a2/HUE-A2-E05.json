@@ -1,0 +1,89 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la nulidad de pleno derecho: supuestos del art. 47 Ley 39/2015.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la anulabilidad: supuestos del art. 48 y las irregularidades no invalidantes.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la conversión, la conservación y la convalidación de los actos administrativos (arts. 50 a 52).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la revisión de oficio: declaración de nulidad y declaración de lesividad (arts. 106 y 107).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la revocación de actos y la rectificación de errores materiales o de hecho (art. 109)."
+  ],
+  "id": "HUE-A2-E05",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 47.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Nulidad de pleno derecho: son nulos de pleno derecho los actos que lesionen los derechos y libertades susceptibles de amparo constitucional; los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio; los que tengan un contenido imposible; los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta; los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados; los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición; y cualquier otro que se establezca expresamente en una disposición con rango de ley.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 48",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Anulabilidad: son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder (art. 48.1). El defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados (art. 48.2). La realización de actuaciones administrativas fuera del tiempo establecido sólo implicará la anulabilidad cuando así lo imponga la naturaleza del término o plazo (art. 48.3).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 49",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Nulidad y anulabilidad parciales: la nulidad o anulabilidad en parte del acto administrativo no implicará la de las partes del mismo independientes de aquélla, salvo que la parte viciada sea de tal importancia que sin ella el acto administrativo no hubiera sido dictado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 50",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Conversión: los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de éste.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 51",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Conservación: el órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 52",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Convalidación: la Administración podrá convalidar los actos anulables, subsanando los vicios de que adolezcan. Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarla el órgano competente cuando sea superior jerárquico del que dictó el acto viciado. El acto de convalidación producirá efecto desde su fecha, salvo que se le otorgue eficacia retroactiva conforme al artículo 39.3.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 106",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Revisión de disposiciones y actos nulos: las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1, así como la de las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 107",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Declaración de lesividad de actos anulables: la declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo. Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo. Declarada la lesividad, la Administración deberá interponer recurso contencioso-administrativo para obtener la anulación del acto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 108",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Suspensión en la revisión de oficio: iniciado el procedimiento de revisión de oficio, el órgano competente para declarar la nulidad o lesividad podrá suspender la ejecución del acto cuando ésta pudiera causar perjuicios de imposible o difícil reparación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 109.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Revocación: las Administraciones Públicas podrán revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 109.2",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Rectificación de errores: las Administraciones Públicas podrán, asimismo, rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 110",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Límites de la revisión: las facultades de revisión establecidas en este capítulo no podrán ser ejercitadas cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E05",
+  "titulo": "Invalidez de los actos administrativos. Nulidad y anulabilidad. La conversión, conservación y convalidación del acto administrativo. La revisión de actos y disposiciones por la propia Administración. La revocación de actos. La rectificación de errores materiales o de hecho."
+}

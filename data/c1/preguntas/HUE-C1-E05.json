@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Cuáles son las causas generales de inelegibilidad del artículo 6 de la Ley Orgánica 5/1985?",
+    "explicacion": "El artículo 6 de la Ley Orgánica 5/1985 declara inelegibles a quienes desempeñen determinados cargos públicos y a los condenados por sentencia firme a pena privativa de libertad durante su cumplimiento.",
+    "id": "HUE-C1-E05-001",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los miembros de la Familia Real, los altos cargos de la Administración, los magistrados y fiscales en activo, los militares y policías en activo, entre otros cargos enumerados; y los condenados por sentencia firme a pena privativa de libertad en el período de cumplimiento de la pena.",
+    "tema": "E05",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 177",
+    "enunciado": "¿Quiénes son además inelegibles para el cargo de concejal según el artículo 177.1 de la Ley Orgánica 5/1985?",
+    "explicacion": "El artículo 177.1 de la Ley Orgánica 5/1985 añade como causa de inelegibilidad para concejal la condición de deudor de la corporación con mandamiento de apremio judicial.",
+    "id": "HUE-C1-E05-002",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los deudores directos o subsidiarios de la correspondiente Corporación Local contra quienes se hubiera expedido mandamiento de apremio por resolución judicial.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 177",
+    "enunciado": "¿Qué condenados son inelegibles para el cargo de concejal según el artículo 177.2 de la Ley Orgánica 5/1985?",
+    "explicacion": "El artículo 177.2 de la Ley Orgánica 5/1985 declara inelegibles a los condenados por sentencia firme por delitos de rebelión, terrorismo, contra la Administración pública o contra las Instituciones del Estado con pena de inhabilitación.",
+    "id": "HUE-C1-E05-003",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los condenados por sentencia firme por delitos de rebelión, de terrorismo, contra la Administración pública o contra las Instituciones del Estado, cuando la sentencia haya establecido la pena de inhabilitación para el ejercicio del derecho de sufragio pasivo o la de inhabilitación absoluta o especial o de suspensión para empleo o cargo público.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 178",
+    "enunciado": "Cite tres causas de incompatibilidad con el cargo de concejal del artículo 178.2 de la Ley Orgánica 5/1985.",
+    "explicacion": "El artículo 178.2 de la Ley Orgánica 5/1985 enumera las incompatibilidades específicas de los concejales, entre ellas el personal en activo del ayuntamiento, los contratistas y los abogados que litiguen contra la corporación.",
+    "id": "HUE-C1-E05-004",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los directores de servicios, funcionarios o restante personal en activo del respectivo Ayuntamiento y de las entidades dependientes; los contratistas o subcontratistas de contratos financiados total o parcialmente por la Corporación; y los abogados y procuradores que dirijan o representen a partes en procedimientos contra la Corporación.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 179",
+    "enunciado": "¿Cuántos concejales corresponden a un municipio de 8.000 habitantes según el artículo 179 de la Ley Orgánica 5/1985?",
+    "explicacion": "El artículo 179.1 de la Ley Orgánica 5/1985 fija la escala de concejales por población: de 5.001 a 10.000 habitantes corresponden 13 concejales.",
+    "id": "HUE-C1-E05-005",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Trece concejales, al estar en el tramo de 5.001 a 10.000 habitantes (hasta 100: 3; 101-250: 5; 251-1.000: 7; 1.001-2.000: 9; 2.001-5.000: 11; 5.001-10.000: 13; 10.001-20.000: 17; 20.001-50.000: 21; 50.001-100.000: 25).",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 180",
+    "enunciado": "¿Qué sistema electoral se aplica para la atribución de concejales?",
+    "explicacion": "El artículo 180 de la Ley Orgánica 5/1985 establece el sistema de representación proporcional con listas cerradas y bloqueadas y la regla D'Hondt.",
+    "id": "HUE-C1-E05-006",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El sistema de representación proporcional, con listas cerradas y bloqueadas, atribuyéndose los puestos por la regla D'Hondt.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 184",
+    "enunciado": "¿Qué municipios funcionan en régimen de concejo abierto y cómo eligen al alcalde?",
+    "explicacion": "El artículo 184 de la Ley Orgánica 5/1985 prevé el concejo abierto para municipios de menos de 100 habitantes y la elección directa del alcalde por sistema mayoritario.",
+    "id": "HUE-C1-E05-007",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los municipios de menos de 100 habitantes que tradicionalmente lo vengan utilizando; los electores eligen directamente al alcalde por sistema mayoritario.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 196",
+    "enunciado": "¿Cómo se elige al alcalde en la sesión constitutiva de la Corporación?",
+    "explicacion": "El artículo 196 de la Ley Orgánica 5/1985 regula la elección: candidatos cabezas de lista, mayoría absoluta y, en su defecto, cabeza de la lista más votada, con sorteo en caso de empate.",
+    "id": "HUE-C1-E05-008",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Pueden ser candidatos todos los concejales que encabecen sus listas; si alguno obtiene la mayoría absoluta de los votos de los concejales es proclamado electo, y si ninguno la obtiene es proclamado alcalde el concejal que encabece la lista más votada, resolviéndose el empate por sorteo.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 197",
+    "enunciado": "¿Qué requisitos exige la moción de censura contra el alcalde?",
+    "explicacion": "El artículo 197.1.a) de la Ley Orgánica 5/1985 exige propuesta por mayoría absoluta del número legal de miembros e inclusión de un candidato a la Alcaldía.",
+    "id": "HUE-C1-E05-009",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Debe ser propuesta al menos por la mayoría absoluta del número legal de miembros de la Corporación e incluir un candidato a la Alcaldía, pudiendo serlo cualquier concejal cuya aceptación expresa conste en el escrito.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 195",
+    "enunciado": "¿Cuándo se constituyen las corporaciones municipales y quién preside la sesión constitutiva?",
+    "explicacion": "El artículo 195 de la Ley Orgánica 5/1985 fija la constitución el vigésimo día posterior a las elecciones, en sesión pública presidida por una Mesa de Edad.",
+    "id": "HUE-C1-E05-010",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En sesión pública el vigésimo día posterior a la celebración de las elecciones (o el cuadragésimo si se presentó recurso contencioso-electoral); preside una Mesa de Edad integrada por los elegidos de mayor y menor edad, actuando como secretario el de la Corporación.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 42",
+    "enunciado": "¿Cada cuánto tiempo y en qué fecha se celebran las elecciones municipales?",
+    "explicacion": "El artículo 42.3 de la Ley Orgánica 5/1985 fija las elecciones locales cada cuatro años, el cuarto domingo de mayo.",
+    "id": "HUE-C1-E05-011",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cada cuatro años, el cuarto domingo de mayo del año que corresponda.",
+    "tema": "E05",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 204",
+    "enunciado": "¿Cuántos diputados provinciales corresponden a una provincia de 800.000 habitantes?",
+    "explicacion": "El artículo 204 de la Ley Orgánica 5/1985 fija la escala: hasta 500.000, 25; de 500.001 a 1.000.000, 27; de 1.000.001 a 3.500.000, 31; y más de 3.500.000, 51.",
+    "id": "HUE-C1-E05-012",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Veintisiete diputados, al estar en el tramo de 500.001 a 1.000.000 de residentes.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 205",
+    "enunciado": "¿Qué circunscripciones se utilizan para la elección de diputados provinciales?",
+    "explicacion": "El artículo 205 de la Ley Orgánica 5/1985 establece que los partidos judiciales constituyen las circunscripciones para la elección de diputados provinciales.",
+    "id": "HUE-C1-E05-013",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los partidos judiciales de la provincia.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 207",
+    "enunciado": "¿Cómo se designan los diputados provinciales correspondientes a cada partido judicial?",
+    "explicacion": "El artículo 207 de la Ley Orgánica 5/1985 atribuye los puestos por D'Hondt según los votos de cada candidatura en los municipios del partido judicial, designando a los concejales electos por orden de candidatura.",
+    "id": "HUE-C1-E05-014",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los puestos de cada partido judicial se atribuyen a las listas según los votos obtenidos en el conjunto de sus municipios por la regla D'Hondt, y son designados diputados los concejales electos correspondientes por el orden de colocación en la candidatura.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 208",
+    "enunciado": "¿Cómo se elige al Presidente de la Diputación Provincial?",
+    "explicacion": "El artículo 208 de la Ley Orgánica 5/1985 regula la elección en la sesión constitutiva, presidida por una Mesa de Edad, con mayoría absoluta en primera votación y mayoría simple en segunda votación 48 horas después.",
+    "id": "HUE-C1-E05-015",
+    "ley": "Ley Orgánica 5/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En la sesión constitutiva, presidida por una Mesa de Edad de los diputados de mayor y menor edad; pueden ser candidatos los diputados que encabecen listas con representación; se requiere mayoría absoluta en la primera votación y, de no obtenerse, se celebra nueva votación cuarenta y ocho horas después, siendo proclamado quien obtenga mayoría simple.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 73",
+    "enunciado": "¿Cómo se organizan políticamente los miembros de las corporaciones locales?",
+    "explicacion": "El artículo 73.3 de la Ley 7/1985 dispone la constitución de grupos políticos en las corporaciones y la dotación económica para su funcionamiento.",
+    "id": "HUE-C1-E05-016",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En grupos políticos, que se constituyen con arreglo a las normas del reglamento orgánico y cuentan con una dotación económica para su funcionamiento.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 75",
+    "enunciado": "¿Qué regímenes retributivos pueden tener los miembros de las corporaciones locales?",
+    "explicacion": "El artículo 75 de la Ley 7/1985 distingue la dedicación exclusiva, la dedicación parcial y la percepción exclusiva de asistencias por sesiones.",
+    "id": "HUE-C1-E05-017",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Dedicación exclusiva, con retribuciones e inclusión en la Seguridad Social; dedicación parcial, con retribuciones proporcionales; o, sin dedicación, percepción de asistencias por la concurrencia efectiva a las sesiones de los órganos colegiados.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 75",
+    "enunciado": "¿Qué declaraciones deben formular los representantes locales al inicio de su mandato?",
+    "explicacion": "El artículo 75.7 de la Ley 7/1985 obliga a declarar causas de posible incompatibilidad, actividades con ingresos, bienes patrimoniales y participaciones en sociedades.",
+    "id": "HUE-C1-E05-018",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Declaración sobre causas de posible incompatibilidad y sobre cualquier actividad que les proporcione o pueda proporcionar ingresos económicos, así como declaración de sus bienes patrimoniales y de su participación en sociedades, que se inscriben en los Registros de intereses.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 76",
+    "enunciado": "¿Cuándo deben abstenerse los miembros de las corporaciones locales de participar en un asunto?",
+    "explicacion": "El artículo 76 de la Ley 7/1985 impone el deber de abstención cuando concurra alguna de las causas de la legislación de procedimiento administrativo y de contratos.",
+    "id": "HUE-C1-E05-019",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando concurra alguna de las causas a que se refiere la legislación de procedimiento administrativo y de contratos de las Administraciones Públicas, debiendo abstenerse de participar en la deliberación, votación, decisión y ejecución del asunto.",
+    "tema": "E05",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 77",
+    "enunciado": "¿Qué derecho de información tienen los miembros de las corporaciones locales?",
+    "explicacion": "El artículo 77 de la Ley 7/1985 reconoce a todos los miembros el derecho a obtener del Alcalde o Presidente cuantos antecedentes, datos o informaciones obren en poder de los servicios de la Corporación.",
+    "id": "HUE-C1-E05-020",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a obtener del Alcalde o Presidente cuantos antecedentes, datos o informaciones obren en poder de los servicios de la Corporación y resulten precisos para el desarrollo de su función.",
+    "tema": "E05",
+    "verificado_corpus": false
+  }
+]

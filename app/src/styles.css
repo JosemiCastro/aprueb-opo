@@ -1,0 +1,261 @@
+/* OposDipu — estilos mobile-first */
+
+:root {
+  --primary: #1a56db;
+  --primary-dark: #1443a8;
+  --bg: #f6f8fc;
+  --surface: #ffffff;
+  --text: #1a2333;
+  --text-muted: #5b6b82;
+  --border: #dbe3f0;
+  --success: #16803c;
+  --danger: #c81e1e;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(20, 40, 90, 0.08);
+  --font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  font-size: 16px;
+}
+
+.screen {
+  max-width: 640px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: var(--primary);
+  color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.header-title {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.back {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.4rem;
+  line-height: 1;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+
+.back:focus-visible,
+.back:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Tarjetas */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  box-shadow: var(--shadow);
+}
+
+.home-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 16px;
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: var(--text);
+}
+
+.home-card h2 {
+  margin: 0 0 6px;
+  font-size: 1.2rem;
+  color: var(--primary);
+}
+
+.home-card p {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.home-card:hover,
+.home-card:focus-visible {
+  border-color: var(--primary);
+}
+
+.home-link {
+  text-align: center;
+  color: var(--primary);
+  font-weight: 600;
+  padding: 12px;
+}
+
+/* Botones */
+.btn {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  min-height: 48px;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: #fff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus-visible {
+  background: var(--primary-dark);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--primary);
+  border-color: var(--border);
+}
+
+.btn-ghost:hover,
+.btn-ghost:focus-visible {
+  border-color: var(--primary);
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+/* Barra de progreso */
+.progress {
+  height: 10px;
+  background: var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--primary);
+  border-radius: 999px;
+  transition: width 0.25s ease;
+}
+
+/* Filas de tema */
+.tema-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+
+.tema-row:hover,
+.tema-row:focus-visible {
+  border-color: var(--primary);
+}
+
+.tema-row-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.tema-row-title {
+  font-weight: 600;
+}
+
+.tema-row-sub {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tema-row-pct {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.tema-row-arrow {
+  color: var(--text-muted);
+  font-size: 1.3rem;
+}
+
+.placeholder {
+  text-align: center;
+  color: var(--text-muted);
+  padding: 48px 16px;
+  font-size: 1.1rem;
+}
+
+/* Enlaces y foco */
+a {
+  color: var(--primary);
+}
+
+:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .progress-fill {
+    transition: none;
+  }
+}
+
+.actions-row {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.actions-row .btn {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+}

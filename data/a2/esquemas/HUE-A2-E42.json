@@ -1,0 +1,72 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la gestión y liquidación de los recursos de las haciendas locales.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la recaudación en período voluntario y en período ejecutivo.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la gestión y recaudación de recursos por cuenta de otros entes públicos (delegación en diputaciones).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la revisión en vía administrativa de los actos de gestión tributaria local.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la devolución de ingresos indebidos.",
+    "Puedo citar con precisión los artículos 7, 12 y 14 del TRLRHL y los artículos 101, 160, 161 y 221 de la Ley 58/2003."
+  ],
+  "id": "HUE-A2-E42",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 12",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Gestión de los tributos locales: la gestión, liquidación, inspección y recaudación de los tributos locales se realizará de acuerdo con lo prevenido en la Ley General Tributaria y en las demás leyes del Estado reguladoras de la materia, así como en las disposiciones dictadas para su desarrollo y en las ordenanzas fiscales.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 101",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Liquidaciones tributarias: son liquidaciones provisionales aquellas en las que alguno de sus elementos no ha sido comprobado con carácter definitivo, y definitivas las practicadas previa comprobación e investigación de la totalidad de los hechos y elementos determinantes de la deuda; tendrán carácter provisional las practicadas por la Administración sin comprobación previa.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 160",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "La recaudación tributaria consiste en el ejercicio de las funciones administrativas conducentes al cobro de las deudas y sanciones tributarias y demás recursos de naturaleza pública que deban satisfacer los obligados al pago.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 161",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Períodos de recaudación: la recaudación se realizará en período voluntario (pago en los plazos fijados por la normativa de cada tributo) y en período ejecutivo, que se inicia con el vencimiento del período voluntario sin pago, con devengo del recargo ejecutivo, de apremio y de los intereses de demora, y continuación por el procedimiento de apremio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 7",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Gestión por cuenta de otros entes: las entidades locales podrán delegar en la comunidad autónoma o en la diputación provincial en cuyo territorio estén integradas las facultades de gestión, liquidación, inspección y recaudación tributaria de sus tributos y restantes ingresos de derecho público; la delegación deberá aprobarse por el Pleno y publicarse.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 8",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Colaboración en la recaudación: las diputaciones provinciales podrán realizar por delegación de los ayuntamientos las funciones de recaudación de sus tributos y otros ingresos de derecho público, asumiendo la gestión recaudatoria en período voluntario y ejecutivo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 14.2",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Revisión en vía administrativa: contra los actos sobre aplicación y efectividad de los tributos y restantes ingresos de derecho público de las entidades locales podrá formularse, con carácter previo a la reclamación económico-administrativa o al recurso contencioso-administrativo, el recurso de reposición, en el plazo de un mes desde la notificación expresa o la publicación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 137",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "En los municipios de gran población, contra los actos de aplicación de los tributos podrá interponerse reclamación económico-administrativa ante el órgano especializado creado al efecto, como vía previa al recurso contencioso-administrativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 221",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Devolución de ingresos indebidos: el procedimiento para el reconocimiento del derecho a la devolución de ingresos indebidos se iniciará de oficio o a instancia del interesado; tendrán derecho a la devolución quienes hayan realizado ingresos indebidos en el Tesoro con ocasión del pago de deudas tributarias, con abono del interés de demora correspondiente.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E42",
+  "titulo": "Gestión, liquidación y recaudación de los recursos de las haciendas locales. La gestión y recaudación de recursos por cuenta de otros entes públicos. Revisión en vía administrativa de los actos de gestión tributaria dictados por las entidades locales. La devolución de ingresos indebidos."
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 41",
+    "enunciado": "¿Qué facultades y prerrogativas reconoce la Ley 33/2003 a las Administraciones públicas para la defensa de su patrimonio?",
+    "explicacion": "El art. 41.1 LPAP enumera estas cuatro facultades y prerrogativas. Su apartado 2 atribuye a los órganos de la jurisdicción civil el conocimiento de las cuestiones de naturaleza civil que se susciten con ocasión de su ejercicio.",
+    "id": "HUE-C1-E09-001",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Investigar la situación de los bienes y derechos que presumiblemente pertenezcan a su patrimonio; deslindar en vía administrativa los inmuebles de su titularidad; recuperar de oficio la posesión indebidamente perdida sobre sus bienes y derechos; y desahuciar en vía administrativa a los poseedores de los inmuebles demaniales, una vez extinguido el título que amparaba la tenencia.",
+    "tema": "E09",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué potestades reconoce el artículo 4.1 de la Ley 7/1985 a las entidades locales en relación con sus bienes?",
+    "explicacion": "El art. 4.1.d) LBRL incluye estas potestades entre las que corresponden en todo caso a municipios, provincias e islas en su calidad de Administraciones públicas de carácter territorial.",
+    "id": "HUE-C1-E09-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las potestades expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿A qué principios deben ajustarse la gestión y administración de los bienes y derechos patrimoniales según la Ley 33/2003?",
+    "explicacion": "Art. 8.1 LPAP. Además, el apartado 2 exige que la gestión de los bienes patrimoniales coadyuve al desarrollo de las políticas públicas en vigor, en particular la de vivienda.",
+    "id": "HUE-C1-E09-003",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A los principios de eficiencia y economía en su gestión; eficacia y rentabilidad en su explotación; publicidad, transparencia, concurrencia y objetividad en su adquisición, explotación y enajenación; identificación y control a través de inventarios o registros adecuados; y colaboración y coordinación entre las diferentes Administraciones públicas.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "Según el artículo 8 de la Ley 33/2003, ¿qué principio rige la enajenación de los bienes patrimoniales de las Administraciones públicas?",
+    "explicacion": "Art. 8.1.c) LPAP: la gestión y administración de los bienes y derechos patrimoniales se ajustará, entre otros, a este principio.",
+    "id": "HUE-C1-E09-004",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El principio de publicidad, transparencia, concurrencia y objetividad en la adquisición, explotación y enajenación de estos bienes.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 132",
+    "enunciado": "¿En qué principios se inspira el régimen jurídico de los bienes de dominio público según la Constitución?",
+    "explicacion": "Art. 132.1 CE: «La ley regulará el régimen jurídico de los bienes de dominio público y de los comunales, inspirándose en los principios de inalienabilidad, imprescriptibilidad e inembargabilidad, así como su desafectación».",
+    "id": "HUE-C1-E09-005",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En los principios de inalienabilidad, imprescriptibilidad e inembargabilidad.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿Qué protección tienen los bienes comunales y demás bienes de dominio público de las entidades locales?",
+    "explicacion": "Art. 80.1 LBRL, en desarrollo del art. 132.1 CE para el ámbito local.",
+    "id": "HUE-C1-E09-006",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 45",
+    "enunciado": "¿En qué consiste la facultad de investigación de las Administraciones públicas sobre sus bienes?",
+    "explicacion": "Art. 45 LPAP. El procedimiento se inicia de oficio, por iniciativa propia o por denuncia de particulares (art. 47).",
+    "id": "HUE-C1-E09-007",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En investigar la situación de los bienes y derechos que presumiblemente formen parte de su patrimonio, a fin de determinar su titularidad cuando ésta no les conste de modo cierto.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 50",
+    "enunciado": "¿Cuándo pueden las Administraciones públicas deslindar en vía administrativa los bienes inmuebles de su patrimonio?",
+    "explicacion": "Art. 50.1 LPAP: potestad de deslinde. Iniciado el procedimiento de deslinde, no podrá instarse procedimiento judicial con igual pretensión mientras dure su tramitación (art. 50.2).",
+    "id": "HUE-C1-E09-008",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando los límites entre ellos y los pertenecientes a terceros sean imprecisos o existan indicios de usurpación.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 52",
+    "enunciado": "¿Cuál es el plazo máximo para resolver el procedimiento de deslinde y qué ocurre si se supera sin resolución?",
+    "explicacion": "Art. 52.e) LPAP.",
+    "id": "HUE-C1-E09-009",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Dieciocho meses contados desde la fecha del acuerdo de iniciación; transcurrido ese plazo sin haberse dictado y notificado la resolución, caduca el procedimiento y se acuerda el archivo de las actuaciones.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 55",
+    "enunciado": "¿Qué permite la potestad de recuperación posesoria a las Administraciones públicas?",
+    "explicacion": "Art. 55.1 LPAP. Su ejercicio requiere previa audiencia al interesado y requerimiento al ocupante con plazo no superior a ocho días (art. 56.a).",
+    "id": "HUE-C1-E09-010",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Recuperar por sí mismas la posesión indebidamente perdida sobre los bienes y derechos de su patrimonio.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 55",
+    "enunciado": "¿Existe límite temporal para recuperar de oficio la posesión de un bien usurpado?",
+    "explicacion": "Art. 55.2 y 3 LPAP. Pasado el año, la posesión de los bienes patrimoniales solo puede recuperarse ejercitando las acciones correspondientes ante la jurisdicción civil.",
+    "id": "HUE-C1-E09-011",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Si el bien es demanial, la potestad puede ejercitarse en cualquier tiempo; si es patrimonial, la iniciación del procedimiento debe haberse notificado antes de que transcurra un año contado desde el día siguiente al de la usurpación.",
+    "tema": "E09",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 58",
+    "enunciado": "¿Qué es el desahucio administrativo?",
+    "explicacion": "Art. 58 LPAP. Se diferencia de la recuperación posesoria (art. 55) en que aquí existió un título legítimo de ocupación que ha decaído o desaparecido.",
+    "id": "HUE-C1-E09-012",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La potestad de las Administraciones públicas de recuperar en vía administrativa la posesión de sus bienes demaniales cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban su ocupación por terceros.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "¿Qué requisito previo exige la Ley 33/2003 para ejercer la potestad de desahucio administrativo?",
+    "explicacion": "Art. 59.1 LPAP. Esta declaración, así como la liquidación de la situación posesoria y la indemnización que proceda, se efectúan en vía administrativa, previa instrucción del procedimiento con audiencia al interesado (art. 59.2).",
+    "id": "HUE-C1-E09-013",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La previa declaración de extinción o caducidad del título que otorgaba el derecho de utilización de los bienes de dominio público.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "Dictada la resolución de desahucio administrativo, ¿qué plazo se concede al detentador para desalojar el bien?",
+    "explicacion": "Art. 59.3 LPAP: la resolución, que será ejecutiva sin perjuicio de los recursos que procedan, se notifica al detentador requiriéndole para que desocupe el bien en plazo no superior a ocho días.",
+    "id": "HUE-C1-E09-014",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un plazo no superior a ocho días.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "Si el tenedor no atiende el requerimiento de desalojo, ¿qué medidas prevé el artículo 59 de la Ley 33/2003?",
+    "explicacion": "Art. 59.4 y 5 LPAP.",
+    "id": "HUE-C1-E09-015",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Solicitar el auxilio de las Fuerzas y Cuerpos de Seguridad para el lanzamiento o imponer multas coercitivas de hasta un 5 % del valor de los bienes ocupados, reiteradas por períodos de ocho días hasta que se produzca el desalojo; los gastos del desalojo son a cargo del detentador y exigibles por la vía de apremio.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Qué obligación impone el artículo 36 de la Ley 33/2003 en materia registral?",
+    "explicacion": "Art. 36.1 LPAP. La inscripción será potestativa solo en el caso de arrendamientos inscribibles conforme a la legislación hipotecaria.",
+    "id": "HUE-C1-E09-016",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las Administraciones públicas deben inscribir en los correspondientes registros los bienes y derechos de su patrimonio, ya sean demaniales o patrimoniales, que sean susceptibles de inscripción, así como todos los actos y contratos referidos a ellos que puedan tener acceso a dichos registros.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 37",
+    "enunciado": "¿Qué valor tiene la certificación administrativa para la cancelación o rectificación de inscripciones registrales a favor de la Administración pública?",
+    "explicacion": "Art. 37.4 LPAP, previa instrucción del procedimiento e informe del órgano asesor correspondiente.",
+    "id": "HUE-C1-E09-017",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es título suficiente para proceder a la cancelación o rectificación en los supuestos tasados: inexistencia actual o imposibilidad de localización física de la finca, reconocimiento del mejor derecho o preferencia del título de un tercero, y reconocimiento de la titularidad de un tercero sobre finca inscrita a favor de la Administración.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿A qué están obligadas las Administraciones públicas respecto del inventario de sus bienes y derechos?",
+    "explicacion": "Art. 32.1 LPAP: obligación de formar inventario.",
+    "id": "HUE-C1-E09-018",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A inventariarlos, haciendo constar con suficiente detalle las menciones necesarias para su identificación y las precisas para reflejar su situación jurídica y el destino o uso a que están siendo dedicados.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Qué contenido mínimo debe tener el inventario patrimonial de las entidades locales?",
+    "explicacion": "Art. 32.4 LPAP, referido al inventario de las comunidades autónomas, entidades locales y entidades de derecho público vinculadas o dependientes.",
+    "id": "HUE-C1-E09-019",
+    "ley": "Ley 33/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al menos los bienes inmuebles y los derechos reales sobre los mismos.",
+    "tema": "E09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué capacidad jurídica reconoce la Ley 7/1985 a las entidades locales respecto de sus bienes?",
+    "explicacion": "Art. 5 LBRL: capacidad jurídica de las entidades locales para el cumplimiento de sus fines y en el ámbito de sus competencias.",
+    "id": "HUE-C1-E09-020",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Plena capacidad jurídica para adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes, celebrar contratos, establecer y explotar obras o servicios públicos, obligarse, interponer los recursos establecidos y ejercitar las acciones previstas en las leyes.",
+    "tema": "E09",
+    "verificado_corpus": false
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "T01",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "1",
+    "titulo": "El sistema constitucional: la Constitución Española de 1978. Antecedentes y significado jurídico. Características y estructura. Principios que informan la Constitución de 1978. Título preliminar de la Constitución. La reforma constitucional."
+  },
+  {
+    "id": "T02",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "2",
+    "titulo": "Los derechos fundamentales y las libertades públicas en la Constitución. Garantías y tutela de los derechos fundamentales y las libertades públicas. Suspensión de los derechos y libertades."
+  },
+  {
+    "id": "T03",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "3",
+    "titulo": "Sometimiento de la Administración a la ley y al derecho. Fuentes del derecho administrativo. La ley. Clases de leyes. Disposiciones del ejecutivo con rango de ley. El reglamento y otras disposiciones generales."
+  },
+  {
+    "id": "T04",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "4",
+    "titulo": "Los derechos del ciudadano ante la Administración Pública. Consideración especial del interesado. Colaboración y participación de los ciudadanos en la Administración, con especial referencia a la Administración local."
+  },
+  {
+    "id": "T05",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "5",
+    "titulo": "La organización territorial del Estado en la Constitución: las Comunidades Autónomas, vías de acceso a la autonomía. Los Estatutos de Autonomía. Régimen de competencias. Relación entre el Estado y las Comunidades Autónomas."
+  },
+  {
+    "id": "T06",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "6",
+    "titulo": "La organización territorial del Estado en la Constitución: la Administración local. El principio de autonomía local y su garantía institucional. Su contenido en la Constitución y en el ordenamiento básico estatal. La Administración institucional."
+  },
+  {
+    "id": "T07",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "7",
+    "titulo": "Haciendas locales: recursos de los municipios y de las provincias."
+  },
+  {
+    "id": "T08",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "8",
+    "titulo": "Organización y competencias municipales y provinciales."
+  },
+  {
+    "id": "T09",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "9",
+    "titulo": "El Estatuto de Autonomía de Andalucía: el ámbito competencial de la Junta de Andalucía. Especial referencia a las competencias en materia de régimen local."
+  },
+  {
+    "id": "T10",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "10",
+    "titulo": "Los órganos colegiados locales: convocatoria, orden del día y requisitos de constitución. Funcionamiento. Actas y certificados de acuerdos."
+  },
+  {
+    "id": "T11",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "11",
+    "titulo": "El presupuesto de las entidades locales. Elaboración, aprobación y ejecución presupuestaria. Su control y fiscalización."
+  },
+  {
+    "id": "T12",
+    "perfil": "a2",
+    "tipo": "comun",
+    "numero": "12",
+    "titulo": "La Ley de Régimen Jurídico del Sector Público. La competencia: naturaleza, clases y criterios de delimitación. La delegación de firma. La encomienda de gestión. La avocación y la suplencia. Los convenios."
+  },
+  {
+    "id": "E01",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "1",
+    "titulo": "La Ley del Procedimiento Administrativo Común de las Administraciones Públicas: principios, estructura y ámbito de aplicación. El procedimiento administrativo: concepto. Los interesados."
+  },
+  {
+    "id": "E02",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "2",
+    "titulo": "El administrado: concepto y clases. La capacidad del administrado y sus causas modificativas. Las situaciones jurídicas del administrado. Derechos subjetivos e intereses legítimos."
+  },
+  {
+    "id": "E03",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "3",
+    "titulo": "El acto administrativo. Concepto. Elementos del acto administrativo. Clases de actos administrativos. La obligación de la Administración Pública de resolver. El silencio administrativo."
+  },
+  {
+    "id": "E04",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "4",
+    "titulo": "La eficacia de los actos administrativos. Notificación. Publicación. Retroactividad. La ejecución forzosa de los actos administrativos. Principios generales. Medios de ejecución forzosa."
+  },
+  {
+    "id": "E05",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "5",
+    "titulo": "Invalidez de los actos administrativos. Nulidad y anulabilidad. La conversión, conservación y convalidación del acto administrativo. La revisión de actos y disposiciones por la propia Administración. La revocación de actos. La rectificación de errores materiales o de hecho."
+  },
+  {
+    "id": "E06",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "6",
+    "titulo": "La estructura del procedimiento administrativo común (I): iniciación. Clases de iniciación. Subsanación y mejora de la solicitud. Declaración responsable y comunicación. Los registros administrativos. Términos y plazos. Ordenación."
+  },
+  {
+    "id": "E07",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "7",
+    "titulo": "La estructura del procedimiento administrativo común (II): instrucción. Alegaciones. La prueba en el procedimiento administrativo. Informes. Participación de los interesados. Finalización. Terminación convencional. Resolución. Desistimiento y renuncia. Caducidad."
+  },
+  {
+    "id": "E08",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "8",
+    "titulo": "Recursos administrativos: concepto. Principios generales. Interposición del recurso. Suspensión de la ejecución. Audiencia de los interesados. Resolución. Clases: recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión."
+  },
+  {
+    "id": "E09",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "9",
+    "titulo": "La jurisdicción contencioso-administrativa. Naturaleza. Normativa. Ámbito y extensión. Órganos. Las partes. Objeto del recurso."
+  },
+  {
+    "id": "E10",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "10",
+    "titulo": "El procedimiento contencioso-administrativo. Procedimiento en primera o única instancia. Procedimiento abreviado. Ejecución de sentencias. Medidas cautelares."
+  },
+  {
+    "id": "E11",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "11",
+    "titulo": "El servicio público. Evolución del concepto. Las formas de prestación de los servicios públicos."
+  },
+  {
+    "id": "E12",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "12",
+    "titulo": "El servicio público en las entidades locales. Las formas de gestión. Especial referencia a la concesión de servicios, organismos autónomos, la empresa pública local y las entidades públicas empresariales. La iniciativa pública económica de las entidades locales."
+  },
+  {
+    "id": "E13",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "13",
+    "titulo": "La expropiación forzosa: naturaleza. Concepto. Sujetos. Objeto. Causa. Procedimiento general. Los procedimientos especiales. La reversión del bien expropiado. Los convenios expropiatorios."
+  },
+  {
+    "id": "E14",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "14",
+    "titulo": "Las propiedades públicas. El dominio público: concepto, naturaleza y elementos. Afectación y mutaciones demaniales. El régimen jurídico del dominio público: utilización, reserva y concesión."
+  },
+  {
+    "id": "E15",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "15",
+    "titulo": "El patrimonio privado de las Administraciones públicas: régimen jurídico. La adquisición de bienes y derechos. Actos de disposición de bienes locales: enajenación, permuta y adscripción de bienes."
+  },
+  {
+    "id": "E16",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "16",
+    "titulo": "Conservación y defensa de los bienes locales. Prerrogativas de los entes locales respecto a sus bienes. El inventario de bienes locales."
+  },
+  {
+    "id": "E17",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "17",
+    "titulo": "La potestad sancionadora. Principios de la potestad sancionadora. El procedimiento sancionador."
+  },
+  {
+    "id": "E18",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "18",
+    "titulo": "La responsabilidad patrimonial de la Administración: evolución histórica. Presupuestos de la responsabilidad. Daños resarcibles. La acción y el procedimiento administrativo en materia de responsabilidad patrimonial. La responsabilidad patrimonial de las autoridades y personal al servicio de las Administraciones públicas."
+  },
+  {
+    "id": "E19",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "19",
+    "titulo": "Competencias de las diputaciones provinciales. Las competencias propias en la legislación básica. Las competencias de asistencia y competencias materiales en la legislación andaluza."
+  },
+  {
+    "id": "E20",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "20",
+    "titulo": "El municipio: concepto y elementos. El término municipal. Alteraciones de los términos municipales. Legislación básica y legislación autonómica."
+  },
+  {
+    "id": "E21",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "21",
+    "titulo": "El sistema electoral local. Causas de inelegibilidad e incompatibilidad. Elección de los concejales y alcaldes. Elección de diputados provinciales y presidentes."
+  },
+  {
+    "id": "E22",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "22",
+    "titulo": "La moción de censura y la cuestión de confianza en el ámbito local. El recurso contencioso-electoral. El estatuto de los miembros electivos de las corporaciones locales."
+  },
+  {
+    "id": "E23",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "23",
+    "titulo": "Las formas de actividad en las entidades locales. La intervención administrativa en la actividad privada. Las licencias. Naturaleza jurídica. Régimen jurídico y procedimiento de otorgamiento. El condicionamiento de las licencias. La comunicación previa y la declaración responsable."
+  },
+  {
+    "id": "E24",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "24",
+    "titulo": "Las formas de actividad en las entidades locales. La intervención administrativa en la actividad privada. Las licencias. Naturaleza jurídica. Régimen jurídico y procedimiento de otorgamiento. El condicionamiento de las licencias."
+  },
+  {
+    "id": "E25",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "25",
+    "titulo": "Régimen jurídico del personal de las entidades locales: adquisición y pérdida de la relación de servicio. La ordenación y la planificación de los recursos humanos en la Administración pública."
+  },
+  {
+    "id": "E26",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "26",
+    "titulo": "Régimen disciplinario de los empleados públicos. Incompatibilidades."
+  },
+  {
+    "id": "E27",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "27",
+    "titulo": "El régimen específico del personal laboral: regulación jurídica. El contrato de trabajo: concepto y clases. Modificación, suspensión y extinción de la relación laboral. Especial referencia al contrato de relevo y a la jubilación parcial."
+  },
+  {
+    "id": "E28",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "28",
+    "titulo": "Derechos y deberes individuales de los empleados públicos. Derechos de ejercicio colectivo. Sindicación y representación. El derecho de huelga. La negociación colectiva."
+  },
+  {
+    "id": "E29",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "29",
+    "titulo": "Situaciones administrativas del personal empleado público. Régimen de provisión de puestos de trabajo del personal empleado público."
+  },
+  {
+    "id": "E30",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "30",
+    "titulo": "La concertación local. El Consejo Andaluz de Concertación Local. El Acuerdo Marco de Concertación de la Diputación de Huelva. Servicios concertables por los ayuntamientos con la Diputación de Huelva."
+  },
+  {
+    "id": "E31",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "31",
+    "titulo": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: objeto y ámbito de aplicación. Clases de contratos. Contratos administrativos y contratos privados. Los actos separables. La organización administrativa para la gestión de la contratación. La contratación en las entidades locales."
+  },
+  {
+    "id": "E32",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "32",
+    "titulo": "Los principios generales de la contratación del sector público: racionalidad, libertad de pactos y contenido mínimo, perfección y forma. El régimen de invalidez de los contratos y el recurso especial en materia de contratación."
+  },
+  {
+    "id": "E33",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "33",
+    "titulo": "La contratación en el sector público: sujetos. Objeto. Presupuesto base de licitación y valor estimado. Precio. Revisión de precios. Garantías."
+  },
+  {
+    "id": "E34",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "34",
+    "titulo": "Preparación de los contratos del sector público: expedientes de contratación y pliegos de cláusulas administrativas y de prescripciones técnicas. La adjudicación del contrato: normas generales y criterios de adjudicación. Procedimientos de adjudicación de los contratos. El perfil del contratante."
+  },
+  {
+    "id": "E35",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "35",
+    "titulo": "Efectos, ejecución y modificación de los contratos del sector público. Las prerrogativas de la Administración. Ejecución de los contratos. Modificación de los contratos. Extinción de los contratos. La cesión de los contratos y la subcontratación."
+  },
+  {
+    "id": "E36",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "36",
+    "titulo": "El contrato de obras: actuaciones preparatorias. Ejecución. Modificación. Cumplimiento. Resolución."
+  },
+  {
+    "id": "E37",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "37",
+    "titulo": "El contrato de suministro: regulación de determinados contratos de suministro. Ejecución. Cumplimiento. Resolución."
+  },
+  {
+    "id": "E38",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "38",
+    "titulo": "El contrato de servicios: disposiciones generales. Ejecución. Resolución. La subsanación de errores, indemnizaciones y responsabilidades en el contrato de elaboración de proyectos de obras."
+  },
+  {
+    "id": "E39",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "39",
+    "titulo": "La actividad subvencional de la Administración: concepto, naturaleza y clasificación de subvenciones. Bases reguladoras y convocatorias. Procedimiento de concesión y gestión de subvenciones. Requisitos y obligaciones de las personas beneficiarias de subvenciones. Justificación y reintegro. Control financiero. Régimen de infracciones y sanciones."
+  },
+  {
+    "id": "E40",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "40",
+    "titulo": "La actividad financiera. El sistema tributario español: la Ley General Tributaria. Elementos de los tributos: el hecho imponible, el sujeto pasivo, la base imponible, el tipo de gravamen y la cuota tributaria."
+  },
+  {
+    "id": "E41",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "41",
+    "titulo": "Imposición y ordenación de los tributos locales. Las ordenanzas fiscales: contenido, procedimiento de elaboración e impugnación."
+  },
+  {
+    "id": "E42",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "42",
+    "titulo": "Gestión, liquidación y recaudación de los recursos de las haciendas locales. La gestión y recaudación de recursos por cuenta de otros entes públicos. Revisión en vía administrativa de los actos de gestión tributaria dictados por las entidades locales. La devolución de ingresos indebidos."
+  },
+  {
+    "id": "E43",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "43",
+    "titulo": "Estabilidad presupuestaria y sostenibilidad financiera. Principios generales. Objetivos de estabilidad presupuestaria, de deuda pública y de la regla de gasto para las corporaciones locales: establecimiento y consecuencias asociadas a su incumplimiento. Los planes económico-financieros: contenido, tramitación y seguimiento. Planes de ajuste y de saneamiento financiero. Suministro de información financiera de las entidades locales."
+  },
+  {
+    "id": "E44",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "44",
+    "titulo": "La ejecución y liquidación del presupuesto de las entidades locales."
+  },
+  {
+    "id": "E45",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "45",
+    "titulo": "La protección de datos de carácter personal. Ley Orgánica de protección de datos de carácter personal: disposiciones generales. Principios. Los derechos de las personas. Registro de las actividades de tratamiento. La protección de datos y el acceso a la información en la normativa sobre transparencia administrativa."
+  },
+  {
+    "id": "E46",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "46",
+    "titulo": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: objeto de la ley, ámbito de aplicación, y conceptos básicos. Desarrollo legislativo en España contra las desigualdades. Desarrollo legislativo, especial referencia a la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación: definiciones."
+  },
+  {
+    "id": "E47",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "47",
+    "titulo": "La Corporación Provincial en la Diputación de Huelva. Su organización y funcionamiento. Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva."
+  },
+  {
+    "id": "E48",
+    "perfil": "a2",
+    "tipo": "especifico",
+    "numero": "48",
+    "titulo": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales: objeto, derechos y obligaciones."
+  },
+  {
+    "id": "T01",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "1",
+    "titulo": "La Constitución Española de 1978: antecedentes. Características y estructura. Principios generales. Derechos y deberes fundamentales de los españoles."
+  },
+  {
+    "id": "T02",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "2",
+    "titulo": "Legislación básica de régimen local: clases de entidades locales. Organización municipal. Competencias municipales. Organización provincial. Competencias provinciales."
+  },
+  {
+    "id": "T03",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "3",
+    "titulo": "Relaciones de las entidades locales con las restantes administraciones territoriales. Deberes recíprocos entre administraciones. Tutela y control de las entidades locales."
+  },
+  {
+    "id": "T04",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "4",
+    "titulo": "Sometimiento de la Administración a la ley y al derecho. Fuentes del derecho administrativo. La ley. Clases de leyes. Disposiciones del ejecutivo con rango de ley. El reglamento y otras disposiciones generales."
+  },
+  {
+    "id": "T05",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "5",
+    "titulo": "El acto administrativo: concepto y clases de actos administrativos. Elementos del acto administrativo. Eficacia. Validez de los actos administrativos. Motivación. El silencio administrativo."
+  },
+  {
+    "id": "T06",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "6",
+    "titulo": "Principios generales del procedimiento administrativo: concepto y clases. Fases del procedimiento administrativo común."
+  },
+  {
+    "id": "T07",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "7",
+    "titulo": "Los derechos del ciudadano ante la Administración Pública. Consideración especial del interesado. Colaboración y participación de los ciudadanos en la Administración, con especial referencia a la Administración local."
+  },
+  {
+    "id": "T08",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": "8",
+    "titulo": "Personal al servicio de las entidades locales. Clases. Selección. Situaciones administrativas. Derechos y deberes de los/as empleados/as públicos/as. Régimen disciplinario."
+  },
+  {
+    "id": "E01",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "1",
+    "titulo": "El municipio: el término y la población municipal. El empadronamiento. Derechos y deberes de los vecinos. Los servicios mínimos municipales. Competencias atribuidas por delegación."
+  },
+  {
+    "id": "E02",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "2",
+    "titulo": "La regulación de la provincia en la Ley de Autonomía Local de Andalucía. La asistencia y cooperación desarrolladas por la Diputación Provincial de Huelva. Las entidades locales distintas del municipio y la provincia: clases y características. Especial referencia a los consorcios locales."
+  },
+  {
+    "id": "E03",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "3",
+    "titulo": "Régimen de sesiones y acuerdos de los órganos colegiados locales. Convocatoria y orden del día. Votaciones. Actas y certificaciones de acuerdos."
+  },
+  {
+    "id": "E04",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "4",
+    "titulo": "Ordenanzas y reglamentos de las entidades locales: clases. Procedimiento de elaboración y aprobación. Límites de la potestad reglamentaria."
+  },
+  {
+    "id": "E05",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "5",
+    "titulo": "El sistema electoral local. Causas de inelegibilidad e incompatibilidad. Elección de concejales y alcaldes. Elección de diputados provinciales y presidentes de diputaciones provinciales. El estatuto de los miembros electivos de las corporaciones locales."
+  },
+  {
+    "id": "E06",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "6",
+    "titulo": "Estructura de la función pública local. Adquisición y pérdida de la relación de servicio. La ordenación y la planificación de los recursos humanos: análisis de la relación de puestos de trabajo (RPT). Referencia a los funcionarios de administración con habilitación de carácter nacional."
+  },
+  {
+    "id": "E07",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "7",
+    "titulo": "La carrera administrativa: promoción profesional. La evaluación del desempeño. Régimen de incompatibilidades. La responsabilidad civil, penal y patrimonial de los empleados públicos."
+  },
+  {
+    "id": "E08",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "8",
+    "titulo": "Los bienes de las entidades locales. Su clasificación: bienes de dominio público, bienes patrimoniales y bienes comunales."
+  },
+  {
+    "id": "E09",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "9",
+    "titulo": "Principios de gestión patrimonial. Régimen de facultades y prerrogativas de las entidades locales en relación con sus bienes. Especial referencia al desahucio administrativo. Régimen registral. El inventario de bienes."
+  },
+  {
+    "id": "E10",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "10",
+    "titulo": "La concertación local. El Consejo Andaluz de Concertación Local. El Acuerdo Marco de Concertación de la Diputación de Huelva. Servicios concertables por los ayuntamientos con la Diputación de Huelva."
+  },
+  {
+    "id": "E11",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "11",
+    "titulo": "La hacienda local en la Constitución Española. Su régimen jurídico. Los recursos de las haciendas locales. Los impuestos locales: clases, hecho imponible y sujeto pasivo. Las tasas: especial referencia a la tasa provincial por tratamiento y eliminación de residuos."
+  },
+  {
+    "id": "E12",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "12",
+    "titulo": "El procedimiento administrativo local. El registro de entrada y salida de documentos. Requisitos de la presentación de documentos. Comunicaciones y notificaciones. La aportación de documentos al procedimiento. La tramitación simplificada del procedimiento administrativo."
+  },
+  {
+    "id": "E13",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "13",
+    "titulo": "La administración electrónica. Las relaciones electrónicas con la ciudadanía."
+  },
+  {
+    "id": "E14",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "14",
+    "titulo": "Formas de terminación del procedimiento. El silencio administrativo: efectos. La resolución expresa: contenido y límites. Otras formas de terminación. La terminación convencional."
+  },
+  {
+    "id": "E15",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "15",
+    "titulo": "La ejecutividad de los actos administrativos: fundamento y naturaleza. La ejecución forzosa por la Administración de los actos administrativos. Examen de la vía de hecho: sus consecuencias procesales."
+  },
+  {
+    "id": "E16",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "16",
+    "titulo": "Revisión de los actos administrativos: revisión de actos nulos y anulables. La declaración de lesividad de los actos anulables. Suspensión, revocación y rectificación de errores. Límites a la potestad de revisión."
+  },
+  {
+    "id": "E17",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "17",
+    "titulo": "Los recursos administrativos: principios generales, actos susceptibles de recurso y reglas generales de tramitación. Recurso de alzada, recurso de reposición y recurso extraordinario de revisión. Las reclamaciones económico-administrativas."
+  },
+  {
+    "id": "E18",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "18",
+    "titulo": "Hoja de cálculo del paquete LibreOffice (Calc). Introducción al programa: concepto, entorno de trabajo y tipos de datos. Formato de celdas: números, alineación, fuente, bordes, fondo y formato condicional. Fórmulas y funciones básicas: matemáticas, estadísticas, de texto, lógicas, de búsqueda y de fecha. Trabajo con varias hojas de cálculo: gestión, referencias entre hojas y consolidación de datos. Tablas dinámicas: creación, modificación y análisis de datos. Impresión de hojas de cálculo: configuración de página, áreas de impresión y opciones de impresión. Generación y exportación a PDF: opciones, seguridad y PDF/A. Trabajo con documentos PDF: apertura, edición, formularios y accesibilidad."
+  },
+  {
+    "id": "E19",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "19",
+    "titulo": "Procesador de textos del paquete LibreOffice (Writer). Introducción al programa: concepto, entorno de trabajo y modos de visualización. Formato y edición de caracteres, párrafos y tabulaciones: fuente, efectos tipográficos, alineación, sangría, interlineado y tipos de tabulador. Autotexto: creación, inserción y gestión de entradas. Tablas: inserción, estructura, formato y cálculos. Columnas: configuración, secciones y equilibrado. Formato de página: estilos de página, márgenes, encabezados, pies de página y numeración. Combinar correspondencia: fuentes de datos, asistente e inserción de campos. Listas numeradas y con viñetas: personalización y esquemas multinivel. Ortografía y autocorrección: corrección automática, diccionarios y opciones de autocorrección. Generación y exportación a PDF: opciones, etiquetas de accesibilidad, seguridad y PDF/A. Trabajo con documentos PDF: apertura, edición, formularios interactivos, anotaciones y normativa de accesibilidad."
+  },
+  {
+    "id": "E20",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "20",
+    "titulo": "La responsabilidad patrimonial de las Administraciones públicas: regulación actual, concepto y requisitos. La responsabilidad de las autoridades y personal al servicio de las Administraciones públicas."
+  },
+  {
+    "id": "E21",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "21",
+    "titulo": "Los contratos administrativos en la esfera local. Disposiciones generales: objeto y ámbito de aplicación de la Ley de Contratos del Sector Público. Clasificación de los contratos."
+  },
+  {
+    "id": "E22",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "22",
+    "titulo": "El órgano de contratación en la esfera local. La mesa de contratación: composición y funcionamiento. Objeto del contrato, presupuesto base de licitación y valor estimado del contrato. Las proposiciones de los licitadores. Perfección y formalización del contrato."
+  },
+  {
+    "id": "E23",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "23",
+    "titulo": "La actividad subvencional de las Administraciones públicas. Disposiciones comunes a las subvenciones públicas. Procedimientos de concesión. Reintegro."
+  },
+  {
+    "id": "E24",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "24",
+    "titulo": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. Publicidad activa. El derecho de acceso a la información pública."
+  },
+  {
+    "id": "E25",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "25",
+    "titulo": "La protección de datos personales. Régimen jurídico. Principios. Derechos y obligaciones."
+  },
+  {
+    "id": "E26",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "26",
+    "titulo": "La expropiación forzosa. Naturaleza y justificación. La potestad expropiatoria: concepto. Sujetos, objeto y causa. La reversión del bien expropiado."
+  },
+  {
+    "id": "E27",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "27",
+    "titulo": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público: disposiciones generales. Órganos de las Administraciones públicas: la competencia de los órganos administrativos. Abstención y recusación."
+  },
+  {
+    "id": "E28",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "28",
+    "titulo": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público: los convenios. Las relaciones interadministrativas."
+  },
+  {
+    "id": "E29",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "29",
+    "titulo": "Principios de actuación de la Administración pública: eficacia, jerarquía, descentralización, desconcentración y coordinación. Otros principios de la actuación administrativa."
+  },
+  {
+    "id": "E30",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "30",
+    "titulo": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: conceptos básicos. Desarrollo legislativo en España contra las desigualdades. Desarrollo legislativo, especial referencia a la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación: definiciones."
+  },
+  {
+    "id": "E31",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "31",
+    "titulo": "La Corporación Provincial en la Diputación de Huelva. Su organización y funcionamiento."
+  },
+  {
+    "id": "E32",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": "32",
+    "titulo": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales: definiciones."
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Qué se entiende por subvención según la Ley 38/2003?",
+    "explicacion": "Art. 2.1 LGS: concepto legal de subvención, con sus elementos (disposición dineraria, sin contraprestación directa, sujeta a un fin) y la exigencia de utilidad pública o interés social.",
+    "id": "HUE-C1-E23-001",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Toda disposición dineraria realizada por los sujetos del art. 3 a favor de personas públicas o privadas, sin contraprestación directa de los beneficiarios, sujeta al cumplimiento de un determinado objetivo, la ejecución de un proyecto, la realización de una actividad, la adopción de un comportamiento singular, ya realizados o por desarrollar, o la concurrencia de una situación, siempre que el proyecto financiado tenga por objeto el fomento de una actividad de utilidad pública o interés social o de promoción de una finalidad pública.",
+    "tema": "E23",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Tienen carácter de subvención las aportaciones dinerarias entre Administraciones Públicas para financiar globalmente la actividad de la Administración destinataria?",
+    "explicacion": "Art. 2.2 LGS: estas aportaciones quedan fuera del concepto de subvención.",
+    "id": "HUE-C1-E23-002",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "Cite dos prestaciones excluidas del ámbito de aplicación de la Ley 38/2003.",
+    "explicacion": "Art. 2.4 LGS: enumera las prestaciones excluidas, entre ellas las de Seguridad Social y clases pasivas y los premios sin solicitud previa.",
+    "id": "HUE-C1-E23-003",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las prestaciones contributivas y no contributivas del Sistema de la Seguridad Social y las pensiones correspondientes al régimen de Clases Pasivas del Estado (también están excluidos, entre otros, los premios otorgados sin la previa solicitud del beneficiario).",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Con arreglo a qué principios se gestionan las subvenciones?",
+    "explicacion": "Art. 8.3 LGS: principios de gestión de la actividad subvencional (publicidad, concurrencia, eficacia y eficiencia).",
+    "id": "HUE-C1-E23-004",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con arreglo a los principios de publicidad, transparencia, concurrencia, objetividad, igualdad y no discriminación; eficacia en el cumplimiento de los objetivos fijados; y eficiencia en la asignación y utilización de los recursos públicos.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Qué requisitos deben cumplirse para el otorgamiento de una subvención?",
+    "explicacion": "Art. 9.4 LGS: requisitos acumulativos del otorgamiento (competencia, crédito, procedimiento, fiscalización y aprobación del gasto).",
+    "id": "HUE-C1-E23-005",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La competencia del órgano administrativo concedente; la existencia de crédito adecuado y suficiente para atender las obligaciones de contenido económico; la tramitación del procedimiento de concesión; la fiscalización previa de los actos administrativos de contenido económico; y la aprobación del gasto por el órgano competente.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿Quiénes son órganos competentes para conceder subvenciones en la Administración General del Estado?",
+    "explicacion": "Art. 10.1 LGS: atribuye la competencia a Ministros y Secretarios de Estado, previa consignación presupuestaria.",
+    "id": "HUE-C1-E23-006",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los Ministros y los Secretarios de Estado, en sus respectivos ámbitos, previa consignación presupuestaria para este fin.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Quién tiene la consideración de beneficiario de una subvención?",
+    "explicacion": "Art. 11.1 LGS: el beneficiario es quien realiza la actividad subvencionada o se halla en la situación legitimadora.",
+    "id": "HUE-C1-E23-007",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La persona que haya de realizar la actividad que fundamentó su otorgamiento o que se encuentre en la situación que legitima su concesión.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué es una entidad colaboradora en materia de subvenciones?",
+    "explicacion": "Art. 11.2 LGS: la entidad colaboradora actúa en nombre y por cuenta del órgano concedente en la entrega de fondos o en la gestión.",
+    "id": "HUE-C1-E23-008",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquella que, actuando en nombre y por cuenta del órgano concedente, entregue y distribuya los fondos públicos a los beneficiarios o colabore en la gestión de la subvención sin que se produzca la previa entrega y distribución de los fondos recibidos.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "Cite tres prohibiciones para obtener la condición de beneficiario o entidad colaboradora.",
+    "explicacion": "Art. 13.2 LGS: enumera las prohibiciones, entre ellas condenas, prohibiciones de contratar, deudas tributarias o con la Seguridad Social y paraísos fiscales.",
+    "id": "HUE-C1-E23-009",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Haber sido condenado por sentencia firme a la pena de pérdida de la posibilidad de obtener subvenciones o ayudas públicas; no hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social; tener la residencia fiscal en un país o territorio calificado reglamentariamente como paraíso fiscal.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "Cite cuatro obligaciones del beneficiario de una subvención.",
+    "explicacion": "Art. 14.1 LGS: catálogo de obligaciones del beneficiario (cumplimiento, justificación, comprobación, comunicación, contabilidad, publicidad, reintegro).",
+    "id": "HUE-C1-E23-010",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cumplir el objetivo y realizar la actividad que fundamenta la concesión; justificar ante el órgano concedente el cumplimiento de los requisitos y condiciones; someterse a las actuaciones de comprobación; comunicar la obtención de otras subvenciones o ayudas; acreditar estar al corriente de sus obligaciones tributarias y con la Seguridad Social; disponer de libros contables; conservar los documentos justificativos; dar adecuada publicidad del carácter público de la financiación; y proceder al reintegro cuando proceda.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Cómo se aprueban las bases reguladoras de las subvenciones de las Corporaciones Locales?",
+    "explicacion": "Art. 17.2 LGS: en el ámbito local las bases se aprueban en el marco de las bases de ejecución del presupuesto, por ordenanza general o específica.",
+    "id": "HUE-C1-E23-011",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante una ordenanza específica para las distintas modalidades de subvenciones.",
+    "tema": "E23",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Qué contenido mínimo deben tener las bases reguladoras de las subvenciones?",
+    "explicacion": "Art. 17.3 LGS: contenido mínimo obligatorio de las bases (objeto, requisitos, procedimiento, criterios, cuantía, órganos, justificación).",
+    "id": "HUE-C1-E23-012",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La definición del objeto de la subvención; los requisitos de los solicitantes; la forma y el plazo de presentación de solicitudes; el procedimiento de concesión; los criterios de valoración; la cuantía individualizada o los criterios para su determinación; los órganos competentes para la ordenación, instrucción y resolución; y el plazo y la forma de justificación, entre otros.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿Cuál es el procedimiento ordinario de concesión de subvenciones?",
+    "explicacion": "Art. 22.1 LGS: el régimen general es la concurrencia competitiva; la concesión directa es excepcional.",
+    "id": "HUE-C1-E23-013",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El régimen de concurrencia competitiva.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿En qué casos pueden concederse subvenciones de forma directa?",
+    "explicacion": "Art. 22.2 LGS: tres supuestos tasados de concesión directa (nominativas, legales y excepcionales).",
+    "id": "HUE-C1-E23-014",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "a) Las previstas nominativamente en los Presupuestos Generales del Estado, de las Comunidades Autónomas o de las Entidades Locales; b) aquellas cuyo otorgamiento o cuantía venga impuesto a la Administración por una norma de rango legal; c) con carácter excepcional, aquellas en que se acrediten razones de interés público, social, económico o humanitario.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 25",
+    "enunciado": "¿Cuál es el plazo máximo para resolver el procedimiento de concesión de subvenciones y qué ocurre si no se resuelve?",
+    "explicacion": "Art. 25.4 y 25.5 LGS: seis meses para resolver y notificar, con silencio desestimatorio.",
+    "id": "HUE-C1-E23-015",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Seis meses, salvo que una norma con rango de ley establezca un plazo mayor o las bases dispongan otro; vencido el plazo sin haberse notificado resolución expresa, la solicitud se entiende desestimada.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 29",
+    "enunciado": "¿En qué medida puede el beneficiario subcontratar la ejecución de la actividad subvencionada?",
+    "explicacion": "Art. 29.2 LGS: la subcontratación está limitada al porcentaje de las bases, con tope general del 50 %.",
+    "id": "HUE-C1-E23-016",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Hasta el porcentaje que fijen las bases reguladoras, sin que exceda del 50 por ciento del importe de la actividad subvencionada, salvo que las bases dispongan otra cosa o se autorice expresamente por el órgano concedente.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 30",
+    "enunciado": "¿En qué consiste la justificación de las subvenciones?",
+    "explicacion": "Art. 30.1 LGS: la justificación acredita el cumplimiento de las condiciones y la consecución de los objetivos.",
+    "id": "HUE-C1-E23-017",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En acreditar el cumplimiento de las condiciones impuestas y la consecución de los objetivos previstos en el acto de concesión de la subvención.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 31",
+    "enunciado": "¿Qué gastos se consideran subvencionables?",
+    "explicacion": "Art. 31.1 LGS: los gastos deben responder indubitadamente a la actividad, ser estrictamente necesarios y realizarse en plazo.",
+    "id": "HUE-C1-E23-018",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los que de manera indubitada respondan a la naturaleza de la actividad subvencionada, resulten estrictamente necesarios y se realicen en el plazo establecido por las bases reguladoras.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 37",
+    "enunciado": "Cite tres causas de reintegro de subvenciones.",
+    "explicacion": "Art. 37.1 LGS: enumera las causas que obligan a devolver las cantidades percibidas más el interés de demora.",
+    "id": "HUE-C1-E23-019",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La obtención de la subvención falseando las condiciones requeridas u ocultando las que lo hubieran impedido; el incumplimiento total o parcial del objetivo, de la actividad o del proyecto; el incumplimiento de la obligación de justificación; y la resistencia, excusa, obstrucción o negativa a las actuaciones de comprobación y control.",
+    "tema": "E23",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 39",
+    "enunciado": "¿En qué plazo prescribe el derecho de la Administración a reconocer o liquidar el reintegro de una subvención?",
+    "explicacion": "Art. 39.1 LGS: prescripción de cuatro años, con reglas de cómputo según el momento de la justificación, la concesión condicionada o el pago.",
+    "id": "HUE-C1-E23-020",
+    "ley": "Ley 38/2003",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A los cuatro años, computados desde el momento en que venció el plazo para presentar la justificación por parte del beneficiario, desde la concesión si estuviera condicionada, o desde el pago en los supuestos de los arts. 37 y 38.5.",
+    "tema": "E23",
+    "verificado_corpus": false
+  }
+]

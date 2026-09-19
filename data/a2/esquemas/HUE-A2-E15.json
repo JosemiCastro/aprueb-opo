@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: definir los bienes patrimoniales y sus principios de gestión (arts. 5 y 7 LPAP).",
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar los modos de adquisición de bienes locales (art. 10 RBEL) y los requisitos de la adquisición onerosa (art. 11 RBEL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el procedimiento de enajenación, el umbral del 25% y la cesión gratuita (arts. 109-110 RBEL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la permuta y la adscripción de bienes, con sus efectos sobre la calificación jurídica."
+  ],
+  "id": "HUE-A2-E15",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 7",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Concepto: son bienes y derechos patrimoniales o de dominio privado los que, siendo de titularidad de las Administraciones públicas, no tengan el carácter de demaniales; constituyen el patrimonio privado de la Administración.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 8",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Principios relativos a los bienes patrimoniales: eficiencia y economía en su gestión, eficacia y rentabilidad en su explotación, y publicidad, transparencia, concurrencia y objetividad en su enajenación.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 5",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Capacidad de las entidades locales: para el cumplimiento de sus fines pueden adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes; tienen capacidad jurídica plena y la obligación de defender su patrimonio (art. 9 RBEL).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 10",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Modos de adquisición de bienes y derechos por las corporaciones locales: por atribución de la ley, a título oneroso con ejercicio o no de la facultad de expropiación, por herencia, legado o donación, por prescripción, por ocupación y por cualquier otro modo legítimo conforme al ordenamiento jurídico.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Adquisición a título oneroso: exige el cumplimiento de los requisitos de la normativa reguladora de la contratación; tratándose de inmuebles se requiere además informe pericial previo, y si son bienes de valor histórico o artístico, informe del órgano competente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 109-119",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Enajenación: se realiza como regla mediante subasta pública; cuando el valor del inmueble exceda del 25 por 100 de los recursos ordinarios del presupuesto anual se requiere autorización del órgano competente de la Comunidad Autónoma, y de toda enajenación de bienes inmuebles se dará cuenta a dicho órgano (art. 109.1).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 109.2 y 110",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Cesión gratuita: los bienes patrimoniales solo pueden cederse gratuitamente a entidades o instituciones públicas para fines que redunden en beneficio de los habitantes del término municipal, o a instituciones privadas de interés público sin ánimo de lucro; requiere acuerdo por mayoría absoluta del número legal de miembros, previa instrucción de expediente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 109-112",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Permuta: sometida al mismo régimen de autorización autonómica del art. 109.1 cuando se supere el umbral; requiere previo expediente que acredite la necesidad de efectuarla y que la diferencia de valor entre los bienes permutados no sea superior al 40 % del de mayor valor (art. 112.2).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 8.4",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Adscripción: afectación de bienes patrimoniales a un uso o servicio público o a un organismo de la entidad; si la adscripción se prolonga más de veinticinco años produce automáticamente la alteración de la calificación jurídica y el bien adquiere la condición de demanial.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Las corporaciones locales deben inscribir en el Registro de la Propiedad sus bienes inmuebles y derechos reales, de acuerdo con lo previsto en la legislación hipotecaria, como garantía de la tutela de su patrimonio.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E15",
+  "titulo": "El patrimonio privado de las Administraciones públicas: régimen jurídico. La adquisición de bienes y derechos. Actos de disposición de bienes locales: enajenación, permuta y adscripción de bienes"
+}

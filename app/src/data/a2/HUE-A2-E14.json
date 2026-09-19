@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: definir el dominio público y sus elementos (art. 4 LPAP, art. 132 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la afectación, la desafectación y las mutaciones demaniales (arts. 65-69 LPAP, art. 8 RBEL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer los principios de inalienabilidad, imprescriptibilidad e inembargabilidad (art. 6 LPAP).",
+    "Puedo desarrollar este tema por escrito en 2 horas: clasificar los usos (art. 74 LPAP) y distinguir autorización, reserva y concesión (arts. 74-93 LPAP, arts. 74-91 RBEL)."
+  ],
+  "id": "HUE-A2-E14",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 132.1",
+      "ley": "Constitución Española de 1978",
+      "punto": "Reserva de ley: la ley regulará el régimen jurídico de los bienes de dominio público inspirándose en los principios de inalienabilidad, imprescriptibilidad e inembargabilidad; la desafectación de los bienes demaniales requiere la intervención legal.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Concepto: son bienes y derechos de dominio público o demaniales los que, siendo de titularidad pública, se encuentran afectados al uso general o al servicio público, así como aquellos a los que una ley otorgue expresamente el carácter de demaniales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Naturaleza y elementos: elemento subjetivo (titularidad de una Administración pública), elemento objetivo (el bien o derecho) y elemento teleológico o finalista (la afectación al uso general o al servicio público); se distingue el dominio público natural (declarado por ley) del artificial (constituido por afectación).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Clasificación: bienes afectados al uso general (carreteras, plazas, calles, parques) y bienes afectados al servicio público (casas consistoriales, mercados, escuelas, cementerios); en el ámbito local se suman los bienes comunales y los montes vecinales en mano común se rigen por su legislación específica.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 65",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Afectación: acto por el que bienes y derechos patrimoniales se destinan al uso general o al servicio público, adquiriendo la condición de demaniales; es el modo ordinario de constitución del dominio público artificial.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 8",
+      "ley": "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales",
+      "punto": "Alteración de la calificación jurídica en el ámbito local: requiere expediente que acredite su oportunidad y legalidad, información pública durante un mes y acuerdo por mayoría absoluta; se produce automáticamente por la aprobación de planes de urbanismo, por la adscripción de bienes patrimoniales a un uso o servicio público durante más de veinticinco años y por usucapión.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 65 a 72",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Mutaciones demaniales y desafectación: la mutación cambia el destino demanial (de un uso o servicio público a otro) sin pérdida de la demanialidad; la desafectación priva al bien de su condición demanial y lo devuelve al patrimonio privado de la Administración, con el procedimiento legalmente previsto.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 6",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Principios del régimen jurídico: los bienes y derechos de dominio público son inalienables, imprescriptibles e inembargables; no pueden ser enajenados ni adquiridos por usucapión por los particulares.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 74",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Utilización: los usos se clasifican en uso común (general, ejercido libremente por todos, y especial, con instalaciones desmontables o con intensidad especial) y uso privativo (ocupación con obras o instalaciones fijas o por tiempo excluyente); en lo local se desarrollan en los arts. 74 a 91 del RBEL.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 84 a 93 y 104",
+      "ley": "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas",
+      "punto": "Autorizaciones, reserva y concesión: el uso común especial se sujeta a autorización; la Administración puede reservarse el uso de bienes demaniales por razones de utilidad pública o interés general (reserva demanial); el uso privativo requiere concesión administrativa, otorgada en régimen de concurrencia (art. 93.1), con plazo máximo de setenta y cinco años (art. 93.3).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E14",
+  "titulo": "Las propiedades públicas. El dominio público: concepto, naturaleza y elementos. Afectación y mutaciones demaniales. El régimen jurídico del dominio público: utilización, reserva y concesión"
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 133",
+    "enunciado": "¿Pueden las Corporaciones locales establecer y exigir tributos?",
+    "explicacion": "Art. 133.2 CE: la potestad tributaria originaria corresponde al Estado y se ejerce mediante ley; las Corporaciones locales la ejercen de acuerdo con la Constitución y las leyes.",
+    "id": "HUE-C1-E11-001",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, de acuerdo con la Constitución y las leyes.",
+    "tema": "E11",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 142",
+    "enunciado": "¿De qué recursos se nutren las Haciendas locales según el artículo 142 de la Constitución?",
+    "explicacion": "Art. 142 CE: principio de suficiencia financiera de las Haciendas locales.",
+    "id": "HUE-C1-E11-002",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas; en todo caso deben disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "Enumere los recursos de las Haciendas locales según el artículo 2 del texto refundido de la Ley Reguladora de las Haciendas Locales.",
+    "explicacion": "Art. 2.1 TRLRHL (Real Decreto Legislativo 2/2004).",
+    "id": "HUE-C1-E11-003",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los ingresos procedentes de su patrimonio y demás de derecho privado; los tributos propios clasificados en impuestos, tasas y contribuciones especiales; las participaciones en los tributos del Estado y de las Comunidades Autónomas; las subvenciones; los percibidos en concepto de precios públicos; el producto de las operaciones de crédito; el producto de las multas y sanciones en el ámbito de sus competencias; y las demás prestaciones de derecho público.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "¿Qué impuestos deben exigir obligatoriamente los ayuntamientos?",
+    "explicacion": "Art. 59.1 TRLRHL.",
+    "id": "HUE-C1-E11-004",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Impuesto sobre Bienes Inmuebles, el Impuesto sobre Actividades Económicas y el Impuesto sobre Vehículos de Tracción Mecánica.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 59",
+    "enunciado": "¿Qué impuestos pueden establecer potestativamente los ayuntamientos?",
+    "explicacion": "Art. 59.2 TRLRHL.",
+    "id": "HUE-C1-E11-005",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 61",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Bienes Inmuebles?",
+    "explicacion": "Art. 61.1 TRLRHL.",
+    "id": "HUE-C1-E11-006",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La titularidad de los derechos de concesión administrativa, de superficie, de usufructo o de propiedad sobre los bienes inmuebles rústicos y urbanos y sobre los inmuebles de características especiales.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 63",
+    "enunciado": "¿Quién es el sujeto pasivo del Impuesto sobre Bienes Inmuebles?",
+    "explicacion": "Art. 63.1 TRLRHL.",
+    "id": "HUE-C1-E11-007",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, titulares de los derechos constitutivos del hecho imponible del impuesto.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 78",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Actividades Económicas?",
+    "explicacion": "Art. 78.1 TRLRHL.",
+    "id": "HUE-C1-E11-008",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El mero ejercicio, en territorio nacional, de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado y se hallen o no especificadas en las tarifas del impuesto.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 83",
+    "enunciado": "¿Quién es sujeto pasivo del Impuesto sobre Actividades Económicas?",
+    "explicacion": "Art. 83.1 TRLRHL.",
+    "id": "HUE-C1-E11-009",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, siempre que realicen en territorio nacional cualquiera de las actividades que originan el hecho imponible.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 92",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Vehículos de Tracción Mecánica?",
+    "explicacion": "Art. 92.1 TRLRHL.",
+    "id": "HUE-C1-E11-010",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 94",
+    "enunciado": "¿Quién es sujeto pasivo del Impuesto sobre Vehículos de Tracción Mecánica?",
+    "explicacion": "Art. 94 TRLRHL.",
+    "id": "HUE-C1-E11-011",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, a cuyo nombre conste el vehículo en el permiso de circulación.",
+    "tema": "E11",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 100",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Construcciones, Instalaciones y Obras?",
+    "explicacion": "Art. 100.1 TRLRHL.",
+    "id": "HUE-C1-E11-012",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija la obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 101",
+    "enunciado": "¿Quién es sujeto pasivo del Impuesto sobre Construcciones, Instalaciones y Obras?",
+    "explicacion": "Art. 101.1 TRLRHL. Tendrán la consideración de sujetos pasivos sustitutos quienes soliciten las licencias o realicen las construcciones si no fueran los dueños.",
+    "id": "HUE-C1-E11-013",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los dueños de la construcción, instalación u obra, sean o no propietarios del inmueble.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 104",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana?",
+    "explicacion": "Art. 104.1 TRLRHL.",
+    "id": "HUE-C1-E11-014",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El incremento de valor que experimenten los terrenos de naturaleza urbana y que se ponga de manifiesto a consecuencia de la transmisión de la propiedad de los terrenos por cualquier título o de la constitución o transmisión de cualquier derecho real de goce, limitativo del dominio, sobre los referidos terrenos.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 106",
+    "enunciado": "En el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana, ¿quién es sujeto pasivo en las transmisiones a título oneroso y en las lucrativas?",
+    "explicacion": "Art. 106.1 TRLRHL.",
+    "id": "HUE-C1-E11-015",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En las transmisiones de terrenos o en la constitución o transmisión de derechos reales de goce limitativos del dominio a título oneroso, el transmitente del terreno o la persona que constituya o transmita el derecho real; a título lucrativo, el adquirente del terreno o la persona a cuyo favor se constituya o transmita el derecho real.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿Cuál es el hecho imponible de las tasas locales?",
+    "explicacion": "Art. 20.1 TRLRHL. El art. 20.2 precisa que se entenderá que los servicios o actividades no son de solicitud o recepción voluntaria cuando vengan impuestos por disposiciones legales o reglamentarias o resulten imprescindibles para la vida privada o social del solicitante.",
+    "id": "HUE-C1-E11-016",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La utilización privativa o el aprovechamiento especial del dominio público local, así como la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 23",
+    "enunciado": "¿Quién es sujeto pasivo de las tasas locales?",
+    "explicacion": "Art. 23 TRLRHL.",
+    "id": "HUE-C1-E11-017",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003 que disfruten, utilicen o aprovechen especialmente el dominio público local en beneficio particular, o que resulten beneficiadas o afectadas por los servicios o actividades locales.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 134",
+    "enunciado": "¿Qué recargo pueden establecer las Diputaciones provinciales sobre el Impuesto sobre Actividades Económicas y cuál es su límite?",
+    "explicacion": "Art. 134.2 TRLRHL (verificado en el BOE).",
+    "id": "HUE-C1-E11-018",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Un recargo consistente en un porcentaje único que recaerá sobre las cuotas municipales, cuyo tipo no podrá ser superior al 40 por ciento.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 132",
+    "enunciado": "¿Pueden las Diputaciones provinciales establecer y exigir tasas?",
+    "explicacion": "Art. 132.1 TRLRHL (verificado en el BOE), según las normas de la sección 3.ª del capítulo III del título I, salvo lo dispuesto en el párrafo tercero del art. 24.1.",
+    "id": "HUE-C1-E11-019",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: por la prestación de servicios o la realización de actividades de su competencia, y por la utilización privativa o el aprovechamiento especial de bienes del dominio público provincial.",
+    "tema": "E11",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué grava la tasa provincial por tratamiento y eliminación de residuos de la Diputación de Huelva?",
+    "explicacion": "Tasa provincial establecida en la ordenanza fiscal de la Diputación de Huelva, al amparo de la potestad del art. 132.1 del texto refundido de la Ley Reguladora de las Haciendas Locales.",
+    "id": "HUE-C1-E11-020",
+    "ley": "Ordenanza fiscal de la Diputación de Huelva",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La prestación por la Diputación de Huelva del servicio de tratamiento y eliminación de residuos sólidos urbanos.",
+    "tema": "E11",
+    "verificado_corpus": false
+  }
+]

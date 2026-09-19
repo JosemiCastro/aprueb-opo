@@ -1,0 +1,82 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar las clases de empleados públicos y los principios y sistemas de acceso (arts. 8, 55 y 61 RDL 5/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir la adquisición (art. 62) y la pérdida (art. 63) de la condición de funcionario.",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer los instrumentos de planificación y ordenación: planes de recursos humanos, OEP, RPT y grupos de clasificación (arts. 69, 70, 74 y 76).",
+    "Puedo desarrollar este tema por escrito en 2 horas: citar las especialidades del personal de las entidades locales: plantilla, selección y habilitados nacionales (arts. 90, 91 y 92 bis LBRL)."
+  ],
+  "id": "HUE-A2-E25",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 8",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Clases de empleados públicos: funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 55",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Principios de acceso al empleo público: igualdad, mérito, capacidad y publicidad; las convocatorias son públicas e incluyen las plazas dotadas presupuestariamente; los órganos de selección son técnicos y actúan con profesionalidad e imparcialidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 56",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Requisitos generales: nacionalidad española o de los Estados admitidos, capacidad funcional, tener cumplidos dieciséis años y no exceder de la edad máxima de jubilación forzosa, no haber sido separado disciplinariamente ni hallarse inhabilitado, y poseer la titulación exigida.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 61",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Sistemas selectivos: oposición, concurso-oposición y, solo en virtud de ley y con carácter excepcional, concurso; los procedimientos deben incluir pruebas de conocimientos y de capacidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 62",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Adquisición de la condición de funcionario de carrera: superación del proceso selectivo, nombramiento por el órgano competente, acto de acatamiento de la Constitución y del Estatuto de Autonomía, y toma de posesión dentro del plazo establecido.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 63",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Pérdida de la relación de servicio: renuncia a la condición de funcionario, pérdida de la nacionalidad, jubilación total, sanción disciplinaria de separación del servicio y pena principal o accesoria de inhabilitación absoluta o especial para cargo público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 69",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Planificación de los recursos humanos: las Administraciones planifican sus recursos humanos para contribuir a la eficacia en la prestación de los servicios y a la racionalización del gasto; instrumentos: planes de ordenación de recursos humanos, con análisis de disponibilidades y necesidades de personal y medidas de actuación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 70",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Oferta de empleo público: comprende las necesidades de recursos humanos, con asignación presupuestaria, que deban proveerse mediante la incorporación de personal de nuevo ingreso; se ejecuta en el plazo improrrogable de tres años.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 74",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Ordenación: las Administraciones estructuran su organización a través de relaciones de puestos de trabajo, que comprenden como mínimo la denominación del puesto, el grupo de clasificación, el cuerpo o escala, el sistema de provisión y las retribuciones complementarias.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 76",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Grupos de clasificación profesional: grupo A (subgrupos A1 y A2), grupo B, grupo C (subgrupos C1 y C2) y agrupaciones profesionales, en función de la titulación exigida para el acceso.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 90, 91 y 92 bis",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Especialidades locales: cada corporación aprueba anualmente, a través del presupuesto, la plantilla comprensiva de todos los puestos reservados a funcionarios, personal laboral y personal eventual (art. 90); la selección se realiza de acuerdo con la oferta de empleo público, mediante convocatoria pública y concurso, oposición o concurso-oposición libre (art. 91); las funciones de fe pública, asesoramiento legal, control financiero y tesorería están reservadas a funcionarios de administración local con habilitación de carácter nacional (art. 92 bis).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E25",
+  "titulo": "Régimen jurídico del personal de las entidades locales: adquisición y pérdida de la relación de servicio. La ordenación y la planificación de los recursos humanos en la Administración pública"
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público?",
+    "explicacion": "El art. 1 Ley 40/2015 fija como objeto de la Ley las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad y de la potestad sancionadora, y la organización y funcionamiento de la Administración General del Estado y de su sector público institucional.",
+    "id": "HUE-C1-E27-001",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Establecer y regular las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades.",
+    "tema": "E27",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Cuál es el ámbito subjetivo de aplicación de la Ley 40/2015?",
+    "explicacion": "El art. 2 Ley 40/2015 incluye en su ámbito la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional.",
+    "id": "HUE-C1-E27-002",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3.1",
+    "enunciado": "Enumere los principios generales que deben respetar las Administraciones Públicas en su actuación según el artículo 3.1 de la Ley 40/2015.",
+    "explicacion": "El art. 3.1 Ley 40/2015 enumera: servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad; participación, objetividad y transparencia; racionalización y agilidad; buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión pública; planificación y dirección por objetivos y control de la gestión; control de resultados y evaluación; economía, suficiencia y adecuación estricta de los medios a los fines; eficiencia en la asignación de recursos; y cooperación, colaboración y coordinación entre Administraciones.",
+    "id": "HUE-C1-E27-003",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad; participación, objetividad y transparencia; racionalización y agilidad de los procedimientos; buena fe, confianza legítima y lealtad institucional; responsabilidad por la gestión pública; planificación y dirección por objetivos y control de la gestión y evaluación de resultados; economía, suficiencia y adecuación estricta de los medios a los fines institucionales; eficiencia en la asignación y utilización de los recursos públicos; y cooperación, colaboración y coordinación entre las Administraciones Públicas.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué unidades tienen la consideración de órganos administrativos y qué debe determinar la norma de creación de un órgano?",
+    "explicacion": "El art. 5 Ley 40/2015 atribuye la consideración de órganos administrativos a las unidades administrativas a las que se atribuyan funciones que tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo; la norma de creación debe determinar su forma de integración en la Administración, su dependencia jerárquica, la delimitación de sus funciones y competencias y la dotación de los créditos necesarios.",
+    "id": "HUE-C1-E27-004",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las unidades administrativas a las que se atribuyan funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo; la norma de creación debe determinar su integración, dependencia jerárquica, delimitación de funciones y competencias y dotación de créditos.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué características tiene la competencia de los órganos administrativos según el artículo 8 de la Ley 40/2015?",
+    "explicacion": "El art. 8 Ley 40/2015 establece que la competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia; la delegación de competencias, la encomienda de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio.",
+    "id": "HUE-C1-E27-005",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es irrenunciable y se ejerce por los órganos que la tienen atribuida como propia; la delegación, la avocación, la encomienda de gestión, la delegación de firma y la suplencia no alteran la titularidad de la competencia.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Qué requisitos y límites tiene la delegación de competencias entre órganos administrativos?",
+    "explicacion": "El art. 9 Ley 40/2015 permite delegar el ejercicio de competencias en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes; no podrán delegarse las competencias relativas a la resolución de recursos en el órgano que haya dictado el acto objeto de recurso; la delegación será revocable en cualquier momento y deberá publicarse en el diario oficial correspondiente.",
+    "id": "HUE-C1-E27-006",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Puede delegarse en otros órganos de la misma Administración aunque no sean jerárquicamente dependientes; no es delegable la resolución de recursos en el órgano que dictó el acto recurrido; es revocable en cualquier momento y debe publicarse en el diario oficial correspondiente.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿En qué consiste la avocación?",
+    "explicacion": "El art. 10 Ley 40/2015 permite a los órganos superiores avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente, mediante acuerdo motivado.",
+    "id": "HUE-C1-E27-007",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La posibilidad de que un órgano superior avoque para sí, mediante acuerdo motivado, el conocimiento de asuntos cuya resolución corresponda a sus órganos dependientes, cuando lo hagan conveniente circunstancias técnicas, económicas, sociales, jurídicas o territoriales.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 11",
+    "enunciado": "¿Qué es la encomienda de gestión y qué efectos produce sobre la titularidad de la competencia?",
+    "explicacion": "El art. 11 Ley 40/2015 regula la encomienda de gestión: por razones de eficacia o cuando no se posean los medios técnicos idóneos, un órgano puede encomendar a otros órganos o entidades la realización de actividades de carácter material, técnico o de servicios; no supone cesión de la titularidad de la competencia ni de sus elementos sustantivos, y debe formalizarse con publicación en el diario oficial.",
+    "id": "HUE-C1-E27-008",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El encargo a otros órganos o entidades de actividades materiales, técnicas o de servicios por razones de eficacia o falta de medios técnicos idóneos; no supone cesión de la titularidad de la competencia y debe formalizarse con publicación oficial.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Qué efectos tiene la delegación de firma?",
+    "explicacion": "El art. 12 Ley 40/2015 dispone que los titulares de los órganos administrativos pueden delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades que de ellos dependan; la delegación de firma no altera la competencia del órgano delegante y en las resoluciones deberá hacerse constar la autoridad de procedencia.",
+    "id": "HUE-C1-E27-009",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No altera la competencia del órgano delegante; el titular delega únicamente la firma de sus resoluciones y actos en órganos o unidades dependientes, haciendo constar en ellos la autoridad de procedencia.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Cómo se regula la suplencia de los titulares de los órganos administrativos?",
+    "explicacion": "El art. 13 Ley 40/2015 prevé que los titulares de los órganos administrativos puedan ser suplidos temporalmente en los supuestos de vacante, ausencia o enfermedad, así como cuando haya sido declarada su abstención o recusación; si no se designa suplente, la competencia se ejercerá por quien designe el órgano administrativo inmediato superior del que dependa.",
+    "id": "HUE-C1-E27-010",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En casos de vacante, ausencia, enfermedad, abstención o recusación, el titular puede ser suplido temporalmente; si no se designa suplente, ejercerá la competencia quien designe el órgano inmediato superior del que dependa.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 23",
+    "enunciado": "¿Cuáles son los motivos de abstención de autoridades y personal al servicio de las Administraciones Públicas?",
+    "explicacion": "El art. 23 Ley 40/2015 enumera: tener interés personal en el asunto o en otro cuya resolución pudiera influir; parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo con interesados, representantes, asesores o administradores; amistad íntima o enemistad manifiesta con esas personas; haber intervenido como perito o testigo; y tener relación de servicio con persona interesada o haberle prestado servicios profesionales en los dos últimos años.",
+    "id": "HUE-C1-E27-011",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Interés personal en el asunto; parentesco de consanguinidad hasta el cuarto grado o de afinidad hasta el segundo con interesados o sus representantes; amistad íntima o enemistad manifiesta con ellos; haber intervenido como perito o testigo en el procedimiento; y tener relación de servicio con persona interesada o haberle prestado servicios profesionales en los dos últimos años.",
+    "tema": "E27",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 23",
+    "enunciado": "¿Cómo debe actuar la autoridad o funcionario en quien concurra un motivo de abstención?",
+    "explicacion": "El art. 23.2 Ley 40/2015 obliga a abstenerse de intervenir en el procedimiento y a comunicarlo a su superior inmediato, quien resolverá lo procedente; los órganos superiores podrán ordenar a las personas en quienes concurra alguna circunstancia que se abstengan de toda intervención en el expediente.",
+    "id": "HUE-C1-E27-012",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Debe abstenerse de intervenir y comunicarlo a su superior inmediato, quien resolverá lo procedente; el superior puede ordenar la abstención de oficio.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Quién puede promover la recusación y cómo se plantea?",
+    "explicacion": "El art. 24 Ley 40/2015 permite a los interesados promover la recusación en cualquier momento de la tramitación del procedimiento, cuando concurran los motivos del art. 23; se planteará por escrito expresando la causa o causas en que se funda.",
+    "id": "HUE-C1-E27-013",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los interesados, en cualquier momento de la tramitación del procedimiento, por escrito y expresando la causa o causas en que se funda.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Qué recursos caben contra las resoluciones dictadas en materia de recusación?",
+    "explicacion": "El art. 24 Ley 40/2015 establece que contra las resoluciones adoptadas en materia de recusación no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso administrativo o contencioso-administrativo que proceda contra el acto que ponga fin al procedimiento.",
+    "id": "HUE-C1-E27-014",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Ninguno; sin perjuicio de poder alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Implica necesariamente la invalidez de los actos la intervención de una autoridad o funcionario en quien concurría motivo de abstención?",
+    "explicacion": "No necesariamente. El art. 24.1 Ley 40/2015 dispone que la actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente y en todo caso, la invalidez de los actos en que hayan intervenido.",
+    "id": "HUE-C1-E27-015",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; la intervención de quien tenía motivo de abstención no implica necesariamente la invalidez de los actos en que haya intervenido.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Qué son las instrucciones y órdenes de servicio y qué efecto tiene su incumplimiento sobre la validez de los actos?",
+    "explicacion": "El art. 6 Ley 40/2015 permite a los órganos administrativos dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio; su incumplimiento no afecta por sí solo a la validez de los actos dictados, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.",
+    "id": "HUE-C1-E27-016",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Son directrices con las que un órgano dirige la actividad de sus órganos jerárquicamente dependientes; su incumplimiento no afecta por sí solo a la validez de los actos dictados.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Por qué normas se rigen los órganos colegiados de las distintas Administraciones Públicas?",
+    "explicacion": "El art. 15 Ley 40/2015 dispone que los órganos colegiados de las distintas Administraciones Públicas se rigen por las normas de la Sección 2.ª del Capítulo II, sin perjuicio de las peculiaridades organizativas contenidas en su normativa específica.",
+    "id": "HUE-C1-E27-017",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Por las normas de la Sección 2.ª del Capítulo II del Título Preliminar de la Ley 40/2015, sin perjuicio de las peculiaridades de su normativa específica.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Qué quorum se exige para la válida constitución de un órgano colegiado?",
+    "explicacion": "El art. 17 Ley 40/2015 exige para la válida constitución del órgano, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, la asistencia, presencial o a distancia, del Presidente y del Secretario (o de quienes les suplan) y la de la mitad, al menos, de sus miembros.",
+    "id": "HUE-C1-E27-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La asistencia del Presidente y del Secretario (o quienes les suplan) y la de la mitad, al menos, de sus miembros.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Pueden los órganos colegiados celebrar sus sesiones a distancia? ¿Con qué requisitos?",
+    "explicacion": "Sí. El art. 17.1 Ley 40/2015 permite a los órganos colegiados constituirse, convocarse, celebrar sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario; las sesiones a distancia requieren medios electrónicos que garanticen la identidad de los miembros, el contenido de sus manifestaciones, el momento en que se producen, la interactividad e intercomunicación en tiempo real y la disponibilidad de los medios.",
+    "id": "HUE-C1-E27-019",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, salvo que su reglamento interno lo excluya expresa y excepcionalmente; por medios electrónicos que garanticen la identidad de los miembros, el contenido y momento de sus manifestaciones, la interactividad en tiempo real y la disponibilidad de los medios.",
+    "tema": "E27",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "¿Qué contenido mínimo deben tener las actas de las sesiones de los órganos colegiados?",
+    "explicacion": "El art. 18 Ley 40/2015 exige que de cada sesión se levante acta con los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones y el contenido de los acuerdos adoptados; el acta se aprobará en la misma o en la siguiente sesión y será firmada por el Secretario con el visto bueno del Presidente.",
+    "id": "HUE-C1-E27-020",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Asistentes, orden del día, lugar y tiempo de celebración, puntos principales de las deliberaciones y contenido de los acuerdos adoptados; se firma por el Secretario con el visto bueno del Presidente.",
+    "tema": "E27",
+    "verificado_corpus": false
+  }
+]

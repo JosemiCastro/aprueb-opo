@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Cuál es el objeto de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales?",
+    "explicacion": "El art. 2 Ley 31/1995 establece como objeto promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+    "id": "HUE-C1-E32-001",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+    "tema": "E32",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Cuál es el ámbito de aplicación de la Ley de prevención de riesgos laborales?",
+    "explicacion": "El art. 3 Ley 31/1995 aplica la Ley a las relaciones laborales reguladas en el Estatuto de los Trabajadores y a las relaciones de carácter administrativo o estatutario del personal civil al servicio de las Administraciones Públicas, con las peculiaridades previstas para determinadas actividades (policía, seguridad, resguardo aduanero, protección civil, peritaje forense en casos de grave riesgo, Fuerzas Armadas y actividades militares de la Guardia Civil).",
+    "id": "HUE-C1-E32-002",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las relaciones laborales y el personal civil al servicio de las Administraciones Públicas; quedan fuera determinadas actividades con peculiaridades (policía, seguridad, protección civil, Fuerzas Armadas, entre otras).",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.1",
+    "enunciado": "¿Qué se entiende por «prevención» en la Ley 31/1995?",
+    "explicacion": "El art. 4.1 Ley 31/1995 define la prevención como el conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+    "id": "HUE-C1-E32-003",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.2",
+    "enunciado": "¿Qué es el «riesgo laboral»?",
+    "explicacion": "El art. 4.2 Ley 31/1995 define el riesgo laboral como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo; para calificarlo se valoran conjuntamente la probabilidad de que se produzca el daño y su severidad.",
+    "id": "HUE-C1-E32-004",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.3",
+    "enunciado": "¿Qué son los «daños derivados del trabajo»?",
+    "explicacion": "El art. 4.3 Ley 31/1995 define los daños derivados del trabajo como las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+    "id": "HUE-C1-E32-005",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.2 y 4.3",
+    "enunciado": "¿Qué diferencia hay entre «riesgo laboral» y «daño derivado del trabajo»?",
+    "explicacion": "El riesgo laboral (art. 4.2) es la posibilidad de que se produzca un daño; el daño derivado del trabajo (art. 4.3) es la materialización de ese riesgo: la enfermedad, patología o lesión efectivamente sufrida con motivo u ocasión del trabajo.",
+    "id": "HUE-C1-E32-006",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El riesgo es la posibilidad de sufrir un daño; el daño es la enfermedad, patología o lesión efectivamente sufrida con motivo u ocasión del trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.4",
+    "enunciado": "¿Qué es un «riesgo grave e inminente»?",
+    "explicacion": "El art. 4.4 Ley 31/1995 define el riesgo grave e inminente como aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.",
+    "id": "HUE-C1-E32-007",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.5",
+    "enunciado": "¿Qué son los «procesos, actividades, operaciones, equipos o productos potencialmente peligrosos»?",
+    "explicacion": "El art. 4.5 Ley 31/1995 los define como aquellos que, en ausencia de medidas preventivas específicas, originen riesgos para la seguridad y la salud de los trabajadores que los desarrollan o utilizan.",
+    "id": "HUE-C1-E32-008",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Aquellos que, en ausencia de medidas preventivas específicas, originen riesgos para la seguridad y la salud de los trabajadores que los desarrollan o utilizan.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.6",
+    "enunciado": "¿Qué se entiende por «equipo de trabajo»?",
+    "explicacion": "El art. 4.6 Ley 31/1995 define el equipo de trabajo como cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+    "id": "HUE-C1-E32-009",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.7",
+    "enunciado": "¿Qué se entiende por «condición de trabajo»?",
+    "explicacion": "El art. 4.7 Ley 31/1995 define la condición de trabajo como cualquier característica del mismo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador, incluyendo las características de locales, instalaciones, equipos y productos, los agentes físicos, químicos y biológicos, los procedimientos de utilización y la organización y ordenación del trabajo.",
+    "id": "HUE-C1-E32-010",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y la salud del trabajador (locales, equipos, agentes físicos, químicos y biológicos, procedimientos y organización del trabajo).",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.8",
+    "enunciado": "¿Qué es un «equipo de protección individual»?",
+    "explicacion": "El art. 4.8 Ley 31/1995 define el equipo de protección individual (EPI) como cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así como cualquier complemento o accesorio destinado a tal fin.",
+    "id": "HUE-C1-E32-011",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para protegerle de uno o varios riesgos, así como cualquier complemento o accesorio destinado a tal fin.",
+    "tema": "E32",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derecho reconoce el artículo 14 de la Ley 31/1995 a los trabajadores?",
+    "explicacion": "El art. 14 Ley 31/1995 reconoce a los trabajadores el derecho a una protección eficaz en materia de seguridad y salud en el trabajo, lo que supone un correlativo deber del empresario de protección de los trabajadores frente a los riesgos laborales.",
+    "id": "HUE-C1-E32-012",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a una protección eficaz en materia de seguridad y salud en el trabajo (con el correlativo deber del empresario de protección frente a los riesgos laborales).",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "Enumere los principios de la acción preventiva del artículo 15 de la Ley 31/1995.",
+    "explicacion": "El art. 15 Ley 31/1995 establece: evitar los riesgos; evaluar los riesgos que no se puedan evitar; combatir los riesgos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución de la técnica; sustituir lo peligroso por lo que entrañe poco o ningún peligro; planificar la prevención; anteponer la protección colectiva a la individual; y dar las debidas instrucciones a los trabajadores.",
+    "id": "HUE-C1-E32-013",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Evitar los riesgos; evaluar los no evitables; combatirlos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución técnica; sustituir lo peligroso; planificar la prevención; anteponer la protección colectiva a la individual; y dar instrucciones a los trabajadores.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es el plan de prevención de riesgos laborales?",
+    "explicacion": "El art. 16 Ley 31/1995 configura el plan de prevención como el instrumento esencial de la actividad preventiva: la prevención deberá integrarse en el sistema general de gestión de la empresa a través de su implantación y aplicación, e incluirá la evaluación de los riesgos y la planificación de la actividad preventiva.",
+    "id": "HUE-C1-E32-014",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El instrumento a través del cual se integra la prevención en el sistema general de gestión de la empresa; incluye la evaluación de riesgos y la planificación de la actividad preventiva.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 19",
+    "enunciado": "¿Qué obligación tiene el empresario en materia de formación de los trabajadores?",
+    "explicacion": "El art. 19 Ley 31/1995 obliga al empresario a garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva, tanto en el momento de su contratación como cuando se produzcan cambios en sus funciones o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+    "id": "HUE-C1-E32-015",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Garantizar a cada trabajador una formación teórica y práctica, suficiente y adecuada, en materia preventiva: al contratarle, al cambiar sus funciones y al introducir nuevas tecnologías o equipos.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿En qué consiste la vigilancia de la salud de los trabajadores?",
+    "explicacion": "El art. 22 Ley 31/1995 obliga al empresario a garantizar a los trabajadores una vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo; como regla general requiere el consentimiento del trabajador, salvo excepciones tasadas (cuando sea imprescindible para evaluar los efectos de las condiciones de trabajo o para verificar si el estado de salud puede constituir un peligro).",
+    "id": "HUE-C1-E32-016",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La vigilancia periódica del estado de salud de los trabajadores en función de los riesgos del trabajo, que como regla general requiere su consentimiento.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿Qué derechos tiene el trabajador ante un riesgo grave e inminente?",
+    "explicacion": "El art. 21 Ley 31/1995 reconoce al trabajador el derecho a interrumpir su actividad y abandonar el lugar de trabajo cuando considere que dicha actividad entraña un riesgo grave e inminente para su vida o su salud; además, los representantes de los trabajadores pueden acordar la paralización de la actividad.",
+    "id": "HUE-C1-E32-017",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A interrumpir su actividad y abandonar el lugar de trabajo; los representantes de los trabajadores pueden acordar la paralización de la actividad.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 33",
+    "enunciado": "¿Sobre qué materias debe el empresario consultar a los trabajadores?",
+    "explicacion": "El art. 33 Ley 31/1995 impone al empresario el deber de consultar a los trabajadores, con la debida antelación, sobre la planificación y la organización del trabajo, la introducción de nuevas tecnologías, la organización de las actividades de protección y prevención y la designación de los trabajadores encargados de las medidas de emergencia.",
+    "id": "HUE-C1-E32-018",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sobre la planificación y organización del trabajo, la introducción de nuevas tecnologías, la organización de la prevención y la designación de los encargados de las medidas de emergencia.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 35",
+    "enunciado": "¿Quiénes son los Delegados de Prevención?",
+    "explicacion": "El art. 35 Ley 31/1995 define a los Delegados de Prevención como los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo, designados por y entre los representantes del personal.",
+    "id": "HUE-C1-E32-019",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo.",
+    "tema": "E32",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 38",
+    "enunciado": "¿Qué es el Comité de Seguridad y Salud y cuándo debe constituirse?",
+    "explicacion": "El art. 38 Ley 31/1995 define el Comité de Seguridad y Salud como el órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos; debe constituirse en todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores.",
+    "id": "HUE-C1-E32-020",
+    "ley": "Ley 31/1995",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El órgano paritario y colegiado de participación para la consulta regular en materia de prevención; debe constituirse en empresas o centros con 50 o más trabajadores.",
+    "tema": "E32",
+    "verificado_corpus": false
+  }
+]

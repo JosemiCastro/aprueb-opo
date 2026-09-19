@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: trazar la evolución histórica desde la irresponsabilidad hasta la Ley 40/2015 (LEF art. 121, Ley 30/1992).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar los presupuestos de la responsabilidad y los daños resarcibles (art. 32 Ley 40/2015, art. 106.2 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir la acción (plazo de un año, art. 67 LPAC) y el procedimiento, incluido el dictamen preceptivo de 50.000 euros (art. 81.2 LPAC).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la responsabilidad de autoridades y personal y la acción de regreso (art. 36 Ley 40/2015)."
+  ],
+  "id": "HUE-A2-E18",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 121",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Evolución histórica: del principio de irresponsabilidad del Estado (the King can do no wrong) al reconocimiento legal de la indemnización por el funcionamiento normal o anormal de los servicios públicos (art. 121 LEF, 1954), desarrollado por la Ley 30/1992 (arts. 139-146) y vigente en la Ley 40/2015 (arts. 32-37): sistema unitario, directo y objetivo.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 106.2",
+      "ley": "Constitución Española de 1978",
+      "punto": "Fundamento constitucional: los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 32",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Presupuestos: lesión antijurídica en bienes o derechos (que el particular no tenga el deber jurídico de soportar), imputable al funcionamiento normal o anormal de los servicios públicos, con relación de causalidad directa e inmediata, y exclusión de los supuestos de fuerza mayor.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 32.2",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Daños resarcibles: el daño alegado ha de ser efectivo, evaluable económicamente e individualizado en relación con una persona o grupo de personas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 33",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Responsabilidad concurrente: cuando la gestión dimanante de fórmulas de actuación conjunta corresponda a varias Administraciones, responden conforme a los criterios de competencia, interés público tutelado e intensidad de la intervención.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 34",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Indemnización: se calcula con arreglo a los criterios de valoración establecidos en la legislación de expropiación forzosa, de fiscalidad y demás normas aplicables, ponderándose las valoraciones del mercado; se actualiza a la fecha en que se ponga fin al procedimiento y puede fraccionarse su pago.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 67",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "La acción: el derecho a reclamar prescribe al año de producido el hecho o el acto que motive la indemnización; en caso de daños físicos o psíquicos, el plazo empieza desde la curación o la determinación del alcance de las secuelas; la reclamación debe especificar la lesión, la relación de causalidad y la evaluación económica.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 65, 81.2, 91 y 92",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Procedimiento administrativo: especialidades del inicio de oficio (art. 65); dictamen preceptivo del Consejo de Estado u órgano consultivo autonómico cuando la indemnización reclamada sea de cuantía igual o superior a 50.000 euros (art. 81.2); la resolución se pronuncia sobre la causalidad, la valoración del daño y la cuantía (art. 91); resuelve el órgano competente de cada Administración (art. 92).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Responsabilidad de las autoridades y personal: la Administración, cuando hubiere indemnizado a los lesionados, exigirá de oficio en vía administrativa de sus autoridades y demás personal la responsabilidad en que hubieran incurrido por dolo, o culpa o negligencia graves, previa instrucción del procedimiento con audiencia del interesado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Criterios de ponderación de la acción de regreso: el resultado dañoso producido, la existencia o no de intencionalidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso; la resolución declaratoria de responsabilidad pone fin a la vía administrativa.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E18",
+  "titulo": "La responsabilidad patrimonial de la Administración: evolución histórica. Presupuestos de la responsabilidad. Daños resarcibles. La acción y el procedimiento administrativo en materia de responsabilidad patrimonial. La responsabilidad patrimonial de las autoridades y personal al servicio de las Administraciones públicas"
+}

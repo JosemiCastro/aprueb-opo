@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la instrucción del procedimiento: alegaciones, prueba e informes (arts. 75 a 81).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la participación de los interesados: audiencia e información pública (arts. 82 y 83).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la resolución del procedimiento: contenido y congruencia, con la prohibición de la reformatio in peius (art. 88).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la terminación convencional del procedimiento (art. 86).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el desistimiento, la renuncia y la caducidad del procedimiento (arts. 94 y 95)."
+  ],
+  "id": "HUE-A2-E07",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 75",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Actos de instrucción: los actos necesarios para la determinación, conocimiento y comprobación de los hechos en virtud de los cuales deba pronunciarse la resolución se realizarán de oficio y a través de medios electrónicos por el órgano que tramite el procedimiento, sin perjuicio del derecho de los interesados a proponer aquellas actuaciones que requieran su intervención o constituyan trámites de los mismos legal o reglamentariamente establecidos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 76",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Alegaciones: los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio. Unos y otros serán tenidos en cuenta por el órgano competente al redactar la correspondiente propuesta de resolución.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 77 y 78",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "La prueba: los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho, cuya valoración se realizará de acuerdo con los criterios establecidos en la Ley de Enjuiciamiento Civil. Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez, a fin de que puedan practicarse cuantas juzgue pertinentes (art. 77). La práctica de las pruebas se realizará de conformidad con lo dispuesto en el artículo 78, con audiencia, cuando sea posible, a los interesados.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 79 a 81",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Informes: a efectos de la resolución del procedimiento, se solicitarán aquellos informes que sean preceptivos por las disposiciones legales, y los que se juzguen necesarios para resolver, citándose el precepto que los exija o fundamentando, en su caso, la conveniencia de reclamarlos (art. 79). Los informes serán evacuados en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor (art. 80). Serán facultativos y no vinculantes, salvo disposición expresa en contrario (art. 81).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 82",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Audiencia al interesado: instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados o, en su caso, a sus representantes, para que en un plazo no inferior a diez días ni superior a quince puedan alegar y presentar los documentos y justificaciones que estimen pertinentes. Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 83",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Información pública: el órgano al que corresponda la resolución del procedimiento, cuando la naturaleza de éste lo requiera, podrá acordar un período de información pública. El anuncio señalará el lugar de exhibición y determinará el plazo para formular alegaciones, que en ningún caso podrá ser inferior a veinte días. La incomparecencia en este trámite no impedirá a los interesados interponer los recursos procedentes contra la resolución definitiva del procedimiento.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 87",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Actuaciones complementarias: antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de las actuaciones complementarias indispensables para resolver el procedimiento, que habrán de practicarse en un plazo no superior a quince días. El plazo para resolver el procedimiento y notificar la resolución quedará suspendido hasta la terminación de las actuaciones complementarias.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 86",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Terminación convencional: las Administraciones Públicas podrán celebrar acuerdos, pactos, convenios o contratos con personas tanto de Derecho público como privado, siempre que no sean contrarios al ordenamiento jurídico ni versen sobre materias no susceptibles de transacción y tengan por objeto satisfacer el interés público que tienen encomendado, con el alcance, efectos y régimen jurídico específico que, en su caso, prevea la disposición que lo regule. Requerirán, en todo caso, la autorización expresa cuando las normas reguladoras de los procedimientos así lo establezcan.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 88",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Resolución: la resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo. En los procedimientos tramitados a solicitud del interesado la resolución será congruente con las peticiones formuladas por éste, sin que en ningún caso pueda agravar su situación inicial y sin perjuicio de la potestad de la Administración de incoar de oficio un nuevo procedimiento, si procede (prohibición de la reformatio in peius).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 94",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Desistimiento y renuncia: el interesado podrá desistir de su solicitud y, cuando no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos, por cualquier medio que permita constancia, y la Administración aceptará de plano el desistimiento o la renuncia y declarará concluso el procedimiento. Si el escrito de iniciación se hubiese presentado por varios interesados, el desistimiento o la renuncia sólo afectará a aquellos que la hubiesen formulado. La Administración podrá limitar los efectos del desistimiento al interesado y continuar el procedimiento si la cuestión entrañase interés general.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 95",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Caducidad: en los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento, con archivo de las actuaciones. La caducidad no producirá por sí sola la prescripción de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción. No será aplicable la caducidad cuando la cuestión suscitada afecte al interés general o fuera conveniente sustanciarla para su definición y esclarecimiento.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E07",
+  "titulo": "La estructura del procedimiento administrativo común (II): instrucción. Alegaciones. La prueba en el procedimiento administrativo. Informes. Participación de los interesados. Finalización. Terminación convencional. Resolución. Desistimiento y renuncia. Caducidad."
+}

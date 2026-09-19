@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar las formas de intervención administrativa y el carácter excepcional de la licencia (arts. 84 y 84 bis LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la naturaleza jurídica de la licencia como acto declarativo y reglado.",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir el procedimiento de otorgamiento de licencias (art. 9 RSCL) y el régimen del silencio (art. 11.4 TRLSRU).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el condicionamiento, la transmisión y la vigencia de las licencias (arts. 12, 13 y 15 RSCL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: diferenciar la comunicación previa y la declaración responsable y sus efectos (art. 69 LPAC, art. 84 ter LBRL)."
+  ],
+  "id": "HUE-A2-E23",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 84.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Formas de actividad de intervención: las entidades locales pueden intervenir la actividad de los ciudadanos mediante ordenanzas y bandos, sometimiento a previa licencia y otros actos de control preventivo, sometimiento a comunicación previa o a declaración responsable, y órdenes individuales constitutivas de mandato.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 6",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Principios de la intervención: el contenido de los actos de intervención será congruente con los motivos y fines que los justifiquen, y si fueren varios los medios admisibles se elegirá el menos restrictivo de la libertad individual.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84 bis",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Carácter excepcional de la licencia: con carácter general, el ejercicio de actividades no se someterá a la obtención de licencia u otro medio de control preventivo; solo cabe exigirla cuando concurran razones imperiosas de interés general vinculadas a la protección del medio ambiente o del patrimonio histórico-artístico, la seguridad o la salud públicas, o la protección de los derechos de los consumidores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Naturaleza jurídica: la licencia es un acto administrativo declarativo y reglado; no crea el derecho del particular, sino que verifica y declara la conformidad de la actividad pretendida con el ordenamiento jurídico, removiendo el obstáculo legal para su ejercicio; si se cumplen los requisitos, la Administración debe otorgarla.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Clases de licencias: de obras y edificación, de actividad y apertura de establecimientos, de parcelación y de primera ocupación o utilización; cada una se rige por su normativa sectorial (urbanismo, medio ambiente, sanidad).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Régimen jurídico: la actividad de intervención se ajustará, en todo caso, a los principios de igualdad de trato, necesidad y proporcionalidad con el objetivo que se persigue.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Procedimiento de otorgamiento: las solicitudes se presentan en el registro general, acompañadas de proyecto técnico si se refieren a obras o instalaciones; se remiten a los organismos que deben informar en el plazo de cinco días; las deficiencias subsanables se notifican para su corrección en quince días; el plazo de resolución es de un mes para actividades personales, parcelaciones con plan aprobado, obras menores y pequeños establecimientos, y de dos meses para nueva construcción, industrias, mataderos, mercados y grandes establecimientos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11.4",
+      "ley": "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana",
+      "punto": "Silencio administrativo: en ningún caso podrán entenderse adquiridas por silencio administrativo facultades o derechos que contravengan la ordenación territorial o urbanística; la regla general del silencio positivo (art. 24 LPAC) no ampara actuaciones ilegales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Condicionamiento y eficacia: las autorizaciones y licencias se entenderán otorgadas salvo el derecho de propiedad y sin perjuicio del de tercero; pueden otorgarse condicionadas y no podrán ser invocadas para excluir o disminuir la responsabilidad civil o penal en que hubieren incurrido los beneficiarios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13 y 15",
+      "ley": "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales",
+      "punto": "Transmisión y vigencia: las licencias relativas a las condiciones de una obra, instalación o servicio son transmisibles, pero transmitente y adquirente deben comunicarlo por escrito a la corporación; no son transmisibles cuando el número de las otorgables fuere limitado; las licencias tienen vigencia mientras subsistan las condiciones que las motivaron.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 69 y 84 ter",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Comunicación previa y declaración responsable: permiten el reconocimiento o ejercicio del derecho o el inicio de la actividad desde su presentación ante la Administración (art. 69 LPAC); cuando el ejercicio de actividades no precise autorización, las entidades locales establecen procedimientos de comunicación y verificación posterior (art. 84 ter LBRL); la inexactitud, falsedad u omisión esencial determina la imposibilidad de continuar la actividad y la obligación de restituir la situación jurídica, sin perjuicio de las responsabilidades y sanciones.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E23",
+  "titulo": "Las formas de actividad en las entidades locales. La intervención administrativa en la actividad privada. Las licencias. Naturaleza jurídica. Régimen jurídico y procedimiento de otorgamiento. El condicionamiento de las licencias. La comunicación previa y la declaración responsable"
+}

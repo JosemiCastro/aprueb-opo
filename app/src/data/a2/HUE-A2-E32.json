@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: los principios de racionalidad, libertad de pactos, perfección y forma en la contratación pública.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el régimen de invalidez de los contratos (nulidad y anulabilidad) y sus efectos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el recurso especial en materia de contratación: actos recurribles, legitimación, plazos y efectos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la suspensión del procedimiento de adjudicación como medida cautelar.",
+    "Puedo citar con precisión los artículos 28, 34, 36, 37, 39, 44 y 50 de la Ley 9/2017 y explicar su contenido esencial."
+  ],
+  "id": "HUE-A2-E32",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 28 y 99.2",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Racionalidad y consistencia de la contratación pública: las entidades del sector público velarán por la eficiencia y el mantenimiento de los términos acordados en la ejecución de los contratos; la necesidad del contrato deberá justificarse en el expediente y su objeto deberá ser determinado, sin fraccionamiento fraudulento.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 34",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Libertad de pactos y contenido mínimo: en los contratos del sector público podrán incluirse cualesquiera pactos, cláusulas y condiciones, siempre que no sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración; el contenido mínimo del contrato se fija en los pliegos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Perfección del contrato: los contratos que celebren los poderes adjudicadores se perfeccionan con su formalización; los contratos subvencionados sujetos a regulación armonizada se perfeccionan conforme a la legislación por la que se rijan.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 37",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Carácter formal de la contratación del sector público: las entidades del sector público no podrán contratar verbalmente, salvo que el contrato tenga carácter de emergencia de conformidad con lo previsto en el art. 120.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 39",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Causas de nulidad de derecho administrativo: son nulos, entre otros supuestos, los contratos celebrados por órganos manifiestamente incompetentes, los celebrados con contratistas que carezcan de capacidad de obrar o incursos en prohibición de contratar, y los adjudicados prescindiendo total y absolutamente del procedimiento establecido.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 40",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Causas de anulabilidad de derecho administrativo: serán anulables los demás actos y contratos afectados por infracciones del ordenamiento jurídico distintas de las causas de nulidad, en particular las infracciones de las normas sobre preparación y adjudicación cuando no constituyan nulidad de pleno derecho.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 42",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Efectos de la declaración de nulidad: la declaración de nulidad producirá el efecto de que el contrato entre en fase de liquidación, debiendo restituirse las partes recíprocamente las cosas que hubiesen recibido; si la prestación ya ejecutada no fuese susceptible de restitución, se fijará la correspondiente indemnización.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 44",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Recurso especial en materia de contratación: son recurribles los anuncios de licitación, los pliegos, los actos de trámite que decidan directa o indirectamente la adjudicación, los acuerdos de adjudicación y las modificaciones contractuales, en contratos de obras de valor estimado superior a 3 millones de euros y de suministro y servicios superior a 100.000 euros.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 50",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "El procedimiento del recurso especial se iniciará mediante escrito que deberá presentarse en el plazo de quince días hábiles, computados según el acto impugnado (p. ej., desde el día siguiente a la publicación del anuncio o a la notificación de la adjudicación).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 53",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "La interposición del recurso especial contra el acuerdo de adjudicación produce la suspensión de la tramitación del procedimiento de contratación; el órgano competente para resolver (Tribunal Administrativo Central de Recursos Contractuales u órgano autonómico equivalente) deberá resolver sobre el mantenimiento de la medida.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E32",
+  "titulo": "Los principios generales de la contratación del sector público: racionalidad, libertad de pactos y contenido mínimo, perfección y forma. El régimen de invalidez de los contratos y el recurso especial en materia de contratación."
+}

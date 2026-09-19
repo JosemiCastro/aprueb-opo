@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué son los convenios según la Ley 40/2015 y entre quiénes pueden celebrarse?",
+    "explicacion": "El art. 47.1 Ley 40/2015 define los convenios como los acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades públicas entre sí o con sujetos de derecho privado para un fin común.",
+    "id": "HUE-C1-E28-001",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Acuerdos con efectos jurídicos adoptados por Administraciones Públicas, organismos públicos, entidades de derecho público o Universidades públicas, entre sí o con sujetos de derecho privado, para un fin común.",
+    "tema": "E28",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué tipos de convenios distingue el artículo 47.2 de la Ley 40/2015?",
+    "explicacion": "El art. 47.2 Ley 40/2015 distingue los convenios interadministrativos, firmados entre dos o más Administraciones Públicas (o entre organismos públicos y entidades de derecho público vinculados), y los convenios firmados entre Administraciones Públicas u organismos y sujetos de derecho privado.",
+    "id": "HUE-C1-E28-002",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los convenios interadministrativos (entre Administraciones Públicas, organismos públicos o entidades de derecho público) y los convenios con sujetos de derecho privado.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Pueden los convenios tener por objeto prestaciones propias de los contratos del sector público?",
+    "explicacion": "No. El art. 47.1 Ley 40/2015 excluye del concepto de convenio los acuerdos que tengan por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público; en tal caso su naturaleza y régimen jurídico se ajustará a lo previsto en dicha legislación.",
+    "id": "HUE-C1-E28-003",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; quedan excluidos del concepto de convenio y se rigen por la legislación de contratos del sector público.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 48",
+    "enunciado": "¿Qué requisitos de validez y eficacia deben cumplir los convenios?",
+    "explicacion": "El art. 48 Ley 40/2015 exige para su validez: la suscripción por quienes representen a las partes, la competencia para ello, que su objeto no sea contrario al ordenamiento y el cumplimiento de los trámites del art. 50; para su eficacia, la inscripción en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación y su publicación en el «Boletín Oficial del Estado».",
+    "id": "HUE-C1-E28-004",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Validez: suscripción por los representantes de las partes, competencia, objeto lícito y trámites del art. 50. Eficacia: inscripción en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación y publicación en el BOE.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 48",
+    "enunciado": "¿Qué finalidad debe perseguir la suscripción de convenios según la Ley 40/2015?",
+    "explicacion": "El art. 48.3 Ley 40/2015 exige que la suscripción de convenios mejore la eficiencia de la gestión pública, facilite la utilización conjunta de medios y servicios públicos, contribuya a la realización de actividades de utilidad pública y cumpla con la legislación de estabilidad presupuestaria y sostenibilidad financiera.",
+    "id": "HUE-C1-E28-005",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mejorar la eficiencia de la gestión pública, facilitar la utilización conjunta de medios y servicios públicos, contribuir a actividades de utilidad pública y cumplir la legislación de estabilidad presupuestaria y sostenibilidad financiera.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 48",
+    "enunciado": "¿Existe algún límite a las aportaciones financieras que los firmantes pueden comprometer en un convenio?",
+    "explicacion": "Sí. El art. 48.6 Ley 40/2015 dispone que las aportaciones financieras que se comprometan a realizar los firmantes no podrán ser superiores a los gastos derivados de la ejecución del propio convenio.",
+    "id": "HUE-C1-E28-006",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí; no podrán ser superiores a los gastos derivados de la ejecución del propio convenio.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Qué contenido mínimo deben incluir los convenios?",
+    "explicacion": "El art. 49 Ley 40/2015 exige: sujetos y capacidad jurídica; competencia; objeto y actuaciones de cada parte; obligaciones y compromisos económicos; consecuencias del incumplimiento y criterios de indemnización; mecanismos de seguimiento, vigilancia y control de la ejecución; régimen de modificación; y plazo de vigencia.",
+    "id": "HUE-C1-E28-007",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sujetos y capacidad; competencia; objeto y actuaciones; obligaciones y compromisos económicos; consecuencias del incumplimiento; mecanismos de seguimiento, vigilancia y control; régimen de modificación; y plazo de vigencia.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Cuál es la duración máxima de los convenios y es posible su prórroga?",
+    "explicacion": "El art. 49.h) Ley 40/2015 fija un plazo de vigencia determinado no superior a cuatro años; antes de su finalización, las partes pueden acordar unánimemente su prórroga por un periodo de hasta cuatro años adicionales (o su extinción).",
+    "id": "HUE-C1-E28-008",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Vigencia máxima de cuatro años, prorrogable por acuerdo unánime de las partes por hasta cuatro años adicionales.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 49",
+    "enunciado": "¿Qué órgano de seguimiento deben prever los convenios?",
+    "explicacion": "El art. 49.f) Ley 40/2015 exige incluir mecanismos de seguimiento, vigilancia y control de la ejecución del convenio y de los compromisos adquiridos, resolviendo los problemas de interpretación y cumplimiento; estos mecanismos podrán adoptar la forma de una comisión de seguimiento.",
+    "id": "HUE-C1-E28-009",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mecanismos de seguimiento, vigilancia y control de la ejecución y de los compromisos adquiridos, que resolverán los problemas de interpretación y cumplimiento; pueden adoptar la forma de comisión de seguimiento.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 50",
+    "enunciado": "¿Qué trámite preceptivo debe acompañar a la suscripción de un convenio?",
+    "explicacion": "El art. 50.1 Ley 40/2015 exige que el convenio se acompañe de una memoria justificativa donde se analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad en cuestión y el cumplimiento de lo previsto en la Ley.",
+    "id": "HUE-C1-E28-010",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Una memoria justificativa que analice su necesidad y oportunidad, su impacto económico, el carácter no contractual de la actividad y el cumplimiento de la Ley.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 51",
+    "enunciado": "¿Cuáles son las causas de extinción de los convenios?",
+    "explicacion": "El art. 51 Ley 40/2015 establece que los convenios se extinguen por el cumplimiento de las actuaciones que constituyen su objeto; son causas de resolución: el transcurso del plazo de vigencia sin haberse acordado la prórroga, el acuerdo unánime de todos los firmantes, el incumplimiento de las obligaciones y compromisos (previo requerimiento), la decisión judicial declaratoria de la nulidad del convenio, y cualquier otra causa prevista en el convenio o en otras leyes.",
+    "id": "HUE-C1-E28-011",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El cumplimiento de las actuaciones que constituyen su objeto; son causas de resolución: el transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga, el acuerdo unánime de todos los firmantes, el incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes (previo requerimiento), la decisión judicial declaratoria de la nulidad del convenio, y cualquier otra causa prevista en el convenio o en otras leyes.",
+    "tema": "E28",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 52",
+    "enunciado": "¿Qué efectos produce la resolución de un convenio?",
+    "explicacion": "El art. 52 Ley 40/2015 dispone que el cumplimiento y la resolución darán lugar a la liquidación del convenio para determinar las obligaciones y compromisos de cada parte; si existen actuaciones en curso, las partes podrán acordar su continuación y finalización con un plazo improrrogable; y en caso de incumplimiento con compromisos financieros, se incluirá la indemnización con el abono de las cantidades que correspondan.",
+    "id": "HUE-C1-E28-012",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La liquidación del convenio para determinar las obligaciones de cada parte; posible continuación de las actuaciones en curso con plazo improrrogable; e indemnización con abono de cantidades si hubo incumplimiento de compromisos financieros.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 53",
+    "enunciado": "¿Qué convenios deben remitirse al Tribunal de Cuentas y en qué plazo?",
+    "explicacion": "El art. 53 Ley 40/2015 obliga a remitir electrónicamente al Tribunal de Cuentas, dentro de los tres meses siguientes a su suscripción, los convenios cuyos compromisos económicos asumidos superen los 600.000 euros; también se comunicarán las modificaciones, prórrogas o variaciones de plazos, la alteración de importes y su extinción.",
+    "id": "HUE-C1-E28-013",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los convenios con compromisos económicos superiores a 600.000 euros, dentro de los tres meses siguientes a su suscripción; también se comunican sus modificaciones, prórrogas y extinción.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 140",
+    "enunciado": "Enumere los principios que rigen las relaciones interadministrativas según el artículo 140 de la Ley 40/2015.",
+    "explicacion": "El art. 140 Ley 40/2015 enumera: lealtad institucional; adecuación al orden de distribución de competencias; colaboración; cooperación; coordinación; eficiencia en la gestión de los recursos públicos; responsabilidad de cada Administración; garantía e igualdad en el ejercicio de los derechos de la ciudadanía; solidaridad interterritorial; y respeto al ejercicio legítimo por las otras Administraciones de sus competencias.",
+    "id": "HUE-C1-E28-014",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Lealtad institucional; adecuación al orden de distribución de competencias; colaboración; cooperación; coordinación; eficiencia en la gestión de los recursos públicos; responsabilidad de cada Administración; garantía e igualdad en el ejercicio de los derechos de los ciudadanos; solidaridad interterritorial; y respeto al ejercicio legítimo de las competencias de las otras Administraciones.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 141",
+    "enunciado": "¿En qué consiste el deber de colaboración entre Administraciones Públicas?",
+    "explicacion": "El art. 141 Ley 40/2015 impone a las Administraciones el deber de facilitar a las otras la información que precisen sobre la actividad que desarrollen en el ejercicio de sus competencias, prestarles la cooperación y asistencia que precisen para el eficaz ejercicio de sus competencias, y respetar el ejercicio legítimo por las otras Administraciones de sus competencias.",
+    "id": "HUE-C1-E28-015",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Facilitar la información necesaria sobre la propia actividad, prestar la cooperación y asistencia que precisen para el eficaz ejercicio de sus competencias y respetar el ejercicio legítimo de las competencias ajenas.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 142",
+    "enunciado": "¿Cuáles son las técnicas de colaboración entre Administraciones Públicas?",
+    "explicacion": "El art. 142 Ley 40/2015 señala como técnicas de colaboración: el suministro de información, datos, documentos o medios probatorios; la creación y mantenimiento de sistemas integrados de información administrativa; el deber de asistencia y auxilio para atender las solicitudes de otras Administraciones; y cualquier otra prevista en una ley.",
+    "id": "HUE-C1-E28-016",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El suministro de información, datos, documentos o medios probatorios; la creación y mantenimiento de sistemas integrados de información; el deber de asistencia y auxilio; y cualquier otra prevista en una ley.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 143",
+    "enunciado": "¿Qué se entiende por cooperación entre Administraciones Públicas?",
+    "explicacion": "El art. 143 Ley 40/2015 define la cooperación como la actuación conjunta de dos o más Administraciones Públicas que, de forma voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común.",
+    "id": "HUE-C1-E28-017",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La actuación conjunta, voluntaria y en ejercicio de sus competencias, de dos o más Administraciones Públicas que asumen compromisos específicos en aras de una acción común.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 144",
+    "enunciado": "¿Cuáles son las técnicas de cooperación previstas en la Ley 40/2015?",
+    "explicacion": "El art. 144 Ley 40/2015 prevé: la participación en órganos de cooperación; la participación en órganos consultivos de otras Administraciones; la prestación de medios materiales, económicos o personales; la cooperación interadministrativa para la aplicación coordinada de la normativa; la emisión de informes no preceptivos; las actuaciones de cooperación en materia patrimonial; y cualquier otra prevista en la ley.",
+    "id": "HUE-C1-E28-018",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La participación en órganos de cooperación y en órganos consultivos de otras Administraciones; la prestación de medios materiales, económicos o personales; la aplicación coordinada de la normativa; la emisión de informes no preceptivos; y la cooperación en materia patrimonial.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 145",
+    "enunciado": "¿Cuáles son los órganos de cooperación entre el Estado y las Comunidades Autónomas?",
+    "explicacion": "El art. 145 Ley 40/2015 establece como órganos de cooperación: la Conferencia de Presidentes, las Conferencias Sectoriales, las Comisiones Bilaterales de Cooperación y las Comisiones Territoriales de Coordinación.",
+    "id": "HUE-C1-E28-019",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Conferencia de Presidentes, las Conferencias Sectoriales, las Comisiones Bilaterales de Cooperación y las Comisiones Territoriales de Coordinación.",
+    "tema": "E28",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 150",
+    "enunciado": "¿En qué consiste la coordinación entre Administraciones Públicas?",
+    "explicacion": "El art. 150 Ley 40/2015 dispone que, cuando las actuaciones de las distintas Administraciones deban ser consideradas conjuntamente para lograr su plena efectividad, deberán coordinarse mediante planes y programas conjuntos; la coordinación general corresponderá al Gobierno de la Nación.",
+    "id": "HUE-C1-E28-020",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando las actuaciones de distintas Administraciones deban considerarse conjuntamente para lograr su plena efectividad, se coordinarán mediante planes y programas conjuntos; la coordinación general corresponde al Gobierno de la Nación.",
+    "tema": "E28",
+    "verificado_corpus": false
+  }
+]

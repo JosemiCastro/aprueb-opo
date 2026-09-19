@@ -1,0 +1,82 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el fundamento y la reserva de ley de la potestad sancionadora (art. 25 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer los principios de irretroactividad, tipicidad, responsabilidad, proporcionalidad, prescripción y non bis in idem (arts. 26-31).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir el procedimiento sancionador: iniciación (art. 64), terminación anticipada (art. 85) y resolución (art. 90 LPAC).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la potestad sancionadora de las entidades locales en sus ordenanzas (arts. 139-141 LBRL) con sus cuantías."
+  ],
+  "id": "HUE-A2-E17",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 25",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Fundamento: la potestad sancionadora de las Administraciones públicas se ejercerá cuando haya sido expresamente reconocida por una norma con rango de ley, con aplicación del procedimiento previsto para su ejercicio (reserva de ley y garantía procedimental).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 26",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Irretroactividad: serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos; las disposiciones sancionadoras producen efecto retroactivo en cuanto favorezcan al presunto infractor o al infractor.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 27",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Tipicidad: solo constituyen infracciones administrativas las vulneraciones del ordenamiento jurídico previstas como tales infracciones por una Ley; se clasifican en leves, graves y muy graves, y las disposiciones reglamentarias pueden especificar pero no crear infracciones o sanciones nuevas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 28",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Responsabilidad: solo podrán ser sancionadas por hechos constitutivos de infracción administrativa las personas físicas y jurídicas que resulten responsables de los mismos, aun a título de simple inobservancia (principio de personalidad de la pena).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 29",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Proporcionalidad: las sanciones deberán guardar la debida adecuación con la gravedad del hecho constitutivo de la infracción; criterios de graduación: grado de culpabilidad, continuidad o persistencia en la conducta, naturaleza de los perjuicios causados y reincidencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 30",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Prescripción: las infracciones muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescriben a los tres años, las graves a los dos y las leves al año; se regulan el inicio del cómputo y su interrupción.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 31",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Non bis in idem: no podrán sancionarse los hechos que hayan sido sancionados penal o administrativamente cuando se aprecie identidad de sujeto, hecho y fundamento; la Administración queda vinculada a los hechos declarados probados por resolución judicial firme.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 63 y 64",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Procedimiento sancionador: especialidades del art. 63 (presunción de inocencia; no se inician nuevos procedimientos por hechos enjuiciados penalmente hasta la resolución judicial) y acuerdo de iniciación del art. 64 (identificación del presunto responsable, hechos, posible calificación jurídica, instructor y secretario, órgano competente y medidas provisionales).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Terminación anticipada: iniciado el procedimiento, si el infractor reconoce su responsabilidad se puede resolver con la sanción propuesta, y el pago voluntario antes de la resolución permite reducciones acumulables; la efectividad de las reducciones queda condicionada al desistimiento o renuncia de cualquier acción o recurso.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 90",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Resolución: se notifica la propuesta de resolución al interesado para alegaciones; la resolución no puede aceptar hechos distintos de los de la propuesta ni imponer sanción más grave (prohibición de reformatio in peius); la caducidad del procedimiento produce su archivo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 139-141",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Potestad sancionadora local: para la adecuada ordenación de las relaciones de convivencia de interés local y del uso de sus servicios, las ordenanzas pueden tipificar infracciones e imponer sanciones: muy graves hasta 3.000 euros, graves hasta 1.500 euros y leves hasta 750 euros.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E17",
+  "titulo": "La potestad sancionadora. Principios de la potestad sancionadora. El procedimiento sancionador"
+}

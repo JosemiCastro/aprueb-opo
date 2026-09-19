@@ -1,0 +1,71 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: las actuaciones preparatorias del contrato de obras (proyecto, replanteo, supervisión).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ejecución del contrato de obras (comprobación del replanteo, certificaciones, fuerza mayor).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la modificación del contrato de obras y su régimen específico.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el cumplimiento (recepción y plazo de garantía) y la resolución del contrato de obras.",
+    "Puedo citar con precisión los artículos 231, 233, 236, 237, 240, 242, 243 y 245 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E36",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 231",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Actuaciones preparatorias: la adjudicación de un contrato de obras requerirá la previa elaboración, supervisión, aprobación y replanteo del correspondiente proyecto que defina con precisión el objeto del contrato; la aprobación del proyecto corresponderá al órgano de contratación.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 233",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Contenido mínimo del proyecto de obras: memoria, planos de conjunto y de detalle, pliego de prescripciones técnicas particulares, presupuesto (con precios unitarios y descompuestos), programa de desarrollo de los trabajos, estudio geotécnico cuando proceda y estudio de seguridad y salud.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 236",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Replanteo del proyecto: aprobado el proyecto y previamente a la tramitación del expediente de contratación se procederá a efectuar el replanteo del mismo, que consistirá en comprobar la realidad geométrica de la obra y la disponibilidad de los terrenos precisos para su normal ejecución.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 237",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Comprobación del replanteo: la ejecución del contrato de obras comenzará con el acta de comprobación del replanteo, que se realizará en el plazo máximo de un mes desde la fecha de formalización del contrato, salvo casos excepcionales justificados.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 239",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Fuerza mayor: el contratista tendrá derecho a ser indemnizado por los daños y perjuicios que se le hubieren producido en los casos tasados de fuerza mayor (incendios causados por electricidad atmosférica, fenómenos naturales de efectos catastróficos y destrozos ocasionados violentamente en tiempo de guerra, robos tumultuosos o alteraciones graves del orden público).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 240",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Certificaciones y abonos a cuenta: a los efectos del pago, la Administración expedirá mensualmente certificaciones que comprendan la obra ejecutada conforme a proyecto durante dicho período de tiempo; los abonos tienen el concepto de pagos a cuenta sujetos a las rectificaciones de la medición final.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 242",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Modificación del contrato de obras: serán obligatorias para el contratista las modificaciones cuando impliquen, aislada o conjuntamente, una alteración en su cuantía que no exceda del 20 por ciento del precio inicial del contrato, IVA excluido; cuando la modificación suponga supresión o reducción de unidades, el contratista no tendrá derecho a indemnización.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 243",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Recepción y plazo de garantía: a la recepción de las obras concurrirá un facultativo designado por la Administración; el plazo de garantía se establecerá en el pliego y no podrá ser inferior a un año, salvo casos especiales. Dentro del plazo de quince días anteriores al cumplimiento del plazo de garantía, el director facultativo redactará el informe sobre el estado de las obras.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 245",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Causas de resolución del contrato de obras: son causas específicas la demora injustificada en la comprobación del replanteo, la suspensión de la iniciación de las obras por plazo superior a cuatro meses, el desistimiento de la Administración y la demora en el cumplimiento de los plazos por parte del contratista.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E36",
+  "titulo": "El contrato de obras: actuaciones preparatorias. Ejecución. Modificación. Cumplimiento. Resolución."
+}

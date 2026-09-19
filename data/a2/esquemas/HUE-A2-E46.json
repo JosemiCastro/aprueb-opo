@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el objeto, ámbito y conceptos básicos de la LO 3/2007 (igualdad de trato, discriminación directa e indirecta, acoso, acciones positivas).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el desarrollo legislativo en España contra las desigualdades (LO 1/2004, conciliación, planes de igualdad).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la Ley 15/2022: objeto, ámbito y definiciones.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la tutela frente a la discriminación en la Ley 15/2022: nulidad, reparación y carga de la prueba.",
+    "Puedo citar con precisión los artículos 1, 6, 7, 11 y 13 de la LO 3/2007 y los artículos 2, 4, 26 y 30 de la Ley 15/2022."
+  ],
+  "id": "HUE-A2-E46",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 1",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Objeto de la ley: hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Ámbito de aplicación: todas las personas, físicas o jurídicas, que se encuentren o actúen en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 6",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Conceptos básicos: se considera discriminación directa por razón de sexo la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable; discriminación indirecta, la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 7",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Acoso sexual y acoso por razón de sexo: constituye acoso sexual cualquier comportamiento verbal o físico de naturaleza sexual con el propósito o efecto de atentar contra la dignidad de una persona; el acoso por razón de sexo es el realizado en función del sexo de una persona; ambos se consideran discriminatorios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Acciones positivas: con el fin de hacer efectivo el derecho constitucional de la igualdad, los poderes públicos adoptarán medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres; tales medidas serán aplicables en tanto subsistan dichas situaciones.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 13",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Prueba: en los procedimientos en los que las alegaciones de la parte actora se fundamenten en actuaciones discriminatorias por razón de sexo, corresponderá a la persona demandada probar la ausencia de discriminación en las medidas adoptadas y su proporcionalidad (inversión de la carga de la prueba).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(desarrollo legislativo)",
+      "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "punto": "Desarrollo legislativo contra las desigualdades en España: la LO 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género; la Ley 39/1999, de 5 de noviembre, de conciliación de la vida familiar y laboral; y el desarrollo reglamentario en materia de planes de igualdad y de igualdad retributiva (registro retributivo y auditoría salarial).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+      "punto": "Derecho a la igualdad de trato y no discriminación: se reconoce el derecho de toda persona a la igualdad de trato y no discriminación con independencia de su nacionalidad, edad, sexo, orientación sexual, discapacidad, enfermedad o cualquier otra condición o circunstancia personal o social.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+      "punto": "Definiciones: discriminación directa, discriminación indirecta, discriminación por asociación (trato desfavorable por relación con persona discriminada), discriminación por error (apreciación errónea sobre características de la persona), acoso discriminatorio, represalia e interseccionalidad; medidas de acción positiva para colectivos vulnerables.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 26",
+      "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+      "punto": "Nulidad de pleno derecho: son nulos de pleno derecho las disposiciones, actos o cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de los motivos previstos en la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 30",
+      "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+      "punto": "Carga de la prueba: en los procesos judiciales y procedimientos administrativos en que se alegue discriminación, corresponderá a la parte demandada probar que no ha existido discriminación cuando la parte actora aporte indicios fundados de su existencia.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E46",
+  "titulo": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres: objeto de la ley, ámbito de aplicación, y conceptos básicos. Desarrollo legislativo en España contra las desigualdades. Desarrollo legislativo, especial referencia a la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación: definiciones."
+}

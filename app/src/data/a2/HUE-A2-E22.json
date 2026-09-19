@@ -1,0 +1,76 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la moción de censura al alcalde: requisitos, votación y efectos (art. 197 LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar la cuestión de confianza: vinculación, votación y límites (art. 197 bis LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir el recurso contencioso-electoral y el amparo electoral (arts. 109-117 y 114 LOREG).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el estatuto de los miembros electivos: grupos, retribuciones, abstención, información y responsabilidad (arts. 73-78 LBRL)."
+  ],
+  "id": "HUE-A2-E22",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 197",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Moción de censura al alcalde: debe ser propuesta por la mayoría absoluta del número legal de concejales e incluir un candidato a la alcaldía; el Pleno queda automáticamente convocado para las doce horas del décimo día hábil siguiente al de su registro; la votación requiere la mayoría absoluta para prosperar; si no prospera, sus firmantes no pueden suscribir otra en lo que reste de mandato; se aplican las reglas antitransfuguismo.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 197 bis",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Cuestión de confianza: el alcalde puede vincularla a la aprobación o modificación de los presupuestos anuales, del reglamento orgánico, de las ordenanzas fiscales o de los instrumentos de planeamiento; si no obtiene la mayoría simple, cesa automáticamente; no cabe plantear más de una al año ni más de dos durante el mandato, ni en el último año de este.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 109-117",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Recurso contencioso-electoral: tiene por objeto los acuerdos de las juntas electorales sobre proclamación de electos y sobre elección y proclamación de presidentes de corporaciones locales; están legitimados los candidatos y los partidos; se interpone en el plazo de tres días y se tramita por un procedimiento preferente y sumario.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 114",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Amparo electoral: contra las sentencias que resuelvan el recurso contencioso-electoral puede interponerse recurso de amparo ante el Tribunal Constitucional en el plazo de tres días.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 73",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Grupos políticos: los miembros de las corporaciones se constituyen en grupos municipales; la corporación les asigna una dotación económica con un componente fijo y otro variable según el número de miembros, que no puede destinarse al pago de retribuciones de personal ni a la adquisición de bienes inventariables.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 75 y 75 ter",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Retribuciones: los miembros pueden desempeñar sus cargos en régimen de dedicación exclusiva o parcial con las retribuciones fijadas por el Pleno, o percibir indemnizaciones por asistencia a órganos colegiados; las retribuciones se publican en el boletín oficial y en el tablón; el número de cargos con dedicación exclusiva está limitado según la población (art. 75 ter).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 76",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Deber de abstención: los miembros de las corporaciones deben abstenerse de participar en la deliberación, votación, decisión y ejecución de los asuntos en que tengan interés directo, así como de intervenir cuando concurra causa de abstención.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 77",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Derecho de información: todos los miembros de las corporaciones locales tienen derecho a obtener del alcalde o presidente, o de la junta de gobierno, cuantos antecedentes, datos o informaciones obren en poder de los servicios de la corporación y resulten precisos para el desarrollo de su función.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 78.4",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Responsabilidad: los miembros de las corporaciones locales están sujetos a responsabilidad civil y penal por los actos y omisiones realizados en el ejercicio de su cargo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 182 y 208",
+      "ley": "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+      "punto": "Vacantes: en caso de fallecimiento, incapacidad o renuncia de un concejal, la vacante se atribuye al candidato siguiente de la misma lista; el mismo sistema rige para los diputados provinciales.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E22",
+  "titulo": "La moción de censura y la cuestión de confianza en el ámbito local. El recurso contencioso-electoral. El estatuto de los miembros electivos de las corporaciones locales"
+}

@@ -1,0 +1,89 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la convocatoria de las sesiones de los órganos colegiados locales y el orden del día (art. 46.2 LBRL y ROF).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los requisitos de constitución válida del Pleno: quórum y asistencia (art. 46.2.c LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el funcionamiento de las sesiones: deliberaciones, votaciones y mayorías (art. 47 LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las actas de las sesiones: contenido y aprobación (art. 109 ROF y art. 18 Ley 40/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los certificados de acuerdos: expedición y efectos (art. 206 ROF)."
+  ],
+  "id": "HUE-A2-T10",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 46.1 LBRL y art. 85.1 ROF",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local; Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+      "punto": "Régimen de sesiones: los órganos colegiados de las entidades locales funcionan en régimen de sesiones ordinarias de periodicidad preestablecida y extraordinarias, que pueden ser, además, urgentes. Las sesiones se celebrarán en la casa consistorial o sede correspondiente, salvo en los supuestos de fuerza mayor.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 46.2.a)",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Periodicidad mínima del Pleno: el Pleno celebra sesión ordinaria como mínimo cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales; cada dos meses en los Ayuntamientos de municipios de una población entre 5.001 y 20.000 habitantes; y cada tres meses en los municipios de hasta 5.000 habitantes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 46.2.b)",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Convocatoria: las sesiones plenarias han de convocarse, al menos, con dos días hábiles de antelación, salvo las extraordinarias que lo hayan sido con carácter urgente, cuya convocatoria con este carácter deberá ser ratificada por el Pleno.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 80 y 82",
+      "ley": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+      "punto": "Orden del día: la convocatoria de las sesiones irá acompañada del orden del día comprensivo de los asuntos a tratar con el suficiente detalle, fijado por el Alcalde o Presidente asistido por el Secretario, así como de los borradores de las actas de sesiones anteriores que deban ser aprobados en la sesión.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 83",
+      "ley": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+      "punto": "Vinculación al orden del día: serán nulos los acuerdos adoptados en sesiones extraordinarias sobre asuntos no comprendidos en su convocatoria, así como los que se adopten en sesiones ordinarias sobre materias no incluidas en el respectivo orden del día, salvo especial y previa declaración de urgencia hecha por el órgano correspondiente con el voto favorable de la mayoría prevista en el artículo 47.3 de la Ley 7/1985.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 46.2.c)",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Requisitos de constitución: el Pleno se constituye válidamente con la asistencia de un tercio del número legal de miembros del mismo, que nunca podrá ser inferior a tres. Este quórum deberá mantenerse durante toda la sesión. En todo caso, se requiere la asistencia del Presidente y del Secretario de la Corporación o de quienes legalmente les sustituyan.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 46.2.d)",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Publicidad de las sesiones: las sesiones del Pleno son públicas. No obstante, podrá ser secreto el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos a que se refiere el artículo 18.1 de la Constitución, cuando así se acuerde por mayoría absoluta.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 15.2",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Régimen general de los órganos colegiados: para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, del Presidente y Secretario o, en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros. En el ámbito local rige la especialidad del artículo 46.2.c) de la Ley 7/1985 (un tercio del número legal, mínimo tres).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 47",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Mayorías: los acuerdos de las Corporaciones locales se adoptan, como regla general, por mayoría simple de los miembros presentes. Existe mayoría simple cuando los votos afirmativos son más que los negativos. Se requiere el voto favorable de la mayoría absoluta del número legal de miembros para la adopción de acuerdos en materias como la creación y supresión de municipios y la alteración de términos municipales, la creación, modificación o disolución de mancomunidades, la aprobación de la delimitación del término municipal, o la transferencia de funciones a otras Administraciones Públicas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 109",
+      "ley": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+      "punto": "Actas: de cada sesión el Secretario extenderá acta en la que habrá de constar el lugar, día, mes, año y hora de comienzo; el nombre y apellidos del Presidente, de los miembros presentes y de los ausentes; el carácter ordinario o extraordinario de la sesión y si se celebra en primera o segunda convocatoria; la asistencia del Secretario y del responsable de la Intervención; los asuntos examinados y las opiniones sintetizadas de los intervinientes; las votaciones verificadas; la parte dispositiva de los acuerdos adoptados; y la hora en que el Presidente levante la sesión.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 18",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Actas en el régimen general: el Secretario levantará acta de cada sesión, que especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados. Las actas se aprobarán en la misma o en la siguiente sesión, pudiendo el Secretario emitir certificación sobre los acuerdos específicos ya adoptados, sin perjuicio de la ulterior aprobación del acta.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 204 a 206",
+      "ley": "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales",
+      "punto": "Certificados de acuerdos: las certificaciones de todos los actos, resoluciones y acuerdos de los órganos de gobierno de la entidad serán expedidas por el Secretario de la Corporación por orden del Presidente y con su visto bueno, para acreditar su existencia y contenido. Podrán expedirse certificaciones de acuerdos adoptados antes de ser aprobada el acta de la sesión, haciéndose la advertencia o salvedad en este sentido.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 10,
+  "titulo": "Los órganos colegiados locales: convocatoria, orden del día y requisitos de constitución. Funcionamiento. Actas y certificados de acuerdos."
+}

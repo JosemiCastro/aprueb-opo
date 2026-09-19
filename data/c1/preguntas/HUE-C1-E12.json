@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿De qué registro debe disponer cada Administración pública según la Ley 39/2015?",
+    "explicacion": "Art. 16.1 Ley 39/2015: en el Registro Electrónico General se hará el correspondiente asiento de todo documento que sea presentado o que se reciba.",
+    "id": "HUE-C1-E12-001",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De un Registro Electrónico General.",
+    "tema": "E12",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿En qué lugares pueden presentarse los documentos dirigidos a las Administraciones públicas?",
+    "explicacion": "Art. 16.4 Ley 39/2015.",
+    "id": "HUE-C1-E12-002",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el registro electrónico de la Administración u Organismo al que se dirijan, en los restantes registros electrónicos del sector público, en las oficinas de Correos, en las representaciones diplomáticas u oficinas consulares de España en el extranjero, en las oficinas de asistencia en materia de registros y en cualquier otro que establezcan las disposiciones vigentes.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Quiénes están obligados a relacionarse electrónicamente con las Administraciones públicas?",
+    "explicacion": "Art. 14.2 Ley 39/2015. Además, reglamentariamente las Administraciones podrán establecer esta obligación para determinados procedimientos y colectivos de personas físicas con acceso acreditado a medios electrónicos (art. 14.3).",
+    "id": "HUE-C1-E12-003",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las personas jurídicas; las entidades sin personalidad jurídica; quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria; quienes representen a un interesado que esté obligado a relacionarse electrónicamente; y los empleados de las Administraciones públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Pueden las personas físicas no obligadas elegir el medio para relacionarse con la Administración?",
+    "explicacion": "Art. 14.1 Ley 39/2015.",
+    "id": "HUE-C1-E12-004",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: tienen derecho a elegir en todo momento si se comunican con las Administraciones públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Qué deben hacer las oficinas de asistencia en materia de registros con los documentos presentados presencialmente?",
+    "explicacion": "Art. 16.5 Ley 39/2015, en relación con el art. 27.",
+    "id": "HUE-C1-E12-005",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Digitalizarlos para su incorporación al expediente administrativo electrónico, devolviendo los originales al interesado, sin perjuicio de los supuestos en que la norma determine la custodia por la Administración o resulte obligatoria la presentación en un soporte específico.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 40",
+    "enunciado": "¿En qué plazo debe cursarse toda notificación administrativa?",
+    "explicacion": "Art. 40.1 Ley 39/2015.",
+    "id": "HUE-C1-E12-006",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 41",
+    "enunciado": "¿Cómo se practican preferentemente las notificaciones administrativas?",
+    "explicacion": "Art. 41.1 Ley 39/2015: contendrán el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa.",
+    "id": "HUE-C1-E12-007",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 42",
+    "enunciado": "En la notificación en papel, ¿cómo se actúa cuando el primer intento en el domicilio resulta infructuoso?",
+    "explicacion": "Art. 42.2 Ley 39/2015.",
+    "id": "HUE-C1-E12-008",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se intentará una segunda vez, en una hora distinta dentro de los tres días siguientes; si el segundo intento también resulta infructuoso, se procederá en la forma prevista en el artículo 44.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 43",
+    "enunciado": "¿Cuándo se entiende practicada la notificación por medios electrónicos?",
+    "explicacion": "Art. 43.2 Ley 39/2015.",
+    "id": "HUE-C1-E12-009",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el momento en que se produzca el acceso a su contenido; cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición sin que se acceda a su contenido.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 44",
+    "enunciado": "¿Qué ocurre cuando intentada la notificación esta resulta infructuosa?",
+    "explicacion": "Art. 44 Ley 39/2015: notificación infructuosa.",
+    "id": "HUE-C1-E12-010",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se hará constar esta circunstancia en el expediente y se practicará mediante anuncio en el Boletín Oficial del Estado (Tablón Edictal Único).",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 45",
+    "enunciado": "¿En qué casos la publicación sustituye a la notificación?",
+    "explicacion": "Art. 45.1 Ley 39/2015.",
+    "id": "HUE-C1-E12-011",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando así lo establezcan las normas reguladoras de cada procedimiento.",
+    "tema": "E12",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Qué debe indicar toda notificación administrativa?",
+    "explicacion": "Art. 46 Ley 39/2015: indicación de notificaciones y publicaciones.",
+    "id": "HUE-C1-E12-012",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Si el acto pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 28",
+    "enunciado": "¿Están obligados los interesados a aportar documentos que ya obren en poder de la Administración actuante?",
+    "explicacion": "Art. 28.2 Ley 39/2015: derecho a no aportar documentos ya aportados.",
+    "id": "HUE-C1-E12-013",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración, debiendo indicar en qué momento y ante qué órgano administrativo los presentaron.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 28",
+    "enunciado": "¿Pueden las Administraciones públicas exigir a los interesados la presentación de documentos originales?",
+    "explicacion": "Art. 28.3 Ley 39/2015.",
+    "id": "HUE-C1-E12-014",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Solo con carácter excepcional, cuando la normativa reguladora aplicable establezca lo contrario; con carácter general no se exigirán originales.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 28",
+    "enunciado": "¿Quién responde de la veracidad de los documentos aportados al procedimiento administrativo?",
+    "explicacion": "Art. 28.7 Ley 39/2015.",
+    "id": "HUE-C1-E12-015",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los interesados, que se responsabilizarán de la veracidad de los documentos que presenten.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 53",
+    "enunciado": "¿Qué derecho tiene el interesado respecto del estado de tramitación de su procedimiento?",
+    "explicacion": "Art. 53.1.a) Ley 39/2015: derechos del interesado en el procedimiento administrativo.",
+    "id": "HUE-C1-E12-016",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tenga la condición de interesado, el sentido del silencio administrativo que corresponda y el órgano competente para su instrucción y resolución.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 96",
+    "enunciado": "¿Cuál es el plazo máximo de resolución en la tramitación simplificada del procedimiento administrativo?",
+    "explicacion": "Art. 96.1 Ley 39/2015.",
+    "id": "HUE-C1-E12-017",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Treinta días, contados desde el siguiente al que se dicte el acuerdo de tramitación simplificada del procedimiento.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 96",
+    "enunciado": "¿Qué trámites comprende la tramitación simplificada del procedimiento administrativo?",
+    "explicacion": "Art. 96.6 Ley 39/2015.",
+    "id": "HUE-C1-E12-018",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El inicio del procedimiento de oficio o a solicitud del interesado; la subsanación de la solicitud; las alegaciones por cinco días; la audiencia por cinco días; el informe o dictamen cuando sea preceptivo; y la resolución.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 96",
+    "enunciado": "¿Puede acordarse la tramitación ordinaria una vez iniciada la tramitación simplificada?",
+    "explicacion": "Art. 96.2 Ley 39/2015.",
+    "id": "HUE-C1-E12-019",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: en cualquier momento anterior a la resolución podrá acordarse la tramitación ordinaria si alguno de los trámites de la simplificada ya no resulta posible por no concurrir los requisitos previstos para ella.",
+    "tema": "E12",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 16",
+    "enunciado": "¿Se tienen por presentados en el registro los documentos sujetos a un régimen especial de presentación?",
+    "explicacion": "Art. 16.8 Ley 39/2015.",
+    "id": "HUE-C1-E12-020",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: no se tendrán por presentados en el registro aquellos documentos e informaciones cuyo régimen especial establezca otra forma de presentación.",
+    "tema": "E12",
+    "verificado_corpus": false
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 33.3",
+    "enunciado": "¿Qué garantías establece la Constitución para la privación de bienes y derechos por expropiación?",
+    "explicacion": "El art. 33.3 CE dispone que nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+    "id": "HUE-C1-E26-001",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley de Expropiación Forzosa de 16 de diciembre de 1954?",
+    "explicacion": "El art. 1 LEF define su objeto: la expropiación forzosa por causa de utilidad pública o interés social de toda clase de bienes y derechos.",
+    "id": "HUE-C1-E26-002",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La expropiación forzosa por causa de utilidad pública o interés social de toda clase de bienes y derechos.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Quiénes pueden acordar la expropiación forzosa? ¿Qué sujetos no pueden hacerlo?",
+    "explicacion": "El art. 2 LEF reserva la potestad expropiatoria al Estado, la Provincia y el Municipio: solo ellos pueden acordar la expropiación forzosa.",
+    "id": "HUE-C1-E26-003",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Únicamente el Estado, la Provincia o el Municipio.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Quién es el beneficiario en la expropiación forzosa?",
+    "explicacion": "El art. 3 LEF define al beneficiario como el sujeto que representa el interés público o social para cuya realización se acuerda la expropiación y que adquiere el bien o derecho expropiado.",
+    "id": "HUE-C1-E26-004",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El sujeto que representa el interés público o social para cuya realización se acuerda imperativamente la expropiación y que adquiere el bien o derecho expropiados.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es la causa expropiandi que legitima la expropiación forzosa?",
+    "explicacion": "La causa expropiandi es el motivo que justifica la privación imperativa: la utilidad pública o el interés social, según el art. 1 LEF.",
+    "id": "HUE-C1-E26-005",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La utilidad pública o el interés social.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Qué declaraciones previas son indispensables para proceder a la expropiación forzosa?",
+    "explicacion": "El art. 9 LEF exige, como requisitos indispensables, la previa declaración de utilidad pública o interés social del fin a que haya de afectarse el objeto expropiado y la declaración de necesidad de ocupación de los bienes o de adquisición de los derechos.",
+    "id": "HUE-C1-E26-006",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La previa declaración de utilidad pública o interés social del fin a que haya de afectarse el objeto expropiado y la declaración de necesidad de ocupación de los bienes o de adquisición de los derechos.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 10",
+    "enunciado": "¿Cuándo se entiende implícita la declaración de utilidad pública?",
+    "explicacion": "El art. 10 LEF establece que la utilidad pública se entiende implícita, en relación con la expropiación de inmuebles, en todos los planes de obras y servicios del Estado, de la Provincia y del Municipio.",
+    "id": "HUE-C1-E26-007",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En relación con la expropiación de inmuebles, en todos los planes de obras y servicios del Estado, de la Provincia y del Municipio.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Qué bienes o derechos pueden ser objeto de la declaración de necesidad de ocupación?",
+    "explicacion": "El art. 15 LEF dispone que, declarada la utilidad pública o el interés social, la Administración resolverá sobre la necesidad concreta de ocupar los bienes o adquirir los derechos que sean estrictamente indispensables para el fin de la expropiación.",
+    "id": "HUE-C1-E26-008",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Únicamente los bienes o derechos que sean estrictamente indispensables para el fin de la expropiación.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Pueden la Administración y el particular convenir libremente la adquisición de los bienes objeto de expropiación?",
+    "explicacion": "Sí. El art. 24 LEF permite que la Administración y el particular a quien se refiera la expropiación puedan convenir la adquisición de los bienes o derechos objeto de aquella libremente y por mutuo acuerdo, en cuyo caso, una vez convenidos los términos, se dará por concluido el expediente iniciado.",
+    "id": "HUE-C1-E26-009",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí; pueden convenir libremente y por mutuo acuerdo la adquisición de los bienes o derechos objeto de la expropiación, dándose por concluido el expediente una vez convenidos los términos.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 57",
+    "enunciado": "¿Qué derecho tiene el expropiado en caso de demora en el pago del justiprecio?",
+    "explicacion": "El art. 57 LEF dispone que la cantidad fijada definitivamente como justo precio devenga el interés legal a favor del expropiado hasta que se proceda a su pago, desde que hayan transcurrido los seis meses del art. 48.",
+    "id": "HUE-C1-E26-010",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A que el justo precio devengue a su favor el interés legal correspondiente desde que transcurren los seis meses a que se refiere el art. 48 hasta que se proceda a su pago.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Qué es el premio de afección y a cuánto asciende?",
+    "explicacion": "El art. 47 LEF establece que, además del justo precio, se fijará en todo caso a favor del expropiado un premio de afección equivalente al cinco por ciento del importe de aquel.",
+    "id": "HUE-C1-E26-011",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es una indemnización complementaria al justo precio, equivalente al 5 % de su importe, que se reconoce en todo caso a favor del expropiado.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 48",
+    "enunciado": "¿En qué plazo debe procederse al pago del justiprecio una vez fijado definitivamente?",
+    "explicacion": "El art. 48 LEF dispone que, determinado el justo precio, se procederá al pago de la cantidad que resultare en el plazo máximo de seis meses.",
+    "id": "HUE-C1-E26-012",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el plazo máximo de seis meses desde su fijación definitiva.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 52",
+    "enunciado": "¿Quién puede declarar la urgente ocupación de los bienes afectados por una expropiación y con qué efecto?",
+    "explicacion": "El art. 52 LEF permite al Gobierno (Consejo de Ministros), excepcionalmente y por acuerdo motivado, declarar la urgente ocupación de los bienes afectados por la expropiación, lo que autoriza su ocupación inmediata tras el levantamiento del acta previa.",
+    "id": "HUE-C1-E26-013",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Gobierno, por acuerdo motivado y con carácter excepcional; autoriza la ocupación inmediata de los bienes tras el levantamiento del acta previa.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 52",
+    "enunciado": "¿Qué es el acta previa a la ocupación en el procedimiento expropiatorio?",
+    "explicacion": "El art. 52 LEF regula el acta previa a la ocupación en el procedimiento de urgencia: se levanta con citación de los interesados (mínimo 8 días de antelación) y en ella se describen el bien o derecho expropiable, los derechos afectados, sus titulares y el valor de aquellos.",
+    "id": "HUE-C1-E26-014",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El acta que se levanta antes de la ocupación describiendo los bienes y derechos afectados, sus titulares y su estado, con citación de los interesados.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 108",
+    "enunciado": "¿Qué es la ocupación temporal en la expropiación forzosa?",
+    "explicacion": "El art. 108 LEF permite a la Administración ocupar temporalmente terrenos del particular para estudios u operaciones facultativas de corta duración, establecer instalaciones provisionales de obra o extraer materiales, entre otros casos, con indemnización de los daños y perjuicios causados.",
+    "id": "HUE-C1-E26-015",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La ocupación por la Administración, con carácter temporal y previa indemnización, de bienes necesarios para estudios, operaciones de corta duración o acopio de materiales.",
+    "tema": "E26",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 54",
+    "enunciado": "¿En qué consiste el derecho de reversión del bien expropiado?",
+    "explicacion": "El art. 54 LEF dispone que, en caso de no ejecutarse la obra o no establecerse el servicio que motivó la expropiación, o si existiese alguna parte sobrante de los bienes expropiados, el primitivo dueño o sus causahabientes podrán recobrar la totalidad o la parte sobrante de lo expropiado mediante el abono del precio correspondiente.",
+    "id": "HUE-C1-E26-016",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho del primitivo dueño o sus causahabientes a recobrar el bien expropiado (o la parte sobrante) cuando no se ejecute la obra o no se establezca el servicio que motivó la expropiación, mediante el abono del precio que corresponda.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 54",
+    "enunciado": "¿Quiénes son titulares del derecho de reversión y qué deben abonar para ejercitarlo?",
+    "explicacion": "Según el art. 54 LEF, son titulares el primitivo dueño o sus causahabientes, quienes deberán abonar a quien fuera dueño en ese momento el precio fijado conforme a la Ley.",
+    "id": "HUE-C1-E26-017",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El primitivo dueño o sus causahabientes; deberán abonar el precio que corresponda conforme a la Ley.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 33.2",
+    "enunciado": "¿Qué fundamento constitucional justifica la expropiación forzosa?",
+    "explicacion": "El art. 33.2 CE establece que la función social de la propiedad delimitará su contenido, de acuerdo con las leyes; esa función social es el fundamento que permite privar imperativamente de bienes y derechos por causa de utilidad pública o interés social.",
+    "id": "HUE-C1-E26-018",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La función social de la propiedad, que delimita su contenido de acuerdo con las leyes (art. 33.2 CE).",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Qué bienes y derechos pueden ser expropiados?",
+    "explicacion": "El art. 1 LEF establece que puede ser objeto de expropiación forzosa toda clase de bienes y derechos, siempre que concurra causa de utilidad pública o interés social.",
+    "id": "HUE-C1-E26-019",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Toda clase de bienes y derechos.",
+    "tema": "E26",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "Explique la naturaleza jurídica de la expropiación forzosa: ¿es una potestad o un derecho subjetivo de la Administración?",
+    "explicacion": "La expropiación forzosa es una potestad administrativa de carácter ablatorio real: un poder jurídico público que permite a la Administración privar imperativamente a los particulares de sus bienes y derechos por causa de utilidad pública o interés social, con la garantía de la correspondiente indemnización (arts. 1 y 2 LEF, 33.3 CE).",
+    "id": "HUE-C1-E26-020",
+    "ley": "Ley de Expropiación Forzosa de 1954",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Es una potestad administrativa ablatoria de carácter real: permite privar imperativamente de bienes y derechos por causa de utilidad pública o interés social, con la garantía de la indemnización correspondiente.",
+    "tema": "E26",
+    "verificado_corpus": false
+  }
+]

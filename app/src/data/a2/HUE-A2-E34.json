@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el expediente de contratación y los pliegos de cláusulas administrativas y de prescripciones técnicas.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las normas generales de adjudicación y los criterios de adjudicación.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los procedimientos de adjudicación (abierto, restringido, negociado, diálogo competitivo) y el contrato menor.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el perfil de contratante y la publicidad de la licitación.",
+    "Puedo citar con precisión los artículos 63, 116, 118, 122, 124, 131, 145 y 146 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E34",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 116",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Expediente de contratación: la celebración de contratos requerirá la previa tramitación del correspondiente expediente, que se iniciará por el órgano de contratación motivando la necesidad del contrato; al expediente se incorporarán el pliego de cláusulas administrativas particulares y el de prescripciones técnicas, el certificado de existencia de crédito y la fiscalización previa.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 122",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Pliegos de cláusulas administrativas particulares: deberán aprobarse previamente a la autorización del gasto o conjuntamente con ella, y siempre antes de la licitación del contrato; incluirán los pactos y condiciones definidores de los derechos y obligaciones de las partes y los criterios de solvencia y adjudicación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 124",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Pliego de prescripciones técnicas: el órgano de contratación aprobará con anterioridad a la autorización del gasto el pliego que contenga las prescripciones técnicas que hayan de regir la realización de la prestación y definan sus calidades, de conformidad con los requisitos que para cada contrato establece la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 131",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Normas generales de adjudicación: la adjudicación se realizará ordinariamente utilizando el procedimiento abierto o el procedimiento restringido; los procedimientos con negociación, el diálogo competitivo y la asociación para la innovación solo podrán utilizarse en los supuestos previstos en la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 145",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Criterios de adjudicación: la adjudicación se realizará utilizando una pluralidad de criterios en base a la mejor relación calidad-precio, que se evaluará con arreglo a criterios económicos y cualitativos; los criterios deberán estar vinculados al objeto del contrato y formularse de manera objetiva.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 146",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Aplicación de los criterios: cuando se atribuya a los criterios evaluables mediante juicio de valor una ponderación mayor que la correspondiente a los criterios evaluables de forma automática, deberá constituirse un comité de expertos no integrado en el órgano proponente o encomendar la evaluación a un organismo técnico especializado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 150",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Clasificación de las ofertas y adjudicación: la mesa de contratación clasificará por orden decreciente las proposiciones y elevará la propuesta al órgano de contratación, que adjudicará el contrato al licitador que haya presentado la mejor oferta de acuerdo con los criterios de adjudicación; la adjudicación deberá ser motivada y se notificará a los licitadores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 156 a 168",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Procedimientos de adjudicación: procedimiento abierto (arts. 156 a 158: todo empresario interesado puede presentar proposición), restringido (arts. 160 a 165: solo los invitados tras la selección de candidatos), con negociación (arts. 166 a 168: negociación de las ofertas en los supuestos tasados) y diálogo competitivo (arts. 172 a 176: diálogo con los candidatos para desarrollar soluciones).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 118",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Contratos menores: podrán adjudicarse directamente a cualquier empresario con capacidad de obrar los contratos de obras de valor estimado inferior a 40.000 euros y los de suministro o servicios inferior a 15.000 euros; requieren informe del órgano de contratación que motive la necesidad y aprobación del gasto.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 63",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Perfil de contratante: los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, como elemento que agrupa la información y documentos relativos a su actividad contractual para asegurar la transparencia y el acceso público; se aloja en la Plataforma de Contratación del Sector Público.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E34",
+  "titulo": "Preparación de los contratos del sector público: expedientes de contratación y pliegos de cláusulas administrativas y de prescripciones técnicas. La adjudicación del contrato: normas generales y criterios de adjudicación. Procedimientos de adjudicación de los contratos. El perfil del contratante."
+}

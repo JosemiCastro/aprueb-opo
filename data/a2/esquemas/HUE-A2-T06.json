@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el principio de autonomía local en la Constitución (arts. 137, 140, 141 y 142 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la garantía institucional de la autonomía local según la doctrina del Tribunal Constitucional (STC 32/1981).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el contenido de la autonomía local en la Ley 7/1985 y en el ordenamiento básico estatal.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto y la composición de la Administración institucional (Ley 40/2015 y formas de gestión local).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las competencias municipales y provinciales como expresión de la autonomía local (arts. 25 y 36 LBRL)."
+  ],
+  "id": "HUE-A2-T06",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 137",
+      "ley": "Constitución Española de 1978",
+      "punto": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 140",
+      "ley": "Constitución Española de 1978",
+      "punto": "La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales. Los Concejales serán elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 141",
+      "ley": "Constitución Española de 1978",
+      "punto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica. Su gobierno y administración autónoma estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 142",
+      "ley": "Constitución Española de 1978",
+      "punto": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "STC 32/1981, de 28 de julio",
+      "ley": "Tribunal Constitucional",
+      "punto": "Garantía institucional de la autonomía local: la autonomía local es una garantía institucional, es decir, un núcleo o reducto indisponible por el legislador, de modo que la legislación básica estatal y autonómica debe respetar un contenido mínimo de autogobierno (organización, competencias y medios) sin el cual la institución no sería recognoscible como tal.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Los Municipios son entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos; la Provincia y la Isla son también entidades locales con personalidad jurídica propia, determinadas por la agrupación de municipios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Para la efectividad de la autonomía garantizada constitucionalmente a las entidades locales, la legislación del Estado y la de las Comunidades Autónomas deberá asegurar a los Municipios, las Provincias y las Islas su derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles las competencias que proceda en atención a las características de la actividad pública de que se trate y a la capacidad de gestión de la entidad local.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 149.1.18.ª",
+      "ley": "Constitución Española de 1978",
+      "punto": "Ordenamiento básico estatal: la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, es la norma básica dictada al amparo de la competencia exclusiva del Estado sobre las bases del régimen jurídico de las Administraciones Públicas; se completa con el Real Decreto Legislativo 781/1986, de 18 de abril (texto refundido de las disposiciones legales vigentes en materia de Régimen Local) y el Real Decreto 2568/1986, de 28 de noviembre (Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 25 y 36",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Contenido competencial de la autonomía: el Municipio ejercerá en todo caso como competencias propias las materias de urbanismo, medio ambiente urbano, abastecimiento de agua potable a domicilio, infraestructura viaria, policía local, tráfico, protección civil, ferias, protección de la salubridad pública, cementerios, promoción del deporte y la cultura, entre otras (art. 25); son competencias propias de la Diputación la coordinación de los servicios municipales entre sí, la asistencia y cooperación jurídica, económica y técnica a los Municipios de menor capacidad, la prestación de servicios públicos de carácter supramunicipal y la cooperación en el fomento del desarrollo económico y social (art. 36).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 84",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "La Administración institucional: integran el sector público institucional las entidades con personalidad jurídica propia creadas por las Administraciones Públicas para el desempeño descentralizado de sus funciones: los organismos públicos (organismos autónomos y entidades públicas empresariales), las autoridades administrativas independientes, las sociedades mercantiles estatales, los consorcios, las fundaciones del sector público y los fondos sin personalidad jurídica.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 85.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Administración institucional en el ámbito local: la gestión directa de los servicios de la competencia local podrá realizarse a través de las siguientes formas: gestión por la propia entidad local; organismo autónomo local; entidad pública empresarial local; y sociedad mercantil local cuyo capital social sea de titularidad pública.",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": 6,
+  "titulo": "La organización territorial del Estado en la Constitución: la Administración local. El principio de autonomía local y su garantía institucional. Su contenido en la Constitución y en el ordenamiento básico estatal. La Administración institucional."
+}

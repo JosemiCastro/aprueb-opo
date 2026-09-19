@@ -1,0 +1,65 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: las disposiciones generales del contrato de servicios y sus límites.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ejecución del contrato de servicios (precio, responsabilidad del contratista, duración).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la resolución del contrato de servicios y sus efectos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la subsanación de errores, indemnizaciones y responsabilidades en el contrato de elaboración de proyectos de obras.",
+    "Puedo citar con precisión los artículos 17, 308, 309, 311, 313, 314 y 315 de la Ley 9/2017."
+  ],
+  "id": "HUE-A2-E38",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 17",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Concepto: son contratos de servicios aquellos cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 308",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Contenido y límites: no podrán celebrarse contratos de servicios con empresas de trabajo temporal para poner personal a disposición de la Administración; en ningún caso la entidad contratante podrá instrumentar la contratación de personal a través del contrato de servicios, debiendo quedar definidos con precisión el objeto y el régimen de prestaciones.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 309",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Determinación del precio: en los contratos de servicios la determinación del precio se realizará mediante precios referidos a componentes de la prestación, a unidades de ejecución o a unidades de tiempo, o fijándose un tanto alzado cuando no sea posible o conveniente su descomposición.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 311",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Ejecución y responsabilidad: el contrato se ejecutará con sujeción a lo establecido en su clausulado y en los pliegos; el contratista será responsable de la calidad técnica de los trabajos que desarrolle y de las prestaciones y servicios realizados, así como de las consecuencias que se deduzcan para la Administración de las omisiones, errores o métodos inadecuados.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 29.4",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Plazo de duración: los contratos de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas que acuerde el órgano de contratación; excepcionalmente podrá establecerse un plazo superior cuando lo exija el período de recuperación de las inversiones.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 313",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Resolución: son causas de resolución del contrato de servicios, además de las generales, el desistimiento antes de iniciar la prestación del servicio o la suspensión por causa imputable al órgano de contratación de la iniciación del contrato por plazo superior a cuatro meses, y la suspensión de la ejecución por plazo superior a ocho meses.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 314",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Subsanación de errores en el contrato de elaboración de proyectos de obras: cuando el contrato de servicios consista en la elaboración íntegra de un proyecto de obra, el órgano de contratación exigirá la subsanación por el contratista de los defectos, insuficiencias técnicas, errores materiales, omisiones e infracciones de preceptos legales o reglamentarios en el plazo de dos meses.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 315",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Indemnizaciones y responsabilidades: si el presupuesto de ejecución de la obra prevista se desviara en más de un 20 por ciento por errores u omisiones imputables al contratista consultor, se minorará el precio del contrato de elaboración del proyecto en concepto de indemnización; el contratista responderá de los daños y perjuicios que durante la ejecución o explotación de las obras se causen como consecuencia de defectos, con un plazo de responsabilidad de diez años desde la recepción.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E38",
+  "titulo": "El contrato de servicios: disposiciones generales. Ejecución. Resolución. La subsanación de errores, indemnizaciones y responsabilidades en el contrato de elaboración de proyectos de obras."
+}

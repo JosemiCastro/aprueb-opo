@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el objeto y el ámbito de aplicación de la Ley 39/2015 (arts. 1 y 2).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la estructura de la Ley 39/2015 y los principios informadores del procedimiento administrativo.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto de procedimiento administrativo y sus clases.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el interesado: concepto, capacidad de obrar y representación (arts. 3 a 5).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos de las personas y del interesado ante la Administración (arts. 13, 14 y 53)."
+  ],
+  "id": "HUE-A2-E01",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Objeto: esta ley regula los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 2.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Ámbito subjetivo de aplicación: la ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración local y el sector público institucional.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 68, 71 y 82",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Principios informadores del procedimiento: oficialidad e impulso de oficio (el procedimiento se impulsará de oficio en todos sus trámites, art. 71); antiformalismo y subsanación (se requerirá la subsanación de la solicitud defectuosa, art. 68); audiencia y contradicción (instrucción con audiencia al interesado, art. 82); economía procesal y celeridad (arts. 71 y 72); y gratuidad e igualdad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "Estructura: Título Preliminar y Títulos I a III (arts. 1-52)",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Estructura de la ley: Título Preliminar (disposiciones generales, arts. 1-2); Título I, de los interesados en el procedimiento (arts. 3-12); Título II, de la actividad de las Administraciones Públicas: derechos de las personas, registros, términos y plazos (arts. 13-33); Título III, de los actos administrativos: requisitos, eficacia, nulidad y anulabilidad (arts. 34-52). Continúa con la estructura del procedimiento administrativo común (iniciación, ordenación, instrucción y finalización), la revisión de los actos en vía administrativa y la iniciativa legislativa y potestad para dictar reglamentos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Concepto de procedimiento administrativo: es el cauce formal de la serie de actos en que se concreta la actuación administrativa para la realización de un fin. La Ley 39/2015 lo configura como procedimiento común, aplicable a todas las Administraciones Públicas, con especialidades para los procedimientos sancionador y de responsabilidad patrimonial y para el ejercicio de la potestad reglamentaria.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 54",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Clases de procedimientos por su iniciación: los procedimientos podrán iniciarse de oficio (por propia iniciativa del órgano competente, como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia) o a solicitud del interesado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Concepto de interesado: se consideran interesados en el procedimiento administrativo los titulares de derechos o intereses legítimos individuales o colectivos; quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte; y aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Capacidad de obrar: tendrán capacidad de obrar ante las Administraciones Públicas las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles; los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela; y, cuando la ley así lo declare expresamente, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 5",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Representación: los interesados con capacidad de obrar podrán actuar por medio de representante, entendiéndose con éste las actuaciones administrativas, salvo manifestación expresa en contra. La representación deberá acreditarse para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. La falta o insuficiente acreditación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13, 14 y 53",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Derechos: las personas tienen, en sus relaciones con las Administraciones Públicas, los derechos del artículo 13 (comunicación electrónica, asistencia, lenguas oficiales, acceso a información y archivos, trato respetuoso, identificación y firma electrónica, entre otros), el derecho a elegir el medio de relación con la Administración, con la obligación de relacionarse electrónicamente para los sujetos del artículo 14.2 (art. 14), y los derechos específicos del interesado en el procedimiento del artículo 53 (conocer el estado de la tramitación, identificar a los responsables, no aportar documentos ya en poder de la Administración, formular alegaciones, actuar asistido de asesor).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E01",
+  "titulo": "La Ley del Procedimiento Administrativo Común de las Administraciones Públicas: principios, estructura y ámbito de aplicación. El procedimiento administrativo: concepto. Los interesados."
+}

@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: objeto, finalidad y ámbito de aplicación de la Ley 9/2017, con cita de artículos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las clases de contratos y la distinción entre contratos administrativos y privados.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los actos separables y el orden jurisdiccional competente.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la organización administrativa para la gestión de la contratación (órgano de contratación, responsable del contrato).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las normas específicas de contratación en las entidades locales (D.A. 2ª)."
+  ],
+  "id": "HUE-A2-E31",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 1",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Objeto y finalidad: regular la contratación del sector público para garantizar los principios de libertad de acceso a las licitaciones, publicidad y transparencia, no discriminación e igualdad de trato, así como asegurar una eficiente utilización de los fondos y la mejor relación calidad-precio, con salvaguarda de la libre competencia y selección de la oferta económicamente más ventajosa.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Ámbito subjetivo: la ley se aplica al sector público, que comprende las Administraciones Públicas —incluidas las entidades que integran la Administración Local—, así como los demás entes del sector público con distinto grado de sujeción según su naturaleza.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 12 a 18",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Clases de contratos: la calificación atiende al carácter de la prestación. Contratos típicos: obras (art. 13), concesión de obras (art. 14), concesión de servicios (art. 15), suministro (art. 16) y servicios (art. 17); los contratos mixtos (art. 18) comprenden prestaciones de varias clases y se rigen por las normas de la prestación principal.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 25",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Contratos administrativos: tendrán carácter administrativo los contratos celebrados por una Administración Pública siempre que su objeto esté directamente vinculado al giro o tráfico específico de la Administración contratante o satisfaga de forma directa o inmediata una finalidad pública; se rigen por la Ley 9/2017 y sus normas de desarrollo, supletoriamente por las demás normas de derecho administrativo y, en defecto, por el derecho privado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 26",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Contratos privados: tendrán carácter privado los celebrados por entes del sector público que no sean Administración Pública, y los celebrados por Administraciones Públicas cuyo objeto sea distinto de los del art. 25 (p. ej., servicios financieros, creación artística, espectáculos); se rigen en su preparación y adjudicación por la Ley 9/2017 y en sus efectos y extinción por el derecho privado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 27",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Los actos separables: el orden jurisdiccional contencioso-administrativo conoce de las cuestiones relativas a la preparación, adjudicación y modificaciones contractuales de los contratos administrativos (y de los privados cuando se impugnen actos de preparación y adjudicación); el orden civil conoce de los efectos, cumplimiento y extinción de los contratos privados.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 61",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "La organización administrativa para la gestión de la contratación: la competencia para contratar corresponde a los órganos de contratación, que son los órganos unipersonales o colegiados de las entidades del sector público que ostenten la prerrogativa de celebrar contratos en su nombre; la representación legal los habilita para adjudicar y formalizar.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 62",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Responsable del contrato: con independencia de la unidad encargada del seguimiento, los órganos de contratación deberán designar un responsable del contrato al que corresponderá supervisar su ejecución, adoptar las decisiones y dictar las instrucciones necesarias para asegurar la correcta realización de la prestación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "D.A. 2ª",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "La contratación en las entidades locales: la disposición adicional segunda establece normas específicas para la contratación en las Entidades Locales, atribuyendo la competencia como órgano de contratación al Alcalde o Presidente (dentro de los límites cuantitativos y temporales) y al Pleno en los demás casos, con especialidades en la composición de las mesas de contratación y en la fiscalización.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3.1.a)",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Las entidades que integran la Administración Local tienen la consideración de Administraciones Públicas a efectos de la ley, por lo que sus contratos son administrativos y les resulta aplicable el régimen completo de preparación, adjudicación, efectos y extinción.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E31",
+  "titulo": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público: objeto y ámbito de aplicación. Clases de contratos. Contratos administrativos y contratos privados. Los actos separables. La organización administrativa para la gestión de la contratación. La contratación en las entidades locales."
+}

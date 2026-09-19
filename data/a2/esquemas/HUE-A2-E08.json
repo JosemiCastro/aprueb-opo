@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto de recurso administrativo, sus principios generales y las clases de recursos (art. 112).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la interposición del recurso: plazos, requisitos y causas de inadmisión (arts. 115 y 116).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la suspensión de la ejecución del acto impugnado (art. 117).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la audiencia de los interesados y la resolución del recurso, con la prohibición de la reformatio in peius (arts. 118 y 119).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el recurso de alzada, el recurso potestativo de reposición y el recurso extraordinario de revisión: objeto y plazos (arts. 121 a 126)."
+  ],
+  "id": "HUE-A2-E08",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 112.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Concepto: contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta ley.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 112.2 y 112.3",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Principios generales y clases: las leyes podrán sustituir el recurso de alzada, para supuestos o ámbitos sectoriales determinados, por otros procedimientos de impugnación, reclamación, conciliación, mediación y arbitraje, ante órganos colegiados o comisiones específicas no sometidas a instrucciones jerárquicas (art. 112.2). Contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión (art. 112.3). Los recursos se rigen por los principios de gratuidad, no formalismo y recurribilidad universal de los actos que deciden el fondo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 114",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Fin de la vía administrativa: ponen fin a la vía administrativa las resoluciones de los recursos de alzada; las resoluciones de los procedimientos de impugnación a que se refiere el artículo 112.2; las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una ley establezca lo contrario; las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca; y los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 115",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Interposición del recurso: la interposición deberá expresar el nombre y apellidos del recurrente y, en su caso, su identificación personal; el acto que se recurre y la razón de su impugnación; el lugar, fecha, firma e identificación del medio y lugar para notificaciones; y el órgano, centro o unidad administrativa al que se dirige. El plazo será de un mes si el acto fuera expreso; si el acto no fuera expreso, el solicitante y otros posibles interesados podrán interponer recurso en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo. El error o la ausencia de la calificación del recurso por parte del recurrente no será obstáculo para su tramitación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 116",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Causas de inadmisión: serán causas de inadmisión ser incompetente el órgano administrativo cuando el competente perteneciera a otra Administración Pública; carecer de legitimación el recurrente; tratarse de un acto no susceptible de recurso; haber transcurrido el plazo para la interposición; y carecer el recurso manifiestamente de fundamento.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 117",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Suspensión de la ejecución: la interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario, no suspenderá la ejecución del acto impugnado. El órgano a quien competa resolver el recurso, previa ponderación suficientemente razonada entre el perjuicio que causaría al interés público o a terceros la suspensión y el ocasionado al recurrente como consecuencia de la eficacia inmediata del acto recurrido, podrá suspender, de oficio o a solicitud del recurrente, la ejecución del acto impugnado cuando concurran alguna de las siguientes circunstancias: que la ejecución pudiera causar perjuicios de imposible o difícil reparación, o que la impugnación se fundamente en alguna de las causas de nulidad de pleno derecho previstas en el artículo 47.1.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 118",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Audiencia de los interesados: cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, formulen las alegaciones y presenten los documentos y justificantes que estimen procedentes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 119",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Resolución: la resolución estimará en todo o en parte o desestimará las pretensiones formuladas en el recurso o declarará su inadmisión. El órgano que resuelva el recurso decidirá cuantas cuestiones, tanto de forma como de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. La resolución será congruente con las peticiones formuladas por el recurrente, sin que en ningún caso pueda agravarse su situación inicial (prohibición de la reformatio in peius).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 121 y 122",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Recurso de alzada: las resoluciones y los actos a que se refiere el artículo 112.1, cuando no pongan fin a la vía administrativa, podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó (art. 121). El plazo para la interposición será de un mes si el acto fuera expreso; si el acto no fuera expreso, el plazo será de tres meses y se contará a partir del día siguiente a aquel en que se produzcan los efectos del silencio. Transcurridos tres meses sin dictarse resolución, el recurso se entenderá desestimado (art. 122).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 123 y 124",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Recurso potestativo de reposición: los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo (art. 123). El plazo para la interposición será de un mes si el acto fuera expreso; si el acto no fuera expreso, el plazo será de tres meses. Transcurrido un mes sin dictarse resolución, el recurso se entenderá desestimado (art. 124). No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 125 y 126",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Recurso extraordinario de revisión: contra los actos firmes en vía administrativa podrá interponerse recurso extraordinario de revisión ante el órgano administrativo que los dictó, cuando concurra alguna de las siguientes circunstancias: que al dictarlos se hubiera incurrido en error de hecho que resulte de los propios documentos incorporados al expediente; que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida; que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme; o que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible declarada por sentencia judicial firme. El plazo será de cuatro años desde la notificación de la resolución impugnada en el caso del error de hecho, y de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme en los demás casos (art. 125). Transcurridos tres meses sin dictarse resolución, el recurso se entenderá desestimado (art. 126).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E08",
+  "titulo": "Recursos administrativos: concepto. Principios generales. Interposición del recurso. Suspensión de la ejecución. Audiencia de los interesados. Resolución. Clases: recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión."
+}

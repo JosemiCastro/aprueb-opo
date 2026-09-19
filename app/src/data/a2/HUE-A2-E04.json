@@ -1,0 +1,83 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la presunción de validez y la eficacia de los actos administrativos, incluida la retroactividad (art. 39 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la notificación de los actos administrativos: contenido, plazos y modalidades (arts. 40 a 44).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la publicación como sustitutiva de la notificación (arts. 44 y 45).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los principios generales de la ejecución forzosa: título, apercibimiento y prohibición de interdictos (arts. 97, 98 y 104).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los medios de ejecución forzosa: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas (arts. 99 a 103)."
+  ],
+  "id": "HUE-A2-E04",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 39.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Presunción de validez y eficacia: los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 39.2",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Eficacia demorada: la eficacia del acto quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 39.3",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Retroactividad: excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados, y asimismo cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 40",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Notificación: toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, del órgano ante el que hubieran de presentarse y del plazo para interponerlos. Las notificaciones que contengan el texto íntegro y omitan alguno de los demás requisitos surtirán efecto a partir de la fecha en que el interesado realice actuaciones que supongan el conocimiento del contenido y alcance de la resolución, o interponga cualquier recurso procedente.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 41",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Condiciones generales de la práctica de las notificaciones: se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía; no obstante, las Administraciones podrán practicarlas en papel cuando el interesado no esté obligado a recibirlas electrónicamente y no haya optado por ello. Las notificaciones en papel se practicarán en el domicilio del interesado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 42",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Notificaciones en papel: cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad. Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó, intento que se repetirá por una sola vez y en una hora distinta dentro de los tres días siguientes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 43",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Notificaciones electrónicas: se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas. Se entenderá rechazada la notificación cuando hayan transcurrido diez días naturales desde la puesta a disposición sin que se acceda a su contenido, salvo que de oficio o a instancia del destinatario se compruebe la imposibilidad técnica o material del acceso.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 44 y 45",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Notificación infructuosa y publicación: cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o bien intentada ésta no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado (art. 44). La publicación sustituirá a la notificación surtiendo sus mismos efectos cuando el acto tenga por destinatario a una pluralidad indeterminada de personas o cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva (art. 45).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 97 y 98",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Principios generales de la ejecución forzosa: las Administraciones Públicas no iniciarán ninguna actuación material de ejecución que limite derechos de los particulares sin que previamente haya sido adoptada la resolución que le sirva de fundamento jurídico (título, art. 97). La ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de proporcionalidad, y procederá cuando el acto administrativo imponga una obligación al administrado y éste no la cumpla voluntariamente, previo apercibimiento (art. 98).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 99",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Medios de ejecución forzosa: la ejecución forzosa se realizará por alguno de los siguientes medios: apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas. Si fueran varios los medios utilizables, se elegirá el menos restrictivo de la libertad individual; si fuese necesario entrar en el domicilio del afectado o en los restantes lugares que requieran autorización de su titular, se deberá obtener su consentimiento o, en su defecto, la oportuna autorización judicial.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 100 a 105",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Detalle de los medios: el apremio sobre el patrimonio se seguirá por el procedimiento administrativo de apremio cuando haya de satisfacerse cantidad líquida (art. 101); habrá lugar a la ejecución subsidiaria cuando se trate de actos que por no ser personalísimos puedan ser realizados por sujeto distinto del obligado, siendo a costa de éste los gastos (art. 102); la multa coercitiva es independiente de las sanciones y compatible con ellas, reiterable por lapsos de tiempo suficientes para cumplir lo ordenado (art. 103); la compulsión sobre las personas procede cuando la obligación sea personalísima de no hacer o soportar, dentro del respeto a la dignidad y a los derechos reconocidos en la Constitución (art. 104); y no se admitirán a trámite interdictos contra las actuaciones de los órganos administrativos realizadas en materia de su competencia y de acuerdo con el procedimiento legalmente establecido (art. 105).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E04",
+  "titulo": "La eficacia de los actos administrativos. Notificación. Publicación. Retroactividad. La ejecución forzosa de los actos administrativos. Principios generales. Medios de ejecución forzosa."
+}

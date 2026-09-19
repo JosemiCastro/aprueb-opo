@@ -1,0 +1,72 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la provincia como entidad local y la organización de la Diputación (Pleno, Presidente, Vicepresidentes, Junta de Gobierno).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las competencias de la Diputación Provincial (art. 36 Ley 7/1985).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el funcionamiento de la Corporación Provincial: régimen de sesiones y adopción de acuerdos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el Reglamento de Organización y Funcionamiento de la Diputación de Huelva como norma de autoorganización.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el Acuerdo mixto de condiciones de trabajo del personal al servicio de la Diputación.",
+    "Puedo citar con precisión los artículos 31, 32, 33, 34, 35, 36 y 46 de la Ley 7/1985."
+  ],
+  "id": "HUE-A2-E47",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 31",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "La provincia como entidad local: la provincia es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines; son fines propios y específicos de la provincia garantizar los principios de solidaridad y equilibrio intermunicipales.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 32",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Organización de la Diputación: la organización provincial responde a las siguientes reglas: el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno existen en todas las Diputaciones; existirá además en cada Diputación una Comisión Especial de Cuentas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 33",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "El Pleno: está constituido por el Presidente y los Diputados; le corresponden las competencias de organización, los planes provinciales, la aprobación de presupuestos y ordenanzas, y las demás funciones que le atribuyan las leyes; el Pleno puede delegar el ejercicio de sus atribuciones en el Presidente y en la Junta de Gobierno, salvo las indelegables.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 34",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "El Presidente: dirige el gobierno y la administración de la provincia; representa a la Diputación; convoca y preside las sesiones del Pleno, de la Junta de Gobierno y de cualesquiera otros órganos; dirige, inspecciona e impulsa los servicios y obras; y ejerce las competencias que le atribuyan las leyes.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 35",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Otros órganos: los Vicepresidentes sustituyen al Presidente en casos de vacante, ausencia o enfermedad; la Junta de Gobierno se integra por el Presidente y un número de Diputados no superior al tercio del número legal de los mismos, y asiste al Presidente y ejerce las atribuciones que este o el Pleno le deleguen.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Competencias de la Diputación: son competencias propias la coordinación de los servicios municipales, la asistencia y la cooperación jurídica, económica y técnica a los municipios (especialmente los de menor capacidad), la prestación de servicios públicos de carácter supramunicipal, la cooperación en el fomento del desarrollo económico y social, y la aprobación anual de un plan provincial de cooperación a las obras y servicios de competencia municipal.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 46",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Funcionamiento: los órganos colegiados de las entidades locales funcionan en régimen de sesiones ordinarias de periodicidad preestablecida y extraordinarias; el Pleno celebra sesión ordinaria como mínimo cada mes en las Diputaciones Provinciales; las sesiones del Pleno son públicas salvo excepciones tasadas.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(referencia genérica, sin número de artículo)",
+      "ley": "Reglamento de Organización y Funcionamiento de la Diputación de Huelva (BOP Huelva nº 136, 18/07/2016)",
+      "punto": "El Reglamento de Organización y Funcionamiento de la Diputación Provincial de Huelva desarrolla la organización y el funcionamiento de la Corporación Provincial en ejercicio de la potestad de autoorganización de la entidad local: órganos de gobierno, régimen de sesiones, delegaciones y funcionamiento de los servicios provinciales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "(referencia genérica, sin número de artículo)",
+      "ley": "Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva",
+      "punto": "El Acuerdo mixto regula de forma conjunta las condiciones de trabajo del personal funcionario y laboral al servicio de la Diputación Provincial de Huelva: jornada, permisos, retribuciones complementarias, acción social, formación y demás materias propias de la negociación colectiva en el ámbito provincial.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E47",
+  "titulo": "La Corporación Provincial en la Diputación de Huelva. Su organización y funcionamiento. Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva."
+}

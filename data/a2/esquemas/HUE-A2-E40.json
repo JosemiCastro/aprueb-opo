@@ -1,0 +1,64 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: la actividad financiera y el sistema tributario español: principios y clases de tributos.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los elementos del tributo: hecho imponible, sujeto pasivo, base imponible, tipo de gravamen y cuota tributaria.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la potestad tributaria y la reserva de ley en materia tributaria.",
+    "Puedo citar con precisión los artículos 2, 3, 4, 20, 36, 50, 55 y 56 de la Ley 58/2003."
+  ],
+  "id": "HUE-A2-E40",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Clases de tributos: los tributos son los ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración Pública como consecuencia de la realización del supuesto de hecho al que la ley vincula el deber de contribuir; se clasifican en tasas, contribuciones especiales e impuestos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Principios de la ordenación y aplicación del sistema tributario: capacidad económica, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad; la aplicación del sistema se basará en los principios de proporcionalidad, eficacia y limitación de costes indirectos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Potestad tributaria: la potestad originaria para establecer tributos corresponde exclusivamente al Estado, mediante ley; las Comunidades Autónomas y las entidades locales podrán establecer y exigir tributos de acuerdo con la Constitución, las leyes y, en su caso, sus Estatutos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 20",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Hecho imponible: es el presupuesto fijado por la ley para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal; la ley podrá completar su determinación mediante la mención de supuestos de no sujeción.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Sujeto pasivo: es el obligado tributario que, según la ley, debe cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma; puede ser contribuyente (realiza el hecho imponible) o sustituto (por imposición de la ley se coloca en lugar del contribuyente).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 50",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Base imponible: es la magnitud dineraria o de otra naturaleza que resulta de la medición o valoración del hecho imponible; la base imponible podrá determinarse por estimación directa, objetiva o indirecta, y sobre ella se aplica el tipo de gravamen para obtener la cuota.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 55",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Tipo de gravamen: es la cifra, coeficiente o porcentaje que se aplica a la base liquidable para obtener como resultado la cuota íntegra; los tipos podrán ser específicos o porcentuales, y deberán aplicarse según la ley propia de cada tributo a cada tramo de base liquidable.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 56",
+      "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+      "punto": "Cuota tributaria: la cuota íntegra se determina aplicando el tipo de gravamen a la base liquidable; la cuota líquida será el resultado de aplicar sobre la cuota íntegra las deducciones, bonificaciones, adiciones o coeficientes previstos en la ley de cada tributo; la cuota diferencial se obtiene minorando la cuota líquida en el importe de los pagos a cuenta.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E40",
+  "titulo": "La actividad financiera. El sistema tributario español: la Ley General Tributaria. Elementos de los tributos: el hecho imponible, el sujeto pasivo, la base imponible, el tipo de gravamen y la cuota tributaria."
+}

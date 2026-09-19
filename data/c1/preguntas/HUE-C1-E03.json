@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "arts. 78 y 79",
+    "enunciado": "¿Qué clases de sesiones de los órganos colegiados locales distingue el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales?",
+    "explicacion": "Los artículos 78 y 79 del Real Decreto 2568/1986 distinguen las sesiones ordinarias, las extraordinarias y las extraordinarias de carácter urgente.",
+    "id": "HUE-C1-E03-001",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sesiones ordinarias, sesiones extraordinarias y sesiones extraordinarias de carácter urgente.",
+    "tema": "E03",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué periodicidad mínima debe celebrar sesión ordinaria el Pleno según el artículo 46.2.a) de la Ley 7/1985?",
+    "explicacion": "El artículo 46.2.a) de la Ley 7/1985 fija la periodicidad mínima de las sesiones ordinarias del Pleno por tramos de población.",
+    "id": "HUE-C1-E03-002",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cada mes en los ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales; cada dos meses en los de población entre 5.001 y 20.000 habitantes; y cada tres meses en los de hasta 5.000 habitantes.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Cuándo celebra el Pleno sesión extraordinaria a solicitud de sus miembros y qué ocurre si el Presidente no la convoca?",
+    "explicacion": "El artículo 46.2.b) de la Ley 7/1985 regula la convocatoria de sesiones extraordinarias a solicitud de la cuarta parte de los miembros, el plazo de quince días hábiles y la convocatoria automática.",
+    "id": "HUE-C1-E03-003",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando la solicite la cuarta parte, al menos, del número legal de miembros, sin que ningún concejal pueda solicitar más de tres anualmente; no puede demorarse más de quince días hábiles desde la solicitud y, si el Presidente no la convoca en plazo, queda automáticamente convocada para el décimo día hábil siguiente a la finalización de dicho plazo, a las doce horas.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué antelación mínima deben convocarse las sesiones plenarias y qué particularidad tienen las extraordinarias urgentes?",
+    "explicacion": "El artículo 46.2.c) de la Ley 7/1985 exige convocatoria con al menos dos días hábiles de antelación, salvo las extraordinarias urgentes, cuya convocatoria con tal carácter debe ser ratificada por el Pleno.",
+    "id": "HUE-C1-E03-004",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al menos con dos días hábiles de antelación, salvo las extraordinarias que lo hayan sido con carácter urgente, cuya convocatoria con este carácter deberá ser ratificada por el Pleno.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 46",
+    "enunciado": "¿Desde cuándo debe estar a disposición de los concejales la documentación de los asuntos del orden del día?",
+    "explicacion": "El artículo 46.2.c) de la Ley 7/1985 dispone que la documentación íntegra de los asuntos incluidos en el orden del día debe figurar a disposición de los concejales desde el mismo día de la convocatoria, en la Secretaría de la Corporación.",
+    "id": "HUE-C1-E03-005",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Desde el mismo día de la convocatoria, en la Secretaría de la Corporación.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 80",
+    "enunciado": "¿A quién corresponde convocar las sesiones del Pleno según el Real Decreto 2568/1986?",
+    "explicacion": "El artículo 80 del Real Decreto 2568/1986 atribuye al Alcalde o Presidente la convocatoria de todas las sesiones del Pleno.",
+    "id": "HUE-C1-E03-006",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al Alcalde o Presidente de la Corporación, a quien corresponde convocar todas las sesiones del Pleno.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 81",
+    "enunciado": "¿Quién fija el orden del día de las sesiones del Pleno?",
+    "explicacion": "El artículo 81 del Real Decreto 2568/1986 dispone que el orden del día lo fija el Presidente asistido por el Secretario.",
+    "id": "HUE-C1-E03-007",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El Presidente de la Corporación, asistido por el Secretario.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 83",
+    "enunciado": "¿Puede el Pleno adoptar acuerdos sobre asuntos no incluidos en el orden del día?",
+    "explicacion": "El artículo 83 del Real Decreto 2568/1986 prohíbe acordar asuntos no incluidos en el orden del día, salvo previa declaración de urgencia por mayoría absoluta.",
+    "id": "HUE-C1-E03-008",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No, salvo que previamente haya sido declarada la urgencia del asunto por el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 90",
+    "enunciado": "¿Qué quórum se requiere para la válida constitución del Pleno?",
+    "explicacion": "El artículo 90.1 del Real Decreto 2568/1986 exige un tercio del número legal de miembros, nunca inferior a tres, con mantenimiento durante toda la sesión y asistencia del Presidente y del Secretario.",
+    "id": "HUE-C1-E03-009",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La asistencia de un tercio del número legal de miembros de la Corporación, que nunca podrá ser inferior a tres; el quórum debe mantenerse durante toda la sesión y en todo caso se requiere la asistencia del Presidente y del Secretario o de quienes legalmente les sustituyan.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 90",
+    "enunciado": "Si en primera convocatoria no existe quórum suficiente, ¿qué ocurre con la sesión del Pleno?",
+    "explicacion": "El artículo 90.2 del Real Decreto 2568/1986 establece la segunda convocatoria automática dos días después y, de persistir la falta de quórum, el aplazamiento de los asuntos.",
+    "id": "HUE-C1-E03-010",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se entiende convocada automáticamente para la misma hora dos días después; si tampoco entonces se alcanza el quórum, la Presidencia deja sin efecto la convocatoria y pospone el estudio de los asuntos del orden del día para la primera sesión posterior, ordinaria o extraordinaria.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 101",
+    "enunciado": "¿Qué clases de votaciones distingue el Real Decreto 2568/1986?",
+    "explicacion": "El artículo 101 del Real Decreto 2568/1986 clasifica las votaciones en ordinarias, nominales y secretas.",
+    "id": "HUE-C1-E03-011",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Votaciones ordinarias, nominales y secretas.",
+    "tema": "E03",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 99",
+    "enunciado": "¿En qué consiste la votación ordinaria?",
+    "explicacion": "El artículo 99 del Real Decreto 2568/1986 define la votación ordinaria como la manifestada por signos convencionales de aprobación, desaprobación o abstención.",
+    "id": "HUE-C1-E03-012",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La que se manifiesta por signos convencionales de aprobación, desaprobación o abstención.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 100",
+    "enunciado": "¿Cómo se realiza la votación nominal y cuándo es obligatoria?",
+    "explicacion": "El artículo 100 del Real Decreto 2568/1986 regula la votación nominal por llamamiento alfabético y la hace obligatoria en la moción de censura al Alcalde o Presidente.",
+    "id": "HUE-C1-E03-013",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mediante llamamiento público por orden alfabético de apellidos, emitiéndose el voto de viva voz; es obligatoria siempre que se trate de la moción de censura al Alcalde o Presidente.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 101",
+    "enunciado": "¿Cuándo se utiliza la votación secreta y cómo se emite?",
+    "explicacion": "El artículo 101 del Real Decreto 2568/1986 reserva la votación secreta para la elección o destitución de personas y la realiza por papeleta.",
+    "id": "HUE-C1-E03-014",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Para la elección o destitución de personas, y se realiza por papeleta.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 102",
+    "enunciado": "¿Qué se entiende por mayoría simple y por mayoría absoluta en las votaciones de los órganos colegiados locales?",
+    "explicacion": "El artículo 102 del Real Decreto 2568/1986 define la mayoría simple y la mayoría absoluta en función de los votos y del número legal de miembros.",
+    "id": "HUE-C1-E03-015",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Mayoría simple: cuando los votos afirmativos son más que los negativos. Mayoría absoluta: cuando los votos afirmativos son más de la mitad del número legal de miembros de la Corporación.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 103",
+    "enunciado": "¿Cómo se resuelve un empate en una votación del Pleno?",
+    "explicacion": "El artículo 103 del Real Decreto 2568/1986 dispone una segunda votación y, de persistir el empate, el voto de calidad del Presidente.",
+    "id": "HUE-C1-E03-016",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se efectúa una segunda votación y, si persiste el empate, decide el voto de calidad del Presidente.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "¿Cuál es la regla general para la adopción de acuerdos de las corporaciones locales?",
+    "explicacion": "El artículo 47.1 de la Ley 7/1985 establece la mayoría simple como regla general para la adopción de acuerdos.",
+    "id": "HUE-C1-E03-017",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se adoptan, como regla general, por mayoría simple de los miembros presentes.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 47",
+    "enunciado": "Cite cuatro materias que requieren el voto favorable de la mayoría absoluta del número legal de miembros según el artículo 47.2 de la Ley 7/1985.",
+    "explicacion": "El artículo 47.2 de la Ley 7/1985 enumera las materias que exigen mayoría absoluta, entre ellas la creación de municipios, las mancomunidades, los bienes comunales y las concesiones de larga duración.",
+    "id": "HUE-C1-E03-018",
+    "ley": "Ley 7/1985",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La creación y supresión de municipios y la alteración de términos municipales; la creación, modificación o disolución de mancomunidades y la aprobación y modificación de sus estatutos; la cesión por cualquier título del aprovechamiento de los bienes comunales; y la concesión de bienes o servicios por más de cinco años cuando su cuantía exceda del veinte por ciento de los recursos ordinarios del presupuesto.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "arts. 109 y 110",
+    "enunciado": "¿Qué debe constar en el acta de cada sesión y cuándo se aprueba?",
+    "explicacion": "El artículo 109 del Real Decreto 2568/1986 enumera el contenido mínimo del acta, y el artículo 110 dispone su aprobación en la misma o en la siguiente sesión, extendida por el Secretario con el visto bueno del Presidente.",
+    "id": "HUE-C1-E03-019",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Lugar, día, mes, año y hora de comienzo; nombre y apellidos del Presidente, de los miembros presentes, de los ausentes que se hubiesen excusado y de los que falten sin excusa; carácter ordinario o extraordinario de la sesión; asistencia del Secretario; asuntos examinados con las opiniones sintetizadas; votaciones; parte dispositiva de los acuerdos; y hora de terminación. Se aprueba en la misma o en la siguiente sesión.",
+    "tema": "E03",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "arts. 204 a 206",
+    "enunciado": "¿Quién expide las certificaciones de los acuerdos de la entidad local y con qué requisitos?",
+    "explicacion": "Los artículos 204, 205 y 206 del Real Decreto 2568/1986 atribuyen al Secretario la expedición de certificaciones, por orden del Presidente y con su visto bueno, permitiendo expedirlas antes de la aprobación del acta con la advertencia correspondiente.",
+    "id": "HUE-C1-E03-020",
+    "ley": "Real Decreto 2568/1986",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las expide siempre el Secretario, por orden del Presidente de la Corporación y con su visto bueno, para significar que quien las expide está en el ejercicio del cargo y que su firma es auténtica; pueden expedirse antes de ser aprobadas las actas que contengan los acuerdos, haciendo la advertencia o salvedad en este sentido y a reserva de los términos que resulten de la aprobación del acta.",
+    "tema": "E03",
+    "verificado_corpus": false
+  }
+]

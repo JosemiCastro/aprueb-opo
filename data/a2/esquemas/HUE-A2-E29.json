@@ -1,0 +1,82 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: enumerar y describir las situaciones administrativas del art. 85 RDL 5/2015.",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar los servicios especiales, el servicio en otras Administraciones y la suspensión de funciones (arts. 87, 88 y 90).",
+    "Puedo desarrollar este tema por escrito en 2 horas: detallar las modalidades de excedencia: voluntaria, por cuidado de familiares, por agrupación familiar y por violencia de género (art. 89).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el régimen de provisión de puestos: concurso, libre designación y movilidad (arts. 78-80 y 84)."
+  ],
+  "id": "HUE-A2-E29",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 85",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Situaciones administrativas de los funcionarios de carrera: servicio activo, servicios especiales, servicio en otras Administraciones públicas, excedencia y suspensión de funciones.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 86",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Servicio activo: se hallan en él quienes desempeñan un puesto de trabajo, quienes se encuentran en comisión de servicios o en periodo de prácticas, y quienes acceden por promoción interna pendientes de toma de posesión.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 87",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Servicios especiales: designación como miembro del Gobierno o de órganos constitucionales, alto cargo, diputado o senador, personal electivo retribuido en corporaciones locales, servicio en organismos internacionales, entre otras causas; conlleva reserva del puesto de trabajo y cómputo del tiempo a efectos de carrera, trienios y derechos pasivos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 88",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Servicio en otras Administraciones públicas: los funcionarios que obtengan destino en otra Administración mediante convocatoria pública quedan en esta situación en la de origen, integrándose en la función pública de destino con los derechos correspondientes.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 89",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Excedencia voluntaria por interés particular: requiere haber prestado servicios efectivos durante un periodo mínimo de cinco años inmediatamente anteriores; la permanencia mínima es de dos años y el tiempo no computa a efectos de antigüedad, carrera ni derechos pasivos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 89",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Excedencia por cuidado de familiares: hasta tres años por cada hijo y hasta tres años por familiar a cargo hasta el segundo grado que no pueda valerse por sí mismo; reserva del puesto de trabajo durante los dos primeros años y cómputo del periodo a efectos de trienios, carrera y derechos pasivos.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 89",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Otras excedencias: por agrupación familiar (cónyuge destinado en otra localidad) y por razón de violencia de género o terrorista, sin exigencia de tiempo mínimo de servicios previos y con reserva del puesto de trabajo.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 90",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Suspensión de funciones: firme, cuando se impone por sentencia; o provisional, durante la tramitación de un procedimiento judicial o de un expediente disciplinario; la suspensión firme comporta la privación del puesto y de las retribuciones.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 78",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Provisión de puestos: principios de igualdad, mérito, capacidad y publicidad; los procedimientos son el concurso y la libre designación con convocatoria pública.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 79",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Concurso: procedimiento normal de provisión de los puestos de trabajo; se valoran méritos como el trabajo desarrollado, los cursos de formación y perfeccionamiento, la antigüedad y las medidas de conciliación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 80 y 84",
+      "ley": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+      "punto": "Libre designación y movilidad: convocatoria pública para puestos de carácter directivo, de confianza o de especial responsabilidad, con resolución motivada y cese discrecional (art. 80); movilidad voluntaria entre Administraciones públicas mediante los convenios de la Conferencia Sectorial (art. 84).",
+      "verificado_corpus": true
+    }
+  ],
+  "tema": "E29",
+  "titulo": "Situaciones administrativas del personal empleado público. Régimen de provisión de puestos de trabajo del personal empleado público"
+}

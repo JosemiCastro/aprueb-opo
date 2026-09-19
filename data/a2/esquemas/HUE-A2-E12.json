@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: describir las cuatro formas de gestión directa del art. 85.2 LBRL y la gestión indirecta.",
+    "Puedo desarrollar este tema por escrito en 2 horas: diferenciar organismo autónomo, entidad pública empresarial y sociedad mercantil local (arts. 98-108 Ley 40/2015 y art. 85 ter LBRL).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el contrato de concesión de servicios y el riesgo operacional (Ley 9/2017).",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer la iniciativa pública económica de las entidades locales y la reserva de servicios esenciales (art. 86 LBRL, art. 128.2 CE).",
+    "Puedo desarrollar este tema por escrito en 2 horas: citar los instrumentos andaluces de gestión e iniciativa económica (arts. 34-49 Ley 5/2010)."
+  ],
+  "id": "HUE-A2-E12",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 85.1 y 85.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "El servicio público en las entidades locales: son servicios públicos locales los prestados en el ámbito de sus competencias; se gestionan de la forma más sostenible y eficiente mediante gestión directa (propia entidad, organismo autónomo local, entidad pública empresarial local, sociedad mercantil local de capital íntegramente público) o gestión indirecta (concesión de servicios).",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 98-102",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Organismo autónomo local (art. 85.2.A).2.º LBRL): entidad de derecho público con personalidad jurídica propia, patrimonio y tesorería propios y autonomía de gestión; desarrolla actividades de fomento, prestacionales o de gestión de servicios públicos y se rige por el Derecho administrativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 103-108",
+      "ley": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+      "punto": "Entidad pública empresarial local (art. 85.2.A).3.º LBRL): realiza actividades prestacionales, de gestión de servicios o de producción de bienes de interés público susceptibles de contraprestación; se rige por el Derecho privado, excepto en el ejercicio de potestades administrativas y en las materias presupuestarias, contables y de control.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 85.2.A).d) y 85 ter LBRL; art. 46.4 LAULA",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local; Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Sociedad mercantil local o empresa pública local: capital social de titularidad pública; se rige por el ordenamiento jurídico privado, salvo en materia presupuestaria, contable, de control financiero y de contratación; en ningún caso puede disponer de facultades que impliquen el ejercicio de potestades públicas.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 34-43",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Instrumentos andaluces de gestión de servicios: agencia pública administrativa local, agencia pública empresarial local, sociedad mercantil local, sociedad interlocal, fundación pública local y empresa mixta de colaboración público-privada.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 15 y 285-294",
+      "ley": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+      "punto": "Concesión de servicios: el concesionario gestiona el servicio a su riesgo y ventura, asumiendo el riesgo operacional; la Administración conserva la titularidad y las potestades de dirección, inspección y rescate del servicio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 86.1",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Iniciativa pública económica de las entidades locales: pueden ejercerla para el desarrollo de actividades económicas siempre que esté garantizado el cumplimiento del objetivo de estabilidad presupuestaria y de la sostenibilidad financiera en el ejercicio de sus competencias.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 86.2",
+      "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+      "punto": "Reserva de servicios esenciales: el Estado y las Comunidades Autónomas pueden reservar por ley servicios esenciales a favor de las entidades locales; la actividad en régimen de libre concurrencia requiere acuerdo del Pleno con expediente que acredite la conveniencia, y el monopolio exige además los requisitos legales y autonómicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 45-48",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Iniciativa económica local en Andalucía: las entidades locales pueden crear empresas públicas locales para el ejercicio de actividades económicas de interés local, con sujeción a su régimen jurídico de creación y funcionamiento.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 44 y 49",
+      "ley": "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+      "punto": "Transparencia: la gestión de los servicios locales de interés económico general y las relaciones financieras de las entidades locales con sus empresas están sometidas a principios de transparencia.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E12",
+  "titulo": "El servicio público en las entidades locales. Las formas de gestión. Especial referencia a la concesión de servicios, organismos autónomos, la empresa pública local y las entidades públicas empresariales. La iniciativa pública económica de las entidades locales"
+}

@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el objeto y el ámbito de aplicación de la Ley 31/1995.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los derechos de los trabajadores en materia preventiva (información, formación, vigilancia de la salud, paralización).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las obligaciones del empresario: plan de prevención, evaluación de riesgos y principios de la acción preventiva.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las obligaciones de los trabajadores y la participación: delegados de prevención y comité de seguridad y salud.",
+    "Puedo citar con precisión los artículos 2, 3, 14, 15, 16, 19, 21, 22, 29 y 38 de la Ley 31/1995."
+  ],
+  "id": "HUE-A2-E48",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Objeto: la ley tiene por objeto promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Ámbito de aplicación: la ley y sus normas de desarrollo serán de aplicación tanto en el ámbito de las relaciones laborales como en el de las relaciones administrativas o estatutarias del personal al servicio de las Administraciones Públicas, con las particularidades previstas para determinadas actividades (funciones públicas de policía, seguridad, resguardo aduanero y servicios operativos de protección civil).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Definiciones básicas: prevención (conjunto de actividades o medidas adoptadas en todas las fases de actividad de la empresa para evitar o disminuir los riesgos), riesgo laboral (posibilidad de que un trabajador sufra un determinado daño derivado del trabajo) y daños derivados del trabajo (enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 14",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Derecho a la protección frente a los riesgos laborales: los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo; el empresario deberá garantizar la seguridad y la salud de los trabajadores a su servicio en todos los aspectos relacionados con el trabajo, integrando la actividad preventiva en la empresa.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 15",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Principios de la acción preventiva: evitar los riesgos; evaluar los riesgos que no se puedan evitar; combatir los riesgos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución de la técnica; sustituir lo peligroso por lo que entrañe poco o ningún peligro; planificar la prevención; anteponer la protección colectiva a la individual; y dar las debidas instrucciones a los trabajadores.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 16",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Plan de prevención, evaluación de riesgos y planificación: la prevención deberá integrarse en el sistema general de gestión de la empresa a través de la implantación de un plan de prevención de riesgos laborales; el empresario deberá realizar una evaluación inicial de los riesgos y planificar la actividad preventiva con determinación de prioridades y controles periódicos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 18 y 19",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Información y formación: el empresario adoptará las medidas adecuadas para que los trabajadores reciban todas las informaciones necesarias en relación con los riesgos para su seguridad y salud (art. 18); deberá garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva, tanto en la contratación como cuando se produzcan cambios en sus funciones (art. 19).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 21",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Riesgo grave e inminente: cuando los trabajadores estén o puedan estar expuestos a un riesgo grave e inminente, el empresario deberá informar lo antes posible, adoptar medidas y dar instrucciones para interrumpir la actividad; el trabajador tendrá derecho a interrumpir su actividad y abandonar el lugar de trabajo cuando considere que existe dicho riesgo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 22",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Vigilancia de la salud: el empresario garantizará a los trabajadores la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo; esta vigilancia solo podrá llevarse a cabo cuando el trabajador preste su consentimiento, salvo supuestos tasados en que sea imprescindible para evaluar los efectos de las condiciones de trabajo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 29 y 38",
+      "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+      "punto": "Obligaciones de los trabajadores y participación: corresponde a cada trabajador velar por su propia seguridad y salud y por la de las personas afectadas por sus actos, usando adecuadamente los equipos y cumpliendo las obligaciones preventivas (art. 29). En las empresas o centros de trabajo con 50 o más trabajadores se constituirá un Comité de Seguridad y Salud, órgano paritario de participación destinado a la consulta regular de las actuaciones preventivas (art. 38).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E48",
+  "titulo": "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales: objeto, derechos y obligaciones."
+}

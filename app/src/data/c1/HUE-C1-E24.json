@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 19/2013, de 9 de diciembre?",
+    "explicacion": "El art. 1 LTAIBG fija el triple objeto de la norma: transparencia, acceso a la información y buen gobierno.",
+    "id": "HUE-C1-E24-001",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información relativa a aquella actividad y establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos.",
+    "tema": "E24",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿A qué sujetos se aplica la Ley 19/2013?",
+    "explicacion": "Art. 2.1 LTAIBG: ámbito subjetivo amplio que incluye Administraciones territoriales, entidades de derecho público y órganos constitucionales en su actividad administrativa.",
+    "id": "HUE-C1-E24-002",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local, y a las entidades de derecho público vinculadas o dependientes; también a la Casa de S.M. el Rey, el Congreso de los Diputados, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial, entre otros, en relación con sus actividades sujetas a Derecho Administrativo.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Cuándo quedan sujetos a las obligaciones de transparencia los partidos políticos, sindicatos y entidades privadas?",
+    "explicacion": "Art. 3.b) LTAIBG: umbrales de 100.000 euros o del 40 % de los ingresos anuales (mínimo 5.000 euros) en ayudas o subvenciones públicas.",
+    "id": "HUE-C1-E24-003",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando perciban durante el período de un año ayudas o subvenciones públicas en cuantía superior a 100.000 euros, o cuando al menos el 40 por ciento del total de sus ingresos anuales tenga carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 5.000 euros.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué exige el principio de publicidad activa?",
+    "explicacion": "Art. 5 LTAIBG: publicación periódica y actualizada, en sedes electrónicas o webs, de forma clara y reutilizable.",
+    "id": "HUE-C1-E24-004",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que los sujetos obligados publiquen de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad; en sus sedes electrónicas o páginas web, de forma clara, estructurada y entendible para los interesados y preferiblemente en formatos reutilizables.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Qué información institucional, organizativa y de planificación debe publicarse?",
+    "explicacion": "Art. 6 LTAIBG: funciones, normativa, organigrama, sede y planes y programas con sus objetivos y medios.",
+    "id": "HUE-C1-E24-005",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las funciones que desarrollan, la normativa que les resulta de aplicación, su estructura organizativa incluyendo un organigrama actualizado que identifique a los responsables, la sede física y los planes y programas anuales y plurianuales con sus objetivos concretos, actividades, medios y tiempo previsto para su consecución.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Qué información de relevancia jurídica debe publicarse?",
+    "explicacion": "Art. 7 LTAIBG: directrices e instrucciones, anteproyectos, proyectos reglamentarios y documentos de elaboración normativa.",
+    "id": "HUE-C1-E24-006",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las directrices, instrucciones, acuerdos, circulares y respuestas a consultas que interpreten el Derecho o tengan efectos jurídicos; los anteproyectos de Ley y proyectos de Decretos Legislativos; los proyectos de Reglamentos; las memorias e informes de los expedientes de elaboración de textos normativos; y los documentos sometidos a un período de información pública.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué información sobre contratos debe publicarse en virtud de la publicidad activa?",
+    "explicacion": "Art. 8.1.a) LTAIBG: detalle completo de la contratación (objeto, importes, procedimiento, adjudicatario, modificaciones).",
+    "id": "HUE-C1-E24-007",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Todos los contratos, con indicación del objeto, duración, importe de licitación y de adjudicación, procedimiento utilizado, instrumentos de publicidad, número de licitadores participantes, identidad del adjudicatario, así como las modificaciones, prórrogas y las decisiones de desistimiento y renuncia.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Qué información sobre subvenciones y ayudas públicas debe publicarse?",
+    "explicacion": "Art. 8.1.c) LTAIBG: importe, objetivo o finalidad y beneficiarios de las subvenciones concedidas.",
+    "id": "HUE-C1-E24-008",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Las subvenciones y ayudas públicas concedidas, con indicación de su importe, objetivo o finalidad y beneficiarios.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "¿Deben publicarse las declaraciones de bienes y actividades de los representantes locales?",
+    "explicacion": "Art. 8.1.h) LTAIBG: remite a la Ley 7/1985 para las declaraciones de los representantes locales.",
+    "id": "HUE-C1-E24-009",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí: las declaraciones anuales de bienes y actividades de los representantes locales, en los términos previstos en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 12",
+    "enunciado": "¿Quiénes tienen derecho de acceso a la información pública?",
+    "explicacion": "Art. 12 LTAIBG: derecho universal de acceso, en desarrollo del art. 105.b) de la Constitución.",
+    "id": "HUE-C1-E24-010",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Todas las personas, en los términos previstos en el art. 105.b) de la Constitución Española.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Qué se entiende por información pública?",
+    "explicacion": "Art. 13 LTAIBG: definición amplia (contenidos o documentos en cualquier formato o soporte) vinculada a su posesión y a su elaboración o adquisición en el ejercicio de funciones.",
+    "id": "HUE-C1-E24-011",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+    "tema": "E24",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Es ilimitado el derecho de acceso a la información pública? Cite tres de sus límites.",
+    "explicacion": "Art. 14 LTAIBG: el derecho puede limitarse por las doce causas tasadas (letras a a l), previa ponderación.",
+    "id": "HUE-C1-E24-012",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: el art. 14 establece límites como la seguridad nacional, la defensa, las relaciones exteriores, la seguridad pública, la prevención, investigación y sanción de los ilícitos penales, administrativos o disciplinarios, la igualdad de las partes en los procesos judiciales, las funciones de vigilancia, inspección y control, los intereses económicos y comerciales, la política económica y monetaria, el secreto profesional y la propiedad intelectual e industrial, la confidencialidad en la toma de decisiones y la protección del medio ambiente.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Cuándo puede concederse acceso a información que contenga datos sobre ideología, religión o salud del afectado?",
+    "explicacion": "Art. 15.1 LTAIBG: régimen reforzado para los datos especialmente protegidos, con consentimiento expreso o amparo legal.",
+    "id": "HUE-C1-E24-013",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Si contiene datos relativos a ideología, afiliación sindical, religión o creencias, solo con el consentimiento expreso y por escrito del afectado; si son datos sobre origen racial, salud o vida sexual, con su consentimiento expreso o si estuviera amparado por una norma con rango de ley.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Se concede con carácter general el acceso a la información que contenga datos meramente identificativos relacionados con la actividad pública del órgano?",
+    "explicacion": "Art. 15.2 LTAIBG: regla general favorable al acceso para datos meramente identificativos, salvo prevalencia de la protección de datos.",
+    "id": "HUE-C1-E24-014",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, con carácter general, salvo que en el caso concreto prevalezca la protección de datos personales sobre el interés público en la divulgación.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Es necesario motivar la solicitud de acceso a la información pública?",
+    "explicacion": "Art. 17.2 y 17.3 LTAIBG: la motivación no es obligatoria, pero los motivos expuestos pueden tenerse en cuenta en la resolución.",
+    "id": "HUE-C1-E24-015",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No, aunque el solicitante podrá exponer los motivos por los que solicita la información para que sean tenidos en cuenta al dictar la resolución.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 18",
+    "enunciado": "Cite tres causas de inadmisión de la solicitud de acceso a la información pública.",
+    "explicacion": "Art. 18.1 LTAIBG: causas tasadas de inadmisión a trámite (información en elaboración, carácter auxiliar, reelaboración, órgano incompetente desconocido, repetitivas o abusivas).",
+    "id": "HUE-C1-E24-016",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que se refiera a información en curso de elaboración o de publicación general; que tenga carácter auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos); que para divulgarla sea necesaria una acción previa de reelaboración; y que sea manifiestamente repetitiva o tenga carácter abusivo no justificado con la finalidad de transparencia de la Ley.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 19",
+    "enunciado": "Si la información solicitada pudiera afectar a derechos o intereses de terceros identificados, ¿qué trámite se sigue?",
+    "explicacion": "Art. 19.3 LTAIBG: audiencia de quince días a los terceros afectados, con información al solicitante y suspensión del plazo.",
+    "id": "HUE-C1-E24-017",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se les concede un plazo de quince días para que formulen alegaciones; se informa de esta circunstancia al solicitante y queda suspendido el plazo para dictar resolución hasta que se hayan recibido las alegaciones o haya transcurrido el plazo.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿En qué plazo se resuelve la solicitud de acceso a la información y qué ocurre si no hay resolución expresa?",
+    "explicacion": "Art. 20.1 y 20.4 LTAIBG: un mes prorrogable por otro mes, con silencio administrativo desestimatorio.",
+    "id": "HUE-C1-E24-018",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el plazo máximo de un mes desde la recepción por el órgano competente, prorrogable por otro mes cuando el volumen o la complejidad lo exijan; transcurrido el plazo sin resolución expresa, la solicitud se entiende desestimada.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿Es gratuito el acceso a la información pública?",
+    "explicacion": "Art. 22.4 LTAIBG: gratuidad del acceso, con posible exacción por copias o cambio de formato.",
+    "id": "HUE-C1-E24-019",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí; no obstante, la expedición de copias o la transposición de la información a un formato diferente al original podrá dar lugar a la exigencia de exacciones.",
+    "tema": "E24",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 24",
+    "enunciado": "¿Qué vía de reclamación cabe frente a la resolución de acceso a la información pública y en qué plazo se interpone?",
+    "explicacion": "Art. 24 LTAIBG: reclamación potestativa y previa a la vía contencioso-administrativa ante el Consejo de Transparencia y Buen Gobierno, en un mes; resolución en tres meses con silencio desestimatorio.",
+    "id": "HUE-C1-E24-020",
+    "ley": "Ley 19/2013",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La reclamación potestativa y previa a la vía contencioso-administrativa ante el Consejo de Transparencia y Buen Gobierno, en el plazo de un mes; el Consejo debe resolver en tres meses y, transcurrido sin resolución, la reclamación se entiende desestimada.",
+    "tema": "E24",
+    "verificado_corpus": false
+  }
+]

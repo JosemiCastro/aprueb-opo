@@ -1,0 +1,78 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: los principios generales de la LO 2/2012 (estabilidad, sostenibilidad, transparencia, eficiencia).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los objetivos de estabilidad presupuestaria, deuda pública y regla de gasto para las corporaciones locales.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las consecuencias del incumplimiento y las medidas coercitivas.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los planes económico-financieros: contenido, tramitación y seguimiento.",
+    "Puedo desarrollar este tema por escrito en 2 horas: los planes de ajuste y de saneamiento financiero y el suministro de información financiera.",
+    "Puedo citar con precisión los artículos 3, 4, 11, 12, 13, 21, 25 y 27 de la LO 2/2012 y el art. 53 del TRLRHL."
+  ],
+  "id": "HUE-A2-E43",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "arts. 3 y 11.3",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Principio de estabilidad presupuestaria: se entenderá por estabilidad presupuestaria de las Administraciones Públicas la situación de equilibrio o superávit estructural; ninguna Administración Pública podrá incurrir en déficit estructural, con las excepciones previstas para situaciones de catástrofes, recesión o emergencia extraordinaria.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 4",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Principio de sostenibilidad financiera: se entenderá por sostenibilidad financiera la capacidad para financiar compromisos de gasto presentes y futuros dentro de los límites de déficit, deuda pública y morosidad de deuda comercial conforme a la normativa europea y española.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 6 y 7",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Otros principios generales: transparencia (contabilidad adecuada, suministro de información y publicación de datos presupuestarios), eficiencia en la asignación y utilización de los recursos públicos, responsabilidad (las Administraciones que incumplan asumirán la parte imputable de las responsabilidades) y lealtad institucional.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 11",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Objetivo de estabilidad para las corporaciones locales: la instrumentación del principio de estabilidad presupuestaria exige que las corporaciones locales mantengan una posición de equilibrio o superávit presupuestario, sin que puedan incurrir en déficit estructural.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 12",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Regla de gasto: la variación del gasto computable de las corporaciones locales no podrá superar la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española; cuando se produzcan cambios normativos que supongan aumentos o disminuciones permanentes de recaudación, el nivel de gasto computable se ajustará en consecuencia.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 13",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Objetivo de deuda pública: el volumen de deuda pública del conjunto de Administraciones Públicas no podrá superar el valor de referencia del 60 por ciento del PIB establecido en la normativa europea; cada Administración fijará su límite de deuda, y las corporaciones locales deberán respetar el objetivo asignado al subsector local.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 21",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Planes económico-financieros: en caso de incumplimiento del objetivo de estabilidad presupuestaria, del objetivo de deuda pública o de la regla de gasto, la Administración incumplidora formulará un plan económico-financiero que permita en el año en curso y el siguiente el cumplimiento de los objetivos; se aprobará por el Pleno de la corporación local y se remitirá para su aprobación definitiva y seguimiento.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 25",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Consecuencias del incumplimiento y medidas coercitivas: la falta de presentación, de aprobación o de cumplimiento del plan económico-financiero dará lugar a la no autorización de operaciones de endeudamiento, a la necesidad de autorización para la concesión de subvenciones y suscripción de convenios, y a la retención de los importes a satisfacer por los recursos de los sistemas de financiación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 53",
+      "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+      "punto": "Planes de ajuste y de saneamiento financiero: cuando el ahorro neto de la entidad local sea negativo, el Pleno deberá aprobar un plan de saneamiento financiero para corregir el desequilibrio, como requisito para la concertación de operaciones de crédito a largo plazo y el restablecimiento de la sostenibilidad.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 27",
+      "ley": "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+      "punto": "Suministro de información financiera: las Administraciones Públicas suministrarán toda la información necesaria para el cumplimiento de las disposiciones de la ley; las corporaciones locales remitirán al Ministerio de Hacienda la información sobre ejecución presupuestaria, deuda, morosidad y planes, con la periodicidad y detalle que se determine reglamentariamente.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E43",
+  "titulo": "Estabilidad presupuestaria y sostenibilidad financiera. Principios generales. Objetivos de estabilidad presupuestaria, de deuda pública y de la regla de gasto para las corporaciones locales: establecimiento y consecuencias asociadas a su incumplimiento. Los planes económico-financieros: contenido, tramitación y seguimiento. Planes de ajuste y de saneamiento financiero. Suministro de información financiera de las entidades locales."
+}

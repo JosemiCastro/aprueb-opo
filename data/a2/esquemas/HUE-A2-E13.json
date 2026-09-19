@@ -1,0 +1,89 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el concepto, la naturaleza ablatoria y la garantía constitucional (art. 33.3 CE, art. 1 LEF).",
+    "Puedo desarrollar este tema por escrito en 2 horas: identificar sujetos (art. 3), objeto y causa (arts. 9-10) de la expropiación.",
+    "Puedo desarrollar este tema por escrito en 2 horas: describir las fases del procedimiento general (arts. 21-22, 24-35, 48-51 LEF).",
+    "Puedo desarrollar este tema por escrito en 2 horas: explicar el procedimiento de urgencia (art. 52) y los procedimientos especiales.",
+    "Puedo desarrollar este tema por escrito en 2 horas: exponer el derecho de reversión (art. 54) y los convenios expropiatorios (art. 24)."
+  ],
+  "id": "HUE-A2-E13",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 33.3",
+      "ley": "Constitución Española de 1978",
+      "punto": "Garantía expropiatoria: nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Concepto y objeto: la expropiación forzosa por causa de utilidad pública o interés social comprende cualquier forma de privación singular de la propiedad privada o de derechos o intereses patrimoniales legítimos, acordada imperativamente por el poder público.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Naturaleza: potestad administrativa de carácter ablatorio y singular; no tiene carácter sancionador ni tributario, y su ejercicio exige indemnización (justiprecio) como elemento esencial.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Sujetos: expropiante (el titular de la potestad expropiatoria: Estado, Comunidad Autónoma, Provincia o Municipio), beneficiario (quien representa el interés público o el fin social y adquiere el bien o derecho) y expropiado (el propietario o titular de derechos o intereses patrimoniales legítimos).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 1.1",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Objeto: toda clase de bienes y derechos susceptibles de valoración patrimonial, incluida la expropiación parcial y la de derechos e intereses patrimoniales legítimos distintos del dominio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 9 y 10",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Causa: la utilidad pública o el interés social del fin al que haya de afectarse lo expropiado; para proceder es indispensable su previa declaración, que se entiende implícita respecto de los planes de obras y servicios del Estado, la Provincia y el Municipio.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 21-22, 24-35 y 48-51",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Procedimiento general, en tres fases: 1) acuerdo de necesidad de ocupación, con información pública y relación concreta de bienes y derechos; 2) determinación del justiprecio por piezas separadas: intento de mutuo acuerdo, hojas de aprecio y resolución del Jurado Provincial de Expropiación; 3) pago del justiprecio y toma de posesión.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 35-43 y 47",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Justiprecio: se fija con arreglo a los criterios legales de valoración según la naturaleza de los bienes, y se incrementa con el premio de afección del cinco por ciento; la demora en su fijación o pago devenga intereses a favor del expropiado.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 52",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Procedimiento de urgencia: declarada la urgencia por el Consejo de Ministros, la Administración puede ocupar los bienes de inmediato, previo depósito del justiprecio e indemnización por la rápida ocupación, sin esperar al pago total.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "Título III",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Procedimientos especiales: el Título III regula especialidades como la expropiación con fines urbanísticos, la motivada por incumplimiento de la función social de la propiedad y la de bienes de valor artístico, histórico o arqueológico.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 54",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Reversión: si no se ejecuta la obra o no se establece el servicio, si queda parte sobrante o si desaparece la afectación, el primitivo dueño o sus causahabientes pueden recobrar lo expropiado; no procede si simultáneamente se acuerda una nueva afectación a otro fin de utilidad pública o si la afectación se prolonga diez años desde la terminación de la obra.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 24",
+      "ley": "Ley de Expropiación Forzosa, de 16 de diciembre de 1954",
+      "punto": "Convenios expropiatorios: la Administración y el expropiado pueden convenir libremente y por mutuo acuerdo la adquisición de los bienes o derechos, dándose por concluido el expediente; la vía amistosa es preferente a la fijación contradictoria del justiprecio.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E13",
+  "titulo": "La expropiación forzosa: naturaleza. Concepto. Sujetos. Objeto. Causa. Procedimiento general. Los procedimientos especiales. La reversión del bien expropiado. Los convenios expropiatorios"
+}

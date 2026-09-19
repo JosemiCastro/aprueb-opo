@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 4.1",
+    "enunciado": "Según el Reglamento (UE) 2016/679, ¿qué se entiende por «datos personales»?",
+    "explicacion": "El art. 4.1 RGPD define los datos personales como toda información sobre una persona física identificada o identificable; se considera identificable a quien pueda ser identificada, directa o indirectamente, por un nombre, un número de identificación, datos de localización, un identificador en línea o por elementos propios de su identidad física, fisiológica, genética, psíquica, económica, cultural o social.",
+    "id": "HUE-C1-E25-001",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Toda información sobre una persona física identificada o identificable (nombre, número de identificación, datos de localización, identificador en línea o factores propios de su identidad física, fisiológica, genética, psíquica, económica, cultural o social).",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4.11",
+    "enunciado": "¿Qué requisitos debe reunir el consentimiento del interesado según el RGPD?",
+    "explicacion": "El art. 4.11 RGPD exige que el consentimiento sea una manifestación de voluntad libre, específica, informada e inequívoca, mediante una declaración o una clara acción afirmativa del interesado.",
+    "id": "HUE-C1-E25-002",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Debe ser una manifestación de voluntad libre, específica, informada e inequívoca, expresada mediante una declaración o una clara acción afirmativa.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿A partir de qué edad puede un menor prestar por sí solo su consentimiento para el tratamiento de sus datos personales en servicios de la sociedad de la información, según la Ley Orgánica 3/2018?",
+    "explicacion": "El art. 7 LO 3/2018 fija en 14 años la edad a partir de la cual el menor puede consentir el tratamiento de sus datos en servicios de la sociedad de la información, salvo que la ley exija para su prestación la asistencia de los titulares de la patria potestad o tutela.",
+    "id": "HUE-C1-E25-003",
+    "ley": "Ley Orgánica 3/2018",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "A partir de los 14 años.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5.1",
+    "enunciado": "Enumere los principios relativos al tratamiento de datos personales recogidos en el artículo 5.1 del RGPD.",
+    "explicacion": "El art. 5.1 RGPD establece los principios de licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva del responsable.",
+    "id": "HUE-C1-E25-004",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5.1.c",
+    "enunciado": "¿Qué exige el principio de minimización de datos del RGPD?",
+    "explicacion": "El principio de minimización (art. 5.1.c RGPD) obliga a que los datos personales sean adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados.",
+    "id": "HUE-C1-E25-005",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que los datos sean adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5.1.e",
+    "enunciado": "¿Qué establece el principio de limitación del plazo de conservación?",
+    "explicacion": "El art. 5.1.e RGPD dispone que los datos personales se mantendrán de forma que se permita la identificación de los interesados durante no más tiempo del necesario para los fines del tratamiento.",
+    "id": "HUE-C1-E25-006",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Que los datos se conserven permitiendo la identificación de los interesados durante no más tiempo del necesario para los fines del tratamiento.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5.2",
+    "enunciado": "¿En qué consiste el principio de responsabilidad proactiva del responsable del tratamiento?",
+    "explicacion": "El art. 5.2 RGPD impone al responsable del tratamiento no solo cumplir los principios del art. 5.1, sino ser capaz de demostrar dicho cumplimiento (accountability).",
+    "id": "HUE-C1-E25-007",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En que el responsable del tratamiento debe cumplir los principios relativos al tratamiento y ser capaz de demostrarlo.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6.1",
+    "enunciado": "¿Cuáles son las bases que hacen lícito el tratamiento de datos personales según el artículo 6.1 del RGPD?",
+    "explicacion": "El art. 6.1 RGPD solo permite el tratamiento si concurre al menos una de estas condiciones: consentimiento del interesado; ejecución de un contrato; cumplimiento de una obligación legal; protección de intereses vitales; cumplimiento de una misión de interés público o ejercicio de poderes públicos; o satisfacción de intereses legítimos del responsable o de terceros.",
+    "id": "HUE-C1-E25-008",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El consentimiento del interesado; la ejecución de un contrato; el cumplimiento de una obligación legal; la protección de intereses vitales; el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos; y la satisfacción de intereses legítimos perseguidos por el responsable o por terceros.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 8",
+    "enunciado": "Según la Ley Orgánica 3/2018, ¿cuándo puede considerarse fundado el tratamiento de datos en el cumplimiento de una obligación legal o de una misión de interés público?",
+    "explicacion": "El art. 8 LO 3/2018 exige que el tratamiento basado en el cumplimiento de una obligación legal aplicable al responsable (art. 6.1.c RGPD), en una misión de interés público o en el ejercicio de poderes públicos (art. 6.1.e RGPD) esté previsto en una norma de Derecho de la Unión Europea o en una norma con rango de ley.",
+    "id": "HUE-C1-E25-009",
+    "ley": "Ley Orgánica 3/2018",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Solo cuando así lo prevea una norma de Derecho de la Unión Europea o una norma con rango de ley, que podrá determinar las condiciones generales del tratamiento y los tipos de datos objeto del mismo.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué establece el deber de confidencialidad en la Ley Orgánica 3/2018 y a quiénes afecta?",
+    "explicacion": "El art. 5 LO 3/2018 sujeta al deber de confidencialidad a los responsables y encargados del tratamiento y a todas las personas que intervengan en cualquier fase del tratamiento; es complementario del deber de secreto profesional y subsiste aunque haya finalizado la relación del obligado con el responsable o encargado.",
+    "id": "HUE-C1-E25-010",
+    "ley": "Ley Orgánica 3/2018",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Obliga a los responsables, encargados y a cuantas personas intervengan en cualquier fase del tratamiento a guardar confidencialidad; subsiste aun después de finalizar su relación con el responsable o encargado.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 9",
+    "enunciado": "¿Basta el solo consentimiento del afectado para tratar datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico?",
+    "explicacion": "No. El art. 9 LO 3/2018 dispone que, a fin de evitar situaciones discriminatorias, el solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de esas categorías especiales de datos del art. 9.1 RGPD.",
+    "id": "HUE-C1-E25-011",
+    "ley": "Ley Orgánica 3/2018",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No; el solo consentimiento del afectado no basta para levantar la prohibición de tratar esos datos, a fin de evitar situaciones discriminatorias.",
+    "tema": "E25",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 13",
+    "enunciado": "¿Qué información básica debe facilitarse al interesado cuando los datos personales se obtienen directamente de él, según el artículo 13 del RGPD?",
+    "explicacion": "El art. 13 RGPD obliga a informar, entre otros extremos, de la identidad y datos de contacto del responsable (y del delegado de protección de datos, en su caso), los fines del tratamiento y su base jurídica, los destinatarios, el plazo de conservación y los derechos del interesado (acceso, rectificación, supresión, limitación, portabilidad, oposición y reclamación ante la autoridad de control).",
+    "id": "HUE-C1-E25-012",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La identidad del responsable, los fines del tratamiento y su base jurídica, los destinatarios de los datos, el plazo de conservación y los derechos que asisten al interesado, incluido el de reclamar ante la autoridad de control.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿En qué consiste el derecho de acceso del interesado?",
+    "explicacion": "El art. 15 RGPD (desarrollado en el art. 13 LO 3/2018) reconoce el derecho del interesado a obtener del responsable la confirmación de si se están tratando o no datos personales que le conciernen y, en caso afirmativo, a acceder a ellos y a información como los fines, las categorías de datos, los destinatarios y el plazo previsto de conservación.",
+    "id": "HUE-C1-E25-013",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a obtener confirmación de si se tratan datos personales que le conciernen y, en caso afirmativo, a acceder a esos datos y a la información sobre su tratamiento (fines, categorías, destinatarios, plazo de conservación y derechos).",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 17",
+    "enunciado": "¿Cuándo tiene el interesado derecho a obtener la supresión de sus datos personales («derecho al olvido»)?",
+    "explicacion": "El art. 17 RGPD (art. 15 LO 3/2018) reconoce el derecho de supresión cuando los datos ya no sean necesarios para los fines recogidos, el interesado retire el consentimiento, se oponga al tratamiento, los datos hayan sido tratados ilícitamente o deban suprimirse para cumplir una obligación legal.",
+    "id": "HUE-C1-E25-014",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando los datos ya no sean necesarios para los fines para los que se recogieron, el interesado retire su consentimiento, se oponga al tratamiento, los datos se hayan tratado ilícitamente o deban suprimirse por obligación legal.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 20",
+    "enunciado": "¿En qué consiste el derecho a la portabilidad de los datos?",
+    "explicacion": "El art. 20 RGPD (art. 17 LO 3/2018) permite al interesado recibir los datos personales que haya facilitado a un responsable, en un formato estructurado, de uso común y lectura mecánica, y transmitirlos a otro responsable, cuando el tratamiento se base en el consentimiento o en un contrato y se efectúe por medios automatizados.",
+    "id": "HUE-C1-E25-015",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a recibir los datos facilitados en formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 21",
+    "enunciado": "¿Cuándo puede el interesado ejercer el derecho de oposición al tratamiento de sus datos?",
+    "explicacion": "El art. 21 RGPD (art. 18 LO 3/2018) permite al interesado oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos que le conciernan sean objeto de tratamiento basado en el cumplimiento de una misión de interés público o en la satisfacción de intereses legítimos (art. 6.1.e y f RGPD).",
+    "id": "HUE-C1-E25-016",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En cualquier momento, por motivos relacionados con su situación particular, cuando el tratamiento se base en una misión de interés público o en intereses legítimos del responsable o de terceros.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 22",
+    "enunciado": "¿Qué derecho reconoce el artículo 22 del RGPD respecto de las decisiones individuales automatizadas?",
+    "explicacion": "El art. 22 RGPD reconoce el derecho del interesado a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos sobre él o le afecte significativamente de modo similar, salvo excepciones tasadas (contrato, autorización legal o consentimiento explícito, con garantías).",
+    "id": "HUE-C1-E25-017",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos o le afecte significativamente.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 33",
+    "enunciado": "¿En qué plazo debe notificarse a la autoridad de control una violación de la seguridad de los datos personales?",
+    "explicacion": "El art. 33 RGPD obliga al responsable a notificar la violación de la seguridad de los datos personales a la autoridad de control competente sin dilación indebida y, de ser posible, a más tardar 72 horas después de haber tenido constancia de ella, salvo que sea improbable que entrañe un riesgo para los derechos y libertades de las personas.",
+    "id": "HUE-C1-E25-018",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sin dilación indebida y, de ser posible, a más tardar 72 horas después de haber tenido constancia de ella.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 37",
+    "enunciado": "¿En qué casos es obligatoria la designación de un delegado de protección de datos?",
+    "explicacion": "El art. 37.1 RGPD (desarrollado por el art. 34 LO 3/2018) exige designar un delegado de protección de datos cuando el tratamiento lo lleve a cabo una autoridad u organismo público; cuando las actividades principales del responsable o encargado consistan en operaciones que requieran una observación habitual y sistemática de interesados a gran escala; o cuando consistan en el tratamiento a gran escala de categorías especiales de datos o de datos penales.",
+    "id": "HUE-C1-E25-019",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando el tratamiento lo realice una autoridad u organismo público; cuando las actividades principales requieran observación habitual y sistemática de interesados a gran escala; o cuando requieran tratamiento a gran escala de categorías especiales de datos o de datos de condenas e infracciones penales.",
+    "tema": "E25",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 83",
+    "enunciado": "¿Cuál es la cuantía máxima de las multas administrativas que pueden imponerse por las infracciones más graves del RGPD?",
+    "explicacion": "El art. 83.5 RGPD establece para las infracciones más graves multas de hasta 20.000.000 de euros o, tratándose de una empresa, de una cuantía equivalente al 4 % como máximo del volumen de negocio total anual global del ejercicio financiero anterior, optándose por la de mayor cuantía.",
+    "id": "HUE-C1-E25-020",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Hasta 20.000.000 de euros o, en el caso de una empresa, hasta el 4 % del volumen de negocio total anual global del ejercicio anterior, aplicándose la cuantía mayor.",
+    "tema": "E25",
+    "verificado_corpus": false
+  }
+]

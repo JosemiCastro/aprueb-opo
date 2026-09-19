@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto y los elementos del acto administrativo (arts. 34 a 36 Ley 39/2015).",
+    "Puedo desarrollar este tema por escrito en 2 horas: las clases de actos administrativos y su trascendencia práctica.",
+    "Puedo desarrollar este tema por escrito en 2 horas: la motivación y la forma de los actos administrativos (arts. 35 y 36).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la obligación de la Administración de resolver expresamente y en plazo (art. 21).",
+    "Puedo desarrollar este tema por escrito en 2 horas: el silencio administrativo en procedimientos iniciados a solicitud del interesado y en procedimientos iniciados de oficio (arts. 24 y 25)."
+  ],
+  "id": "HUE-A2-E03",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 34.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Concepto: el acto administrativo es la declaración de voluntad, de juicio, de conocimiento o de deseo realizada por la Administración Pública en ejercicio de una potestad administrativa. Los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 34 a 36",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Elementos del acto administrativo: subjetivos (debe ser dictado por el órgano competente, sin incurrir en incompetencia manifiesta); objetivos (contenido lícito, posible y determinado, causa o presupuestos de hecho, y fin o adecuación al interés público); y formales (procedimiento legalmente establecido, forma escrita a través de medios electrónicos y motivación en los casos exigidos).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 35",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Motivación: serán motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos que limiten derechos subjetivos o intereses legítimos; los que resuelvan procedimientos de revisión de oficio, recursos administrativos y reclamaciones; los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos; los acuerdos de suspensión de actos; los acuerdos de aplicación de la tramitación de urgencia o de ampliación de plazos; y los que se dicten en el ejercicio de potestades discrecionales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 36",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Forma: los actos administrativos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia. En los casos en que los órganos administrativos ejerzan su competencia de forma verbal, la constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación del mismo la autoridad de la que procede.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 114",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Clases de actos administrativos: por su contenido, favorables (amplían la esfera jurídica del administrado: autorizaciones, concesiones, subvenciones) y de gravamen o desfavorables (la restringen: sanciones, expropiaciones, revocaciones); por sus efectos, definitivos o resolutorios y de trámite; por su impugnabilidad, los que ponen fin a la vía administrativa (art. 114: resoluciones de recursos de alzada, de órganos sin superior jerárquico y demás casos legales) y los que no la agotan; y por su exteriorización, expresos y presuntos (producidos por silencio administrativo).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 21",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Obligación de resolver: la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación. El plazo máximo para resolver y notificar será el fijado por la norma reguladora del correspondiente procedimiento, que no podrá exceder de seis meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea; cuando las normas reguladoras no fijen el plazo máximo, éste será de tres meses. El transcurso del plazo sin resolución expresa produce los efectos del silencio administrativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 24.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Silencio en procedimientos iniciados a solicitud del interesado, regla general: el vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado para entenderla estimada por silencio administrativo (silencio positivo), excepto en los supuestos en los que una norma con rango de ley o una norma de Derecho de la Unión Europea establezcan lo contrario. El silencio tendrá la consideración de acto administrativo finalizador del procedimiento y la estimación por silencio tendrá a todos los efectos la consideración de acto administrativo finalizador (art. 24.3).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 24.1",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Silencio negativo: cuando el procedimiento tenga por objeto el acceso a actividades o su ejercicio, la ley que establezca el silencio negativo deberá fundarse en la concurrencia de razones imperiosas de interés general. El silencio tendrá efecto desestimatorio en los procedimientos relativos al ejercicio del derecho de petición del art. 29 CE; aquellos cuya estimación tuviera como consecuencia que se transfirieran al solicitante facultades relativas al dominio público o al servicio público; los procedimientos de impugnación de actos y disposiciones; y los procedimientos de revisión de oficio iniciados a solicitud de los interesados. No obstante, cuando el recurso de alzada se haya interpuesto contra la desestimación por silencio de una solicitud por el transcurso del plazo, se entenderá estimado el recurso si el órgano competente no dictase resolución expresa en plazo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 25",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Silencio en procedimientos iniciados de oficio: en los procedimientos en los que la Administración ejercite potestades sancionadoras o, en general, de intervención susceptibles de producir efectos desfavorables o de gravamen, se producirá la caducidad y se ordenará el archivo de las actuaciones si vence el plazo máximo sin resolución expresa y notificación. En los procedimientos iniciados de oficio no susceptibles de producir efectos favorables, el vencimiento del plazo sin resolución expresa legitima a los interesados para entender desestimadas sus pretensiones por silencio administrativo.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 24.4",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Eficacia de los actos presuntos: los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada, y producirán efectos desde el vencimiento del plazo máximo en el que debe dictarse y notificarse la resolución expresa. La Administración, en todo caso, está obligada a dictar resolución expresa posterior, sin vinculación alguna al sentido del silencio, salvo que se hubiese adquirido un derecho por silencio positivo.",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E03",
+  "titulo": "El acto administrativo. Concepto. Elementos del acto administrativo. Clases de actos administrativos. La obligación de la Administración Pública de resolver. El silencio administrativo."
+}

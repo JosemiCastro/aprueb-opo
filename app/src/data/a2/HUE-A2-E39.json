@@ -1,0 +1,78 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: el concepto, la naturaleza y la clasificación de las subvenciones.",
+    "Puedo desarrollar este tema por escrito en 2 horas: las bases reguladoras y las convocatorias, con su contenido y procedimiento.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el procedimiento de concesión (concurrencia competitiva y concesión directa) y la gestión.",
+    "Puedo desarrollar este tema por escrito en 2 horas: requisitos y obligaciones de los beneficiarios, justificación, reintegro y control financiero.",
+    "Puedo desarrollar este tema por escrito en 2 horas: el régimen de infracciones y sanciones en materia de subvenciones.",
+    "Puedo citar con precisión los artículos 2, 9, 13, 14, 17, 22, 30, 37, 44 y 52 de la Ley 38/2003."
+  ],
+  "id": "HUE-A2-E39",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 2",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Concepto de subvención: toda disposición dineraria realizada por las Administraciones Públicas a favor de personas públicas o privadas, sin contraprestación directa de los beneficiarios, sujeta al cumplimiento de un determinado objetivo, la ejecución de un proyecto o la adopción de un comportamiento, y que tenga por objeto el fomento de una actividad de utilidad pública o interés social.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "art. 3",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Naturaleza y ámbito: las subvenciones otorgadas por las entidades que integran la Administración Local se ajustarán a las prescripciones de la ley, que tiene carácter básico; quedan excluidas de su ámbito, entre otras, las aportaciones dinerarias entre Administraciones Públicas para financiar globalmente su actividad y las subvenciones a partidos políticos y organizaciones sindicales.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 9",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Requisitos para el otorgamiento: con carácter previo deberán aprobarse las normas que establezcan las bases reguladoras de concesión; las bases reguladoras de cada tipo de subvención se publicarán en el diario oficial correspondiente y no podrán otorgarse subvenciones por cuantía superior a la determinada en la convocatoria.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 17",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Bases reguladoras: en la concesión en régimen de concurrencia competitiva contendrán como mínimo la definición del objeto, los requisitos de los beneficiarios, el procedimiento de concesión, los criterios de valoración, la cuantía y la composición del órgano colegiado; en el ámbito local se aprobarán en el marco de las bases de ejecución del presupuesto, a través de una ordenanza general de subvenciones o mediante ordenanza específica para las distintas modalidades.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 22",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Procedimientos de concesión: el procedimiento ordinario es la concurrencia competitiva, mediante la comparación de las solicitudes para establecer una prelación; podrán concederse de forma directa las subvenciones previstas nominativamente en los presupuestos, aquellas cuyo otorgamiento venga impuesto por norma de rango legal y, con carácter excepcional, aquellas en que se acrediten razones de interés público, social, económico o humanitario.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 23 a 25",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Convocatoria, instrucción y resolución: el procedimiento se inicia de oficio mediante convocatoria aprobada por el órgano competente y publicada; la instrucción corresponde al órgano designado en las bases, que formulará la propuesta de resolución tras el informe del órgano colegiado; la resolución se motivará de conformidad con las bases y se notificará a los beneficiarios.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 13 y 14",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Personas beneficiarias: para obtener la condición de beneficiario se requiere, entre otros requisitos, no estar incurso en prohibiciones y hallarse al corriente en el cumplimiento de las obligaciones tributarias y frente a la Seguridad Social (art. 13). Son obligaciones del beneficiario cumplir el objetivo, justificar el cumplimiento, someterse a las actuaciones de comprobación y control, y comunicar la obtención de otras subvenciones (art. 14).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 30",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Justificación: la justificación del cumplimiento de las condiciones impuestas y de la consecución de los objetivos se documentará mediante la cuenta justificativa, que contendrá la memoria de actuación, la memoria económica y, en su caso, la aportación de justificantes de gasto; el plazo se fijará en las bases y la falta de justificación dará lugar al reintegro.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 37 y 42",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Reintegro: procederá, entre otros supuestos, por obtención de la subvención falseando condiciones, incumplimiento total o parcial del objetivo o de la obligación de justificación, e incumplimiento de las obligaciones de difusión (art. 37). El procedimiento de reintegro se iniciará de oficio, garantizará la audiencia al interesado y su resolución deberá dictarse en el plazo máximo de 12 meses (art. 42).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 44 y 52",
+      "ley": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+      "punto": "Control financiero e infracciones: el control financiero de subvenciones se ejercerá por la Intervención General respecto de beneficiarios y entidades colaboradoras, con obligación de colaboración (art. 44). Constituyen infracciones administrativas en materia de subvenciones las acciones y omisiones tipificadas en la ley, clasificadas en leves, graves y muy graves, sancionadas con multa proporcional y, en su caso, pérdida de la posibilidad de obtener subvenciones (art. 52 y ss.).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E39",
+  "titulo": "La actividad subvencional de la Administración: concepto, naturaleza y clasificación de subvenciones. Bases reguladoras y convocatorias. Procedimiento de concesión y gestión de subvenciones. Requisitos y obligaciones de las personas beneficiarias de subvenciones. Justificación y reintegro. Control financiero. Régimen de infracciones y sanciones."
+}

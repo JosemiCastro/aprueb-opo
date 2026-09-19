@@ -1,0 +1,77 @@
+{
+  "checklist": [
+    "Puedo desarrollar este tema por escrito en 2 horas: las clases de iniciación del procedimiento: de oficio y a solicitud del interesado (arts. 54 y 66).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la subsanación y mejora de la solicitud y la declaración responsable y la comunicación (arts. 68 y 69).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los registros administrativos y las oficinas de asistencia en materia de registros (art. 16).",
+    "Puedo desarrollar este tema por escrito en 2 horas: los términos y plazos: obligatoriedad, cómputo, ampliación y tramitación de urgencia (arts. 29 a 33).",
+    "Puedo desarrollar este tema por escrito en 2 horas: la ordenación del procedimiento: impulso, celeridad y cumplimiento de trámites (arts. 71 a 74)."
+  ],
+  "id": "HUE-A2-E06",
+  "perfil": [
+    "a2"
+  ],
+  "puntos_clave": [
+    {
+      "articulo": "art. 55",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Iniciación de oficio: los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.",
+      "verificado_corpus": true
+    },
+    {
+      "articulo": "arts. 55 y 56",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Actuaciones previas y medidas provisionales: con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento (art. 55). Iniciado el procedimiento, el órgano competente para resolver podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer (art. 56).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 66",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Iniciación a solicitud del interesado: las solicitudes de iniciación deberán contener el nombre y apellidos del interesado y, en su caso, de su representante; la identificación del medio electrónico o lugar físico para notificaciones; los hechos, razones y petición en que se concrete la solicitud; el lugar y la fecha; la firma del solicitante; y el órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 68",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Subsanación y mejora de la solicitud: si la solicitud de iniciación no reúne los requisitos exigidos, se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución. En los procedimientos iniciados a solicitud de los interesados, el órgano competente podrá recabar del solicitante la modificación o mejora voluntarias de los términos de aquélla.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 69",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Declaración responsable y comunicación: se entenderá por declaración responsable el documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante el período de tiempo inherente a dicho reconocimiento o ejercicio. Se entenderá por comunicación aquel documento mediante el que los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho. La presentación de la declaración responsable o de la comunicación permitirá, con carácter general, el reconocimiento o ejercicio del derecho o bien el inicio de la actividad, desde el día de su presentación. La inexactitud, falsedad u omisión, de carácter esencial, determinará la imposibilidad de continuar con el ejercicio del derecho o actividad afectada.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 57",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Acumulación: el órgano administrativo que inicie o tramite un procedimiento, cualquiera que haya sido la forma de su iniciación, podrá disponer, de oficio o a instancia de algún interesado, su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento. Contra el acuerdo de acumulación no procederá recurso alguno.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "art. 16",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Registros administrativos: cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba en cualquier órgano administrativo, organismo público o entidad vinculada o dependiente. Los registros electrónicos de todas y cada una de las Administraciones deberán ser plenamente interoperables. Los documentos presentados de manera presencial ante las Administraciones Públicas deberán ser digitalizados. Los asientos se anotarán respetando el orden temporal de recepción o salida, e indicarán la fecha del día en que se produzcan; concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios. La fecha de entrada en el registro determina el inicio del cómputo de los plazos.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 29 y 30",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Términos y plazos: los términos y plazos establecidos en esta u otras leyes obligan a las autoridades y al personal al servicio de las Administraciones Públicas competentes para la tramitación de los asuntos, así como a los interesados en los mismos (art. 29). Cómputo (art. 30): los plazos señalados por días se entienden referidos a días hábiles, excluyéndose sábados, domingos y festivos; los señalados por meses o años se computarán de fecha a fecha; el cómputo del plazo se iniciará el día siguiente a aquel en que tenga lugar la notificación o publicación del acto de que se trate.",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 32 y 33",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Ampliación y urgencia: la Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero (art. 32). Cuando razones de interés público lo aconsejen, se podrá acordar, de oficio o a petición del interesado, la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos (art. 33).",
+      "verificado_corpus": false
+    },
+    {
+      "articulo": "arts. 71 a 74",
+      "ley": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+      "punto": "Ordenación del procedimiento: el procedimiento se impulsará de oficio en todos sus trámites, sin perjuicio de que los interesados puedan instar su impulso (art. 71); se guardará el orden riguroso de incoación en asuntos de homogénea naturaleza y se acordarán en un solo acto todos los trámites que admitan un impulso simultáneo (celeridad, art. 72); los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de diez días a partir del siguiente al de la notificación del acto correspondiente, salvo que la norma fije otro plazo (art. 73); y las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del mismo, salvo la recusación (art. 74).",
+      "verificado_corpus": false
+    }
+  ],
+  "tema": "E06",
+  "titulo": "La estructura del procedimiento administrativo común (I): iniciación. Clases de iniciación. Subsanación y mejora de la solicitud. Declaración responsable y comunicación. Los registros administrativos. Términos y plazos. Ordenación."
+}

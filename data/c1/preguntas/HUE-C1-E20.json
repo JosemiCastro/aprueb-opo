@@ -1,0 +1,262 @@
+[
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿En qué consiste la responsabilidad patrimonial de las Administraciones Públicas?",
+    "explicacion": "El art. 32.1 de la Ley 40/2015 consagra el derecho a la indemnización por el funcionamiento de los servicios públicos, con las excepciones de fuerza mayor y de daños sin deber jurídico de soportar.",
+    "id": "HUE-C1-E20-001",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "En el derecho de los particulares a ser indemnizados por toda lesión que sufran en sus bienes y derechos como consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar.",
+    "tema": "E20",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Qué requisitos debe reunir el daño para ser indemnizable por responsabilidad patrimonial?",
+    "explicacion": "Art. 32.2: el daño ha de ser real (no hipotético), cuantificable en dinero y referido a una persona o grupo determinado.",
+    "id": "HUE-C1-E20-002",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Debe ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Es necesario que concurra culpa o negligencia de la Administración para exigir responsabilidad patrimonial?",
+    "explicacion": "La responsabilidad patrimonial es objetiva: el art. 32.1 no exige culpa, basta la lesión derivada del funcionamiento normal o anormal de los servicios públicos.",
+    "id": "HUE-C1-E20-003",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: basta la lesión producida por el funcionamiento normal o anormal de los servicios públicos, sin necesidad de acreditar culpa o negligencia.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Son indemnizables los daños derivados de hechos imprevisibles según el estado de la ciencia y de la técnica?",
+    "explicacion": "Art. 32.3: la cláusula del estado de la ciencia excluye la indemnización, sin perjuicio de las prestaciones asistenciales o económicas que las leyes puedan establecer.",
+    "id": "HUE-C1-E20-004",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: no serán indemnizables los daños que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producirse.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿La anulación de un acto administrativo en vía administrativa o contencioso-administrativa presupone por sí sola el derecho a indemnización?",
+    "explicacion": "Art. 32.4: la anulación no genera automáticamente indemnización; habrá que acreditar los requisitos de la responsabilidad patrimonial.",
+    "id": "HUE-C1-E20-005",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Con arreglo a qué criterios se calcula la indemnización por responsabilidad patrimonial?",
+    "explicacion": "Art. 32.5: remite a la legislación de expropiación forzosa y fiscal, ponderando los valores de mercado.",
+    "id": "HUE-C1-E20-006",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Con arreglo a los criterios de valoración establecidos en la legislación de expropiación forzosa, en la legislación fiscal y en las demás normas aplicables, ponderándose las valoraciones predominantes en el mercado.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 33",
+    "enunciado": "Si la lesión deriva de una actuación conjunta de varias Administraciones Públicas, ¿cómo responden frente al particular?",
+    "explicacion": "Art. 33.1: solidaridad frente al lesionado cuando la gestión dimane de fórmulas conjuntas de actuación; la distribución interna puede fijarse en el instrumento regulador.",
+    "id": "HUE-C1-E20-007",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De forma solidaria; el instrumento jurídico regulador de la actuación conjunta podrá determinar la distribución de la responsabilidad entre las diferentes Administraciones.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 34",
+    "enunciado": "¿A qué fecha se refiere el cálculo de la cuantía de la indemnización?",
+    "explicacion": "Art. 34.2: la cuantía se calcula al día de la lesión, se actualiza al Índice de Garantía de la Competitividad a la terminación del procedimiento y se incrementa con los intereses por demora.",
+    "id": "HUE-C1-E20-008",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se calcula con referencia al día en que la lesión efectivamente se produjo, actualizada a la fecha en que se ponga fin al procedimiento con arreglo al Índice de Garantía de la Competitividad, más los intereses que procedan por demora en el pago.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 35",
+    "enunciado": "¿Qué régimen de responsabilidad se aplica cuando la Administración actúa en relaciones de derecho privado?",
+    "explicacion": "Art. 35: aunque la Administración actúe en el tráfico privado, directamente o a través de una entidad de derecho privado, responde conforme a los arts. 32 y siguientes.",
+    "id": "HUE-C1-E20-009",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Su responsabilidad se exige de conformidad con lo previsto en los arts. 32 y siguientes de la Ley 40/2015, incluso cuando concurra con sujetos de derecho privado o actúe a través de una entidad de derecho privado.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Ante quién debe reclamar el particular la indemnización por los daños causados por las autoridades y el personal al servicio de la Administración?",
+    "explicacion": "Art. 36.1: la reclamación se dirige directamente contra la Administración, sin necesidad de demandar al funcionario o autoridad causante.",
+    "id": "HUE-C1-E20-010",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Directamente ante la Administración Pública correspondiente.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "Una vez indemnizado el lesionado, ¿qué debe hacer la Administración respecto de la autoridad o el empleado causante del daño?",
+    "explicacion": "Art. 36.2: acción de regreso obligatoria de la Administración contra su personal en casos de dolo o culpa o negligencia graves, previa instrucción del procedimiento de exigencia de responsabilidad.",
+    "id": "HUE-C1-E20-011",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Exigir de oficio en vía administrativa la responsabilidad de sus autoridades y demás personal a su servicio cuando hubieran incurrido en dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento.",
+    "tema": "E20",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Qué criterios se ponderan para exigir responsabilidad a las autoridades y al personal al servicio de las Administraciones Públicas?",
+    "explicacion": "Art. 36.3: el legislador enumera los criterios de graduación de la responsabilidad del personal.",
+    "id": "HUE-C1-E20-012",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "El resultado dañoso producido, la existencia o no de intencionalidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Puede la Administración exigir responsabilidad a su personal por los daños causados a sus propios bienes o derechos?",
+    "explicacion": "Art. 36.4: la acción de regreso también procede por daños al patrimonio de la propia Administración cuando concurra dolo o culpa o negligencia graves.",
+    "id": "HUE-C1-E20-013",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí, instruyendo igual procedimiento cuando en la producción de los daños hubiera concurrido dolo, o culpa o negligencia graves.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿La resolución que declara la responsabilidad de la autoridad o del personal pone fin a la vía administrativa?",
+    "explicacion": "Art. 36.5: la resolución declaratoria de responsabilidad agota la vía administrativa.",
+    "id": "HUE-C1-E20-014",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Sí.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 37",
+    "enunciado": "¿Cómo se exige la responsabilidad penal del personal al servicio de las Administraciones Públicas y la responsabilidad civil derivada del delito?",
+    "explicacion": "Art. 37: remisión a la legislación penal y procesal correspondiente, al margen del régimen administrativo de los arts. 32 a 36.",
+    "id": "HUE-C1-E20-015",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "De acuerdo con lo previsto en la legislación correspondiente.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 32",
+    "enunciado": "¿Qué norma rige la responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia?",
+    "explicacion": "Art. 32.7: remisión expresa a la Ley Orgánica del Poder Judicial para este supuesto especial.",
+    "id": "HUE-C1-E20-016",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "La Ley Orgánica del Poder Judicial.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 67",
+    "enunciado": "¿En qué plazo prescribe el derecho a reclamar responsabilidad patrimonial?",
+    "explicacion": "Art. 67.1 de la Ley 39/2015: plazo de prescripción de un año, con regla especial de cómputo para daños físicos o psíquicos.",
+    "id": "HUE-C1-E20-017",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Al año de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo; en caso de daños físicos o psíquicos, desde la curación o la determinación del alcance de las secuelas.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 65",
+    "enunciado": "En un procedimiento de responsabilidad patrimonial iniciado de oficio, ¿qué trámite se concede a los particulares presuntamente lesionados?",
+    "explicacion": "Art. 65.1 de la Ley 39/2015: en el inicio de oficio se notifica a los presuntos lesionados para que puedan personarse y defender su derecho.",
+    "id": "HUE-C1-E20-018",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Se les notifica el acuerdo de iniciación concediéndoles un plazo de diez días para que aporten alegaciones, documentos o información y propongan las pruebas pertinentes.",
+    "tema": "E20",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 81",
+    "enunciado": "¿Cuándo es preceptivo el dictamen del Consejo de Estado (u órgano consultivo autonómico) en los procedimientos de responsabilidad patrimonial?",
+    "explicacion": "Art. 81.2 de la Ley 39/2015: dictamen preceptivo a partir de 50.000 euros, además del informe preceptivo del servicio cuyo funcionamiento ocasionó la lesión (diez días).",
+    "id": "HUE-C1-E20-019",
+    "ley": "Ley 39/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica; además es preceptivo el informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión, que debe emitirse en diez días.",
+    "tema": "E20",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 36",
+    "enunciado": "¿Necesita el particular dirigir su reclamación contra el funcionario causante del daño para que la Administración le exija después responsabilidad?",
+    "explicacion": "No: el art. 36.1 impone la reclamación directa a la Administración, y el art. 36.2 obliga a esta a ejercer de oficio la acción de regreso contra su personal en los casos graves.",
+    "id": "HUE-C1-E20-020",
+    "ley": "Ley 40/2015",
+    "perfil": [
+      "c1"
+    ],
+    "respuesta": "No: el particular reclama directamente a la Administración, y es esta la que, tras indemnizar, exige de oficio la responsabilidad a sus autoridades y personal cuando hubiera dolo, o culpa o negligencia graves.",
+    "tema": "E20",
+    "verificado_corpus": false
+  }
+]
