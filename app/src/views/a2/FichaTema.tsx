@@ -1,19 +1,9 @@
 import type { CSSProperties } from 'react';
 import { Card, Header } from '../../components/ui';
+import { CitaPill } from '../../components/CitaArticulo';
 import { esquemaDeTema, tituloTema } from '../../lib/data';
 import { recordSession, setCheck } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
-
-const chipStyle: CSSProperties = {
-  display: 'inline-block',
-  fontSize: '0.8rem',
-  fontWeight: 600,
-  color: '#1a56db',
-  background: '#e8eefb',
-  borderRadius: 999,
-  padding: '2px 10px',
-  marginTop: 6,
-};
 
 const badgeStyle: CSSProperties = {
   display: 'inline-block',
@@ -95,17 +85,16 @@ export default function FichaTema({ temaId }: { temaId: string }) {
 
   return (
     <div className="screen">
-      <Header title={tituloTema('a2', temaId)} backTo="/a2" />
+      <Header title="Ficha A2" backTo="/a2" />
       <main className="container">
+        <h1 className="tema-title">{tituloTema('a2', temaId)}</h1>
         <Card>
           <h2>Puntos clave</h2>
           <ul style={listReset}>
             {esquema.puntos_clave.map((p, i) => (
               <li key={i} style={puntoItem}>
                 <div>{p.punto}</div>
-                <span style={chipStyle}>
-                  {p.ley} · {p.articulo}
-                </span>
+                <CitaPill ley={p.ley} articulo={p.articulo} />
               </li>
             ))}
           </ul>

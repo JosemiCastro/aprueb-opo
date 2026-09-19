@@ -6,6 +6,12 @@ import jwt from "jsonwebtoken";
 import { mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import {
+  extraerArticulo,
+  parseCita,
+  resolverLey,
+  tituloDocumento,
+} from "./lib/articulos.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = process.env.DATA_DIR || join(here, "data");
@@ -135,6 +141,80 @@ function requireAuth(req, res, next) {
 
 app.get("/api/auth/me", requireAuth, (req, res) => {
   return res.json({ username: req.user.username });
+});
+
+// ---- Texto de artículos del corpus legal local ----
+// GET /api/articulo?ley=<nombre citado>&articulo=<cita: "art. 1.3", "arts. 68, 71 y 82"...>
+app.get("/api/articulo", (req, res) => {
+  const { ley, articulo } = req.query;
+  if (
+    typeof ley !== "string" ||
+    !ley.trim() ||
+    typeof articulo !== "string" ||
+    !articulo.trim() ||
+    ley.length > 300 ||
+    articulo.length > 200
+  ) {
+    return res.status(400).json({
+      error: "parametros_requeridos",
+      message: "Indica los parámetros 'ley' y 'articulo'.",
+    });
+  }
+
+  const leyRes = resolverLey(ley.trim());
+  if (!leyRes) {
+    return res.status(404).json({
+      error: "ley_no_encontrada",
+      message: `La ley "${ley.trim()}" no está en el corpus local.`,
+    });
+  }
+  if (!leyRes.archivo) {
+    return res.status(404).json({
+      error: "ley_sin_corpus",
+      message: `La ley "${leyRes.nombre}" no tiene texto disponible en el corpus local.`,
+      motivo: leyRes.motivo || "fuente fuera del corpus",
+    });
+  }
+
+  const refs = parseCita(articulo.trim());
+  if (!refs) {
+    return res.status(400).json({
+      error: "cita_no_valida",
+      message: `La cita "${articulo.trim()}" no referencia artículos concretos.`,
+    });
+  }
+
+  const articulos = [];
+  const noEncontrados = [];
+  for (const r of refs) {
+    const art = extraerArticulo(leyRes.archivo, r.numero);
+    if (art && art.texto) {
+      articulos.push({
+        numero: art.numero,
+        sub: r.sub,
+        titulo: art.titulo,
+        texto: art.texto,
+      });
+    } else {
+      noEncontrados.push(r.numero);
+    }
+  }
+
+  if (articulos.length === 0) {
+    return res.status(404).json({
+      error: "articulo_no_encontrado",
+      message: `El artículo ${refs.map((r) => r.numero).join(", ")} no se encontró en "${leyRes.nombre}".`,
+      noEncontrados,
+    });
+  }
+
+  return res.json({
+    ley: leyRes.nombre,
+    cita: articulo.trim(),
+    titulo: tituloDocumento(leyRes.archivo),
+    articulos,
+    noEncontrados,
+  });
 });
 
 // Unknown API routes → JSON 404 (must come before the static fallback).

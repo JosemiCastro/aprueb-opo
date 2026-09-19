@@ -1,1 +1,18 @@
-{"dependencies":{"bcryptjs":"^2.4.3","express":"^4.21.2","jsonwebtoken":"^9.0.2"},"engines":{"node":">=20"},"name":"oposdipu-server","private":true,"scripts":{"start":"node index.js","test":"node --test test/auth.test.js"},"type":"module","version":"1.0.0"}
+{
+  "name": "oposdipu-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

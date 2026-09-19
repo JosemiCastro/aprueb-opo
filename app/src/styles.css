@@ -98,6 +98,10 @@ body {
   font-weight: 700;
   letter-spacing: 0.01em;
   flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .back {
@@ -570,4 +574,182 @@ a {
   .btn {
     transition: none;
   }
+}
+
+/* ---------- Título de tema bajo la cabecera ---------- */
+
+.tema-title {
+  font-size: 1.25rem;
+  line-height: 1.35;
+  margin: 4px 0 14px;
+  overflow-wrap: break-word;
+}
+
+/* ---------- Pastilla de cita legal ---------- */
+
+.cita-pill {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #1a56db;
+  background: #e8eefb;
+  border: none;
+  border-radius: 999px;
+  padding: 4px 12px;
+  margin-top: 6px;
+  font-family: inherit;
+  line-height: 1.4;
+  text-align: left;
+}
+
+button.cita-pill-btn {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+}
+
+button.cita-pill-btn:hover {
+  background: #d9e4fa;
+}
+
+/* ---------- Modal de artículo ---------- */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 18, 40, 0.55);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  z-index: 50;
+  padding: 0;
+}
+
+@media (min-width: 640px) {
+  .modal-overlay {
+    align-items: center;
+    padding: 24px;
+  }
+}
+
+.modal {
+  background: #fff;
+  color: var(--text);
+  width: 100%;
+  max-width: 640px;
+  max-height: 88vh;
+  overflow-y: auto;
+  border-radius: 16px 16px 0 0;
+  padding: 18px 18px 28px;
+  box-shadow: 0 -8px 40px rgba(0, 0, 0, 0.25);
+}
+
+@media (min-width: 640px) {
+  .modal {
+    border-radius: 16px;
+  }
+}
+
+.modal-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.modal-ley {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+.modal-cita {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--primary-deep);
+}
+
+.modal-close {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  background: var(--border);
+}
+
+.modal-loading {
+  color: var(--text-muted);
+  padding: 24px 0;
+  text-align: center;
+}
+
+.modal-error {
+  background: #fdecec;
+  color: #a02a2a;
+  border: 1px solid #f5c6c6;
+  border-radius: 10px;
+  padding: 14px;
+  line-height: 1.5;
+}
+
+.modal-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.modal-chip {
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.modal-chip-active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+.modal-art-titulo {
+  font-size: 1.05rem;
+  margin: 0 0 4px;
+  color: var(--primary-deep);
+}
+
+.modal-art-subtitulo {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 0 0 12px;
+}
+
+.modal-art-texto p {
+  line-height: 1.65;
+  margin: 0 0 12px;
+}
+
+.modal-aviso {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
 }

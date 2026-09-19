@@ -43,6 +43,12 @@ de la app. Endpoints:
 - `POST /api/auth/register` `{username, password}` → 201 / 400 / 409
 - `POST /api/auth/login` `{username, password}` → 200 `{token}` / 401
 - `GET /api/auth/me` (header `Authorization: Bearer <token>`) → 200 `{username}` / 401
+- `GET /api/articulo?ley=<nombre citado>&articulo=<cita>` → 200 / 400 / 404.
+  Devuelve el texto de los artículos del corpus legal local
+  (`server/corpus/`, extraído de legalize-es según `doc/quality/mapa-leyes.json`).
+  Respuesta: `{ley, cita, titulo, articulos: [{numero, sub, titulo, texto}], noEncontrados}`.
+  404 si la ley no está en el corpus (p. ej. normativa propia de Diputación)
+  o si el artículo no se encuentra.
 
 Los usuarios se guardan en `users.json` dentro de `DATA_DIR` (escritura atómica,
 passwords con bcrypt 10 rounds). El token JWT expira a los 7 días.
@@ -51,7 +57,7 @@ passwords con bcrypt 10 rounds). El token JWT expira a los 7 días.
 cd server
 npm install
 npm start   # http://localhost:3000
-npm test    # tests con node:test (8 casos)
+npm test    # tests con node:test (15 casos)
 ```
 
 ### Variables de entorno
