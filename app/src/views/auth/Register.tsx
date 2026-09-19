@@ -1,10 +1,11 @@
 import { useState } from 'react';
 import type { FormEvent } from 'react';
-import { register } from '../../lib/auth';
+import { useAuth } from '../../lib/auth';
 import { link, navigate } from '../../lib/router';
 import { Btn } from '../../components/ui';
 
 export default function Register() {
+  const { register } = useAuth();
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [confirm, setConfirm] = useState('');

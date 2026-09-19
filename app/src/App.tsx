@@ -1,6 +1,7 @@
 import type { ReactElement } from 'react';
 import { BottomNav, Header } from './components/ui';
 import { RequireAuth } from './components/RequireAuth';
+import { AuthProvider } from './lib/auth';
 import { link, useHashRoute } from './lib/router';
 import Login from './views/auth/Login';
 import Register from './views/auth/Register';
@@ -102,15 +103,18 @@ function resolveDynamic(path: string): () => ReactElement {
 
 export default function App() {
   const path = useHashRoute();
+  let screen: ReactElement;
   if (publicRoutes[path]) {
     const Screen = publicRoutes[path];
-    return <Screen />;
+    screen = <Screen />;
+  } else {
+    const Screen = routes[path] ?? resolveDynamic(path);
+    screen = (
+      <RequireAuth>
+        <Screen />
+        <BottomNav />
+      </RequireAuth>
+    );
   }
-  const Screen = routes[path] ?? resolveDynamic(path);
-  return (
-    <RequireAuth>
-      <Screen />
-      <BottomNav />
-    </RequireAuth>
-  );
+  return <AuthProvider>{screen}</AuthProvider>;
 }

@@ -1,4 +1,11 @@
-import { useEffect, useState } from 'react';
+import {
+  createContext,
+  useCallback,
+  useContext,
+  useEffect,
+  useState,
+} from 'react';
+import type { ReactNode } from 'react';
 
 export const TOKEN_KEY = 'oposdipu-token';
 
@@ -110,41 +117,92 @@ export async function me(): Promise<{ username: string }> {
   return { username };
 }
 
-export function useAuth(): {
+interface AuthContextValue {
   user: string | null;
   loading: boolean;
+  login: (username: string, password: string) => Promise<void>;
+  register: (username: string, password: string) => Promise<void>;
   logout: () => void;
-} {
+  refresh: () => Promise<void>;
+}
+
+const AuthContext = createContext<AuthContextValue | null>(null);
+
+// Las funciones login()/register()/logout() de arriba hablan con la API;
+// el proveedor las envuelve para mantener el estado de React sincronizado.
+export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    let alive = true;
-    const token = getToken();
-    if (!token) {
+  const refresh = useCallback(async () => {
+    if (!getToken()) {
+      setUser(null);
       setLoading(false);
       return;
     }
-    me()
-      .then((data) => {
-        if (alive) setUser(data.username);
-      })
-      .catch(() => {
-        logout();
-        if (alive) setUser(null);
-      })
-      .finally(() => {
-        if (alive) setLoading(false);
-      });
-    return () => {
-      alive = false;
-    };
+    try {
+      const data = await me();
+      setUser(data.username);
+    } catch {
+      logout();
+      setUser(null);
+    } finally {
+      setLoading(false);
+    }
   }, []);
 
-  const doLogout = () => {
+  useEffect(() => {
+    void refresh();
+  }, [refresh]);
+
+  // Si se cierra sesión en otra pestaña, reflejarlo aquí también.
+  useEffect(() => {
+    const onStorage = (e: StorageEvent) => {
+      if (e.key === TOKEN_KEY) void refresh();
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
+  }, [refresh]);
+
+  const signIn = useCallback(
+    async (username: string, password: string) => {
+      await login(username, password);
+      await refresh();
+    },
+    [refresh],
+  );
+
+  const signUp = useCallback(
+    async (username: string, password: string) => {
+      await register(username, password);
+      await refresh();
+    },
+    [refresh],
+  );
+
+  const signOut = useCallback(() => {
     logout();
     setUser(null);
-  };
+  }, []);
 
-  return { user, loading, logout: doLogout };
+  return (
+    <AuthContext.Provider
+      value={{
+        user,
+        loading,
+        login: signIn,
+        register: signUp,
+        logout: signOut,
+        refresh,
+      }}
+    >
+      {children}
+    </AuthContext.Provider>
+  );
+}
+
+export function useAuth(): AuthContextValue {
+  const ctx = useContext(AuthContext);
+  if (!ctx) throw new Error('useAuth debe usarse dentro de <AuthProvider>');
+  return ctx;
 }
