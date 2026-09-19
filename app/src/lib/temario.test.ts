@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { listarTemario, obtenerTema, temasRelacionados } from './temario';
 import { parseCita } from './citas';
-import mapa from '../../../server/corpus/mapa.json';
+import mapa from '../data/mapa.json';
 
 const LEYES = new Set(Object.keys(mapa as Record<string, unknown>));
 // Marcador estricto: [[ley | art./arts. ...]]
