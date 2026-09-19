@@ -65,7 +65,7 @@ App PWA en `~/workspace/opos-dipu/app` (Vite + React 19 + TS). `npm run build` �
 
 ## Fase 6 — Publicar en GitHub
 
-- **US-12.** Subir el proyecto al repo `JosemiCastro/aprueb-opo` (vacío, remoto ya configurado en local).
+- **US-12.** Subir el proyecto al repo `JosemiCastro/aprueb-opo`. ✅ PUBLICADO 2026-09-19 (rama main, 249 archivos).
   - AC-01: `main` contiene `doc/`, `data/` y README con descripción del proyecto.
   - Pendiente: acceso push (token de Josemi con permiso `contents:write` en el repo) cuando termine la generación de contenidos.
 
