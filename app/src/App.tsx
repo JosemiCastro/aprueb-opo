@@ -18,7 +18,6 @@ import DetalleTema from './views/temario/DetalleTema';
 import Oposiciones, { OpoCard } from './views/Oposiciones';
 import Progreso from './views/Progreso';
 import Login from './views/auth/Login';
-import Register from './views/auth/Register';
 
 const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)'];
 
@@ -60,7 +59,6 @@ function Home() {
 
 const publicRoutes: Record<string, () => ReactElement> = {
   '/login': Login,
-  '/register': Register,
 };
 
 const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1'];

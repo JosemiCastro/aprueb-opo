@@ -89,25 +89,7 @@ export const app = express();
 app.use(express.json({ limit: "100kb" }));
 
 // ---- Auth routes ----
-app.post("/api/auth/register", async (req, res) => {
-  const { username, password } = req.body ?? {};
-  const errors = validateCredentials(username, password);
-  if (errors.length > 0) {
-    return res.status(400).json({ error: errors.join("; ") });
-  }
-  const name = username.trim();
-  const users = loadUsers();
-  if (users[name]) {
-    return res.status(409).json({ error: "user already exists" });
-  }
-  users[name] = {
-    hash: await bcrypt.hash(password, BCRYPT_ROUNDS),
-    createdAt: new Date().toISOString(),
-  };
-  saveUsers(users);
-  return res.status(201).json({ username: name });
-});
-
+// Registro público deshabilitado: las cuentas se crean vía SEED_USER/SEED_PASS.
 app.post("/api/auth/login", async (req, res) => {
   const { username, password } = req.body ?? {};
   const name = typeof username === "string" ? username.trim() : "";

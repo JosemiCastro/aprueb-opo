@@ -112,7 +112,7 @@ function opoDePath(path: string): string | null {
 export function BottomNav() {
   const path = useHashRoute();
   // Fuera de la app autenticada no hay navegación.
-  if (path === '/login' || path === '/register') return null;
+  if (path === '/login') return null;
 
   const enTemario = /^(\/(c1|a2)|(\/opo\/[A-Za-z0-9-]+))\/temario/.test(path);
   const opoActual = opoDePath(path);

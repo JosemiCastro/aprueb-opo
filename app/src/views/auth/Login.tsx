@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import type { FormEvent } from 'react';
 import { useAuth } from '../../lib/auth';
-import { link, navigate } from '../../lib/router';
+import { navigate } from '../../lib/router';
 import { Btn } from '../../components/ui';
 
 export default function Login() {
@@ -72,10 +72,6 @@ export default function Login() {
           <Btn type="submit" disabled={busy}>
             {busy ? 'Entrando…' : 'Entrar'}
           </Btn>
-          <p className="auth-switch">
-            ¿No tienes cuenta?{' '}
-            <a href={link('/register')}>Crear cuenta</a>
-          </p>
         </form>
       </div>
     </div>

@@ -46,36 +46,16 @@ async function api(method, path, { body, token } = {}) {
 
 let token;
 
-test("register → 201", async () => {
-  const { status, json } = await api("POST", "/api/auth/register", {
-    body: { username: "tester", password: "secret123" },
-  });
-  assert.equal(status, 201);
-  assert.equal(json.username, "tester");
-});
-
-test("register duplicado → 409", async () => {
+test("register deshabilitado → 404", async () => {
   const { status } = await api("POST", "/api/auth/register", {
-    body: { username: "tester", password: "secret123" },
+    body: { username: "nuevo", password: "secret123" },
   });
-  assert.equal(status, 409);
-});
-
-test("validación → 400 (username corto / password corto)", async () => {
-  const shortUser = await api("POST", "/api/auth/register", {
-    body: { username: "ab", password: "secret123" },
-  });
-  assert.equal(shortUser.status, 400);
-
-  const shortPass = await api("POST", "/api/auth/register", {
-    body: { username: "tester2", password: "123" },
-  });
-  assert.equal(shortPass.status, 400);
+  assert.equal(status, 404);
 });
 
 test("login → 200 con token", async () => {
   const { status, json } = await api("POST", "/api/auth/login", {
-    body: { username: "tester", password: "secret123" },
+    body: { username: "admin", password: "oposdipu-2026" },
   });
   assert.equal(status, 200);
   assert.ok(typeof json.token === "string" && json.token.length > 0);
@@ -84,7 +64,7 @@ test("login → 200 con token", async () => {
 
 test("login malo → 401", async () => {
   const wrong = await api("POST", "/api/auth/login", {
-    body: { username: "tester", password: "wrongpass" },
+    body: { username: "admin", password: "wrongpass" },
   });
   assert.equal(wrong.status, 401);
 
@@ -97,7 +77,7 @@ test("login malo → 401", async () => {
 test("/me con token → 200 {username}", async () => {
   const { status, json } = await api("GET", "/api/auth/me", { token });
   assert.equal(status, 200);
-  assert.equal(json.username, "tester");
+  assert.equal(json.username, "admin");
 });
 
 test("/me sin token → 401", async () => {
