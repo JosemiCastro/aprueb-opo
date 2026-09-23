@@ -3,6 +3,7 @@
 import express from "express";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
+import rateLimit from "express-rate-limit";
 import { mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -17,13 +18,14 @@ const here = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = process.env.DATA_DIR || join(here, "data");
 const USERS_FILE = join(DATA_DIR, "users.json");
 
-const JWT_SECRET = process.env.JWT_SECRET;
-if (!JWT_SECRET) {
-  console.warn(
-    "[auth] WARNING: JWT_SECRET not set — using insecure development secret. Set JWT_SECRET in production!"
+const jwtSecret = process.env.JWT_SECRET;
+if (!jwtSecret) {
+  console.error(
+    "[auth] FATAL: JWT_SECRET no está configurado. El servidor no arranca sin " +
+      "un secreto JWT. Define JWT_SECRET como variable de entorno."
   );
+  process.exit(1);
 }
-const jwtSecret = JWT_SECRET || "oposdipu-dev-secret-CHANGE-ME";
 
 const BCRYPT_ROUNDS = 10;
 const TOKEN_TTL = "7d";
@@ -86,10 +88,29 @@ function seedUser() {
 
 // ---- App ----
 export const app = express();
+// Detrás del proxy inverso de Easypanel: necesario para que el rate limiting
+// vea la IP real del cliente en lugar de la del proxy.
+app.set("trust proxy", 1);
 app.use(express.json({ limit: "100kb" }));
 
+// ---- Rate limiting en auth (anti fuerza bruta / registro masivo) ----
+const loginLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutos
+  max: 10, // 10 intentos por IP
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: "demasiados intentos, inténtalo de nuevo más tarde" },
+});
+const registerLimiter = rateLimit({
+  windowMs: 60 * 60 * 1000, // 1 hora
+  max: 5, // 5 registros por IP
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: { error: "demasiados registros, inténtalo de nuevo más tarde" },
+});
+
 // ---- Auth routes ----
-app.post("/api/auth/register", async (req, res) => {
+app.post("/api/auth/register", registerLimiter, async (req, res) => {
   const { username, password } = req.body ?? {};
   const errors = validateCredentials(username, password);
   if (errors.length > 0) {
@@ -105,10 +126,11 @@ app.post("/api/auth/register", async (req, res) => {
     createdAt: new Date().toISOString(),
   };
   saveUsers(users);
-  return res.status(201).json({ username: name });
+  const token = jwt.sign({ username: name }, jwtSecret, { expiresIn: TOKEN_TTL });
+  return res.status(201).json({ username: name, token });
 });
 
-app.post("/api/auth/login", async (req, res) => {
+app.post("/api/auth/login", loginLimiter, async (req, res) => {
   const { username, password } = req.body ?? {};
   const name = typeof username === "string" ? username.trim() : "";
   const users = loadUsers();

@@ -62,13 +62,17 @@ npm test    # tests con node:test (15 casos)
 
 ### Variables de entorno
 
-| Variable     | Defecto                  | Descripción                                           |
-|--------------|--------------------------|-------------------------------------------------------|
-| `JWT_SECRET` | secreto de desarrollo    | **Obligatorio en producción.** Secreto para firmar JWT |
-| `PORT`       | `3000`                   | Puerto de escucha                                     |
-| `SEED_USER`  | `admin`                  | Usuario creado al arrancar (si no existe)             |
-| `SEED_PASS`  | `oposdipu-2026`          | Contraseña del usuario seed                           |
-| `DATA_DIR`   | `<server>/data`          | Directorio donde se guarda `users.json`               |
+| Variable     | Defecto                  | Descripción                                                                |
+|--------------|--------------------------|----------------------------------------------------------------------------|
+| `JWT_SECRET` | *(ninguno)*               | **Obligatorio: el servidor no arranca sin él.** Secreto para firmar JWT     |
+| `PORT`       | `3000`                   | Puerto de escucha                                                          |
+| `SEED_USER`  | `admin`                  | Usuario creado al arrancar (si no existe)                                  |
+| `SEED_PASS`  | `oposdipu-2026`          | Contraseña del usuario seed                                                |
+| `DATA_DIR`   | `<server>/data`          | Directorio donde se guarda `users.json`                                    |
+
+Seguridad: el login está limitado a 10 intentos por IP cada 15 minutos y el
+registro a 5 por IP cada hora. Para desarrollo local arranca con
+`JWT_SECRET=dev-local-... npm start` (cualquier cadena sirve en local).
 
 Credenciales por defecto: **admin / oposdipu-2026** (solo desarrollo).
 En producción define `SEED_USER`/`SEED_PASS` propios o desactiva el seed con
