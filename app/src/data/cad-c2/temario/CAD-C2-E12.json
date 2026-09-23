@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E12",
+  "tema": "E12",
+  "numero": 12,
+  "tipo": "especifico",
+  "titulo": "El archivo. Concepto. Tipos de archivos. Organización del archivo. Normas de acceso a los archivos. El proceso de archivo. El archivo de los documentos administrativos.",
+  "relacionados": [
+    "CAD-C2-E03",
+    "CAD-C2-E11",
+    "CAD-C2-E13"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Concepto y tipos de archivos",
+      "texto": "El archivo es el conjunto orgánico de documentos producidos o recibidos por una persona o entidad en el ejercicio de sus funciones, así como la institución y el servicio encargados de su custodia y difusión. Por su ciclo vital se distinguen: el archivo de oficina o de gestión (documentos en trámite), el archivo central (documentos de uso menos frecuente pero aún vigentes), el archivo intermedio (documentos con valor administrativo decreciente) y el archivo histórico (documentos de conservación permanente por su valor informativo o cultural). Por su titularidad pueden ser públicos o privados."
+    },
+    {
+      "titulo": "2. Organización del archivo",
+      "texto": "La organización del archivo comprende la identificación de las series documentales, su clasificación conforme al cuadro de clasificación funcional u orgánico, la ordenación (cronológica, alfabética, numérica o alfanumérica), la descripción mediante instrumentos como inventarios, catálogos e índices, y la instalación en condiciones adecuadas de conservación. Cada Administración Pública mantendrá un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 17]]). El cuadro de clasificación se estructura normalmente por funciones y actividades, y la descripción se realiza en distintos niveles, desde el fondo documental hasta la unidad documental simple."
+    },
+    {
+      "titulo": "3. Normas de acceso a los archivos",
+      "texto": "Todas las personas tienen derecho a acceder a la información pública, incluidos los archivos y registros administrativos ([[Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno |  art. 12]]). El acceso puede limitarse por las causas del [[Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno |  art. 14]] (seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención de delitos, igualdad de las partes en procesos judiciales, funciones administrativas de vigilancia, intereses económicos, política económica y monetaria, secreto profesional, propiedad intelectual o confidencialidad en la toma de decisiones). La solicitud de acceso se presenta ante el órgano competente ([[Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno |  art. 17]]) y debe resolverse en el plazo máximo de un mes ([[Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno |  art. 20]])."
+    },
+    {
+      "titulo": "4. El proceso de archivo y el archivo de los documentos administrativos",
+      "texto": "El proceso de archivo sigue el ciclo vital del documento: producción y recepción, tramitación en el archivo de gestión, transferencia al archivo central e intermedio, valoración y selección (determinando qué se conserva y qué se elimina conforme a la normativa), y conservación permanente en el archivo histórico. Los documentos electrónicos se conservan garantizando su autenticidad, integridad y legibilidad ([[Real Decreto 203/2021 |  art. 54]]), y el archivo electrónico único asegura su custodia ([[Real Decreto 203/2021 |  art. 55]]). Los tiempos de conservación y la destrucción de documentos se rigen por el [[Real Decreto 203/2021 |  art. 53]]. En el ámbito electrónico, los documentos se agrupan en expedientes electrónicos con su índice, y las copias electrónicas auténticas tienen la misma validez que los documentos originales."
+    }
+  ]
+}

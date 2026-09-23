@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T20",
+  "tema": "T20",
+  "tipo": "comun",
+  "numero": 20,
+  "titulo": "La expropiación forzosa: concepto, procedimiento, garantías y reversión",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y sujetos",
+      "texto": "La expropiación es la privación singular de la propiedad privada o de derechos patrimoniales legítimos, acordada imperativamente por causa de utilidad pública o interés social ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 1]]). Intervienen el expropiante (Estado, Provincia o Municipio), el beneficiario y el expropiado ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 2]])."
+    },
+    {
+      "titulo": "2. Requisitos y procedimiento general",
+      "texto": "Es indispensable la previa declaración de utilidad pública o interés social ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 9]]). El procedimiento comprende la necesidad de ocupación, la determinación del justo precio (primero por mutuo acuerdo, con quince días para aceptar la oferta: [[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 24]]), el pago y la ocupación."
+    },
+    {
+      "titulo": "3. El Jurado de Expropiación",
+      "texto": "En defecto de acuerdo, el justo precio lo fija el Jurado Provincial de Expropiación, órgano colegiado presidido por un magistrado e integrado por representantes de la Administración, técnicos y de la propiedad ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | arts. 31 y 32]])."
+    },
+    {
+      "titulo": "4. Pago, ocupación urgente y garantías",
+      "texto": "El justo precio debe pagarse en seis meses, devengándose el interés legal en caso de demora ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 48]]). Excepcionalmente, el Consejo de Ministros puede declarar la urgente ocupación, con acta previa y depósito previo ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 52]])."
+    },
+    {
+      "titulo": "5. La reversión",
+      "texto": "El expropiado o sus causahabientes pueden recobrar lo expropiado si no se ejecuta la obra o desaparece la afectación que motivó la expropiación ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | arts. 54 y 55]]). Es la garantía última frente a expropiaciones cuya causa decae."
+    },
+    {
+      "titulo": "6. Intereses de demora y garantías jurisdiccionales",
+      "texto": "Si el justo precio no se paga en seis meses, se devenga el interés legal correspondiente ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 48]]), al que se suma el interés por la demora en la fijación del justiprecio. El expropiado puede impugnar los acuerdos del Jurado ante la jurisdicción contencioso-administrativa, que revisa la legalidad de la causa expropiandi, la necesidad de ocupación y la valoración. La reversión ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | arts. 54 y 55]]) y el control judicial completan un sistema de garantías que equilibra la potestad expropiatoria con el derecho de propiedad. Junto a la expropiación plena, la Ley contempla la ocupación temporal de bienes para fines determinados y las indemnizaciones por daños derivados de la obra pública. El expropiado tiene derecho al justo precio, a los intereses de demora ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | art. 48]]) y, en su caso, a la reversión ([[Ley de Expropiación Forzosa, de 16 de diciembre de 1954 | arts. 54 y 55]]). Todo el sistema pivota sobre la causa expropiandi: desaparecida ésta, decae la legitimidad de la privación."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T11",
+    "SEV-A1-T24"
+  ]
+}

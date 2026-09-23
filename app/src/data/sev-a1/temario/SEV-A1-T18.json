@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T18",
+  "tema": "T18",
+  "tipo": "comun",
+  "numero": 18,
+  "titulo": "La potestad sancionadora y la responsabilidad patrimonial de la Administración",
+  "secciones": [
+    {
+      "titulo": "1. Principios de la potestad sancionadora",
+      "texto": "La potestad sancionadora requiere atribución expresa por norma con rango de ley ([[Ley 40/2015 | art. 25]]). Solo son infracciones las vulneraciones tipificadas por ley, y solo por ley se establecen sanciones ([[Ley 40/2015 | art. 27]]). Solo responden las personas responsables aun a título de simple inobservancia ([[Ley 40/2015 | art. 28]]), con sanciones proporcionadas a la gravedad ([[Ley 40/2015 | art. 29]]) y aplicación irretroactiva salvo norma más favorable ([[Ley 40/2015 | art. 31]])."
+    },
+    {
+      "titulo": "2. Procedimiento sancionador",
+      "texto": "El ejercicio de la potestad sancionadora requiere procedimiento legal o reglamentariamente establecido, con separación entre fase instructora y sancionadora y respeto a los derechos del presunto responsable (presunción de inocencia, audiencia, prueba). La resolución debe ser motivada y congruente."
+    },
+    {
+      "titulo": "3. La responsabilidad patrimonial: fundamento",
+      "texto": "Los particulares tienen derecho a ser indemnizados por toda lesión en sus bienes y derechos consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo fuerza mayor ([[Ley 40/2015 | art. 32]]). Es una responsabilidad objetiva y directa de la Administración, con fundamento constitucional en el [[Constitución Española de 1978 | art. 106]]."
+    },
+    {
+      "titulo": "4. Requisitos de la indemnización",
+      "texto": "El daño debe ser efectivo, evaluable económicamente e individualizado; el particular no debe tener el deber jurídico de soportarlo; y la reclamación prescribe al año del hecho lesivo ([[Ley 40/2015 | art. 34]]). La indemnización se calcula con criterios de valoración del mercado y se actualiza a la fecha de la resolución."
+    },
+    {
+      "titulo": "5. Acción de regreso",
+      "texto": "Cuando la Administración indemnice, exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo o culpa o negligencia graves ([[Ley 40/2015 | art. 35]]). El procedimiento de responsabilidad se inicia de oficio o a instancia del interesado y se resuelve en seis meses."
+    },
+    {
+      "titulo": "6. El procedimiento de responsabilidad patrimonial",
+      "texto": "Se inicia de oficio o a instancia del interesado, que debe concretar la lesión, su evaluación económica y la relación de causalidad con el servicio público. La indemnización exige daño efectivo, evaluable e individualizado, antijuridicidad y reclamación en el plazo de un año ([[Ley 40/2015 | art. 34]]). El procedimiento se resuelve en seis meses; el silencio es desestimatorio. La resolución pone fin a la vía administrativa y es impugnable ante la jurisdicción contencioso-administrativa. Cuando la Administración indemniza, ejerce la acción de regreso contra el personal responsable por dolo o culpa grave ([[Ley 40/2015 | art. 35]]). Las infracciones y sanciones prescriben por el transcurso de los plazos legales, garantizando la seguridad jurídica frente a una potestad punitiva indefinida. El procedimiento sancionador caduca si no se resuelve en plazo, sin perjuicio de la posibilidad de incoar uno nuevo mientras no haya prescrito la infracción. Rigen además los principios de proporcionalidad en la graduación ([[Ley 40/2015 | art. 29]]) y de irretroactividad de las normas desfavorables ([[Ley 40/2015 | art. 31]])."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T11",
+    "SEV-A1-T12",
+    "SEV-A1-E12"
+  ]
+}

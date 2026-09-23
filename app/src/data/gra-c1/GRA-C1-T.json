@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "GRA-C1-T01-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 1",
+    "enunciado": "¿En qué tipo de Estado se constituye España según el artículo 1 de la Constitución y cuáles son sus valores superiores?",
+    "respuesta": "España se constituye en un Estado social y democrático de Derecho; sus valores superiores son la libertad, la justicia, la igualdad y el pluralismo político.",
+    "explicacion": "El artículo 1 CE define a España como Estado social y democrático de Derecho y enumera como valores superiores del ordenamiento la libertad, la justicia, la igualdad y el pluralismo político.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué proclama el artículo 2 de la Constitución sobre la Nación española y la autonomía?",
+    "respuesta": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+    "explicacion": "El artículo 2 CE combina la unidad de la Nación española con el derecho a la autonomía de nacionalidades y regiones y el principio de solidaridad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 9.3",
+    "enunciado": "¿Qué principios garantiza el artículo 9.3 de la Constitución?",
+    "respuesta": "La legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "explicacion": "El artículo 9.3 CE recoge las garantías jurídicas fundamentales frente a los poderes públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué establece el artículo 14 de la Constitución?",
+    "respuesta": "Que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "explicacion": "El artículo 14 CE consagra el principio de igualdad formal ante la ley.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 17",
+    "enunciado": "¿Cuál es la duración máxima de la detención preventiva según el artículo 17.2 de la Constitución?",
+    "respuesta": "Setenta y dos horas como máximo; el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial en ese plazo.",
+    "explicacion": "El artículo 17 CE regula el derecho a la libertad y la seguridad; su apartado 2 fija el límite de 72 horas para la detención preventiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué derechos garantiza el artículo 18 de la Constitución?",
+    "respuesta": "El derecho al honor, a la intimidad personal y familiar y a la propia imagen; la inviolabilidad del domicilio (ninguna entrada ni registro sin consentimiento del titular o resolución judicial, salvo flagrante delito); y el secreto de las comunicaciones.",
+    "explicacion": "El artículo 18 CE protege la esfera personal frente a injerencias, con garantías reforzadas para el domicilio y las comunicaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué exige el artículo 21 de la Constitución para el ejercicio del derecho de reunión pacífica y sin armas?",
+    "respuesta": "Ninguna autorización previa; solo se exige comunicación previa a la autoridad en los casos de reuniones en lugares de tránsito público y manifestaciones, que únicamente podrá prohibirlas por razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+    "explicacion": "El artículo 21 CE configura la reunión pacífica y sin armas como un derecho que no necesita autorización previa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 24",
+    "enunciado": "¿Qué comprende el derecho a la tutela judicial efectiva del artículo 24 de la Constitución?",
+    "respuesta": "El derecho de todas las personas a obtener la tutela efectiva de jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que en ningún caso pueda producirse indefensión; incluye el derecho al juez ordinario predeterminado por la ley, a la defensa y a un proceso con todas las garantías.",
+    "explicacion": "El artículo 24 CE es el núcleo de las garantías procesales y prohíbe expresamente la indefensión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 31",
+    "enunciado": "¿Qué principios rigen el sistema tributario según el artículo 31.1 de la Constitución?",
+    "respuesta": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+    "explicacion": "El artículo 31.1 CE fija los principios materiales del sistema tributario: generalidad, capacidad económica, justicia, igualdad, progresividad y no confiscatoriedad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T01-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 167",
+    "enunciado": "¿Qué mayorías exige el artículo 167 de la Constitución para una reforma constitucional ordinaria?",
+    "respuesta": "Los proyectos de reforma deberán ser aprobados por mayoría de tres quintos de cada una de las Cámaras; si no hubiera acuerdo, se intentará mediante Comisión paritaria y, de persistir, bastará la aprobación por mayoría de dos tercios del Congreso y mayoría absoluta del Senado; además, la reforma se someterá a referéndum si lo solicitan una décima parte de los miembros de cualquiera de las Cámaras.",
+    "explicacion": "El artículo 167 CE regula el procedimiento de reforma no agravada: mayorías cualificadas en ambas Cámaras y referéndum facultativo a petición de una décima parte.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 137",
+    "enunciado": "¿Cómo se organiza territorialmente el Estado según el artículo 137 de la Constitución?",
+    "respuesta": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan, gozando todas estas entidades de autonomía para la gestión de sus respectivos intereses.",
+    "explicacion": "El artículo 137 CE establece los tres niveles de la organización territorial y su autonomía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Cómo se gobiernan los municipios según el artículo 140 de la Constitución?",
+    "respuesta": "La Constitución garantiza la autonomía de los municipios, que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.",
+    "explicacion": "El artículo 140 CE consagra la autonomía municipal y su gobierno democrático por Alcalde y Concejales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué dice la Constitución sobre la provincia?",
+    "respuesta": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado; cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica; el gobierno y la administración autónoma de las provincias estarán encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
+    "explicacion": "El artículo 141 CE define la provincia y encomienda su gobierno a las Diputaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "arts. 148 y 149",
+    "enunciado": "¿Qué diferencia existe entre los artículos 148 y 149 de la Constitución en materia de competencias?",
+    "respuesta": "El artículo 148 enumera las materias en las que las Comunidades Autónomas pueden asumir competencias, mientras que el artículo 149 reserva al Estado una lista de competencias exclusivas (nacionalidad, defensa, relaciones internacionales, sistema monetario, Hacienda general y Deuda del Estado, etc.).",
+    "explicacion": "Los artículos 148 y 149 CE distribuyen las competencias entre Comunidades Autónomas y Estado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 103",
+    "enunciado": "¿Qué principios rigen la actuación de la Administración Pública según el artículo 103.1 de la Constitución?",
+    "respuesta": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "explicacion": "El artículo 103.1 CE fija los principios de actuación de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué proclama el artículo 1 del Estatuto de Autonomía de Andalucía sobre Andalucía?",
+    "respuesta": "Andalucía, como nacionalidad histórica y en el ejercicio del derecho de autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la unidad de la Nación española.",
+    "explicacion": "El artículo 1 del Estatuto de Autonomía califica a Andalucía como nacionalidad histórica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 3",
+    "enunciado": "¿Cuáles son los símbolos de Andalucía según su Estatuto de Autonomía?",
+    "respuesta": "La bandera, el escudo y el himno de Andalucía, regulados en el artículo 3 del Estatuto.",
+    "explicacion": "El artículo 3 del Estatuto de Autonomía de Andalucía establece sus símbolos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 4",
+    "enunciado": "¿Cuál es la capital de Andalucía según su Estatuto de Autonomía?",
+    "respuesta": "Sevilla, donde residirán el Parlamento, la Presidencia de la Junta y el Consejo de Gobierno, sin perjuicio de que el Parlamento y el Gobierno puedan reunirse en otros lugares de Andalucía.",
+    "explicacion": "El artículo 4 del Estatuto fija la capitalidad en Sevilla.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué instituciones integran el autogobierno de Andalucía?",
+    "respuesta": "El Parlamento de Andalucía, la Presidencia de la Junta y el Consejo de Gobierno, como instituciones de autogobierno de la Comunidad Autónoma.",
+    "explicacion": "El artículo 46 del Estatuto de Autonomía enumera las instituciones de autogobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T02-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T02",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "arts. 42 a 44",
+    "enunciado": "¿Qué principios rigen las competencias de la Comunidad Autónoma de Andalucía?",
+    "respuesta": "Las competencias se clasifican en exclusivas, compartidas y ejecutivas (art. 42); tienen alcance territorial dentro de Andalucía y sus efectos se rigen por los principios de eficacia, proximidad y coordinación (arts. 43 y 44).",
+    "explicacion": "Los artículos 42 a 44 del Estatuto regulan la clasificación, el alcance territorial y los principios de las competencias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué son los municipios según el artículo 1 de la Ley 7/1985?",
+    "respuesta": "Entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos, que institucionalizan y gestionan con autonomía los intereses propios de las correspondientes colectividades.",
+    "explicacion": "El artículo 1 LBRL define el municipio como entidad básica de la organización territorial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué derecho garantiza a las entidades locales el artículo 2 de la Ley 7/1985?",
+    "respuesta": "El derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles las competencias que proceda en atención a las características de la actividad pública y a su capacidad de gestión, conforme a los principios de descentralización, proximidad, eficacia y eficiencia.",
+    "explicacion": "El artículo 2 LBRL desarrolla la autonomía local garantizada por la Constitución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades son Entidades Locales territoriales según el artículo 3 de la Ley 7/1985?",
+    "respuesta": "El Municipio, la Provincia y la Isla en los archipiélagos balear y canario; gozan asimismo de la condición de Entidades Locales las Comarcas u otras entidades que agrupen varios Municipios, las Áreas Metropolitanas y las Mancomunidades de Municipios.",
+    "explicacion": "El artículo 3 LBRL distingue entre entidades locales territoriales y las demás entidades locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué potestades corresponden a los municipios, provincias e islas según el artículo 4 de la Ley 7/1985?",
+    "respuesta": "Las potestades reglamentaria y de autoorganización; tributaria y financiera; de programación o planificación; expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes; y la potestad sancionadora.",
+    "explicacion": "El artículo 4 LBRL enumera las potestades de las entidades locales territoriales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 7",
+    "enunciado": "¿Cómo se clasifican las competencias de las Entidades Locales según el artículo 7 de la Ley 7/1985?",
+    "respuesta": "En competencias propias y competencias atribuidas por delegación del Estado o de las Comunidades Autónomas.",
+    "explicacion": "El artículo 7 LBRL distingue entre competencias propias y delegadas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 137",
+    "enunciado": "¿Qué principio constitucional rige el régimen local español según el artículo 137 de la Constitución?",
+    "respuesta": "El principio de autonomía de municipios, provincias y Comunidades Autónomas para la gestión de sus respectivos intereses.",
+    "explicacion": "El artículo 137 CE es la base constitucional del régimen local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 142",
+    "enunciado": "¿Qué garantiza el artículo 142 de la Constitución a las Haciendas locales?",
+    "respuesta": "Que deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas, y que se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+    "explicacion": "El artículo 142 CE consagra la suficiencia financiera de las Haciendas locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué periodicidad mínima deben celebrarse las sesiones ordinarias del Pleno según el artículo 46 de la Ley 7/1985?",
+    "respuesta": "Como mínimo cada mes en los municipios de las capitales de provincia y en los de más de 75.000 habitantes; cada dos meses en los de población comprendida entre 20.001 y 75.000 habitantes; y cada tres meses en los restantes, salvo en los de reducida dimensión demográfica.",
+    "explicacion": "El artículo 46 LBRL fija la periodicidad mínima de las sesiones ordinarias del Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 47",
+    "enunciado": "¿Cuál es la regla general de adopción de acuerdos por las corporaciones locales según el artículo 47 de la Ley 7/1985?",
+    "respuesta": "Los acuerdos se adoptan, como regla general, por mayoría simple de los miembros presentes; existe mayoría simple cuando los votos afirmativos son más que los negativos; determinadas materias requieren mayoría absoluta (mitad más uno de los miembros de derecho de la corporación).",
+    "explicacion": "El artículo 47 LBRL establece la mayoría simple como regla general y reserva la mayoría absoluta a materias tasadas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T03-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 49",
+    "enunciado": "¿Cuál es el procedimiento de aprobación de las Ordenanzas locales según el artículo 49 de la Ley 7/1985?",
+    "respuesta": "Aprobación inicial por el Pleno; información pública y audiencia a los interesados por plazo mínimo de treinta días; resolución de las reclamaciones y aprobación definitiva por el Pleno; y, en ausencia de reclamaciones, el acuerdo inicial se entiende definitivamente adoptado.",
+    "explicacion": "El artículo 49 LBRL regula el procedimiento de aprobación de las ordenanzas locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué es el municipio y cuáles son sus elementos según el artículo 11 de la Ley 7/1985?",
+    "respuesta": "El Municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines; son elementos del municipio el territorio, la población y la organización.",
+    "explicacion": "El artículo 11 LBRL define el municipio y enumera sus tres elementos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el término municipal según el artículo 12 de la Ley 7/1985?",
+    "respuesta": "El territorio en que el Ayuntamiento ejerce sus competencias.",
+    "explicacion": "El artículo 12 LBRL define el término municipal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 13",
+    "enunciado": "¿Quién regula la creación o supresión de municipios y qué requisito de población exige la ley para crear nuevos municipios?",
+    "respuesta": "La legislación de las Comunidades Autónomas sobre régimen local; la creación de nuevos municipios solo puede realizarse sobre núcleos de población territorialmente diferenciados de al menos 5.000 habitantes, siempre que los municipios resultantes cuenten con recursos suficientes para el cumplimiento de las competencias municipales.",
+    "explicacion": "El artículo 13 LBRL remite la creación y supresión de municipios a la legislación autonómica y exige 5.000 habitantes mínimos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 15",
+    "enunciado": "¿Quién está obligado a inscribirse en el Padrón municipal?",
+    "respuesta": "Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente; quien viva en varios municipios se inscribirá únicamente en el que habite durante más tiempo al año.",
+    "explicacion": "El artículo 15 LBRL establece la obligación de empadronamiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué valor tienen los datos del Padrón municipal según el artículo 16 de la Ley 7/1985?",
+    "respuesta": "El Padrón es el registro administrativo donde constan los vecinos; sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual, y las certificaciones que se expidan tendrán carácter de documento público y fehaciente para todos los efectos administrativos.",
+    "explicacion": "El artículo 16 LBRL atribuye valor probatorio a los datos padronales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 19",
+    "enunciado": "¿A quién corresponde el gobierno y la administración municipal según el artículo 19 de la Ley 7/1985?",
+    "respuesta": "Al Ayuntamiento, integrado por el Alcalde y los Concejales, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto.",
+    "explicacion": "El artículo 19 LBRL atribuye el gobierno municipal al Alcalde y los Concejales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué atribuciones corresponden al Alcalde según el artículo 21 de la Ley 7/1985?",
+    "respuesta": "Dirigir el gobierno y la administración municipal; representar al Ayuntamiento; convocar y presidir las sesiones del Pleno y de la Junta de Gobierno Local; dictar bandos; dirigir, inspeccionar e impulsar los servicios y obras municipales; y las demás que le atribuyan las leyes.",
+    "explicacion": "El artículo 21 LBRL enumera las atribuciones del Alcalde como Presidente de la Corporación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 22",
+    "enunciado": "¿Qué atribuciones corresponden al Pleno del Ayuntamiento según el artículo 22 de la Ley 7/1985?",
+    "respuesta": "El control y la fiscalización de los órganos de gobierno; la aprobación del presupuesto, las ordenanzas y los reglamentos; la aprobación de la plantilla de personal; y los acuerdos relativos a la delimitación y alteración del término municipal, entre otras materias de especial trascendencia.",
+    "explicacion": "El artículo 22 LBRL reserva al Pleno las decisiones de mayor trascendencia y el control del gobierno municipal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 25",
+    "enunciado": "¿Qué competencias propias puede ejercer el municipio según el artículo 25 de la Ley 7/1985?",
+    "respuesta": "Urbanismo; medio ambiente urbano; abastecimiento de agua potable y evacuación de aguas residuales; infraestructura viaria; evaluación de situaciones de necesidad social; policía local, protección civil y prevención de incendios; tráfico y transporte colectivo urbano; información y promoción turística; ferias, mercados y comercio ambulante; protección de la salubridad pública; cementerios; promoción del deporte y ocupación del tiempo libre; promoción de la cultura; y participación en la programación de la enseñanza, entre otras.",
+    "explicacion": "El artículo 25 LBRL enumera las materias de competencia propia municipal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T04-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T04",
+    "ley": "Ley 7/1985",
+    "articulo": "arts. 31 y 32",
+    "enunciado": "¿Qué es la provincia y cómo se organiza según los artículos 31 y 32 de la Ley 7/1985?",
+    "respuesta": "La Provincia es una entidad local determinada por la agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines; su organización responde a las reglas del artículo 32: Presidente, Vicepresidentes, Junta de Gobierno y Pleno.",
+    "explicacion": "Los artículos 31 y 32 LBRL definen la provincia y su organización básica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 31",
+    "enunciado": "¿Cuáles son los fines de la provincia según el artículo 31.2 de la Ley 7/1985?",
+    "respuesta": "Garantizar los principios de solidaridad y equilibrio intermunicipales, en el marco de la política económica y social, y, en particular: asegurar la prestación integral y adecuada en la totalidad del territorio provincial de los servicios de competencia municipal; y participar en la coordinación de la Administración local con la de la Comunidad Autónoma y la del Estado.",
+    "explicacion": "El artículo 31.2 LBRL fija los fines de la provincia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 32",
+    "enunciado": "¿Qué órganos integran la organización provincial según el artículo 32 de la Ley 7/1985?",
+    "respuesta": "El Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno, todos ellos con las atribuciones que les asignan esta ley y las demás normas.",
+    "explicacion": "El artículo 32 LBRL establece la organización necesaria de la Diputación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué atribuciones corresponden al Presidente de la Diputación según el artículo 34 de la Ley 7/1985?",
+    "respuesta": "Dirigir el gobierno y la administración de la provincia; representar a la Diputación; convocar y presidir las sesiones del Pleno y de la Junta de Gobierno; y las demás atribuciones que le asignen las leyes, de forma análoga a las del Alcalde.",
+    "explicacion": "El artículo 34 LBRL atribuye al Presidente de la Diputación funciones equivalentes a las del Alcalde en el ámbito provincial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 36",
+    "enunciado": "¿Cuáles son las competencias propias de la Diputación según el artículo 36 de la Ley 7/1985?",
+    "respuesta": "La coordinación de los servicios municipales entre sí para garantizar su prestación integral y adecuada; la asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente los de menor capacidad económica y de gestión; la prestación de servicios públicos de carácter supramunicipal y, en su caso, supracomarcal; y el fomento de los intereses peculiares de la provincia.",
+    "explicacion": "El artículo 36 LBRL enumera las competencias propias de la Diputación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué exige el artículo 34 de la Ley 39/2015 sobre la producción y el contenido de los actos administrativos?",
+    "respuesta": "Los actos administrativos que dicten las Administraciones Públicas se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido; su contenido se ajustará a lo dispuesto por el ordenamiento jurídico y será determinado y adecuado a los fines de aquéllos.",
+    "explicacion": "El artículo 34 LPAC regula la producción y el contenido de los actos administrativos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 35",
+    "enunciado": "¿Qué actos administrativos deben ser motivados según el artículo 35 de la Ley 39/2015?",
+    "respuesta": "Los que limiten derechos subjetivos o intereses legítimos; los que resuelvan procedimientos de revisión de oficio, recursos administrativos y reclamaciones; los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos; los acuerdos de suspensión, ampliación de plazos y medidas provisionales; y los que rechacen pruebas, entre otros.",
+    "explicacion": "El artículo 35 LPAC enumera los actos que requieren motivación con sucinta referencia de hechos y fundamentos de derecho.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 39",
+    "enunciado": "¿Desde cuándo producen efectos los actos administrativos según el artículo 39 de la Ley 39/2015?",
+    "respuesta": "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa; excepcionalmente podrá otorgarse eficacia retroactiva a los actos que produzcan efectos favorables al interesado cuando los supuestos de hecho existieran ya en la fecha a que se retrotraiga la eficacia y no se lesionen derechos de terceros.",
+    "explicacion": "El artículo 39 LPAC regula la eficacia de los actos y la retroactividad excepcional favorable.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 40",
+    "enunciado": "¿En qué plazo debe cursarse la notificación y qué debe contener según el artículo 40 de la Ley 39/2015?",
+    "respuesta": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+    "explicacion": "El artículo 40 LPAC fija el plazo de diez días para cursar la notificación y su contenido mínimo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 41",
+    "enunciado": "¿Cómo se practican las notificaciones según el artículo 41 de la Ley 39/2015?",
+    "respuesta": "Se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía; cuando se practiquen en papel, se realizarán en el domicilio del interesado y, de no hallarse presente, podrá hacerse cargo cualquier persona mayor de catorce años que se encuentre en el domicilio.",
+    "explicacion": "El artículo 41 LPAC establece las condiciones generales para la práctica de las notificaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 42",
+    "enunciado": "¿Cuántos intentos de notificación en papel exige el artículo 42 de la Ley 39/2015 antes de acudir a la publicación?",
+    "respuesta": "Dos intentos en el domicilio del interesado, en horarios distintos y dejando al menos un margen de diferencia de tres horas entre ambos; si resulta imposible, se hará constar en el expediente y se acudirá a la notificación por anuncio en el BOE.",
+    "explicacion": "El artículo 42 LPAC regula la práctica de las notificaciones en papel con dos intentos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 44",
+    "enunciado": "¿Cómo se practica la notificación cuando los interesados son desconocidos o no se ha podido practicar?",
+    "respuesta": "Mediante anuncio publicado en el «Boletín Oficial del Estado»; previamente y con carácter facultativo, las Administraciones podrán publicar un anuncio en el boletín oficial de la Comunidad Autónoma o de la Provincia y en el tablón de edictos del Ayuntamiento.",
+    "explicacion": "El artículo 44 LPAC regula la notificación infructuosa por anuncio en el BOE.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 45",
+    "enunciado": "¿En qué casos la publicación sustituye a la notificación según el artículo 45 de la Ley 39/2015?",
+    "respuesta": "Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas; cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva; o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.",
+    "explicacion": "El artículo 45 LPAC regula los supuestos en que la publicación surte los efectos de la notificación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 47",
+    "enunciado": "¿Qué actos son nulos de pleno derecho según el artículo 47 de la Ley 39/2015?",
+    "respuesta": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional; los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio; los de contenido imposible; los constitutivos de infracción penal o dictados como consecuencia de ésta; los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido; y los expresamente calificados como tales por una disposición.",
+    "explicacion": "El artículo 47 LPAC enumera las causas de nulidad de pleno derecho.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T06-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 48",
+    "enunciado": "¿Cuándo son anulables los actos administrativos según el artículo 48 de la Ley 39/2015?",
+    "respuesta": "Son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder; el defecto de forma solo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+    "explicacion": "El artículo 48 LPAC define la anulabilidad y el efecto de los defectos de forma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 54",
+    "enunciado": "¿Cómo pueden iniciarse los procedimientos administrativos según el artículo 54 de la Ley 39/2015?",
+    "respuesta": "De oficio o a solicitud del interesado; la iniciación de oficio se efectúa por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia.",
+    "explicacion": "El artículo 54 LPAC distingue las dos clases de iniciación del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 53",
+    "enunciado": "¿Qué derechos tiene el interesado en el procedimiento administrativo según el artículo 53 de la Ley 39/2015?",
+    "respuesta": "A conocer el estado de tramitación y el órgano competente; a identificar a las autoridades y personal al servicio de la Administración; a no presentar documentos ya en poder de la Administración o elaborados por ella; a formular alegaciones y aportar documentos; a obtener información y orientación; y a actuar asistido de asesor.",
+    "explicacion": "El artículo 53 LPAC recoge el catálogo de derechos del interesado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué plazo máximo tiene la Administración para resolver y notificar según el artículo 21 de la Ley 39/2015?",
+    "respuesta": "El plazo máximo será el fijado por la norma reguladora del procedimiento, que no podrá exceder de seis meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea; transcurrido sin resolución expresa se producen los efectos del silencio administrativo.",
+    "explicacion": "El artículo 21 LPAC impone la obligación de resolver en plazo máximo de seis meses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 68",
+    "enunciado": "¿Qué plazo se concede para subsanar la solicitud según el artículo 68 de la Ley 39/2015?",
+    "respuesta": "Diez días para subsanar la falta o acompañar los documentos preceptivos, con indicación de que, si no lo hiciera, se le tendrá por desistido de su petición.",
+    "explicacion": "El artículo 68 LPAC regula la subsanación y mejora de la solicitud en diez días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 71",
+    "enunciado": "¿Quién impulsa el procedimiento administrativo según el artículo 71 de la Ley 39/2015?",
+    "respuesta": "El procedimiento se impulsará de oficio en todos sus trámites, sin perjuicio de que los interesados puedan instar su impulso; el órgano instructor adoptará las medidas necesarias para lograr el pleno respeto a los principios de simplificación, agilidad y economía procesal.",
+    "explicacion": "El artículo 71 LPAC consagra el impulso de oficio del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 75",
+    "enunciado": "¿Qué comprenden los actos de instrucción según el artículo 75 de la Ley 39/2015?",
+    "respuesta": "Las alegaciones de los interesados, la prueba, los informes y el trámite de audiencia, que se realizarán de oficio por el órgano instructor sin perjuicio del derecho de los interesados a proponer actuaciones.",
+    "explicacion": "El artículo 75 LPAC enumera los actos de instrucción del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 82",
+    "enunciado": "¿Cuál es el plazo del trámite de audiencia según el artículo 82 de la Ley 39/2015?",
+    "respuesta": "Un plazo no inferior a diez días ni superior a quince para que los interesados aleguen y presenten los documentos y justificaciones que estimen pertinentes, una vez instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución.",
+    "explicacion": "El artículo 82 LPAC fija el trámite de audiencia entre diez y quince días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 84",
+    "enunciado": "¿Cómo puede terminar el procedimiento administrativo según el artículo 84 de la Ley 39/2015?",
+    "respuesta": "Por resolución expresa, por desistimiento o renuncia del interesado, por declaración de caducidad, por imposibilidad material de continuarlo por causas sobrevenidas, o por terminación convencional mediante pactos o convenios.",
+    "explicacion": "El artículo 84 LPAC enumera las formas de terminación del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 88",
+    "enunciado": "¿Qué debe contener la resolución que ponga fin al procedimiento según el artículo 88 de la Ley 39/2015?",
+    "respuesta": "Decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo; será congruente con las peticiones formuladas, sin que en ningún caso pueda agravar su situación inicial; y contendrá la decisión motivada.",
+    "explicacion": "El artículo 88 LPAC regula el contenido de la resolución con el principio de congruencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T07-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 13",
+    "enunciado": "¿Qué derechos tienen las personas en sus relaciones con las Administraciones Públicas según el artículo 13 de la Ley 39/2015?",
+    "respuesta": "A comunicarse a través de un Punto de Acceso General electrónico; a ser asistidos en el uso de medios electrónicos; a utilizar las lenguas oficiales; al acceso a la información pública y a los expedientes; a ser tratados con respeto y deferencia; a exigir las responsabilidades de las Administraciones; a la obtención de documentos; y a la protección de datos.",
+    "explicacion": "El artículo 13 LPAC recoge los derechos de las personas frente a la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 112",
+    "enunciado": "¿Qué clases de recursos administrativos existen según el artículo 112 de la Ley 39/2015?",
+    "respuesta": "El recurso de alzada, el recurso potestativo de reposición y el recurso extraordinario de revisión; además, las reclamaciones económico-administrativas se rigen por su normativa específica.",
+    "explicacion": "El artículo 112 LPAC fija el objeto y las clases de recursos administrativos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 121",
+    "enunciado": "¿Contra qué actos cabe el recurso de alzada según el artículo 121 de la Ley 39/2015?",
+    "respuesta": "Contra las resoluciones y los actos de trámite que no pongan fin a la vía administrativa, cuando decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable.",
+    "explicacion": "El artículo 121 LPAC define el objeto del recurso de alzada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 122",
+    "enunciado": "¿Cuáles son los plazos para interponer el recurso de alzada?",
+    "respuesta": "Un mes si el acto fuera expreso; si no lo fuera, el solicitante podrá interponerlo en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+    "explicacion": "El artículo 122 LPAC fija los plazos de interposición del recurso de alzada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 123",
+    "enunciado": "¿Qué naturaleza tiene el recurso potestativo de reposición según el artículo 123 de la Ley 39/2015?",
+    "respuesta": "Es potestativo: los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+    "explicacion": "El artículo 123 LPAC configura la reposición como recurso potestativo previo a la vía judicial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 124",
+    "enunciado": "¿Cuáles son los plazos del recurso potestativo de reposición?",
+    "respuesta": "Un mes si el acto fuera expreso; si no lo fuera, en cualquier momento a partir del día siguiente a aquel en que se produzca el acto presunto; transcurrido un mes desde su interposición sin resolución, se entenderá desestimado.",
+    "explicacion": "El artículo 124 LPAC fija los plazos de interposición y resolución de la reposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 125",
+    "enunciado": "¿En qué casos y plazos cabe el recurso extraordinario de revisión?",
+    "respuesta": "Contra actos firmes en vía administrativa cuando: al dictarlos se hubiera incurrido en error de hecho (plazo de cuatro años desde la notificación); aparezcan documentos de valor esencial (tres meses desde su conocimiento); o la resolución haya sido dictada como consecuencia de prevaricación, cohecho, violencia u otra maquinación fraudulenta declarada judicialmente.",
+    "explicacion": "El artículo 125 LPAC regula el objeto y los plazos del recurso extraordinario de revisión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 114",
+    "enunciado": "¿Qué actos ponen fin a la vía administrativa según el artículo 114 de la Ley 39/2015?",
+    "respuesta": "Las resoluciones de los recursos de alzada; las resoluciones de los procedimientos de impugnación a que se refiere el artículo 112.2; las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una ley establezca lo contrario; y las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca.",
+    "explicacion": "El artículo 114 LPAC enumera los actos que ponen fin a la vía administrativa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 117",
+    "enunciado": "¿Puede suspenderse la ejecución del acto recurrido?",
+    "respuesta": "Sí: la interposición de cualquier recurso no suspenderá la ejecución del acto impugnado, excepto en los casos en que una disposición establezca lo contrario; no obstante, el órgano competente podrá suspenderla cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación o cuando la impugnación se fundamente en causa de nulidad de pleno derecho.",
+    "explicacion": "El artículo 117 LPAC regula la suspensión de la ejecución del acto recurrido.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 119",
+    "enunciado": "¿Qué puede resolver el órgano que conoce del recurso según el artículo 119 de la Ley 39/2015?",
+    "respuesta": "Estimarlo en todo o en parte o desestimarlo; declarar su inadmisión; y, en los procedimientos de impugnación de actos de gravamen, podrá resolver cuantas cuestiones plantee el expediente, hayan sido o no alegadas por los interesados.",
+    "explicacion": "El artículo 119 LPAC regula la resolución de los recursos administrativos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T08-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 106",
+    "enunciado": "¿Qué es la revisión de oficio de actos nulos según el artículo 106 de la Ley 39/2015?",
+    "respuesta": "Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1.",
+    "explicacion": "El artículo 106 LPAC permite revisar de oficio los actos nulos en cualquier momento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 8",
+    "enunciado": "¿Qué clases de empleados públicos existen según el artículo 8 del EBEP?",
+    "respuesta": "Los funcionarios de carrera, los funcionarios interinos, el personal laboral (ya sea fijo, por tiempo indefinido o temporal) y el personal eventual.",
+    "explicacion": "El artículo 8 del EBEP define el concepto y las clases de empleados públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 9",
+    "enunciado": "¿Quiénes son funcionarios de carrera según el artículo 9 del EBEP?",
+    "respuesta": "Quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente; en todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas corresponde exclusivamente a los funcionarios públicos.",
+    "explicacion": "El artículo 9 del EBEP define al funcionario de carrera y reserva a los funcionarios el ejercicio de potestades públicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 10",
+    "enunciado": "¿Cuándo pueden nombrarse funcionarios interinos según el artículo 10 del EBEP?",
+    "respuesta": "Por razones expresamente justificadas de necesidad y urgencia, para el desempeño de funciones propias de funcionarios de carrera, en casos como la existencia de plazas vacantes, la sustitución transitoria de titulares o la ejecución de programas temporales.",
+    "explicacion": "El artículo 10 del EBEP regula el nombramiento de funcionarios interinos por necesidad y urgencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué es el personal laboral según el artículo 11 del EBEP?",
+    "respuesta": "El que, en virtud de contrato de trabajo formalizado por escrito, presta servicios retribuidos por las Administraciones Públicas; en función de la duración del contrato puede ser fijo, por tiempo indefinido o temporal.",
+    "explicacion": "El artículo 11 del EBEP define el personal laboral vinculado por contrato de trabajo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derechos individuales tienen los empleados públicos según el artículo 14 del EBEP?",
+    "respuesta": "A la inamovilidad en su condición de funcionario de carrera; al desempeño efectivo de las funciones propias de su cuerpo o escala; a la progresión en la carrera profesional y promoción interna; a percibir las retribuciones; a participar en la consecución de los objetivos de su unidad; a la defensa jurídica; a la formación continua; y a la intimidad, dignidad y protección frente al acoso, entre otros.",
+    "explicacion": "El artículo 14 del EBEP enumera los derechos individuales de los empleados públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "arts. 52 a 54",
+    "enunciado": "¿Qué deberes y principios rigen la conducta de los empleados públicos?",
+    "respuesta": "Los empleados públicos deberán desempeñar con diligencia las tareas asignadas y velar por los intereses generales con sujeción a la Constitución y al ordenamiento jurídico (art. 52); actuarán conforme a principios éticos como la objetividad, integridad, neutralidad, responsabilidad e imparcialidad (art. 53) y a principios de conducta como la eficacia, economía y eficiencia y la atención al ciudadano (art. 54).",
+    "explicacion": "Los artículos 52 a 54 del EBEP regulan los deberes y el código de conducta de los empleados públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué principios rigen el acceso al empleo público según el artículo 55 del EBEP?",
+    "respuesta": "Los principios constitucionales de igualdad, mérito y capacidad, y los de publicidad de las convocatorias, transparencia, imparcialidad de los órganos de selección, independencia y discrecionalidad técnica, adecuación entre el contenido de los procesos selectivos y las funciones a desempeñar, y agilidad.",
+    "explicacion": "El artículo 55 del EBEP fija los principios rectores del acceso al empleo público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 61",
+    "enunciado": "¿Cuáles son los sistemas selectivos según el artículo 61 del EBEP?",
+    "respuesta": "Los sistemas selectivos de funcionarios de carrera son la oposición y el concurso-oposición, que deberán incluir en todo caso una o varias pruebas para determinar la capacidad de los aspirantes; solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso, consistente únicamente en la valoración de méritos.",
+    "explicacion": "El artículo 61.6 del EBEP regula los sistemas selectivos de funcionarios de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 76",
+    "enunciado": "¿Cuáles son los grupos de clasificación profesional del personal funcionario de carrera?",
+    "respuesta": "El grupo A, dividido en los Subgrupos A1 y A2; el grupo B; y el grupo C, dividido en los Subgrupos C1 y C2; además existe el grupo de Agrupaciones Profesionales para el que no se exige titulación prevista en el sistema educativo.",
+    "explicacion": "El artículo 76 del EBEP establece los grupos de clasificación profesional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T09-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T09",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 85",
+    "enunciado": "¿Cuáles son las situaciones administrativas de los funcionarios de carrera según el artículo 85 del EBEP?",
+    "respuesta": "Servicio activo; servicios especiales; servicio en otras Administraciones Públicas; excedencia; y suspensión de funciones.",
+    "explicacion": "El artículo 85 del EBEP enumera las situaciones administrativas de los funcionarios de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué es el principio de igualdad de trato entre mujeres y hombres según el artículo 3 de la LO 3/2007?",
+    "respuesta": "La ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+    "explicacion": "El artículo 3 de la LO 3/2007 define el principio de igualdad de trato.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué diferencia hay entre discriminación directa e indirecta según el artículo 6 de la LO 3/2007?",
+    "respuesta": "Discriminación directa es la situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable; la indirecta es la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto de personas del otro.",
+    "explicacion": "El artículo 6 de la LO 3/2007 define ambas formas de discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué son las acciones positivas según el artículo 11 de la LO 3/2007?",
+    "respuesta": "Las medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres; tales medidas serán aplicables en tanto subsistan dichas situaciones y habrán de ser razonables y proporcionadas.",
+    "explicacion": "El artículo 11 de la LO 3/2007 regula las acciones positivas como instrumento de igualdad real.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es la transversalidad del principio de igualdad según el artículo 15 de la LO 3/2007?",
+    "respuesta": "El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos, que lo integrarán de forma activa en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas y en el desarrollo del conjunto de sus actividades.",
+    "explicacion": "El artículo 15 de la LO 3/2007 consagra la transversalidad de género.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 51",
+    "enunciado": "¿Qué criterios de actuación deben seguir las Administraciones Públicas en materia de igualdad según el artículo 51 de la LO 3/2007?",
+    "respuesta": "Remover los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación; facilitar la conciliación de la vida personal, familiar y laboral; fomentar la formación en igualdad; promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración; y aprobar planes de igualdad, entre otros.",
+    "explicacion": "El artículo 51 de la LO 3/2007 fija los criterios de actuación de las Administraciones Públicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "articulo": "art. 64",
+    "enunciado": "¿Qué establece el artículo 64 de la LO 3/2007 sobre el Plan de Igualdad en la Administración General del Estado?",
+    "respuesta": "El Gobierno aprobará, al inicio de cada legislatura, un Plan para la Igualdad entre mujeres y hombres en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella.",
+    "explicacion": "El artículo 64 de la LO 3/2007 prevé el Plan de Igualdad en la AGE.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 12",
+    "enunciado": "¿Quién tiene derecho de acceso a la información pública según el artículo 12 de la Ley 19/2013?",
+    "respuesta": "Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución y en esta ley; la información pública es el conjunto de contenidos o documentos que obren en poder de los sujetos obligados y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+    "explicacion": "El artículo 12 de la Ley 19/2013 consagra el derecho universal de acceso a la información pública.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué límites tiene el derecho de acceso a la información pública según el artículo 14 de la Ley 19/2013?",
+    "respuesta": "La seguridad nacional, la defensa, las relaciones exteriores, la seguridad pública, la prevención e investigación de ilícitos, la igualdad de las partes en los procesos judiciales, las funciones administrativas de vigilancia e inspección, los intereses económicos y comerciales, la política económica y monetaria, el secreto profesional, la garantía de la confidencialidad en la toma de decisiones y la protección del medio ambiente.",
+    "explicacion": "El artículo 14 de la Ley 19/2013 enumera los límites al derecho de acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 20",
+    "enunciado": "¿En qué plazo debe resolverse la solicitud de acceso a la información y qué ocurre si no se resuelve?",
+    "respuesta": "En el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente; transcurrido sin resolución expresa, la solicitud se entenderá desestimada por silencio administrativo.",
+    "explicacion": "El artículo 20 de la Ley 19/2013 fija el plazo de un mes y el silencio desestimatorio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T10-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "arts. 13 a 18",
+    "enunciado": "¿Qué derechos puede ejercer el afectado sobre sus datos personales según los artículos 13 a 18 de la LO 3/2018?",
+    "respuesta": "Los derechos de acceso, rectificación, supresión (derecho al olvido), limitación del tratamiento, portabilidad y oposición, en los términos del Reglamento (UE) 2016/679.",
+    "explicacion": "Los artículos 13 a 18 de la LO 3/2018 desarrollan los derechos del afectado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué potestades corresponden en todo caso a los municipios, las provincias y las islas según el artículo 4 de la LBRL?",
+    "respuesta": "Las potestades reglamentaria y de autoorganización; tributaria y financiera; de programación; expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes; presunción de legitimidad y ejecutividad de sus actos; ejecución forzosa y sancionadora; revisión de oficio; y las prelaciones de la Hacienda pública para sus créditos, así como la inembargabilidad de sus bienes y derechos.",
+    "explicacion": "El artículo 4 LBRL enumera las potestades de las entidades locales como Administraciones territoriales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "articulo": "art. 25.2",
+    "enunciado": "Según el artículo 25.2 de la LBRL, ¿en qué materias ejercerá el municipio en todo caso competencias propias?",
+    "respuesta": "En urbanismo; medio ambiente urbano; abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales; infraestructura viaria y equipamientos de su titularidad; evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social; policía local, protección civil, prevención y extinción de incendios; tráfico, estacionamiento y movilidad; transporte colectivo urbano; turismo local; ferias, mercados y comercio ambulante; protección de la salubridad pública; actividades culturales, deportivas y de ocupación del tiempo libre, entre otras.",
+    "explicacion": "El artículo 25.2 LBRL lista las materias de competencias propias municipales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "articulo": "art. 26",
+    "enunciado": "¿Qué servicios mínimos deben prestar en todo caso los municipios según el artículo 26 de la LBRL?",
+    "respuesta": "En todos los municipios: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas. Además: parque público, biblioteca y tratamiento de residuos en los de más de 5.000 habitantes; protección civil, incendios e instalaciones deportivas en los de más de 20.000; y transporte colectivo urbano y medio ambiente urbano en los de más de 50.000.",
+    "explicacion": "El artículo 26 LBRL gradúa los servicios mínimos según la población.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "articulo": "art. 26.2",
+    "enunciado": "¿Quién coordina la prestación de servicios mínimos en los municipios de menos de 20.000 habitantes según el artículo 26.2 de la LBRL?",
+    "respuesta": "La Diputación provincial o entidad equivalente, que coordinará la recogida y tratamiento de residuos, el abastecimiento de agua potable y la evacuación y tratamiento de aguas residuales, la limpieza viaria, el acceso a los núcleos de población, la pavimentación de vías urbanas y el alumbrado público.",
+    "explicacion": "El artículo 26.2 LBRL atribuye a la Diputación la coordinación en municipios pequeños.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "articulo": "art. 27",
+    "enunciado": "¿Qué requisitos exige el artículo 27 de la LBRL para la delegación de competencias del Estado o las Comunidades Autónomas en los municipios?",
+    "respuesta": "Que mejore la eficiencia, elimine duplicidades y sea acorde con la estabilidad presupuestaria; determine alcance, contenido, condiciones y duración (no inferior a cinco años), el control de eficiencia y los medios asignados, sin mayor gasto para las Administraciones públicas; y se acompañe de memoria económica justificativa.",
+    "explicacion": "El artículo 27 LBRL regula la delegación de competencias en los municipios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-T05-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "T05",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 12",
+    "enunciado": "Según el artículo 12 del TRLRHL, ¿qué facultades tributarias pueden delegar los ayuntamientos en la Diputación Provincial?",
+    "respuesta": "La gestión, liquidación, inspección y recaudación de sus tributos; la delegación comprenderá todas las facultades relativas a estas funciones salvo disposición expresa en contrario en el acuerdo de delegación.",
+    "explicacion": "El artículo 12 TRLRHL permite la delegación de funciones tributarias en la Diputación, base de la actuación del Servicio Provincial Tributario.",
+    "verificado_corpus": true
+  }
+]

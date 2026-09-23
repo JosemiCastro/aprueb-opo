@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E05",
+  "numero": 5,
+  "tema": "E05",
+  "tipo": "especifico",
+  "titulo": "Extinción de la deuda tributaria: pago, prescripción, compensación, intereses y recargos",
+  "relacionados": [
+    "GRA-C1-E04",
+    "GRA-C1-E09",
+    "GRA-C1-E11"
+  ],
+  "secciones": [
+    {
+      "titulo": "Formas de extinción y el pago",
+      "texto": "Las deudas tributarias se extinguen por pago, prescripción, compensación o condonación, por los medios de la normativa aduanera y por los demás previstos en las leyes; el pago o la compensación liberan exclusivamente por el importe satisfecho ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 59]]).\n\nEl pago se efectúa en efectivo, por los medios reglamentarios (incluidos los electrónicos), y excepcionalmente en especie cuando una ley lo prevea ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 60]])."
+    },
+    {
+      "titulo": "Plazos de pago en período voluntario",
+      "texto": "El [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62]] fija los plazos: notificada la liquidación entre los días 1 y 15, hasta el día 20 del mes posterior; entre los días 16 y último, hasta el día 5 del segundo mes posterior. Las deudas de notificación colectiva y periódica se ingresan en el plazo de su normativa reguladora (mínimo dos meses naturales).\n\nEn período ejecutivo, notificada la providencia de apremio entre los días 1 y 15, hasta el día 20 de ese mes; entre el 16 y último, hasta el día 5 del mes siguiente ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62.5]])."
+    },
+    {
+      "titulo": "La prescripción",
+      "texto": "Prescriben a los **cuatro años** el derecho de la Administración a determinar la deuda mediante liquidación, a exigir su pago, y los derechos a solicitar y obtener devoluciones ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 66]]).\n\nEl cómputo se inicia al día siguiente del fin del plazo de declaración, del fin del período voluntario o del ingreso indebido, según el derecho ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 67]]). Interrumpen la prescripción las actuaciones fehacientes de la Administración con conocimiento del obligado y las del propio obligado conducentes al pago ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 68]]). La prescripción ganada extingue la deuda y se aprecia de oficio ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 69]])."
+    },
+    {
+      "titulo": "Compensación, intereses y recargos",
+      "texto": "La compensación extingue la deuda con créditos reconocidos por acto administrativo a favor del obligado, de oficio o a su instancia ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 71]]).\n\nEl **interés de demora** es el interés legal del dinero incrementado en un 25%, y se exige entre otros casos al vencer el período voluntario sin pago ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 26]]). Los **recargos por declaración extemporánea** sin requerimiento son del 1% más 1% por mes de retraso, y del 15% pasados doce meses ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 27]]). Los **recargos del período ejecutivo** son del 5% (pago antes de la providencia), 10% reducido y 20% ordinario ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 28]])."
+    }
+  ]
+}

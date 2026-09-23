@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T13",
+  "tema": "T13",
+  "tipo": "comun",
+  "numero": 13,
+  "titulo": "Los órganos administrativos y la competencia en la Ley 40/2015",
+  "secciones": [
+    {
+      "titulo": "1. Los órganos administrativos",
+      "texto": "Son órganos administrativos las unidades a las que se atribuyen funciones con efectos jurídicos frente a terceros o de actuación preceptiva ([[Ley 40/2015 | art. 5]]). Se distinguen órganos unipersonales y colegiados, centrales y territoriales, activos y consultivos. Los órganos colegiados se rigen por las normas de los artículos 15 a 18 de la Ley 40/2015 (convocatoria, quórum, actas)."
+    },
+    {
+      "titulo": "2. La competencia",
+      "texto": "La competencia es irrenunciable y se ejerce por el órgano que la tenga atribuida como propia, salvo delegación o avocación ([[Ley 40/2015 | art. 8]]). Es el conjunto de funciones y potestades atribuidas por el ordenamiento a cada órgano, y determina la validez de sus actos: el acto dictado por órgano manifiestamente incompetente es nulo de pleno derecho."
+    },
+    {
+      "titulo": "3. Delegación y avocación",
+      "texto": "La delegación transfiere el ejercicio de la competencia a otro órgano de la misma Administración o a entidades vinculadas; requiere publicación y no admite subdelegaciones salvo autorización legal ([[Ley 40/2015 | art. 9]]). La avocación permite al órgano superior asumir asuntos de sus órganos dependientes por razones de conveniencia ([[Ley 40/2015 | art. 10]])."
+    },
+    {
+      "titulo": "4. Encomienda de gestión, delegación de firma y suplencia",
+      "texto": "La encomienda de gestión encarga actividades materiales o técnicas sin ceder la titularidad de la competencia ([[Ley 40/2015 | art. 11]]). La delegación de firma no altera la competencia y requiere publicación ([[Ley 40/2015 | art. 12]]). La suplencia cubre vacante, ausencia, enfermedad, abstención o recusación del titular ([[Ley 40/2015 | art. 13]])."
+    },
+    {
+      "titulo": "5. Coordinación entre órganos",
+      "texto": "Los órganos deciden sobre los asuntos de su competencia con deber de coordinación ([[Ley 40/2015 | art. 14]]). La Ley 40/2015 articula además las relaciones interadministrativas mediante los principios de cooperación, colaboración y coordinación, y la Conferencia Sectorial y las conferencias de Presidentes."
+    },
+    {
+      "titulo": "6. Coordinación, cooperación y colaboración",
+      "texto": "Las Administraciones Públicas se relacionan conforme a los principios de cooperación, colaboración y coordinación ([[Ley 40/2015 | art. 3]]). La cooperación es voluntaria (convenios, consorcios); la coordinación implica la ordenación de actividades por un ente superior en materias concurrentes; la colaboración es el deber de auxilio (información, ejecución de actos). Instrumentos destacados son la Conferencia de Presidentes, las Conferencias Sectoriales y los convenios interadministrativos, que permiten una actuación administrativa coherente en el Estado autonómico. Cuando dos órganos se consideran competentes —o incompetentes— sobre un mismo asunto, surge un conflicto de atribuciones que resuelve el superior común o, entre Administraciones, los mecanismos de cooperación. La competencia es irrenunciable ([[Ley 40/2015 | art. 8]]), por lo que ningún órgano puede desentenderse de los asuntos que le corresponden ni asumir los ajenos. La delimitación precisa de competencias previene estos conflictos y garantiza la seguridad jurídica."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T11",
+    "SEV-A1-T14"
+  ]
+}

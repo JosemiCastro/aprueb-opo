@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T05",
+  "numero": 5,
+  "tema": "T05",
+  "tipo": "comun",
+  "titulo": "La Diputación Provincial de Granada y el Servicio Provincial Tributario",
+  "relacionados": [
+    "GRA-C1-T04",
+    "GRA-C1-E08",
+    "GRA-C1-E17"
+  ],
+  "secciones": [
+    {
+      "titulo": "La Diputación Provincial",
+      "texto": "La provincia, como agrupación de municipios con personalidad jurídica propia, tiene por fines garantizar la solidaridad y el equilibrio intermunicipales y asegurar la prestación integral de los servicios de competencia municipal ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 31]]). Su gobierno y administración están encomendados a la Diputación, integrada por el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 32]]).\n\nEl Presidente dirige el gobierno y la administración de la provincia y representa a la Diputación ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 34]]). Entre sus competencias propias destacan la coordinación de los servicios municipales, la asistencia y cooperación jurídica, económica y técnica a los municipios (especialmente los de menor capacidad), la prestación de servicios supramunicipales y el fomento de los intereses provinciales ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 36]])."
+    },
+    {
+      "titulo": "El Servicio Provincial Tributario",
+      "texto": "El Servicio Provincial Tributario es el organismo autónomo de la Diputación Provincial de Granada encargado de la gestión, liquidación, inspección y recaudación de los tributos y demás ingresos de derecho público. Como organismo autónomo, goza de personalidad jurídica propia y patrimonio propio, y se rige por sus Estatutos y por la normativa tributaria general.\n\nPresta el servicio de gestión recaudatoria a los ayuntamientos de la provincia y a otras entidades que concierten con él la gestión y recaudación de sus ingresos de derecho público, fundamentalmente tributos locales."
+    },
+    {
+      "titulo": "Marco normativo de su actuación",
+      "texto": "La actuación del Servicio Provincial Tributario se sujeta a la Ley General Tributaria ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 5]]), al Reglamento General de Recaudación ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 8]]), que permite la recaudación de las entidades locales directamente o por otros entes territoriales, y al texto refundido de la Ley Reguladora de las Haciendas Locales, cuyo [[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 12]] atribuye la gestión tributaria al ayuntamiento con posibilidad de delegación.\n\nPor los servicios que presta percibe la tasa por prestación del servicio de gestión recaudatoria, cuyos sujetos pasivos son los ayuntamientos y entidades concertadas."
+    },
+    {
+      "titulo": "La delegación de la gestión tributaria municipal",
+      "texto": "El [[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 12]] permite que los ayuntamientos deleguen en la Diputación Provincial la gestión, liquidación, inspección y recaudación de sus tributos, mediante acuerdos que comprenden todas las facultades salvo disposición en contrario. Esta delegación es el fundamento jurídico por el que el Servicio Provincial Tributario gestiona los tributos locales de los municipios granadinos que así lo acuerdan.\n\nEn el ejercicio de estas funciones delegadas, el organismo aplica el procedimiento de apremio para el cobro en período ejecutivo, con la providencia de apremio como acto de inicio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 70]]), y puede practicar embargos y enajenaciones conforme al Reglamento General de Recaudación. La recaudación en período voluntario se anuncia colectivamente mediante edictos con el plazo, la modalidad de cobro y la advertencia del apremio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 24]])."
+    }
+  ]
+}

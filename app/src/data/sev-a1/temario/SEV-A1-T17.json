@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T17",
+  "tema": "T17",
+  "tipo": "comun",
+  "numero": 17,
+  "titulo": "La jurisdicción contencioso-administrativa: órganos, legitimación y procedimiento",
+  "secciones": [
+    {
+      "titulo": "1. Objeto y órganos",
+      "texto": "La jurisdicción contencioso-administrativa conoce de las pretensiones deducidas en relación con la actuación administrativa sujeta a Derecho Administrativo, las disposiciones generales de rango inferior a la ley y los decretos legislativos que excedan la delegación ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 1]]). La integran los Juzgados de lo Contencioso, los Juzgados Centrales, las Salas de los TSJ y de la Audiencia Nacional y la Sala del Tribunal Supremo ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 6]])."
+    },
+    {
+      "titulo": "2. Legitimación y objeto impugnable",
+      "texto": "Están legitimados quienes ostenten un derecho o interés legítimo, además de corporaciones y Administraciones en supuestos tasados ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 19]]). Es impugnable el recurso contra disposiciones generales y actos expresos y presuntos que pongan fin a la vía administrativa ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 25]])."
+    },
+    {
+      "titulo": "3. Requisito previo y plazos",
+      "texto": "Entre Administraciones se exige requerimiento previo de anulación ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 44]]). El plazo de interposición es de dos meses desde la notificación o publicación, y de seis meses frente al acto presunto ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 46]])."
+    },
+    {
+      "titulo": "4. Procedimiento y sentencia",
+      "texto": "El procedimiento se inicia con el escrito de interposición, sigue con la reclamación del expediente, demanda, contestación y prueba, y concluye por sentencia. La sentencia puede declarar la inadmisibilidad, desestimar o estimar, anulando el acto y reconociendo la situación jurídica individualizada ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 71]])."
+    },
+    {
+      "titulo": "5. Recursos",
+      "texto": "Cabe apelación contra las sentencias de los Juzgados, salvo en asuntos de cuantía no superior a 30.000 euros ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 81]]), y casación ante el Tribunal Supremo para la formación de jurisprudencia."
+    },
+    {
+      "titulo": "6. Medidas cautelares y ejecución de sentencias",
+      "texto": "Durante el proceso pueden adoptarse medidas cautelares para asegurar la efectividad de la sentencia, ponderando los intereses en conflicto y la apariencia de buen derecho. La sentencia firme que estima el recurso anula el acto y reconoce, en su caso, la situación jurídica individualizada con las medidas para su pleno restablecimiento ([[Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa | art. 71]]). La Administración debe ejecutar las sentencias en sus propios términos; el incumplimiento habilita los incidentes de ejecución y, en último término, la imposición de multas coercitivas a las autoridades responsables."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T06",
+    "SEV-A1-T14",
+    "SEV-A1-T16"
+  ]
+}

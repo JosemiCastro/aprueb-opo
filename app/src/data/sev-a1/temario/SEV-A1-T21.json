@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T21",
+  "tema": "T21",
+  "tipo": "comun",
+  "numero": 21,
+  "titulo": "El Municipio: concepto, elementos, término municipal y organización",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y elementos",
+      "texto": "El municipio es la entidad local básica de la organización territorial del Estado y cauce inmediato de participación ciudadana. Sus elementos son el territorio, la población y la organización ([[Ley 7/1985 | art. 11]]). Goza de personalidad jurídica plena y de autonomía garantizada constitucionalmente ([[Constitución Española de 1978 | art. 140]])."
+    },
+    {
+      "titulo": "2. El término municipal y la población",
+      "texto": "El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias ([[Ley 7/1985 | art. 12]]). La población la forman quienes tienen residencia habitual en el término; la condición de vecino se adquiere con la inscripción en el Padrón municipal ([[Ley 7/1985 | art. 15]]). Los vecinos tienen derechos de sufragio, participación, uso de servicios e información ([[Ley 7/1985 | art. 18]])."
+    },
+    {
+      "titulo": "3. Organización municipal",
+      "texto": "El gobierno y la administración municipal corresponden al Ayuntamiento, integrado por el Alcalde y los Concejales elegidos por sufragio universal ([[Ley 7/1985 | art. 19]]). Son órganos necesarios en todos los Ayuntamientos el Alcalde, los Tenientes de Alcalde y el Pleno; en los de más de 5.000 habitantes, además, la Junta de Gobierno Local ([[Ley 7/1985 | art. 20]])."
+    },
+    {
+      "titulo": "4. El Alcalde",
+      "texto": "Entre sus atribuciones: dirigir el gobierno y la administración municipal, representar al Ayuntamiento, convocar y presidir las sesiones, dictar bandos y ejercer la jefatura superior del personal ([[Ley 7/1985 | art. 21]]). Es elegido por los Concejales o por los vecinos en los municipios de concejo abierto."
+    },
+    {
+      "titulo": "5. Competencias municipales",
+      "texto": "Los municipios ejercen competencias propias (urbanismo, medio ambiente, abastecimiento de agua, infraestructuras, policía local, tráfico, transporte, etc.) y pueden ejercer competencias delegadas del Estado o la Comunidad Autónoma, con la financiación correspondiente."
+    },
+    {
+      "titulo": "6. La participación directa de los vecinos",
+      "texto": "Los vecinos no solo eligen a sus representantes: tienen derecho a participar en la gestión municipal ([[Ley 7/1985 | art. 18]]), a ser informados, a acceder a archivos y registros y a pedir la consulta popular sobre asuntos de competencia municipal. Los Ayuntamientos deben facilitar la participación mediante reglamentos orgánicos de participación ciudadana, consejos sectoriales y presupuestos participativos. La condición de vecino, ligada a la residencia habitual y al Padrón ([[Ley 7/1985 | art. 15]]), es la puerta de acceso a estos derechos. La democracia local se completa con la publicidad de las sesiones del Pleno y la rendición de cuentas ante la ciudadanía. Los municipios pueden asociarse en mancomunidades para ejecutar obras y servicios de su competencia ([[Ley 7/1985 | art. 3]]), con personalidad jurídica propia y órganos de gobierno representativos. Junto a ellas, las comarcas y áreas metropolitanas agrupan municipios con intereses comunes que requieren gestión conjunta. Estas fórmulas de cooperación intermunicipal permiten prestar servicios —agua, residuos, transporte— con economías de escala que los pequeños municipios no alcanzarían por sí solos, y son el cauce natural de la asistencia técnica de las Diputaciones."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T09",
+    "SEV-A1-T22",
+    "SEV-A1-T23"
+  ]
+}

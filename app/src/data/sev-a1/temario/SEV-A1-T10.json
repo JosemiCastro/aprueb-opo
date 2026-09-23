@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T10",
+  "tema": "T10",
+  "tipo": "comun",
+  "numero": 10,
+  "titulo": "La Unión Europea: origen, instituciones y Derecho de la Unión",
+  "secciones": [
+    {
+      "titulo": "1. Origen y base constitucional",
+      "texto": "La integración europea nace tras la Segunda Guerra Mundial con la CECA (1951) y los Tratados de Roma (1957), hasta el Tratado de la Unión Europea (Maastricht, 1992) y el de Lisboa (2007). El [[Constitución Española de 1978 | art. 93]] permite, mediante ley orgánica, atribuir a organizaciones internacionales el ejercicio de competencias derivadas de la Constitución: es la base constitucional de la pertenencia de España a la UE."
+    },
+    {
+      "titulo": "2. Las instituciones de la Unión",
+      "texto": "Las siete instituciones son: el Parlamento Europeo (elegido por sufragio universal directo, mandato de cinco años), el Consejo Europeo (Jefes de Estado o de Gobierno, define las orientaciones políticas), el Consejo (representa a los gobiernos), la Comisión Europea (promueve el interés general, guardiana de los Tratados y con el monopolio de la iniciativa legislativa), el Tribunal de Justicia de la UE, el Banco Central Europeo y el Tribunal de Cuentas. El Comité de las Regiones es el órgano consultivo de los entes regionales y locales."
+    },
+    {
+      "titulo": "3. El Derecho de la Unión: fuentes",
+      "texto": "El Derecho originario lo forman los Tratados; el Derecho derivado, los actos de las instituciones: reglamentos, directivas, decisiones, recomendaciones y dictámenes. El reglamento es directamente aplicable en todos sus elementos; la directiva obliga en cuanto al resultado y requiere transposición; la decisión obliga a sus destinatarios."
+    },
+    {
+      "titulo": "4. Principios: primacía y efecto directo",
+      "texto": "La primacía (Costa/ENEL, 1964) hace prevalecer el Derecho de la Unión sobre el Derecho interno en caso de conflicto. El efecto directo permite a los particulares invocar normas europeas claras e incondicionales ante los jueces nacionales. Ambos principios garantizan la aplicación uniforme del Derecho europeo."
+    },
+    {
+      "titulo": "5. La Unión Europea y las entidades locales",
+      "texto": "Las entidades locales participan en la UE a través del Comité de las Regiones y son gestoras de fondos europeos. El principio de subsidiariedad protege su ámbito competencial frente a la acción de la Unión."
+    },
+    {
+      "titulo": "6. España en la Unión Europea",
+      "texto": "España ingresó en las Comunidades Europeas en 1986, tras la autorización por ley orgánica del artículo 93 ([[Constitución Española de 1978 | art. 93]]). La pertenencia implica la aplicación directa del Derecho europeo y la primacía sobre el interno, la participación en el Consejo y el Consejo Europeo, la elección de eurodiputados y la contribución al presupuesto común. Las Comunidades Autónomas participan en la formación de la posición española en asuntos de su competencia y ejecutan gran parte del Derecho europeo. Los fondos estructurales han sido un instrumento clave de cohesión territorial. La subsidiariedad ordena que las decisiones se tomen lo más cerca posible del ciudadano: la Unión solo actúa si los objetivos no pueden alcanzarse mejor por los Estados miembros. Este principio protege el ámbito de las entidades locales y regionales frente a una centralización innecesaria, y los parlamentos nacionales —con participación autonómica— controlan su respeto mediante el mecanismo de alerta temprana."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T01",
+    "SEV-A1-T09"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E02",
+  "tema": "E02",
+  "tipo": "especifico",
+  "numero": 2,
+  "titulo": "Preparación, adjudicación y ejecución de los contratos del sector público",
+  "secciones": [
+    {
+      "titulo": "1. El expediente de contratación",
+      "texto": "Al expediente se incorporan el pliego de cláusulas administrativas particulares, el de prescripciones técnicas, el certificado de existencia de crédito y la fiscalización previa ([[Ley 9/2017 | art. 116]]). El pliego de cláusulas administrativas define los derechos y obligaciones de las partes y se aprueba antes de autorizar el gasto ([[Ley 9/2017 | art. 122]])."
+    },
+    {
+      "titulo": "2. Procedimientos de adjudicación",
+      "texto": "Ordinariamente se utilizan el procedimiento abierto y el restringido; también caben el negociado, el diálogo competitivo y la asociación para la innovación ([[Ley 9/2017 | art. 131]]). La adjudicación atiende a la mejor relación calidad-precio con pluralidad de criterios económicos y cualitativos ([[Ley 9/2017 | art. 145]])."
+    },
+    {
+      "titulo": "3. Clasificación y formalización",
+      "texto": "La mesa de contratación clasifica por orden decreciente las proposiciones y propone la adjudicación ([[Ley 9/2017 | art. 150]]). Los contratos se perfeccionan con su formalización en documento administrativo, sin que quepa ejecutar antes de formalizar ([[Ley 9/2017 | art. 153]])."
+    },
+    {
+      "titulo": "4. El recurso especial",
+      "texto": "Contra anuncios, pliegos, actos de trámite cualificados y adjudicaciones en contratos SARA y supuestos tasados cabe el recurso especial en materia de contratación ante el Tribunal Administrativo de Recursos Contractuales ([[Ley 9/2017 | art. 44]]). Su interposición suspende la tramitación cuando se recurre la adjudicación."
+    },
+    {
+      "titulo": "5. Ejecución y cumplimiento",
+      "texto": "El contrato se entiende cumplido cuando el contratista realiza la totalidad de la prestación a satisfacción de la Administración ([[Ley 9/2017 | art. 210]]). La Administración ostenta las prerrogativas de interpretar, modificar por interés público, resolver y declarar la responsabilidad del contratista. La liquidación del contrato determina el saldo resultante a favor de cualquiera de las partes antes de la devolución de las garantías."
+    },
+    {
+      "titulo": "6. Prerrogativas y equilibrio económico",
+      "texto": "En la ejecución, la Administración ostenta las prerrogativas de interpretar el contrato, modificarlo por interés público, suspenderlo, resolverlo y declarar la responsabilidad del contratista. Como contrapeso, el contratista tiene derecho al mantenimiento del equilibrio económico: precio cierto, pago en plazo con intereses de demora y reequilibrio ante modificaciones impuestas o riesgo imprevisible. El contrato se cumple con la realización total de la prestación a satisfacción de la Administración ([[Ley 9/2017 | art. 210]]), formalizándose la recepción y liquidándose las obligaciones pendientes antes de la devolución de garantías. La mesa de contratación es el órgano colegiado de asistencia al órgano de contratación: califica la documentación, valora las ofertas y formula la propuesta de adjudicación. Su composición se publica en el Perfil de Contratante y sus miembros actúan con imparcialidad, sin poder formar parte de ella el personal que haya participado en la redacción de los pliegos. La clasificación decreciente de proposiciones ([[Ley 9/2017 | art. 150]]) culmina su trabajo, que el órgano de contratación puede apartar motivadamente."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E01",
+    "SEV-A1-E03"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E05",
+  "tema": "E05",
+  "tipo": "especifico",
+  "numero": 5,
+  "titulo": "Derechos y deberes de los empleados públicos. Régimen disciplinario e incompatibilidades",
+  "secciones": [
+    {
+      "titulo": "1. Derechos individuales",
+      "texto": "Los empleados públicos tienen derecho a la inamovilidad (funcionarios de carrera), al desempeño efectivo de sus funciones, a la carrera profesional, a las retribuciones y a la defensa jurídica ([[Real Decreto Legislativo 5/2015 | art. 14]]). La carrera se articula en carrera horizontal, promoción interna y provisión de puestos."
+    },
+    {
+      "titulo": "2. Derechos colectivos",
+      "texto": "Se reconocen la libertad sindical, la negociación colectiva y la participación en las condiciones de trabajo, el ejercicio de la huelga con garantía de los servicios esenciales y el derecho de reunión ([[Real Decreto Legislativo 5/2015 | art. 15]]). La negociación se desarrolla en las Mesas Generales de Negociación."
+    },
+    {
+      "titulo": "3. Deberes y código ético",
+      "texto": "Los empleados deben desempeñar con diligencia sus tareas, velar por el interés general con sujeción a la Constitución, obedecer instrucciones profesionales, informar a los ciudadanos y administrar con austeridad los recursos públicos ([[Real Decreto Legislativo 5/2015 | art. 52]]). Los principios éticos exigen objetividad, imparcialidad, lealtad institucional, buena fe y trato digno ([[Real Decreto Legislativo 5/2015 | art. 53]])."
+    },
+    {
+      "titulo": "4. Régimen disciplinario",
+      "texto": "Funcionarios y personal laboral están sujetos al régimen disciplinario del TREBEP ([[Real Decreto Legislativo 5/2015 | art. 93]]). Las faltas se clasifican en muy graves, graves y leves ([[Real Decreto Legislativo 5/2015 | art. 94]]); las sanciones van desde la separación del servicio o el despido hasta el apercibimiento, pasando por la suspensión, el traslado forzoso y el demérito ([[Real Decreto Legislativo 5/2015 | art. 96]])."
+    },
+    {
+      "titulo": "5. Incompatibilidades",
+      "texto": "La Ley 53/1984 prohíbe con carácter general compatibilizar el empleo público con un segundo puesto o actividad en el sector público ([[Ley 53/1984 | art. 1]]). Solo cabe compatibilidad con actividades privadas en supuestos tasados y con autorización, sin menoscabo del horario ni conflicto de intereses."
+    },
+    {
+      "titulo": "6. La compatibilidad con actividades privadas",
+      "texto": "La Ley 53/1984 parte de la dedicación del personal a un solo puesto ([[Ley 53/1984 | art. 1]]), pero permite compatibilizar con actividades privadas cuando no se menoscabe el horario, no exista conflicto de intereses y se obtenga autorización previa. Quedan excluidas las actividades que comprometan la imparcialidad o guarden relación directa con las funciones del puesto. La compatibilidad con un segundo puesto público es excepcional y tasada. El incumplimiento del régimen de incompatibilidades constituye falta muy grave y puede conllevar la separación del servicio. El ejercicio de la potestad disciplinaria exige expediente con audiencia del interesado y separación entre instrucción y resolución. Las faltas muy graves prescriben a los tres años, las graves a los dos y las leves a los seis meses; las sanciones impuestas prescriben en plazos equivalentes. La resolución, motivada, es recurrible en alzada y ante la jurisdicción contencioso-administrativa. La suspensión provisional de funciones cabe como medida cautelar en faltas muy graves ([[Real Decreto Legislativo 5/2015 | art. 96]] y ss.)."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E04",
+    "SEV-A1-E06"
+  ]
+}

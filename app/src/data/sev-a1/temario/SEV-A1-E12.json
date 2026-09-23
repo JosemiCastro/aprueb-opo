@@ -1,0 +1,39 @@
+{
+  "id": "SEV-A1-E12",
+  "tema": "E12",
+  "tipo": "especifico",
+  "numero": 12,
+  "titulo": "Infracciones y sanciones tributarias. Revisión en vía administrativa y reclamaciones económico-administrativas",
+  "secciones": [
+    {
+      "titulo": "1. Infracciones",
+      "texto": "Son infracciones las acciones u omisiones dolosas o culposas tipificadas y sancionadas por ley ([[Ley 58/2003 | art. 178]]). Rigen los principios de legalidad, tipicidad, responsabilidad, proporcionalidad, no concurrencia e irretroactividad ([[Ley 58/2003 | art. 179]]). Dejar de ingresar la deuda de la autoliquidación es infracción grave ([[Ley 58/2003 | art. 191]])."
+    },
+    {
+      "titulo": "2. Sanciones",
+      "texto": "Las sanciones pueden consistir en multa pecuniaria fija o proporcional, además de sanciones no pecuniarias en supuestos tasados ([[Ley 58/2003 | art. 187]]). Se gradúan por criterios como la ocultación o los medios fraudulentos, y se reducen por conformidad o pronto pago. La responsabilidad es personal: solo responde quien realizó la infracción, aun a título de simple inobservancia. Las sanciones tributarias son compatibles con los intereses de demora, que no tienen naturaleza sancionadora sino resarcitoria. Tampoco cabe sancionar dos veces por los mismos hechos: rige el principio non bis in idem entre la vía penal y la administrativa."
+    },
+    {
+      "titulo": "3. Procedimiento sancionador",
+      "texto": "Se inicia siempre de oficio ([[Ley 58/2003 | art. 207]]) y debe concluir en seis meses ([[Ley 58/2003 | art. 208]]). Es independiente del procedimiento de aplicación de los tributos, aunque pueden tramitarse conjuntamente en supuestos legales."
+    },
+    {
+      "titulo": "4. Revisión en vía administrativa",
+      "texto": "Contra los actos de aplicación de los tributos caben el recurso de reposición y la reclamación económico-administrativa ([[Ley 58/2003 | art. 213]]). La reposición es potestativa y previa; no cabe simultanearla con la reclamación."
+    },
+    {
+      "titulo": "5. Reclamaciones económico-administrativas",
+      "texto": "Se interponen ante los Tribunales Económico-Administrativos (regional y central), que resuelven en única instancia las de mayor cuantía ([[Ley 58/2003 | art. 226]]). Agotada la vía económico-administrativa, cabe el recurso contencioso-administrativo."
+    },
+    {
+      "titulo": "6. La suspensión en vía de revisión",
+      "texto": "La interposición del recurso de reposición o de la reclamación económico-administrativa ([[Ley 58/2003 | art. 213]]) no suspende por sí sola la ejecución del acto impugnado, dada la ejecutividad de los actos tributarios. Cabe solicitar la suspensión con aportación de garantías, y opera la suspensión automática en los supuestos legales. Los Tribunales Económico-Administrativos ([[Ley 58/2003 | art. 226]]) resuelven con criterios de legalidad y pueden ordenar la retroacción de actuaciones, cerrando la vía administrativa previa al recurso contencioso-administrativo. Incoado de oficio ([[Ley 58/2003 | art. 207]]), el procedimiento sancionador separa instrucción y resolución, garantiza la audiencia y la prueba, y debe concluir en seis meses ([[Ley 58/2003 | art. 208]]). La propuesta de resolución se notifica para alegaciones. La resolución, motivada, impone la sanción graduada conforme a los criterios legales ([[Ley 58/2003 | art. 187]]) o declara la inexistencia de infracción. Cabe recurso de reposición y reclamación económico-administrativa ([[Ley 58/2003 | art. 213]])."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E08",
+    "SEV-A1-E10",
+    "SEV-A1-E11",
+    "SEV-A1-T18"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T19",
+  "tema": "T19",
+  "tipo": "comun",
+  "numero": 19,
+  "titulo": "La protección de datos, la administración electrónica y la transparencia",
+  "secciones": [
+    {
+      "titulo": "1. El derecho a la protección de datos",
+      "texto": "El tratamiento de datos es lícito con el consentimiento del interesado o cuando concurra alguna base jurídica del RGPD ([[Ley Orgánica 3/2018 | art. 6]]). El consentimiento del menor es válido desde los catorce años ([[Ley Orgánica 3/2018 | art. 7]]). El responsable debe informar al afectado de la identidad, finalidad y derechos ([[Ley Orgánica 3/2018 | art. 11]])."
+    },
+    {
+      "titulo": "2. Derechos del interesado",
+      "texto": "El afectado puede ejercer los derechos de acceso, rectificación, supresión (derecho al olvido), limitación del tratamiento, portabilidad y oposición ante el responsable ([[Ley Orgánica 3/2018 | art. 12]]). La Agencia Española de Protección de Datos es la autoridad administrativa independiente que vela por su cumplimiento ([[Ley Orgánica 3/2018 | art. 44]])."
+    },
+    {
+      "titulo": "3. La administración electrónica",
+      "texto": "Cada Administración dispone de sede electrónica como dirección oficial para relacionarse con los ciudadanos ([[Ley 40/2015 | art. 38]]). Están obligados a la relación electrónica las personas jurídicas, los profesionales colegiados y los empleados públicos. Los documentos electrónicos y las notificaciones electrónicas tienen plena validez."
+    },
+    {
+      "titulo": "4. La transparencia: publicidad activa",
+      "texto": "La Ley 19/2013 impone la publicidad activa: publicar de forma periódica y actualizada la información relevante, de manera clara y en formatos reutilizables ([[Ley 19/2013 | art. 5]]). Todas las personas tienen derecho a acceder a la información pública ([[Ley 19/2013 | art. 12]]), con los límites de la propia ley (seguridad, secreto, datos personales)."
+    },
+    {
+      "titulo": "5. Buen gobierno",
+      "texto": "El Título II de la Ley 19/2013 regula el buen gobierno de los responsables públicos: principios de actuación, régimen de incompatibilidades y régimen sancionador por infracciones en materia de gestión económico-presupuestaria."
+    },
+    {
+      "titulo": "6. El Portal de Transparencia y el derecho de acceso",
+      "texto": "La publicidad activa se canaliza a través del Portal de Transparencia, con información institucional, normativa, económica y de contratación ([[Ley 19/2013 | art. 5]]). El derecho de acceso ([[Ley 19/2013 | art. 12]]) se ejerce por solicitud, que se resuelve en un mes; el silencio es desestimatorio. Sus límites (seguridad nacional, defensa, relaciones exteriores, seguridad pública, secreto, datos personales) se aplican de forma restrictiva y motivada. Frente a la denegación cabe reclamación ante el Consejo de Transparencia y Buen Gobierno y, posteriormente, el recurso contencioso-administrativo. La firma electrónica identifica al firmante y garantiza la integridad del documento, con plena validez jurídica. Las notificaciones se practican preferentemente por medios electrónicos para los obligados a relacionarse electrónicamente, y el interesado puede señalar dispositivos y direcciones para avisos. La sede electrónica ([[Ley 40/2015 | art. 38]]) centraliza el acceso a notificaciones, expedientes y servicios, culminando la transformación digital de la Administración. Los sistemas de identificación admitidos incluyen el certificado electrónico, el DNI electrónico y los sistemas de clave concertada para los ciudadanos."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T15",
+    "SEV-A1-T02"
+  ]
+}

@@ -93,9 +93,20 @@ interface NavItem {
   active: boolean;
 }
 
-// El destino de "Temario" depende del perfil que se esté viendo.
+// El destino de "Temario" depende de la oposición que se esté viendo.
 function temarioPath(path: string): string {
-  return path.startsWith('/a2') ? '/a2/temario' : '/c1/temario';
+  if (path.startsWith('/a2')) return '/a2/temario';
+  const mOpo = path.match(/^\/opo\/([A-Za-z0-9-]+)/);
+  if (mOpo) return `/opo/${mOpo[1]}/temario`;
+  return '/c1/temario';
+}
+
+// ¿A qué oposición pertenece la ruta actual? (para el estado activo)
+function opoDePath(path: string): string | null {
+  if (path.startsWith('/c1')) return 'HUE-C1';
+  if (path.startsWith('/a2')) return 'HUE-A2';
+  const m = path.match(/^\/opo\/([A-Za-z0-9-]+)/);
+  return m ? m[1] : null;
 }
 
 export function BottomNav() {
@@ -103,22 +114,16 @@ export function BottomNav() {
   // Fuera de la app autenticada no hay navegación.
   if (path === '/login' || path === '/register') return null;
 
-  const enTemario = /^\/(c1|a2)\/temario/.test(path);
+  const enTemario = /^(\/(c1|a2)|(\/opo\/[A-Za-z0-9-]+))\/temario/.test(path);
+  const opoActual = opoDePath(path);
   const items: NavItem[] = [
     { key: 'home', label: 'Inicio', icon: '🏠', to: '/', active: path === '/' },
     {
-      key: 'c1',
-      label: 'C1',
-      icon: '📝',
-      to: '/c1',
-      active: path.startsWith('/c1') && !enTemario,
-    },
-    {
-      key: 'a2',
-      label: 'A2',
-      icon: '📋',
-      to: '/a2',
-      active: path.startsWith('/a2') && !enTemario,
+      key: 'opos',
+      label: 'Oposiciones',
+      icon: '🗂️',
+      to: '/oposiciones',
+      active: path === '/oposiciones' || (opoActual !== null && !enTemario && path !== '/'),
     },
     {
       key: 'temario',

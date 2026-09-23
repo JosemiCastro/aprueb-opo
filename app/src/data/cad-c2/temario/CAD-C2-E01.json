@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E01",
+  "tema": "E01",
+  "numero": 1,
+  "tipo": "especifico",
+  "titulo": "El personal al servicio de las Administraciones Públicas: los empleados públicos. Retribuciones del personal.",
+  "relacionados": [
+    "CAD-C2-E02",
+    "CAD-C2-T09",
+    "CAD-C2-T03"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Los empleados públicos: concepto y clases",
+      "texto": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 8]]). Se clasifican en: funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual. Los funcionarios de carrera están vinculados por una relación estatutaria regulada por el Derecho Administrativo ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 9]]); los interinos son nombrados por razones de necesidad y urgencia para funciones propias de funcionarios ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 10]]); el personal laboral presta servicios en virtud de contrato de trabajo ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 11]]); y el personal eventual desempeña puestos de confianza o asesoramiento especial ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 12]])."
+    },
+    {
+      "titulo": "2. Grupos de clasificación profesional",
+      "texto": "Los cuerpos y escalas se clasifican en grupos según la titulación exigida para el acceso ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 76]]): Grupo A (subgrupos A1 y A2, título universitario de Grado), Grupo B (Técnico Superior), Grupo C (subgrupos C1: Bachiller o Técnico; C2: Graduado en Educación Secundaria Obligatoria) y Agrupaciones Profesionales (sin requisito de titulación). La plaza de Auxiliar Administrativo de la Diputación de Cádiz pertenece al Grupo C, Subgrupo C2."
+    },
+    {
+      "titulo": "3. Retribuciones de los funcionarios",
+      "texto": "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias se determinan cada año en la Ley de Presupuestos Generales del Estado ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 21]]). Las retribuciones de los funcionarios se dividen en básicas y complementarias ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 22]]): son básicas el sueldo asignado a cada subgrupo, los trienios y las pagas extraordinarias ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 23]]); son complementarias el complemento de destino, el complemento específico, el complemento de productividad y las gratificaciones por servicios extraordinarios ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 24]]). Los funcionarios interinos perciben las retribuciones básicas y las pagas extraordinarias correspondientes al subgrupo, así como las complementarias ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 25]])."
+    },
+    {
+      "titulo": "4. Acceso al empleo público",
+      "texto": "El acceso al empleo público se rige por los principios de igualdad, mérito y capacidad, y se realiza mediante convocatoria pública a través de los sistemas de oposición, concurso-oposición o concurso ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 61]]). Para participar se requiere, entre otros requisitos, tener la nacionalidad española o la de un Estado miembro de la UE, poseer la capacidad funcional, tener cumplidos dieciséis años y no exceder de la edad de jubilación forzosa, y poseer la titulación exigida ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 56]])."
+    }
+  ]
+}

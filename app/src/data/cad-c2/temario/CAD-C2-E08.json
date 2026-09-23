@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E08",
+  "tema": "E08",
+  "numero": 8,
+  "tipo": "especifico",
+  "titulo": "Los contratos administrativos en la esfera local. Especial referencia a la selección del contratista.",
+  "relacionados": [
+    "CAD-C2-E09",
+    "CAD-C2-E10",
+    "CAD-C2-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Los contratos del sector público: concepto y tipos",
+      "texto": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tiene por objeto regular la contratación del sector público para garantizar los principios de libertad de acceso, publicidad, transparencia, igualdad de trato y eficiencia ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 1]]). Su ámbito subjetivo incluye a las Administraciones Públicas y, por tanto, a las entidades locales ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 3]]). Los contratos típicos son el de obras ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 13]]), el de concesión de obras ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 14]]), el de concesión de servicios ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 15]]), el de suministro ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 16]]) y el de servicios ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 17]])."
+    },
+    {
+      "titulo": "2. Preparación del contrato en la esfera local",
+      "texto": "Todo contrato debe responder a una necesidad de la entidad local, debidamente justificada en el expediente ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 28]]). El expediente de contratación se inicia con la justificación de la necesidad, el objeto del contrato ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 99]]), el presupuesto base de licitación ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 100]]) y el valor estimado ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 101]]), y contiene los pliegos de cláusulas administrativas y de prescripciones técnicas ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 116]]). En las entidades locales, la competencia para contratar corresponde al Alcalde o Presidente (contratos menores y ordinarios dentro de límites) o al Pleno, según la cuantía y duración."
+    },
+    {
+      "titulo": "3. La selección del contratista: procedimientos de adjudicación",
+      "texto": "La adjudicación se realiza ordinariamente por procedimiento abierto o restringido ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 131]]), con respeto a los principios de igualdad, transparencia y libre competencia ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 132]]) y previo anuncio de licitación ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 135]]). Los licitadores presentan sus proposiciones ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 139]]) y la adjudicación recae en la oferta con mejor relación calidad-precio conforme a los criterios del [[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 145]]. La mesa de contratación clasifica las ofertas ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 150]]) y el órgano de contratación adjudica el contrato ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 151]]), que deberá formalizarse en documento administrativo ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 153]]). Existe un procedimiento abierto simplificado para contratos de menor cuantía ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 159]])."
+    },
+    {
+      "titulo": "4. Los contratos menores",
+      "texto": "Son contratos menores los de valor estimado inferior a 40.000 euros en obras y a 15.000 euros en suministros y servicios; su expediente exige el informe del órgano de contratación motivando la necesidad, la aprobación del gasto y la factura correspondiente ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  art. 118]]). No pueden tener una duración superior a un año ni ser objeto de prórroga. La tramitación de urgencia y de emergencia permite acortar plazos o actuar sin expediente previo en casos tasados ([[Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público |  arts. 119 y 120]])."
+    }
+  ]
+}

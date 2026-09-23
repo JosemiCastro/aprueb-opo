@@ -3,17 +3,16 @@ import { Header } from '../../components/ui';
 import { listarTemario } from '../../lib/temario';
 import { esTemaEstudiado, useTemasEstudiados } from '../../lib/storage';
 import { link } from '../../lib/router';
-import type { TemaDesarrollado } from '../../types';
+import { tituloOpo } from '../oposicion/props';
+import type { OposicionId, TemaDesarrollado } from '../../types';
 
-const TITULOS = { c1: 'Temario C1', a2: 'Temario A2' } as const;
-
-function FilaTema({ perfil, tema, estudiado }: {
-  perfil: 'c1' | 'a2';
+function FilaTema({ base, tema, estudiado }: {
+  base: string;
   tema: TemaDesarrollado;
   estudiado: boolean;
 }) {
   return (
-    <a className="tema-row" href={link(`/${perfil}/temario/${tema.id}`)}>
+    <a className="tema-row" href={link(`${base}/temario/${tema.id}`)}>
       <span className="tema-num" aria-hidden="true">{tema.numero}</span>
       <div className="tema-row-main">
         <div className="tema-row-title">{tema.titulo}</div>
@@ -29,20 +28,20 @@ function FilaTema({ perfil, tema, estudiado }: {
   );
 }
 
-export default function ListaTemario({ perfil }: { perfil: 'c1' | 'a2' }) {
+export default function ListaTemario({ opoId, base }: { opoId: OposicionId; base: string }) {
   const [temas, setTemas] = useState<TemaDesarrollado[] | null>(null);
   const [q, setQ] = useState('');
   const [estudiados] = useTemasEstudiados();
 
   useEffect(() => {
     let vivo = true;
-    listarTemario(perfil).then((ts) => {
+    listarTemario(opoId).then((ts) => {
       if (vivo) setTemas(ts);
     });
     return () => {
       vivo = false;
     };
-  }, [perfil]);
+  }, [opoId]);
 
   const filtrados = useMemo(() => {
     if (!temas) return null;
@@ -56,7 +55,7 @@ export default function ListaTemario({ perfil }: { perfil: 'c1' | 'a2' }) {
 
   return (
     <div className="screen">
-      <Header title={`📖 ${TITULOS[perfil]}`} backTo={`/${perfil}`} />
+      <Header title={`📖 Temario ${tituloOpo(opoId)}`} backTo={base} />
       <main className="container">
         <input
           className="input"
@@ -82,7 +81,7 @@ export default function ListaTemario({ perfil }: { perfil: 'c1' | 'a2' }) {
                 {comunes.map((t) => (
                   <FilaTema
                     key={t.id}
-                    perfil={perfil}
+                    base={base}
                     tema={t}
                     estudiado={esTemaEstudiado(estudiados, t.id)}
                   />
@@ -95,7 +94,7 @@ export default function ListaTemario({ perfil }: { perfil: 'c1' | 'a2' }) {
                 {especificos.map((t) => (
                   <FilaTema
                     key={t.id}
-                    perfil={perfil}
+                    base={base}
                     tema={t}
                     estudiado={esTemaEstudiado(estudiados, t.id)}
                   />

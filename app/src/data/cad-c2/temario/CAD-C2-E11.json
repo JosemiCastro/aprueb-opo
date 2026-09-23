@@ -1,0 +1,31 @@
+{
+  "id": "CAD-C2-E11",
+  "tema": "E11",
+  "numero": 11,
+  "tipo": "especifico",
+  "titulo": "El interesado: concepto, representación, pluralidad de interesados y nuevos interesados en el procedimiento. Identificación y firma. Sistema de identificación de los interesados y sistemas de firma admitidos por las Administraciones Públicas; el uso de medios de identificación y firma, asistencia en el uso de medios electrónicos a los interesados. Derechos de las personas en sus relaciones con las AA.PP., derecho y obligación de relacionarse electrónicamente.",
+  "relacionados": [
+    "CAD-C2-E03",
+    "CAD-C2-E04",
+    "CAD-C2-T08",
+    "CAD-C2-E13"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. El interesado: concepto, representación y pluralidad",
+      "texto": "Son interesados quienes promuevan el procedimiento como titulares de derechos o intereses legítimos, quienes tengan derechos afectados por la decisión y quienes, con intereses legítimos afectados, se personen antes de la resolución definitiva ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 4]]). El interesado puede actuar por sí o por medio de representante, y la representación se presume para los actos de mero trámite ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 5]]). Cuando en una solicitud figuren varios interesados, las actuaciones se efectúan con el representante o interesado designado, y si no hay designación, con el que figure en primer término ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 7]]). Los nuevos interesados que se personen tras la iniciación deben ser admitidos si acreditan su legitimación."
+    },
+    {
+      "titulo": "2. Identificación y firma de los interesados",
+      "texto": "Los interesados se identifican electrónicamente ante las Administraciones mediante sistemas basados en certificados electrónicos cualificados, o mediante sistemas de claves concertadas como Cl@ve ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 9]]). Para la firma se admiten los sistemas de firma electrónica reconocida o cualificada y avanzada basados en certificados, y los sistemas de sello electrónico y de código seguro de verificación ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 10]]). Cada Administración determinará qué sistemas admite en cada procedimiento ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 11]]), y debe asistir a los interesados en su uso, especialmente a través de las oficinas de asistencia en materia de registros ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 12]])."
+    },
+    {
+      "titulo": "3. Derechos de las personas en sus relaciones con las AAPP",
+      "texto": "El [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 13]] reconoce, entre otros, los derechos a comunicarse por el punto de acceso general electrónico, a ser asistidos en el uso de medios electrónicos, a utilizar las lenguas oficiales, a acceder a la información pública y a los archivos, a ser tratados con respeto, a exigir responsabilidades, a obtener medios de identificación y firma, y a la protección de datos personales. En el procedimiento, el interesado tiene los derechos específicos del [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 53]]: conocer el estado de tramitación, identificar a los responsables, no aportar documentos ya en poder de la Administración, formular alegaciones y acceder al expediente."
+    },
+    {
+      "titulo": "4. Derecho y obligación de relacionarse electrónicamente",
+      "texto": "Las personas físicas pueden elegir en todo momento si se comunican con las Administraciones por medios electrónicos o no ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 14]]). Están obligados a relacionarse electrónicamente: las personas jurídicas, las entidades sin personalidad jurídica, los profesionales colegiados obligatorios, quienes representen a un obligado y los empleados públicos por razón de su condición. El Real Decreto 203/2021 desarrolla esta obligación y regula las oficinas de asistencia, el registro electrónico y la carpeta ciudadana. Reglamentariamente, las Administraciones podrán establecer la obligación de relacionarse electrónicamente para determinados procedimientos y colectivos que acrediten acceso y disponibilidad de los medios necesarios."
+    }
+  ]
+}

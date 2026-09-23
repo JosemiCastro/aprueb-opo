@@ -1,0 +1,25 @@
+{
+  "id": "GRA-C1-T09",
+  "numero": 9,
+  "tema": "T09",
+  "tipo": "comun",
+  "titulo": "El personal al servicio de las Administraciones Públicas: el EBEP",
+  "relacionados": [
+    "GRA-C1-T01",
+    "GRA-C1-T10"
+  ],
+  "secciones": [
+    {
+      "titulo": "Clases de empleados públicos",
+      "texto": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales, y se clasifican en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 8]]).\n\nLos funcionarios de carrera están vinculados por una relación estatutaria de carácter permanente, y solo ellos pueden ejercer las funciones que impliquen participación en el ejercicio de potestades públicas ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 9]]). Los interinos se nombran por razones justificadas de necesidad y urgencia para plazas vacantes, sustituciones o programas temporales ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 10]]), y el personal laboral se vincula por contrato de trabajo ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 11]])."
+    },
+    {
+      "titulo": "Derechos, deberes y código de conducta",
+      "texto": "Los empleados públicos tienen, entre otros derechos individuales, la inamovilidad (funcionarios de carrera), el desempeño efectivo del puesto, la carrera profesional, las retribuciones, la formación y la protección frente al acoso ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 14]]).\n\nSus deberes se recogen en los [[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | arts. 52 a 54]]: actuar con diligencia al servicio de los intereses generales con sometimiento a la Constitución y a la ley, y conforme a principios éticos (objetividad, integridad, neutralidad, imparcialidad) y de conducta (eficacia, eficiencia, atención al ciudadano)."
+    },
+    {
+      "titulo": "Acceso y carrera",
+      "texto": "El acceso al empleo público se rige por los principios constitucionales de igualdad, mérito y capacidad, más los de publicidad, transparencia, imparcialidad, independencia técnica y agilidad ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 55]]). Los sistemas selectivos de los funcionarios de carrera son la oposición y el concurso-oposición, que incluirán en todo caso una o varias pruebas para determinar la capacidad de los aspirantes; solo en virtud de ley podrá aplicarse, con carácter excepcional, el sistema de concurso ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 61]]).\n\nLa clasificación profesional distingue los grupos A (subgrupos A1 y A2), B y C (subgrupos C1 y C2), además de las agrupaciones profesionales ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 76]]). Las situaciones administrativas son el servicio activo, los servicios especiales, el servicio en otras Administraciones, la excedencia y la suspensión de funciones ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público | art. 85]])."
+    }
+  ]
+}

@@ -1,0 +1,3096 @@
+[
+  {
+    "id": "CAD-C2-E01-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 8",
+    "enunciado": "¿Quiénes son empleados públicos y cómo se clasifican según el artículo 8 del EBEP?",
+    "respuesta": "Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales. Se clasifican en: funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual.",
+    "explicacion": "El art. 8 del EBEP define al empleado público y establece sus cuatro clases.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 9",
+    "enunciado": "¿Qué son los funcionarios de carrera según el artículo 9 del EBEP?",
+    "respuesta": "Quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+    "explicacion": "El art. 9 del EBEP define al funcionario de carrera y su relación estatutaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 10",
+    "enunciado": "¿Cuándo pueden nombrarse funcionarios interinos según el artículo 10 del EBEP?",
+    "respuesta": "Por razones expresamente justificadas de necesidad y urgencia, para el desempeño de funciones propias de funcionarios de carrera: existencia de plazas vacantes sin posibilidad de cobertura por funcionarios de carrera; sustitución transitoria de titulares; ejecución de programas de carácter temporal; y exceso o acumulación de tareas por plazo máximo de nueve meses en dieciocho.",
+    "explicacion": "El art. 10 del EBEP limita el nombramiento de interinos a supuestos tasados de necesidad y urgencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué es el personal laboral según el artículo 11 del EBEP?",
+    "respuesta": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas.",
+    "explicacion": "El art. 11 del EBEP define al personal laboral por su vínculo contractual laboral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el personal eventual según el artículo 12 del EBEP y cómo cesa?",
+    "respuesta": "El que, en virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial. Su nombramiento y cese son libres; el cese tiene lugar cuando se produzca el de la autoridad a la que preste la función de confianza o asesoramiento.",
+    "explicacion": "El art. 12 del EBEP regula el personal eventual, de libre nombramiento y cese.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 76",
+    "enunciado": "¿Cómo se clasifican los cuerpos y escalas de funcionarios según el artículo 76 del EBEP y qué titulación exige el Subgrupo C2?",
+    "respuesta": "En grupos: Grupo A (subgrupos A1 y A2: título universitario de Grado), Grupo B (Técnico Superior), Grupo C (subgrupos C1: Bachiller o Técnico; C2: Graduado en Educación Secundaria Obligatoria) y Agrupaciones Profesionales. El Subgrupo C2 exige el título de Graduado en ESO.",
+    "explicacion": "El art. 76 del EBEP establece los grupos de clasificación; el C2 corresponde al Auxiliar Administrativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 21",
+    "enunciado": "¿Quién determina las cuantías retributivas de los empleados públicos según el artículo 21 del EBEP?",
+    "respuesta": "Las cuantías de las retribuciones básicas y el incremento de las retribuciones complementarias se determinarán por lo dispuesto cada año en la Ley de Presupuestos Generales del Estado.",
+    "explicacion": "El art. 21 del EBEP remite a la Ley de Presupuestos la fijación anual de las retribuciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 22",
+    "enunciado": "¿Cómo se estructuran las retribuciones de los funcionarios según el artículo 22 del EBEP?",
+    "respuesta": "En retribuciones básicas y retribuciones complementarias.",
+    "explicacion": "El art. 22 del EBEP establece la estructura dual de las retribuciones funcionariales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 23",
+    "enunciado": "¿Qué retribuciones básicas perciben los funcionarios según el artículo 23 del EBEP?",
+    "respuesta": "El sueldo asignado a cada Subgrupo o Grupo de clasificación profesional, los trienios (por cada tres años de servicio) y las pagas extraordinarias (dos al año, en junio y diciembre).",
+    "explicacion": "El art. 23 del EBEP enumera las retribuciones básicas: sueldo, trienios y pagas extraordinarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 24",
+    "enunciado": "¿Qué retribuciones complementarias perciben los funcionarios según el artículo 24 del EBEP?",
+    "respuesta": "El complemento de destino (correspondiente al nivel del puesto), el complemento específico (por especial dificultad, responsabilidad o penosidad), el complemento de productividad (por rendimiento) y las gratificaciones por servicios extraordinarios fuera de la jornada normal.",
+    "explicacion": "El art. 24 del EBEP enumera las retribuciones complementarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 25",
+    "enunciado": "¿Qué retribuciones perciben los funcionarios interinos según el artículo 25 del EBEP?",
+    "respuesta": "Las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, así como las retribuciones complementarias que correspondan al puesto de trabajo que desempeñen.",
+    "explicacion": "El art. 25 del EBEP equipara retributivamente a los interinos con los funcionarios de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 61",
+    "enunciado": "¿Qué sistemas selectivos prevé el artículo 61 del EBEP para el acceso a la función pública?",
+    "respuesta": "Los sistemas selectivos de funcionarios de carrera serán los de oposición y concurso-oposición, que deberán incluir pruebas para determinar la capacidad de los aspirantes; solo en virtud de ley podrá aplicarse el sistema de concurso de valoración de méritos.",
+    "explicacion": "El art. 61 del EBEP establece la oposición y el concurso-oposición como sistemas generales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 56",
+    "enunciado": "Cite tres requisitos generales para participar en los procesos selectivos según el artículo 56 del EBEP.",
+    "respuesta": "Tener la nacionalidad española o la de un Estado miembro de la UE; poseer la capacidad funcional para el desempeño de las tareas; tener cumplidos dieciséis años y no exceder de la edad máxima de jubilación forzosa; no haber sido separado del servicio ni hallarse inhabilitado; y poseer la titulación exigida.",
+    "explicacion": "El art. 56 del EBEP enumera los requisitos generales de acceso al empleo público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 59",
+    "enunciado": "¿Qué reserva de plazas para personas con discapacidad establece el artículo 59 del EBEP?",
+    "respuesta": "En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas.",
+    "explicacion": "El art. 59 del EBEP fija la reserva mínima del 7% para personas con discapacidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 62",
+    "enunciado": "¿Cuándo se adquiere la condición de funcionario de carrera según el artículo 62 del EBEP?",
+    "respuesta": "Por el cumplimiento sucesivo de: superación del proceso selectivo, nombramiento por el órgano competente, acto de acatamiento de la Constitución y del resto del ordenamiento jurídico, y toma de posesión dentro del plazo establecido.",
+    "explicacion": "El art. 62 del EBEP exige cuatro requisitos sucesivos para adquirir la condición de funcionario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 63",
+    "enunciado": "Cite tres causas de pérdida de la condición de funcionario de carrera según el artículo 63 del EBEP.",
+    "respuesta": "La renuncia a la condición de funcionario; la pérdida de la nacionalidad; la jubilación total del funcionario; la sanción disciplinaria de separación del servicio con carácter firme; y la pena principal o accesoria de inhabilitación absoluta o especial para cargo público.",
+    "explicacion": "El art. 63 del EBEP enumera las causas de pérdida de la condición de funcionario de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E01-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E01",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 55",
+    "enunciado": "¿Con arreglo a qué principios se accede al empleo público según el artículo 55 del EBEP?",
+    "respuesta": "Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad, y de acuerdo con lo previsto en el EBEP y en el resto del ordenamiento jurídico.",
+    "explicacion": "El art. 55 del EBEP desarrolla los principios constitucionales de acceso al empleo público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 85",
+    "enunciado": "¿En qué situaciones administrativas pueden hallarse los funcionarios de carrera según el artículo 85 del EBEP?",
+    "respuesta": "En servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.",
+    "explicacion": "El art. 85 del EBEP enumera las cinco situaciones administrativas de los funcionarios de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 86",
+    "enunciado": "¿Qué es el servicio activo según el artículo 86 del EBEP?",
+    "respuesta": "La situación en la que se hallan los funcionarios cuando desempeñan un puesto de trabajo, o cuando, no desempeñándolo por las causas legalmente previstas, tienen derecho a la reserva de puesto.",
+    "explicacion": "El art. 86 del EBEP define el servicio activo como la situación ordinaria del funcionario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 87",
+    "enunciado": "Cite tres supuestos en que se declaran los servicios especiales según el artículo 87 del EBEP.",
+    "respuesta": "Cuando sean designados miembros del Gobierno o de los órganos de gobierno de las Comunidades Autónomas; cuando sean elegidos Diputados o Senadores de las Cortes Generales o miembros de las Asambleas Legislativas autonómicas; o cuando accedan a la condición de personal eventual por haber sido designados para puestos de confianza.",
+    "explicacion": "El art. 87 del EBEP enumera los supuestos de servicios especiales, con reserva de puesto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 89",
+    "enunciado": "¿Qué modalidades de excedencia prevé el artículo 89 del EBEP?",
+    "respuesta": "La excedencia voluntaria por interés particular, la excedencia voluntaria por agrupación familiar, la excedencia por cuidado de familiares y la excedencia por razón de violencia de género o de violencia terrorista.",
+    "explicacion": "El art. 89 del EBEP regula las cuatro modalidades de excedencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 90",
+    "enunciado": "¿Qué es la suspensión de funciones según el artículo 90 del EBEP?",
+    "respuesta": "La situación en la que se halla el funcionario declarado en suspensión firme por sanción disciplinaria o en suspensión provisional durante la tramitación de un procedimiento disciplinario o judicial, con privación del ejercicio de sus funciones y de los derechos inherentes a su condición.",
+    "explicacion": "El art. 90 del EBEP regula la suspensión firme y la provisional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 91",
+    "enunciado": "¿Cómo se produce el reingreso al servicio activo según el artículo 91 del EBEP?",
+    "respuesta": "El funcionario que no tenga reserva de puesto deberá participar en las convocatorias de concurso o de libre designación para la provisión de puestos de trabajo; también puede reingresar por adscripción provisional en determinados supuestos.",
+    "explicacion": "El art. 91 del EBEP regula el reingreso al servicio activo de quienes carecen de reserva de puesto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 93",
+    "enunciado": "¿Cuándo incurren los funcionarios en responsabilidad disciplinaria según el artículo 93 del EBEP?",
+    "respuesta": "Por el incumplimiento de los deberes y obligaciones inherentes a su condición de empleados públicos, sin perjuicio de la responsabilidad patrimonial o penal que pudiera derivarse.",
+    "explicacion": "El art. 93 del EBEP fundamenta la responsabilidad disciplinaria en el incumplimiento de deberes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 95",
+    "enunciado": "Cite tres faltas muy graves según el artículo 95 del EBEP.",
+    "respuesta": "El incumplimiento del deber de respeto a la Constitución y a los Estatutos de Autonomía; toda actuación que suponga discriminación por razón de sexo, origen racial o étnico, religión u otras causas; el abandono del servicio; la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave; o la publicación o utilización indebida de secretos oficiales.",
+    "explicacion": "El art. 95 del EBEP tipifica las faltas muy graves.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 96",
+    "enunciado": "¿Qué sanciones pueden imponerse por faltas muy graves según el artículo 96 del EBEP?",
+    "respuesta": "La separación del servicio, el despido disciplinario del personal laboral, la suspensión firme de funciones y el traslado forzoso con o sin cambio de residencia.",
+    "explicacion": "El art. 96 del EBEP gradúa las sanciones según la gravedad de la falta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 97",
+    "enunciado": "¿Cuáles son los plazos de prescripción de las faltas disciplinarias según el artículo 97 del EBEP?",
+    "respuesta": "Las faltas muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses, contados desde que la falta se hubiera cometido. Las sanciones impuestas prescriben en los mismos plazos desde la firmeza de la resolución.",
+    "explicacion": "El art. 97 del EBEP fija los plazos de prescripción de faltas y sanciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 98",
+    "enunciado": "¿Qué principios rigen el procedimiento disciplinario según el artículo 98 del EBEP?",
+    "respuesta": "Se rige por los principios de presunción de inocencia, audiencia, defensa y contradicción, con separación entre la fase instructora y la sancionadora, y la sanción se impone mediante resolución motivada.",
+    "explicacion": "El art. 98 del EBEP garantiza las máximas garantías en el procedimiento disciplinario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 94",
+    "enunciado": "¿Quién ejerce la potestad disciplinaria según el artículo 94 del EBEP?",
+    "respuesta": "Las Administraciones Públicas corregirán disciplinariamente las infracciones del personal a su servicio cometidas en el ejercicio de sus funciones y cargos, sin perjuicio de la responsabilidad patrimonial o penal.",
+    "explicacion": "El art. 94 del EBEP atribuye la potestad disciplinaria a cada Administración respecto de su personal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 31",
+    "enunciado": "¿Qué derechos colectivos reconoce el artículo 31 del EBEP a los empleados públicos?",
+    "respuesta": "El derecho a la negociación colectiva, a la representación y a la participación institucional para la determinación de sus condiciones de trabajo.",
+    "explicacion": "El art. 31 del EBEP consagra los derechos colectivos de negociación, representación y participación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 38",
+    "enunciado": "¿Qué son los Pactos y Acuerdos según el artículo 38 del EBEP?",
+    "respuesta": "Los Pactos se celebran sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que los suscriba y vinculan directamente a las partes. Los Acuerdos versan sobre materias competencia de los órganos de gobierno y requieren su aprobación expresa y formal para su validez y eficacia.",
+    "explicacion": "El art. 38 del EBEP distingue Pactos (eficacia directa) y Acuerdos (requieren aprobación del órgano de gobierno).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 39",
+    "enunciado": "¿Cuáles son los órganos de representación de los funcionarios según el artículo 39 del EBEP?",
+    "respuesta": "Los Delegados de Personal y las Juntas de Personal, que se constituyen en las unidades electorales correspondientes.",
+    "explicacion": "El art. 39 del EBEP establece los órganos unitarios de representación funcionarial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué derecho reconoce el artículo 46 del EBEP sobre la reunión de los empleados públicos?",
+    "respuesta": "Están legitimados para convocar una reunión, además de las organizaciones sindicales, los Delegados de Personal, las Juntas de Personal y los propios empleados públicos en número no inferior al 40 por ciento del colectivo convocado.",
+    "explicacion": "El art. 46 del EBEP regula el derecho de reunión de los empleados públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E02-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E02",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 37",
+    "enunciado": "Cite dos materias objeto de negociación colectiva según el artículo 37 del EBEP.",
+    "respuesta": "La aplicación del incremento de las retribuciones del personal; la determinación y aplicación de las retribuciones complementarias; las normas que fijen los criterios generales en materia de acceso, carrera, provisión y clasificación de puestos; o los planes de igualdad.",
+    "explicacion": "El art. 37 del EBEP enumera las materias negociables en las Mesas de Negociación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 39/2015 según su artículo 1?",
+    "respuesta": "Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.",
+    "explicacion": "El art. 1 de la Ley 39/2015 define su objeto: el procedimiento administrativo común.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué debe anotarse en el asiento del Registro Electrónico General según el artículo 16 de la Ley 39/2015?",
+    "respuesta": "En todo caso: el número, epígrafe expresivo de su naturaleza, fecha y hora de su presentación, identificación del interesado, órgano administrativo remitente (si procede) y persona u órgano administrativo al que se envía.",
+    "explicacion": "El art. 16 de la Ley 39/2015 regula el Registro Electrónico General y el contenido del asiento registral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 16",
+    "enunciado": "¿Dónde pueden presentarse los documentos dirigidos a una Administración Pública según el artículo 16 de la Ley 39/2015?",
+    "respuesta": "En el registro electrónico de la Administración u Organismo al que se dirijan; en las oficinas de Correos; en las representaciones diplomáticas u oficinas consulares de España en el extranjero; en las oficinas de asistencia en materia de registros; o en cualquier otro que establezcan las disposiciones vigentes.",
+    "explicacion": "El art. 16.4 de la Ley 39/2015 enumera los lugares de presentación de documentos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 30",
+    "enunciado": "¿Cómo se computan los plazos señalados por días según el artículo 30 de la Ley 39/2015?",
+    "respuesta": "Salvo que por ley o por el Derecho de la Unión Europea se disponga otro cómputo, cuando los plazos se señalen por días se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+    "explicacion": "El art. 30 de la Ley 39/2015 establece que los plazos por días son días hábiles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 30",
+    "enunciado": "¿Cómo se computan los plazos señalados por meses según el artículo 30 de la Ley 39/2015?",
+    "respuesta": "Se computarán de fecha a fecha: si en el mes de vencimiento no hubiera día equivalente a aquel en que comienza el cómputo, se entenderá que el plazo expira el último día del mes.",
+    "explicacion": "El art. 30 de la Ley 39/2015 regula el cómputo de fecha a fecha para plazos en meses o años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 30",
+    "enunciado": "¿Qué ocurre si el último día de un plazo es inhábil según el artículo 30 de la Ley 39/2015?",
+    "respuesta": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+    "explicacion": "El art. 30.5 de la Ley 39/2015 prorroga el vencimiento al primer día hábil siguiente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 31",
+    "enunciado": "¿Qué regla rige el cómputo de plazos en los registros según el artículo 31 de la Ley 39/2015?",
+    "respuesta": "Cada Administración Pública publica los días y el horario en que deban permanecer abiertas las oficinas de asistencia, y el registro electrónico permite la presentación de documentos todos los días del año durante las veinticuatro horas, rigiéndose por la fecha y hora oficial de la sede electrónica de acceso.",
+    "explicacion": "El art. 31 de la Ley 39/2015 regula el cómputo de plazos en los registros, con disponibilidad 24/7 del registro electrónico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 29",
+    "enunciado": "¿Son obligatorios los términos y plazos según el artículo 29 de la Ley 39/2015?",
+    "respuesta": "Sí, los términos y plazos establecidos en esta u otras leyes obligan a las autoridades y al personal al servicio de las Administraciones Públicas y a los interesados en los procedimientos.",
+    "explicacion": "El art. 29 de la Ley 39/2015 impone la obligatoriedad de términos y plazos a Administración e interesados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 32",
+    "enunciado": "¿Puede ampliarse un plazo administrativo y en qué medida según el artículo 32 de la Ley 39/2015?",
+    "respuesta": "La Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos, que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y no se perjudican derechos de tercero. Tanto la petición como la decisión deben producirse antes del vencimiento del plazo.",
+    "explicacion": "El art. 32 de la Ley 39/2015 permite ampliar los plazos hasta la mitad de su duración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 33",
+    "enunciado": "¿En qué consiste la tramitación de urgencia del artículo 33 de la Ley 39/2015?",
+    "respuesta": "Cuando razones de interés público lo aconsejen, se podrá acordar la aplicación al procedimiento de la tramitación de urgencia, por la cual se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+    "explicacion": "El art. 33 de la Ley 39/2015 reduce a la mitad los plazos por razones de interés público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 66",
+    "enunciado": "¿Qué contenido mínimo deben tener las solicitudes de iniciación según el artículo 66 de la Ley 39/2015?",
+    "respuesta": "Nombre y apellidos del interesado y, en su caso, de su representante; identificación del medio electrónico o lugar para notificaciones; hechos, razones y petición en que se concrete la solicitud; lugar y fecha; firma del solicitante; y órgano, centro o unidad administrativa al que se dirige con su código de identificación.",
+    "explicacion": "El art. 66 de la Ley 39/2015 fija el contenido mínimo de las solicitudes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 68",
+    "enunciado": "¿Qué ocurre si la solicitud de iniciación no reúne los requisitos exigidos según el artículo 68 de la Ley 39/2015?",
+    "respuesta": "Se requerirá al interesado para que, en un plazo de diez días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución.",
+    "explicacion": "El art. 68 de la Ley 39/2015 regula la subsanación y mejora voluntaria de la solicitud en 10 días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 28",
+    "enunciado": "¿Están obligados los interesados a aportar documentos que ya obren en poder de la Administración según el artículo 28 de la Ley 39/2015?",
+    "respuesta": "No: los interesados no estarán obligados a aportar documentos que hayan sido elaborados por cualquier Administración, con independencia de que la presentación se haya realizado en la misma o en otra Administración, siempre que indiquen en qué momento y ante qué órgano se presentaron.",
+    "explicacion": "El art. 28 de la Ley 39/2015 exime de aportar documentos ya en poder de las AAPP.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 21",
+    "enunciado": "¿Cuál es el plazo máximo para resolver y notificar según el artículo 21 de la Ley 39/2015?",
+    "respuesta": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos. El plazo máximo será el fijado por la norma reguladora del procedimiento, que no podrá exceder de seis meses salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.",
+    "explicacion": "El art. 21 de la Ley 39/2015 impone la obligación de resolver en un máximo de seis meses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 37",
+    "enunciado": "¿Qué es el Registro Electrónico General según el artículo 37 del Real Decreto 203/2021?",
+    "respuesta": "Es el registro electrónico de cada Administración en el que se hace el asiento de todo documento presentado o recibido, interoperable e interconectado con los del resto de Administraciones a través del Sistema de Interconexión de Registros.",
+    "explicacion": "El art. 37 del RD 203/2021 desarrolla el Registro Electrónico General y su interconexión (SIR).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 40",
+    "enunciado": "¿Qué funciones tienen las oficinas de asistencia en materia de registros según el artículo 40 del Real Decreto 203/2021?",
+    "respuesta": "Asistir a los interesados en el uso de medios electrónicos, digitalizar los documentos presentados en papel, realizar anotaciones en el registro electrónico y expedir copias auténticas, entre otras funciones de apoyo.",
+    "explicacion": "El art. 40 del RD 203/2021 atribuye a las oficinas de asistencia funciones de apoyo al ciudadano.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E03-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 26",
+    "enunciado": "¿Qué requisitos deben cumplir los documentos emitidos por las Administraciones Públicas según el artículo 26 de la Ley 39/2015?",
+    "respuesta": "Deben ser emitidos por medios electrónicos y gozarán de la validez y eficacia de documento original siempre que incorporen la firma electrónica y la referencia temporal y, en su caso, el código seguro de verificación.",
+    "explicacion": "El art. 26 de la Ley 39/2015 regula la emisión de documentos administrativos por medios electrónicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 54",
+    "enunciado": "¿Cuáles son las clases de iniciación del procedimiento según el artículo 54 de la Ley 39/2015?",
+    "respuesta": "Los procedimientos podrán iniciarse de oficio o a solicitud del interesado.",
+    "explicacion": "El art. 54 de la Ley 39/2015 establece las dos clases de iniciación del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "arts. 58 a 62",
+    "enunciado": "¿De qué formas puede iniciarse de oficio un procedimiento según los artículos 58 a 62 de la Ley 39/2015?",
+    "respuesta": "Por propia iniciativa del órgano competente, como consecuencia de orden superior, por petición razonada de otros órganos y por denuncia.",
+    "explicacion": "Los arts. 58 a 62 de la Ley 39/2015 regulan las formas de iniciación de oficio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 55",
+    "enunciado": "¿Pueden realizarse actuaciones con anterioridad al inicio del procedimiento según el artículo 55 de la Ley 39/2015?",
+    "respuesta": "Sí, con anterioridad al inicio del procedimiento el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+    "explicacion": "El art. 55 de la Ley 39/2015 permite actuaciones previas de investigación antes de iniciar.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 56",
+    "enunciado": "¿Cuándo pueden adoptarse medidas provisionales según el artículo 56 de la Ley 39/2015?",
+    "respuesta": "Iniciado el procedimiento, el órgano competente puede adoptar de oficio o a instancia de parte las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución, cuando existan elementos de juicio suficientes. Antes de la iniciación también pueden adoptarse en casos de urgencia inaplazable.",
+    "explicacion": "El art. 56 de la Ley 39/2015 regula las medidas provisionales para asegurar la eficacia de la resolución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 57",
+    "enunciado": "¿Qué es la acumulación de procedimientos según el artículo 57 de la Ley 39/2015?",
+    "respuesta": "El órgano administrativo que inicie o tramite un procedimiento podrá disponer, de oficio o a instancia de parte, su acumulación a otros con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento. Contra el acuerdo de acumulación no procederá recurso alguno.",
+    "explicacion": "El art. 57 de la Ley 39/2015 permite acumular procedimientos conexos ante el mismo órgano.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 69",
+    "enunciado": "¿Qué es la declaración responsable según el artículo 69 de la Ley 39/2015?",
+    "respuesta": "El documento suscrito por un interesado en el que este manifiesta, bajo su responsabilidad, que cumple con los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante el período de reconocimiento.",
+    "explicacion": "El art. 69 de la Ley 39/2015 regula la declaración responsable y la comunicación previa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 70",
+    "enunciado": "¿Qué es el expediente administrativo según el artículo 70 de la Ley 39/2015?",
+    "respuesta": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+    "explicacion": "El art. 70 de la Ley 39/2015 define el expediente administrativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 71",
+    "enunciado": "¿Qué significa el impulso de oficio del procedimiento según el artículo 71 de la Ley 39/2015?",
+    "respuesta": "Que el procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites, acordándose en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo.",
+    "explicacion": "El art. 71 de la Ley 39/2015 impone el impulso de oficio y la celeridad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 73",
+    "enunciado": "¿En qué plazo deben cumplimentarse los trámites según el artículo 73 de la Ley 39/2015?",
+    "respuesta": "En el plazo de diez días a partir del siguiente al de la notificación del acto, salvo que la norma correspondiente fije plazo distinto.",
+    "explicacion": "El art. 73 de la Ley 39/2015 fija el plazo general de diez días para el cumplimiento de trámites.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 76",
+    "enunciado": "¿Cuándo pueden los interesados formular alegaciones según el artículo 76 de la Ley 39/2015?",
+    "respuesta": "En cualquier momento del procedimiento anterior al trámite de audiencia, pudiendo aportar documentos u otros elementos de juicio.",
+    "explicacion": "El art. 76 de la Ley 39/2015 permite alegar en cualquier momento anterior a la audiencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 77",
+    "enunciado": "¿Cuál es el período de prueba en el procedimiento administrativo según el artículo 77 de la Ley 39/2015?",
+    "respuesta": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, se acordará la apertura de un período de prueba por un plazo no superior a treinta días ni inferior a diez.",
+    "explicacion": "El art. 77 de la Ley 39/2015 regula los medios y el período de prueba (10 a 30 días).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 80",
+    "enunciado": "¿Qué plazo tienen los órganos para emitir informes según el artículo 80 de la Ley 39/2015 y qué ocurre si no se emiten?",
+    "respuesta": "Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes, y se emitirán en el plazo de diez días. De no emitirse en plazo, se podrán proseguir las actuaciones.",
+    "explicacion": "El art. 80 de la Ley 39/2015 fija el plazo de diez días para los informes, que no paralizan el procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 82",
+    "enunciado": "¿En qué consiste el trámite de audiencia según el artículo 82 de la Ley 39/2015?",
+    "respuesta": "Instruidos los procedimientos e inmediatamente antes de redactar la propuesta de resolución, se pondrán de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, aleguen y presenten los documentos y justificaciones que estimen pertinentes.",
+    "explicacion": "El art. 82 de la Ley 39/2015 regula la audiencia al interesado (10 a 15 días) antes de la propuesta de resolución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 84",
+    "enunciado": "¿De qué formas puede terminar el procedimiento administrativo según el artículo 84 de la Ley 39/2015?",
+    "respuesta": "Por resolución, por desistimiento, por renuncia al derecho en que se funde la solicitud (cuando no esté prohibida), por declaración de caducidad y por imposibilidad material de continuarlo por causas sobrevenidas.",
+    "explicacion": "El art. 84 de la Ley 39/2015 enumera las formas de terminación del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 88",
+    "enunciado": "¿Qué debe contener la resolución que pone fin al procedimiento según el artículo 88 de la Ley 39/2015?",
+    "respuesta": "Decidirá todas las cuestiones planteadas por los interesados y aquellas otras derivadas del mismo. Será motivada en los casos del art. 35, expresará los recursos que procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+    "explicacion": "El art. 88 de la Ley 39/2015 fija el contenido de la resolución: congruencia, motivación y pie de recursos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 94",
+    "enunciado": "¿Qué diferencia hay entre desistimiento y renuncia según el artículo 94 de la Ley 39/2015?",
+    "respuesta": "El interesado puede desistir de su solicitud y, cuando no esté prohibido por el ordenamiento, renunciar a sus derechos, por cualquier medio que permita su constancia. Si el escrito de iniciación se hubiese presentado por varios interesados, el desistimiento o la renuncia solo afectará a quienes la hubiesen formulado.",
+    "explicacion": "El art. 94 de la Ley 39/2015 distingue desistir de la solicitud y renunciar al derecho.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E04-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E04",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 95",
+    "enunciado": "¿Cuándo se declara la caducidad del procedimiento según el artículo 95 de la Ley 39/2015?",
+    "respuesta": "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad, con archivo de las actuaciones.",
+    "explicacion": "El art. 95 de la Ley 39/2015 regula la caducidad por paralización imputable al interesado (tres meses).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué exige el artículo 34 de la Ley 39/2015 para la producción de los actos administrativos?",
+    "respuesta": "Los actos administrativos que dicten las Administraciones Públicas se producirán por el órgano competente ajustándose a los requisitos y al procedimiento establecido, y su contenido se ajustará a lo dispuesto por el ordenamiento jurídico, siendo determinado y adecuado a los fines de aquellos.",
+    "explicacion": "El art. 34 de la Ley 39/2015 exige competencia, procedimiento y contenido adecuado a los fines.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 35",
+    "enunciado": "Cite tres supuestos en que los actos administrativos deben ser motivados según el artículo 35 de la Ley 39/2015.",
+    "respuesta": "Los que limiten derechos subjetivos o intereses legítimos; los que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje; los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos; los acuerdos de suspensión de actos; y los que apliquen la tramitación de urgencia.",
+    "explicacion": "El art. 35 de la Ley 39/2015 enumera los actos que requieren motivación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 36",
+    "enunciado": "¿Qué forma deben adoptar los actos administrativos según el artículo 36 de la Ley 39/2015?",
+    "respuesta": "Se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia.",
+    "explicacion": "El art. 36 de la Ley 39/2015 impone la forma escrita electrónica como regla general.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 37",
+    "enunciado": "¿Qué establece el principio de inderogabilidad singular del artículo 37 de la Ley 39/2015?",
+    "respuesta": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquellas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+    "explicacion": "El art. 37 de la Ley 39/2015 impide que un acto singular derogue una norma general.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 38",
+    "enunciado": "¿Qué significa que los actos administrativos son ejecutivos según el artículo 38 de la Ley 39/2015?",
+    "respuesta": "Que los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos con arreglo a lo dispuesto en la ley, es decir, gozan de presunción de validez y son obligatorios sin necesidad de previa declaración judicial (autotutela ejecutiva).",
+    "explicacion": "El art. 38 de la Ley 39/2015 consagra la ejecutividad como privilegio de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 39",
+    "enunciado": "¿Desde cuándo producen efectos los actos administrativos según el artículo 39 de la Ley 39/2015?",
+    "respuesta": "Producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa. La eficacia quedará demorada cuando así lo exija el contenido del acto o esté supeditada a su notificación, publicación o aprobación superior.",
+    "explicacion": "El art. 39 de la Ley 39/2015 fija la eficacia general desde el dictado, con excepciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 40",
+    "enunciado": "¿Qué contenido y plazo tienen las notificaciones según el artículo 40 de la Ley 39/2015?",
+    "respuesta": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+    "explicacion": "El art. 40 de la Ley 39/2015 regula el contenido y el plazo de diez días de la notificación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 41",
+    "enunciado": "¿Cómo se practican las notificaciones según el artículo 41 de la Ley 39/2015?",
+    "respuesta": "Las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía. Cuando no fuera obligatoria la notificación electrónica, se practicará en el lugar indicado por el interesado o en su domicilio.",
+    "explicacion": "El art. 41 de la Ley 39/2015 establece la preferencia por la notificación electrónica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 43",
+    "enunciado": "¿Cuándo se entiende practicada la notificación electrónica según el artículo 43 de la Ley 39/2015?",
+    "respuesta": "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido. Cuando existiendo constancia de la puesta a disposición transcurrieran diez días naturales sin que se acceda a su contenido, se entenderá que la notificación ha sido rechazada.",
+    "explicacion": "El art. 43 de la Ley 39/2015 regula la práctica electrónica: acceso o rechazo a los diez días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 44",
+    "enunciado": "¿Qué ocurre cuando la notificación es infructuosa según el artículo 44 de la Ley 39/2015?",
+    "respuesta": "Cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o intentada esta no se hubiese podido practicar, la notificación se hará por medio de un anuncio publicado en el Boletín Oficial del Estado (Tablón Edictal Único).",
+    "explicacion": "El art. 44 de la Ley 39/2015 regula la notificación edictal mediante anuncio en el BOE.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 45",
+    "enunciado": "¿Cuándo deben publicarse los actos administrativos según el artículo 45 de la Ley 39/2015?",
+    "respuesta": "Serán objeto de publicación cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.",
+    "explicacion": "El art. 45 de la Ley 39/2015 regula los supuestos de publicación de los actos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 47",
+    "enunciado": "Cite tres causas de nulidad de pleno derecho según el artículo 47 de la Ley 39/2015.",
+    "respuesta": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio; los que tengan un contenido imposible; los que sean constitutivos de infracción penal o se dicten como consecuencia de esta; los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido; y los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+    "explicacion": "El art. 47 de la Ley 39/2015 enumera las causas tasadas de nulidad de pleno derecho.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 48",
+    "enunciado": "¿Cuándo son anulables los actos administrativos según el artículo 48 de la Ley 39/2015?",
+    "respuesta": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+    "explicacion": "El art. 48 de la Ley 39/2015 configura la anulabilidad como vicio general subsanable.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 50",
+    "enunciado": "¿Qué es la conversión de actos viciados según el artículo 50 de la Ley 39/2015?",
+    "respuesta": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de este.",
+    "explicacion": "El art. 50 de la Ley 39/2015 permite la conversión del acto viciado en otro válido.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 51",
+    "enunciado": "¿Qué es el principio de conservación de actos del artículo 51 de la Ley 39/2015?",
+    "respuesta": "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+    "explicacion": "El art. 51 de la Ley 39/2015 consagra la conservación de los actos no afectados por el vicio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 52",
+    "enunciado": "¿Qué es la convalidación según el artículo 52 de la Ley 39/2015?",
+    "respuesta": "La Administración podrá convalidar los actos anulables subsanando los vicios de que adolezcan. El acto de convalidación producirá efecto desde su fecha, salvo que se otorgue eficacia retroactiva. Si el vicio consistiese en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico.",
+    "explicacion": "El art. 52 de la Ley 39/2015 permite subsanar los vicios de anulabilidad mediante convalidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E05-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E05",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 49",
+    "enunciado": "¿La nulidad de un acto implica la de los sucesivos según el artículo 49 de la Ley 39/2015?",
+    "respuesta": "No: la nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.",
+    "explicacion": "El art. 49 de la Ley 39/2015 limita la extensión de la invalidez a los actos dependientes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 112",
+    "enunciado": "¿Qué recursos administrativos pueden interponerse según el artículo 112 de la Ley 39/2015?",
+    "respuesta": "Contra las resoluciones y los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento o produzcan indefensión o perjuicio irreparable, podrán interponerse el recurso de alzada y el potestativo de reposición, y el recurso extraordinario de revisión en los casos establecidos.",
+    "explicacion": "El art. 112 de la Ley 39/2015 fija el objeto y las clases de recursos administrativos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 114",
+    "enunciado": "¿Qué resoluciones ponen fin a la vía administrativa según el artículo 114 de la Ley 39/2015?",
+    "respuesta": "Las resoluciones de los recursos de alzada; las resoluciones de los procedimientos de impugnación a que se refiere el art. 107.2; las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una ley establezca lo contrario; y las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca.",
+    "explicacion": "El art. 114 de la Ley 39/2015 enumera los actos que agotan la vía administrativa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 115",
+    "enunciado": "¿Qué debe expresar el escrito de interposición de un recurso según el artículo 115 de la Ley 39/2015?",
+    "respuesta": "El nombre y apellidos del recurrente y medio para notificaciones; el acto que se recurre y la razón de su impugnación; lugar, fecha, firma e identificación del órgano al que se dirige. El error en la calificación del recurso no será obstáculo para su tramitación si se deduce su verdadero carácter.",
+    "explicacion": "El art. 115 de la Ley 39/2015 regula el contenido del escrito de interposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 117",
+    "enunciado": "¿Cuándo puede suspenderse la ejecución del acto recurrido según el artículo 117 de la Ley 39/2015?",
+    "respuesta": "La interposición de recurso no suspende la ejecución del acto impugnado, pero el órgano competente para resolver podrá suspenderla cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación, o cuando la impugnación se fundamente en una causa de nulidad de pleno derecho.",
+    "explicacion": "El art. 117 de la Ley 39/2015 regula la suspensión potestativa de la ejecución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 121",
+    "enunciado": "¿Contra qué actos procede el recurso de alzada según el artículo 121 de la Ley 39/2015?",
+    "respuesta": "Contra las resoluciones y los actos de trámite cualificados que no pongan fin a la vía administrativa, y se interpone ante el órgano superior jerárquico del que los dictó.",
+    "explicacion": "El art. 121 de la Ley 39/2015 configura la alzada ante el superior jerárquico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 122",
+    "enunciado": "¿Cuáles son los plazos del recurso de alzada según el artículo 122 de la Ley 39/2015?",
+    "respuesta": "Un mes si el acto fuera expreso. Si el acto no fuera expreso, el solicitante podrá interponerlo en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+    "explicacion": "El art. 122 de la Ley 39/2015 fija los plazos de la alzada: un mes o plazo abierto ante el silencio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 123",
+    "enunciado": "¿Contra qué actos procede el recurso potestativo de reposición según el artículo 123 de la Ley 39/2015?",
+    "respuesta": "Contra los actos administrativos que pongan fin a la vía administrativa, y se interpone ante el mismo órgano que los hubiera dictado. No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido su desestimación presunta.",
+    "explicacion": "El art. 123 de la Ley 39/2015 configura la reposición como recurso potestativo previo al contencioso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 124",
+    "enunciado": "¿Cuáles son los plazos del recurso de reposición según el artículo 124 de la Ley 39/2015?",
+    "respuesta": "Un mes si el acto fuera expreso. Si el acto no fuera expreso, podrá interponerse en cualquier momento a partir del día siguiente a aquel en que se produzca el acto presunto.",
+    "explicacion": "El art. 124 de la Ley 39/2015 fija los plazos de la reposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 125",
+    "enunciado": "¿En qué casos procede el recurso extraordinario de revisión según el artículo 125 de la Ley 39/2015?",
+    "respuesta": "Contra los actos firmes en vía administrativa cuando: al dictarlos se hubiera incurrido en error de hecho; aparezcan documentos de valor esencial para la resolución ignorados al dictarse; en la resolución hayan influido documentos o testimonios declarados falsos por sentencia judicial firme; o la resolución se hubiese dictado como consecuencia de prevaricación, cohecho u otra conducta punible declarada por sentencia firme.",
+    "explicacion": "El art. 125 de la Ley 39/2015 tasa los motivos del extraordinario de revisión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 126",
+    "enunciado": "¿Cuáles son los plazos del recurso extraordinario de revisión según el artículo 126 de la Ley 39/2015?",
+    "respuesta": "Cuatro años siguientes a la fecha de la notificación de la resolución impugnada cuando se funde en error de hecho, y tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme en los demás casos.",
+    "explicacion": "El art. 126 de la Ley 39/2015 fija los plazos del extraordinario de revisión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 106",
+    "enunciado": "¿Qué requisitos exige la revisión de oficio de actos nulos según el artículo 106 de la Ley 39/2015?",
+    "respuesta": "Las Administraciones Públicas, en cualquier momento, por iniciativa propia o a solicitud de interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente, declararán de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo, en los supuestos del art. 47.",
+    "explicacion": "El art. 106 de la Ley 39/2015 regula la revisión de oficio de actos nulos, sin plazo y con dictamen preceptivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 107",
+    "enunciado": "¿Qué es la declaración de lesividad según el artículo 107 de la Ley 39/2015?",
+    "respuesta": "Las Administraciones Públicas podrán declarar lesivos para el interés público los actos favorables para los interesados que sean anulables, a fin de proceder a su ulterior impugnación ante el orden jurisdiccional contencioso-administrativo, en el plazo de cuatro años desde que se dictó el acto.",
+    "explicacion": "El art. 107 de la Ley 39/2015 permite impugnar judicialmente los actos favorables anulables previa declaración de lesividad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 109",
+    "enunciado": "¿Qué actos puede revocar la Administración según el artículo 109 de la Ley 39/2015?",
+    "respuesta": "Podrá revocar, mientras no haya transcurrido el plazo de prescripción, sus actos de gravamen o desfavorables, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+    "explicacion": "El art. 109 de la Ley 39/2015 permite revocar actos desfavorables no declarativos de derechos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 110",
+    "enunciado": "¿Qué límites tiene la revisión de oficio según el artículo 110 de la Ley 39/2015?",
+    "respuesta": "No podrá ejercitarse cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, a la buena fe, al derecho de los particulares o a las leyes.",
+    "explicacion": "El art. 110 de la Ley 39/2015 limita la revisión de oficio en aras de la seguridad jurídica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+    "articulo": "art. 25",
+    "enunciado": "¿Contra qué es admisible el recurso contencioso-administrativo según el artículo 25 de la Ley 29/1998?",
+    "respuesta": "Contra disposiciones de carácter general, actos expresos y presuntos de la Administración que pongan fin a la vía administrativa, la inactividad de la Administración y las actuaciones materiales que constituyan vía de hecho.",
+    "explicacion": "El art. 25 de la LJCA delimita el objeto del recurso contencioso-administrativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+    "articulo": "art. 46",
+    "enunciado": "¿Cuál es el plazo para interponer el recurso contencioso-administrativo según el artículo 46 de la Ley 29/1998?",
+    "respuesta": "Dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación del acto. Si no fuera expreso, el plazo será de seis meses a partir del día siguiente a aquel en que se produzca el acto presunto.",
+    "explicacion": "El art. 46 de la LJCA fija el plazo de dos meses (seis ante el silencio).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E06-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E06",
+    "ley": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+    "articulo": "art. 19",
+    "enunciado": "¿Quiénes están legitimados para interponer recurso contencioso-administrativo según el artículo 19 de la Ley 29/1998?",
+    "respuesta": "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo; las corporaciones, asociaciones y grupos afectados; y las Administraciones Públicas para impugnar actos que afecten a sus competencias, entre otros.",
+    "explicacion": "El art. 19 de la LJCA regula la legitimación activa basada en derechos o intereses legítimos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué son los órganos colegiados según el artículo 15 de la Ley 40/2015?",
+    "respuesta": "Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+    "explicacion": "El art. 15 de la Ley 40/2015 define los órganos colegiados y su régimen jurídico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué funciones tiene el Secretario de un órgano colegiado según el artículo 16 de la Ley 40/2015?",
+    "respuesta": "Asistir a las reuniones con voz pero sin voto si no es miembro; efectuar la convocatoria por orden del Presidente; recibir los actos de comunicación de los miembros; preparar el despacho de los asuntos y redactar y autorizar las actas; y expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.",
+    "explicacion": "El art. 16 de la Ley 40/2015 regula las funciones del Secretario del órgano colegiado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 17",
+    "enunciado": "¿Con qué antelación y contenido se convocan las sesiones de los órganos colegiados según el artículo 17 de la Ley 40/2015?",
+    "respuesta": "Serán convocadas por su Secretario, por orden de su Presidente, con una antelación mínima de dos días. La convocatoria deberá contener el orden del día previsto para cada sesión.",
+    "explicacion": "El art. 17 de la Ley 40/2015 exige convocatoria con dos días de antelación y orden del día.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué quórum se requiere para la válida constitución de un órgano colegiado según el artículo 17 de la Ley 40/2015?",
+    "respuesta": "La asistencia del Presidente y del Secretario o, en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+    "explicacion": "El art. 17 de la Ley 40/2015 fija el quórum de constitución: Presidente, Secretario y mitad de miembros.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 17",
+    "enunciado": "¿Puede deliberarse sobre un asunto no incluido en el orden del día según el artículo 17 de la Ley 40/2015?",
+    "respuesta": "No, salvo que asistan todos los miembros del órgano colegiado y sea declarada la urgencia del asunto por el voto favorable de la mayoría.",
+    "explicacion": "El art. 17 de la Ley 40/2015 protege el orden del día, con la excepción de la urgencia unánime en asistencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué debe contener el acta de las sesiones según el artículo 18 de la Ley 40/2015?",
+    "respuesta": "Los asistentes, el orden del día de la reunión, las circunstancias del lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones y el contenido de los acuerdos adoptados.",
+    "explicacion": "El art. 18 de la Ley 40/2015 fija el contenido mínimo del acta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 18",
+    "enunciado": "¿Cuándo se aprueban las actas y quién puede expedir certificaciones según el artículo 18 de la Ley 40/2015?",
+    "respuesta": "Las actas se aprobarán en la misma o en la siguiente sesión. El Secretario podrá emitir certificación sobre los acuerdos específicos que se hayan adoptado, sin perjuicio de la ulterior aprobación del acta, haciendo constar expresamente tal circunstancia.",
+    "explicacion": "El art. 18 de la Ley 40/2015 permite certificar acuerdos antes de la aprobación del acta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿En qué régimen funcionan los órganos colegiados de las entidades locales según el artículo 46 de la Ley 7/1985?",
+    "respuesta": "En régimen de sesiones ordinarias de periodicidad preestablecida y extraordinarias, que podrán ser, además, urgentes.",
+    "explicacion": "El art. 46 de la Ley 7/1985 establece el régimen de sesiones ordinarias y extraordinarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Quién convoca las sesiones extraordinarias del Pleno y cuándo deben celebrarse si lo solicita la cuarta parte de los Concejales?",
+    "respuesta": "Las convoca el Presidente. Si lo solicita la cuarta parte, al menos, del número legal de miembros de la Corporación, la celebración no podrá demorarse por más de dos meses desde que fuera solicitada.",
+    "explicacion": "El art. 46.2 de la Ley 7/1985 regula la convocatoria de sesiones extraordinarias a petición de la minoría.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué órganos colegiados existen en el Ayuntamiento según el artículo 20 de la Ley 7/1985?",
+    "respuesta": "El Pleno, la Junta de Gobierno Local (en municipios de más de 5.000 habitantes) y, como órganos complementarios, las Comisiones Informativas y la Comisión Especial de Cuentas.",
+    "explicacion": "El art. 20 de la Ley 7/1985 distingue órganos necesarios y complementarios municipales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 22",
+    "enunciado": "¿Las sesiones del Pleno son públicas?",
+    "respuesta": "Sí, las sesiones del Pleno son públicas, salvo que se acuerde lo contrario por mayoría absoluta por tratarse de asuntos que puedan afectar a derechos fundamentales como el honor o la intimidad.",
+    "explicacion": "El art. 70 de la Ley 7/1985 establece la publicidad de las sesiones del Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 17",
+    "enunciado": "¿Pueden celebrarse sesiones de órganos colegiados a distancia?",
+    "respuesta": "Sí, los órganos colegiados podrán celebrar sesiones a distancia siempre que se asegure la identidad de los miembros, el contenido de sus manifestaciones, el momento en que estas se producen y la interactividad e intercomunicación entre ellos en tiempo real.",
+    "explicacion": "El art. 17 de la Ley 40/2015 admite las sesiones telemáticas con garantías.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 16",
+    "enunciado": "¿Tiene voto el Secretario del órgano colegiado si no es miembro del mismo?",
+    "respuesta": "No, asistirá a las reuniones con voz pero sin voto.",
+    "explicacion": "El art. 16 de la Ley 40/2015 limita al Secretario no miembro a voz sin voto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 33",
+    "enunciado": "¿Qué órgano colegiado de la Diputación aprueba los presupuestos provinciales?",
+    "respuesta": "El Pleno de la Diputación, constituido por el Presidente y los Diputados, al que corresponde la aprobación de los presupuestos y de las ordenanzas provinciales.",
+    "explicacion": "El Pleno provincial ejerce las funciones normativas y presupuestarias (arts. 33 y 34 de la Ley 7/1985).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué funciones pueden atribuirse a los órganos colegiados según el artículo 15 de la Ley 40/2015?",
+    "respuesta": "Funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+    "explicacion": "El art. 15 de la Ley 40/2015 enumera las funciones propias de los órganos colegiados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 27",
+    "enunciado": "¿Qué validez tienen las copias de documentos expedidas por la Administración según el artículo 27 de la Ley 39/2015?",
+    "respuesta": "Tendrán la consideración de copias auténticas las realizadas por los órganos competentes de las Administraciones Públicas, que tendrán la misma validez y eficacia que los documentos originales.",
+    "explicacion": "El art. 27 de la Ley 39/2015 regula la validez de las copias auténticas, base de las certificaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E07-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué son las sesiones extraordinarias urgentes del Pleno?",
+    "respuesta": "Son sesiones extraordinarias convocadas por el Alcalde o Presidente cuando la urgencia del asunto no permite convocar con la antelación mínima de dos días hábiles; el primer punto del orden del día es el pronunciamiento del Pleno sobre la urgencia, y si no se aprecia, se levanta la sesión.",
+    "explicacion": "El art. 46 de la Ley 7/1985 y el ROF regulan las sesiones extraordinarias urgentes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto y la finalidad de la Ley 9/2017 según su artículo 1?",
+    "respuesta": "Regular la contratación del sector público para garantizar que se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, no discriminación e igualdad de trato entre los licitadores, y asegurar una eficiente utilización de los fondos públicos.",
+    "explicacion": "El art. 1 de la Ley 9/2017 fija su objeto y los principios de la contratación pública.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 3",
+    "enunciado": "¿Están las entidades locales incluidas en el ámbito de la Ley 9/2017 según su artículo 3?",
+    "respuesta": "Sí, se consideran sector público las Administraciones Públicas, entre ellas las entidades que integran la Administración Local, que tienen la consideración de poderes adjudicadores Administración Pública.",
+    "explicacion": "El art. 3 de la Ley 9/2017 incluye a las entidades locales en su ámbito subjetivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 13",
+    "enunciado": "¿Qué es el contrato de obras según el artículo 13 de la Ley 9/2017?",
+    "respuesta": "Aquel que tiene por objeto la ejecución de una obra, entendiendo por tal el resultado de un conjunto de trabajos de construcción o de ingeniería civil destinado a cumplir por sí mismo una función económica o técnica.",
+    "explicacion": "El art. 13 de la Ley 9/2017 define el contrato de obras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es el contrato de suministro según el artículo 16 de la Ley 9/2017?",
+    "respuesta": "El que tiene por objeto la adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+    "explicacion": "El art. 16 de la Ley 9/2017 define el contrato de suministro.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué es el contrato de servicios según el artículo 17 de la Ley 9/2017?",
+    "respuesta": "Aquel cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro.",
+    "explicacion": "El art. 17 de la Ley 9/2017 define el contrato de servicios de forma residual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es el contrato de concesión de servicios según el artículo 15 de la Ley 9/2017?",
+    "respuesta": "Aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contraprestación consiste en el derecho a explotar los servicios objeto del contrato o en dicho derecho acompañado del de percibir un precio.",
+    "explicacion": "El art. 15 de la Ley 9/2017 define la concesión de servicios, con transferencia del riesgo operacional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 28",
+    "enunciado": "¿Qué exige el artículo 28 de la Ley 9/2017 respecto a la necesidad del contrato?",
+    "respuesta": "Que las entidades del sector público no podrán celebrar otros contratos que aquellos que sean necesarios para el cumplimiento y realización de sus fines institucionales, debiendo precisarse con carácter previo la naturaleza y extensión de las necesidades que pretenden cubrirse, así como la idoneidad de su objeto.",
+    "explicacion": "El art. 28 de la Ley 9/2017 exige justificar la necesidad e idoneidad del contrato.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 29",
+    "enunciado": "¿Cuál es la duración máxima de los contratos de servicios y suministros de tracto sucesivo según el artículo 29 de la Ley 9/2017?",
+    "respuesta": "Tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas, salvo excepciones tasadas.",
+    "explicacion": "El art. 29 de la Ley 9/2017 limita a cinco años la duración de los contratos de tracto sucesivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 99",
+    "enunciado": "¿Qué exige el artículo 99 de la Ley 9/2017 sobre el objeto del contrato?",
+    "respuesta": "El objeto de los contratos deberá ser determinado y no podrá fraccionarse con la finalidad de disminuir la cuantía del mismo y eludir así los requisitos de publicidad o los relativos al procedimiento de adjudicación que correspondan.",
+    "explicacion": "El art. 99 de la Ley 9/2017 prohíbe el fraccionamiento fraudulento del objeto contractual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 100",
+    "enunciado": "¿Qué es el presupuesto base de licitación según el artículo 100 de la Ley 9/2017?",
+    "respuesta": "El límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido, salvo disposición en contrario.",
+    "explicacion": "El art. 100 de la Ley 9/2017 define el presupuesto base como límite máximo de gasto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 116",
+    "enunciado": "¿Qué contenido mínimo tiene el expediente de contratación según el artículo 116 de la Ley 9/2017?",
+    "respuesta": "La justificación de la necesidad, el objeto, el presupuesto base, el valor estimado, los criterios de solvencia y de adjudicación, y los pliegos de cláusulas administrativas particulares y de prescripciones técnicas.",
+    "explicacion": "El art. 116 de la Ley 9/2017 regula la iniciación y el contenido del expediente de contratación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 131",
+    "enunciado": "¿Cuáles son los procedimientos ordinarios de adjudicación según el artículo 131 de la Ley 9/2017?",
+    "respuesta": "La adjudicación se realizará ordinariamente utilizando el procedimiento abierto o el procedimiento restringido.",
+    "explicacion": "El art. 131 de la Ley 9/2017 establece el abierto y el restringido como procedimientos ordinarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 132",
+    "enunciado": "¿Qué principios rigen la adjudicación de los contratos según el artículo 132 de la Ley 9/2017?",
+    "respuesta": "Los principios de igualdad, transparencia y libre competencia, sin perjuicio de la confidencialidad de determinados datos.",
+    "explicacion": "El art. 132 de la Ley 9/2017 consagra los principios de la adjudicación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 145",
+    "enunciado": "¿Conforme a qué criterios se adjudican los contratos según el artículo 145 de la Ley 9/2017?",
+    "respuesta": "Utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio, que se evaluará con arreglo a criterios económicos y cualitativos.",
+    "explicacion": "El art. 145 de la Ley 9/2017 sustituye la oferta económicamente más ventajosa por la mejor relación calidad-precio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 150",
+    "enunciado": "¿Qué hace la mesa de contratación con las ofertas según el artículo 150 de la Ley 9/2017?",
+    "respuesta": "Clasifica por orden decreciente las proposiciones presentadas y que no hayan sido declaradas desproporcionadas o anormales, y eleva la propuesta de adjudicación al órgano de contratación.",
+    "explicacion": "El art. 150 de la Ley 9/2017 atribuye a la mesa la clasificación de ofertas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 151",
+    "enunciado": "¿En qué plazo debe adjudicarse el contrato según el artículo 151 de la Ley 9/2017?",
+    "respuesta": "El órgano de contratación adjudicará el contrato dentro de los cinco días hábiles siguientes a la recepción de la documentación del licitador propuesto como adjudicatario.",
+    "explicacion": "El art. 151 de la Ley 9/2017 fija el plazo de cinco días hábiles para la adjudicación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E08-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E08",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 118",
+    "enunciado": "¿Qué son los contratos menores según el artículo 118 de la Ley 9/2017 y qué cuantías los delimitan?",
+    "respuesta": "Son contratos de valor estimado inferior a 40.000 euros cuando se trate de contratos de obras, o a 15.000 euros cuando se trate de contratos de suministro o de servicios. Su expediente exige el informe del órgano de contratación motivando la necesidad, la aprobación del gasto y la incorporación de la factura.",
+    "explicacion": "El art. 118 de la Ley 9/2017 regula los contratos menores con tramitación simplificada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 2",
+    "enunciado": "¿Cuáles son los recursos de las entidades locales según el artículo 2 del Texto Refundido de la Ley Reguladora de las Haciendas Locales?",
+    "respuesta": "Los ingresos procedentes de su patrimonio y demás de derecho privado; los tributos propios (impuestos, tasas y contribuciones especiales); las participaciones en los tributos del Estado y de las Comunidades Autónomas; las subvenciones; los precios públicos; el producto de las operaciones de crédito; el producto de las multas y sanciones; y las demás prestaciones de derecho público.",
+    "explicacion": "El art. 2 del TRLRHL enumera los recursos de las haciendas locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué pueden establecer las entidades locales mediante ordenanzas fiscales según el artículo 15 del TRLRHL?",
+    "respuesta": "Salvo en los supuestos expresamente previstos, las entidades locales deberán acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras de estos.",
+    "explicacion": "El art. 15 del TRLRHL atribuye a las entidades locales la potestad de establecer tributos mediante ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué contenido mínimo deben tener las ordenanzas fiscales según el artículo 16 del TRLRHL?",
+    "respuesta": "La determinación del hecho imponible, sujeto pasivo, responsables, exenciones y bonificaciones; la base imponible y liquidable; el tipo de gravamen o cuota; el período impositivo y el devengo; y los regímenes de declaración e ingreso.",
+    "explicacion": "El art. 16 del TRLRHL fija el contenido mínimo de las ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 17",
+    "enunciado": "Describa el procedimiento de elaboración y aprobación de las ordenanzas fiscales según el artículo 17 del TRLRHL.",
+    "respuesta": "Aprobación provisional por el Pleno; exposición pública en el tablón de anuncios durante treinta días para que los interesados presenten reclamaciones; resolución de las reclamaciones y aprobación definitiva por el Pleno (si no hay reclamaciones, el acuerdo provisional se eleva a definitivo); y publicación íntegra en el Boletín Oficial de la Provincia, entrando en vigor al día siguiente salvo disposición en contrario.",
+    "explicacion": "El art. 17 del TRLRHL regula el procedimiento de aprobación de las ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 19",
+    "enunciado": "¿Qué recurso cabe contra la aprobación definitiva de una ordenanza fiscal según el artículo 19 del TRLRHL?",
+    "respuesta": "Contra los acuerdos definitivos de imposición, ordenación y modificación de tributos solo cabrá recurso contencioso-administrativo, en el plazo de dos meses contados desde la publicación en el Boletín Oficial de la Provincia.",
+    "explicacion": "El art. 19 del TRLRHL excluye el recurso administrativo contra las ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 162",
+    "enunciado": "¿Qué es el presupuesto general de la entidad local según el artículo 162 del TRLRHL?",
+    "respuesta": "Constituye la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, pueden reconocer la entidad y sus organismos autónomos, y de los derechos que prevean liquidar durante el correspondiente ejercicio.",
+    "explicacion": "El art. 162 del TRLRHL define el presupuesto general.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 168",
+    "enunciado": "¿Cómo se elabora y aprueba inicialmente el presupuesto según el artículo 168 del TRLRHL?",
+    "respuesta": "El presupuesto será formado por el Presidente de la Corporación y a él habrá de unirse la documentación complementaria; será informado por la Intervención y aprobado inicialmente por el Pleno de la Corporación.",
+    "explicacion": "El art. 168 del TRLRHL atribuye la formación al Presidente y la aprobación inicial al Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 169",
+    "enunciado": "¿Cómo se produce la aprobación definitiva del presupuesto según el artículo 169 del TRLRHL?",
+    "respuesta": "Aprobado inicialmente, se expondrá al público durante quince días para reclamaciones; resueltas estas, se aprueba definitivamente por el Pleno. Si no se presentan reclamaciones, el presupuesto se considera definitivamente aprobado. Se publica resumido por capítulos en el Boletín Oficial de la Provincia y entra en vigor en el ejercicio correspondiente.",
+    "explicacion": "El art. 169 del TRLRHL regula la publicidad y aprobación definitiva del presupuesto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 184",
+    "enunciado": "¿Cuáles son las fases del procedimiento de gestión de los gastos según el artículo 184 del TRLRHL?",
+    "respuesta": "Autorización del gasto (A), disposición o compromiso del gasto (D), reconocimiento o liquidación de la obligación (O) y ordenación del pago (P).",
+    "explicacion": "El art. 184 del TRLRHL establece las cuatro fases ADOP de la gestión del gasto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 177",
+    "enunciado": "¿Qué son los créditos extraordinarios y los suplementos de crédito según el artículo 177 del TRLRHL?",
+    "respuesta": "Los créditos extraordinarios asignan crédito para un gasto específico y determinado que no puede demorarse al ejercicio siguiente y para el que no existe crédito; los suplementos incrementan créditos existentes que resultan insuficientes y no ampliables, en las mismas circunstancias.",
+    "explicacion": "El art. 177 del TRLRHL regula estas modificaciones de crédito, aprobadas por el Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 179",
+    "enunciado": "¿Qué son las transferencias de crédito según el artículo 179 del TRLRHL?",
+    "respuesta": "Modificaciones del presupuesto de gastos mediante las que, sin alterar la cuantía total del mismo, se imputa el importe total o parcial de un crédito a otras partidas presupuestarias con diferente vinculación jurídica.",
+    "explicacion": "El art. 179 del TRLRHL regula las transferencias de crédito entre partidas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 185",
+    "enunciado": "¿A quién corresponde la gestión de los gastos según el artículo 185 del TRLRHL?",
+    "respuesta": "La gestión de los gastos corresponde al Presidente de la Corporación en las fases de autorización y disposición, sin perjuicio de las delegaciones; el reconocimiento y liquidación de obligaciones corresponde también al Presidente, salvo delegación.",
+    "explicacion": "El art. 185 del TRLRHL atribuye al Presidente las competencias en materia de gestión de gastos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 213",
+    "enunciado": "¿A quién corresponde el control interno de la gestión económico-financiera según el artículo 213 del TRLRHL?",
+    "respuesta": "A la Intervención de la entidad local, que ejercerá el control interno respecto de su gestión económica, de los organismos autónomos y de las sociedades mercantiles dependientes.",
+    "explicacion": "El art. 213 del TRLRHL atribuye el control interno a la Intervención.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 214",
+    "enunciado": "¿Qué modalidades tiene la función interventora según el artículo 214 del TRLRHL?",
+    "respuesta": "La fiscalización previa de los actos que reconozcan derechos o puedan generar obligaciones de contenido económico, la intervención del reconocimiento de obligaciones y de la comprobación material de la inversión, y la intervención formal de la ordenación del pago y material del pago.",
+    "explicacion": "El art. 214 del TRLRHL define el ámbito de la función interventora.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 215",
+    "enunciado": "¿Qué es el reparo de la Intervención según el artículo 215 del TRLRHL?",
+    "respuesta": "Si en el ejercicio de la función interventora la Intervención se manifestara en desacuerdo con el fondo o la forma de los actos examinados, deberá formular sus reparos por escrito antes de la adopción del acuerdo o resolución, con efectos suspensivos en los supuestos tasados.",
+    "explicacion": "El art. 215 del TRLRHL regula los reparos como instrumento de control de legalidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 220",
+    "enunciado": "¿Qué es el control financiero según el artículo 220 del TRLRHL?",
+    "respuesta": "Tiene por objeto comprobar el funcionamiento en el aspecto económico-financiero de los servicios de la entidad local, de sus organismos autónomos y de las sociedades mercantiles dependientes, para informar acerca de la adecuada presentación de la información financiera y del cumplimiento de las normas aplicables.",
+    "explicacion": "El art. 220 del TRLRHL regula el control financiero como control posterior.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E09-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 223",
+    "enunciado": "¿A quién corresponde el control externo de las entidades locales según el artículo 223 del TRLRHL?",
+    "respuesta": "Al Tribunal de Cuentas, sin perjuicio de las actuaciones fiscalizadoras de los órganos de control externo de las Comunidades Autónomas (en Andalucía, la Cámara de Cuentas).",
+    "explicacion": "El art. 223 del TRLRHL atribuye el control externo al Tribunal de Cuentas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 79",
+    "enunciado": "¿Qué constituye el patrimonio de las entidades locales según el artículo 79 de la Ley 7/1985?",
+    "respuesta": "El conjunto de bienes, derechos y acciones que les pertenezcan.",
+    "explicacion": "El art. 79 de la Ley 7/1985 define el patrimonio de las entidades locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 2",
+    "enunciado": "¿Cómo se clasifican los bienes de las entidades locales según el artículo 2 del Reglamento de Bienes?",
+    "respuesta": "En bienes de dominio público y bienes patrimoniales.",
+    "explicacion": "El art. 2 del RD 1372/1986 establece la clasificación básica de los bienes locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué son los bienes de uso público local según el artículo 3 del Reglamento de Bienes?",
+    "respuesta": "Los caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización generales cuya conservación y policía sean de la competencia de la entidad local.",
+    "explicacion": "El art. 3 del RD 1372/1986 enumera los bienes de uso público local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué son los bienes de servicio público según el artículo 4 del Reglamento de Bienes?",
+    "respuesta": "Los destinados directamente al cumplimiento de fines públicos de responsabilidad de las entidades locales, tales como Casas Consistoriales, Palacios Provinciales, mataderos, mercados, lonjas, hospitales, hospicios, museos o centros docentes.",
+    "explicacion": "El art. 4 del RD 1372/1986 define los bienes afectos a un servicio público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 5",
+    "enunciado": "¿Qué características tienen los bienes de dominio público según el artículo 5 del Reglamento de Bienes?",
+    "respuesta": "Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.",
+    "explicacion": "El art. 5 del RD 1372/1986 consagra la triple protección demanial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué son los bienes patrimoniales según el artículo 6 del Reglamento de Bienes?",
+    "respuesta": "Son bienes patrimoniales o de propios los que, siendo propiedad de la entidad local, no estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuente de ingresos para el erario de la entidad.",
+    "explicacion": "El art. 6 del RD 1372/1986 define los bienes patrimoniales por exclusión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 8",
+    "enunciado": "¿Qué se requiere para alterar la calificación jurídica de los bienes según el artículo 8 del Reglamento de Bienes?",
+    "respuesta": "La alteración de la calificación jurídica de los bienes de las entidades locales requiere expediente en el que se acrediten su oportunidad y legalidad.",
+    "explicacion": "El art. 8 del RD 1372/1986 exige expediente para la desafectación o afectación de bienes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 82",
+    "enunciado": "¿De qué prerrogativas gozan las entidades locales respecto de sus bienes según el artículo 82 de la Ley 7/1985?",
+    "respuesta": "La de recuperar por sí mismas su posesión en cualquier momento cuando se hallen indebidamente perdidas; la de desahuciar en vía administrativa a los ocupantes de sus bienes; y la inembargabilidad de sus bienes y derechos en los términos previstos en las leyes.",
+    "explicacion": "El art. 82 de la Ley 7/1985 reconoce las prerrogativas demaniales de las entidades locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 76",
+    "enunciado": "¿Qué es el uso común general de los bienes de dominio público según el artículo 76 del Reglamento de Bienes?",
+    "respuesta": "El que corresponde por igual a todos los ciudadanos, de modo que el uso por unos no impida el de los demás interesados, y se ejercerá libremente con arreglo a la naturaleza de los bienes y a los actos de afectación y apertura al uso público.",
+    "explicacion": "El art. 76 del RD 1372/1986 regula el uso común general, libre y gratuito.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 77",
+    "enunciado": "¿Qué es el uso común especial y el uso privativo de los bienes de dominio público según el Reglamento de Bienes?",
+    "respuesta": "El uso común especial es el que, sin impedir el uso general, concurre con circunstancias de peligrosidad o intensidad que requieren licencia. El uso privativo es la ocupación de una porción del dominio público que limita o excluye la utilización por los demás, y está sujeto a concesión administrativa.",
+    "explicacion": "Los arts. 77 y 78 del RD 1372/1986 distinguen el uso común especial (licencia) del privativo (concesión).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 78",
+    "enunciado": "¿Qué utilizaciones del dominio público están sujetas a concesión administrativa según el artículo 78 del Reglamento de Bienes?",
+    "respuesta": "Estarán sujetos a concesión administrativa el uso privativo de los bienes de dominio público y el uso anormal de los mismos.",
+    "explicacion": "El art. 78 del RD 1372/1986 reserva la concesión para el uso privativo y anormal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 92",
+    "enunciado": "¿Cómo pueden cederse en uso los bienes patrimoniales según el artículo 92 del Reglamento de Bienes?",
+    "respuesta": "El arrendamiento y cualquier otra forma de cesión de uso de bienes patrimoniales se regirá por las normas del Derecho privado, mediante subasta o concurso según los casos.",
+    "explicacion": "El art. 92 del RD 1372/1986 somete la cesión de uso de patrimoniales al Derecho privado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 109",
+    "enunciado": "¿Pueden enajenarse libremente los bienes inmuebles patrimoniales según el artículo 109 del Reglamento de Bienes?",
+    "respuesta": "No: los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin cumplir los requisitos legales, como la depuración física y jurídica previa y, en su caso, la autorización de la Comunidad Autónoma.",
+    "explicacion": "El art. 109 del RD 1372/1986 limita la disposición de los inmuebles patrimoniales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 110",
+    "enunciado": "¿Qué mayoría se exige para la cesión gratuita de bienes patrimoniales según el artículo 110 del Reglamento de Bienes?",
+    "respuesta": "La cesión gratuita de los bienes requerirá acuerdo adoptado con el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación.",
+    "explicacion": "El art. 110 del RD 1372/1986 exige mayoría absoluta para la cesión gratuita.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 112",
+    "enunciado": "¿Qué normativa rige la enajenación de bienes patrimoniales según el artículo 112 del Reglamento de Bienes?",
+    "respuesta": "Las enajenaciones de bienes patrimoniales se regirán en cuanto a su preparación y adjudicación por la normativa reguladora de la contratación de las Administraciones Públicas.",
+    "explicacion": "El art. 112 del RD 1372/1986 remite la enajenación a la normativa de contratos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 1372/1986",
+    "articulo": "art. 114",
+    "enunciado": "¿Cuándo se requiere autorización de la Comunidad Autónoma para enajenar bienes patrimoniales según el artículo 114 del Reglamento de Bienes?",
+    "respuesta": "Las enajenaciones de bienes cuyo valor exceda del 25 por ciento de los recursos ordinarios del presupuesto anual de la Corporación requerirán autorización del órgano competente de la Comunidad Autónoma.",
+    "explicacion": "El art. 114 del RD 1372/1986 exige autorización autonómica para enajenaciones de gran cuantía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E10-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E10",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 80",
+    "enunciado": "¿Qué establece el artículo 80 de la Ley 7/1985 sobre los bienes comunales?",
+    "respuesta": "Que los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno.",
+    "explicacion": "El art. 80 de la Ley 7/1985 reproduce la protección demanial de los bienes comunales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué se entiende por nuevos interesados en el procedimiento según el artículo 4 de la Ley 39/2015?",
+    "respuesta": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+    "explicacion": "El art. 4 de la Ley 39/2015 permite la personación de nuevos interesados hasta la resolución definitiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 5",
+    "enunciado": "¿Cómo se acredita la representación en el procedimiento administrativo según el artículo 5 de la Ley 39/2015?",
+    "respuesta": "Mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia, o mediante declaración en comparecencia personal del interesado. Se entenderá acreditada la representación realizada mediante apoderamiento apud acta en las oficinas de asistencia en materia de registros.",
+    "explicacion": "El art. 5 de la Ley 39/2015 flexibiliza la acreditación de la representación, incluido el apoderamiento apud acta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 7",
+    "enunciado": "¿Cómo se practican las actuaciones cuando hay pluralidad de interesados según el artículo 7 de la Ley 39/2015?",
+    "respuesta": "Las actuaciones se efectuarán con el representante o el interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término.",
+    "explicacion": "El art. 7 de la Ley 39/2015 regula la pluralidad de interesados en una misma solicitud.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 9",
+    "enunciado": "¿Qué sistemas de identificación de los interesados admite la Administración según el artículo 9 de la Ley 39/2015?",
+    "respuesta": "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la lista de confianza, y sistemas de clave concertada y cualquier otro sistema que las Administraciones consideren válido, como Cl@ve.",
+    "explicacion": "El art. 9 de la Ley 39/2015 regula los sistemas de identificación electrónica de los interesados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 10",
+    "enunciado": "¿Qué sistemas de firma admite la Administración según el artículo 10 de la Ley 39/2015?",
+    "respuesta": "Los sistemas de firma electrónica reconocida o cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica, y los sistemas de sello electrónico reconocido o cualificado y de código seguro de verificación.",
+    "explicacion": "El art. 10 de la Ley 39/2015 enumera los sistemas de firma admitidos por las AAPP.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 11",
+    "enunciado": "¿Quién determina qué sistemas de identificación y firma se admiten en cada procedimiento según el artículo 11 de la Ley 39/2015?",
+    "respuesta": "Con carácter general, cada Administración Pública determinará los sistemas de identificación y firma electrónica de los que deban disponer los interesados para relacionarse electrónicamente con ella en cada procedimiento.",
+    "explicacion": "El art. 11 de la Ley 39/2015 atribuye a cada Administración la determinación de los sistemas admitidos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué asistencia deben prestar las Administraciones en el uso de medios electrónicos según el artículo 12 de la Ley 39/2015?",
+    "respuesta": "Deben garantizar que los interesados pueden relacionarse a través de medios electrónicos, poniendo a su disposición los canales de acceso necesarios y los sistemas y aplicaciones, así como asistencia presencial en las oficinas de asistencia en materia de registros.",
+    "explicacion": "El art. 12 de la Ley 39/2015 impone el deber de asistencia en el uso de medios electrónicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 13",
+    "enunciado": "¿Tienen los interesados derecho a utilizar las lenguas oficiales en sus relaciones con la Administración según el artículo 13 de la Ley 39/2015?",
+    "respuesta": "Sí, a utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma, de acuerdo con lo previsto en la Ley 39/2015 y en el resto del ordenamiento jurídico.",
+    "explicacion": "El art. 13.c) de la Ley 39/2015 reconoce el derecho al uso de las lenguas oficiales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 14",
+    "enunciado": "¿Pueden las personas físicas elegir si se relacionan electrónicamente con la Administración según el artículo 14 de la Ley 39/2015?",
+    "respuesta": "Sí, las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse electrónicamente.",
+    "explicacion": "El art. 14.1 de la Ley 39/2015 reconoce el derecho de opción de las personas físicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 14",
+    "enunciado": "¿Están los empleados públicos obligados a relacionarse electrónicamente con la Administración según el artículo 14 de la Ley 39/2015?",
+    "respuesta": "Sí, para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración.",
+    "explicacion": "El art. 14.2.e) de la Ley 39/2015 obliga a los empleados públicos en razón de su condición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 42",
+    "enunciado": "¿Cómo se practica la notificación en papel a un interesado no obligado a relacionarse electrónicamente según el artículo 42 de la Ley 39/2015?",
+    "respuesta": "En el domicilio del interesado: se intentará dos veces en días y horas distintas; si no es posible, se hará por medio de anuncio en el BOE. Puede practicarse por el personal de la Administración o por Correos.",
+    "explicacion": "El art. 42 de la Ley 39/2015 regula la notificación en papel con doble intento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 43",
+    "enunciado": "¿Qué aviso recibe el interesado cuando se le practica una notificación electrónica según el artículo 43 de la Ley 39/2015?",
+    "respuesta": "Con independencia de que la notificación se realice en papel o por medios electrónicos, las Administraciones enviarán un aviso al dispositivo electrónico o a la dirección de correo electrónico del interesado informándole de la puesta a disposición de la notificación.",
+    "explicacion": "El art. 43 de la Ley 39/2015 prevé el aviso de puesta a disposición, sin efectos notificadores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 36",
+    "enunciado": "¿Qué permite el artículo 36 del Real Decreto 203/2021 respecto a la representación de terceros?",
+    "respuesta": "Que la Administración autorice a representantes de terceros para realizar trámites electrónicos en nombre de los interesados, facilitando la asistencia a quienes tengan dificultades en el uso de medios electrónicos.",
+    "explicacion": "El art. 36 del RD 203/2021 desarrolla la autorización de representantes de terceros.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 53",
+    "enunciado": "¿Tiene el interesado derecho a conocer el sentido del silencio administrativo aplicable a su procedimiento?",
+    "respuesta": "Sí, el art. 53.1.a) de la Ley 39/2015 reconoce el derecho a conocer, en cualquier momento, el estado de la tramitación y el sentido del silencio administrativo que corresponda.",
+    "explicacion": "El derecho a conocer el sentido del silencio forma parte de los derechos del interesado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 5",
+    "enunciado": "¿Cuándo se presume la representación en el procedimiento administrativo?",
+    "respuesta": "Para los actos y gestiones de mero trámite se presumirá aquella representación.",
+    "explicacion": "El art. 5.3 de la Ley 39/2015 presume la representación para los actos de mero trámite.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 13",
+    "enunciado": "¿Tienen los ciudadanos derecho a exigir responsabilidades a las Administraciones según el artículo 13 de la Ley 39/2015?",
+    "respuesta": "Sí, a exigir las responsabilidades de las Administraciones Públicas y autoridades, cuando legalmente corresponda.",
+    "explicacion": "El art. 13.g) de la Ley 39/2015 incluye el derecho a exigir responsabilidades.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E11-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E11",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué justificante recibe el interesado al presentar un documento en el registro electrónico?",
+    "respuesta": "El registro electrónico emitirá automáticamente un recibo consistente en una copia autenticada del documento presentado, incluyendo la fecha y hora de presentación y el número de entrada de registro.",
+    "explicacion": "El art. 16 de la Ley 39/2015 garantiza el recibo acreditativo de la presentación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué es un archivo en sentido archivístico?",
+    "respuesta": "El conjunto orgánico de documentos, cualquiera que sea su fecha, forma y soporte material, producidos o recibidos por una persona física o jurídica o por un organismo público o privado en el ejercicio de su actividad, conservados para su utilización con fines administrativos, jurídicos o culturales.",
+    "explicacion": "El archivo es tanto el conjunto de documentos como la institución que los custodia.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué tipos de archivos se distinguen según el ciclo vital de los documentos?",
+    "respuesta": "El archivo de oficina o de gestión (documentos en trámite y de uso frecuente), el archivo central (documentos semiactivos de las distintas oficinas), el archivo intermedio (documentos con valor administrativo decreciente en espera de valoración) y el archivo histórico (documentos de conservación permanente).",
+    "explicacion": "La teoría de las tres edades clasifica los archivos según la vigencia administrativa de los documentos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué operaciones comprende la organización de un archivo?",
+    "respuesta": "La identificación de las series documentales, la clasificación conforme al cuadro de clasificación, la ordenación (cronológica, alfabética, numérica), la descripción (inventarios, catálogos, índices) y la instalación adecuada para su conservación.",
+    "explicacion": "Organizar un archivo exige clasificar, ordenar, describir e instalar los documentos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué establece el artículo 17 de la Ley 39/2015 sobre el archivo de documentos?",
+    "respuesta": "Cada Administración Pública deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.",
+    "explicacion": "El art. 17 de la Ley 39/2015 impone el archivo electrónico único de procedimientos finalizados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué es el archivo electrónico único según el artículo 55 del Real Decreto 203/2021?",
+    "respuesta": "Es el conjunto de sistemas y servicios que sustenta la gestión, custodia y recuperación de los documentos y expedientes electrónicos, así como de otras agrupaciones documentales o de información, una vez finalizados los procedimientos.",
+    "explicacion": "El art. 55 del RD 203/2021 desarrolla el archivo electrónico único.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 54",
+    "enunciado": "¿Qué garantías debe ofrecer la conservación de documentos electrónicos según el artículo 54 del Real Decreto 203/2021?",
+    "respuesta": "Debe garantizar su autenticidad, integridad, confidencialidad, calidad, protección y conservación, así como su legibilidad y accesibilidad a lo largo del tiempo.",
+    "explicacion": "El art. 54 del RD 203/2021 fija las garantías de la conservación electrónica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 203/2021",
+    "articulo": "art. 53",
+    "enunciado": "¿Cómo se determinan los tiempos de conservación y destrucción de documentos según el artículo 53 del Real Decreto 203/2021?",
+    "respuesta": "Mediante el procedimiento de valoración documental, que determina los valores administrativos, jurídicos e históricos de los documentos y fija sus plazos de conservación y, en su caso, su eliminación conforme a la normativa de archivos.",
+    "explicacion": "El art. 53 del RD 203/2021 remite la conservación y destrucción a la valoración documental.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 12",
+    "enunciado": "¿Quiénes tienen derecho de acceso a la información pública y a los archivos según el artículo 12 de la Ley 19/2013?",
+    "respuesta": "Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución.",
+    "explicacion": "El art. 12 de la Ley 19/2013 configura un derecho universal de acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 14",
+    "enunciado": "Cite tres límites al derecho de acceso a la información pública según el artículo 14 de la Ley 19/2013.",
+    "respuesta": "La seguridad nacional, la defensa, las relaciones exteriores, la seguridad pública, la prevención, investigación y sanción de ilícitos, la igualdad de las partes en los procesos judiciales, las funciones administrativas de vigilancia, inspección y control, los intereses económicos y comerciales, la política económica y monetaria, el secreto profesional, la propiedad intelectual e industrial, la garantía de la confidencialidad en la toma de decisiones o la protección del medio ambiente.",
+    "explicacion": "El art. 14 de la Ley 19/2013 enumera los límites tasados al derecho de acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 17",
+    "enunciado": "¿Cómo se solicita el acceso a la información pública según el artículo 17 de la Ley 19/2013?",
+    "respuesta": "Mediante solicitud dirigida al titular del órgano administrativo o entidad que posea la información, por cualquier medio que permita tener constancia de la identidad del solicitante, la información solicitada, una dirección de contacto y la modalidad de acceso preferida.",
+    "explicacion": "El art. 17 de la Ley 19/2013 regula la solicitud de acceso a la información.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 20",
+    "enunciado": "¿En qué plazo debe resolverse la solicitud de acceso a la información pública según el artículo 20 de la Ley 19/2013?",
+    "respuesta": "En el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver, ampliable por otro mes en caso de que el volumen o la complejidad de la información lo hagan necesario, previa notificación al solicitante.",
+    "explicacion": "El art. 20 de la Ley 19/2013 fija el plazo de un mes para resolver.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué es la valoración documental en el proceso de archivo?",
+    "respuesta": "La fase del tratamiento archivístico que consiste en analizar y determinar los valores primarios (administrativo, jurídico, fiscal) y secundarios (histórico, informativo) de los documentos para decidir su conservación permanente o su eliminación.",
+    "explicacion": "La valoración decide el destino final de cada serie documental.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué instrumentos de descripción archivística conoce?",
+    "respuesta": "Las guías, los inventarios, los catálogos y los índices, que describen los fondos documentales con distinto nivel de detalle para facilitar su localización y consulta.",
+    "explicacion": "Los instrumentos de descripción permiten el acceso intelectual a los documentos archivados.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 15",
+    "enunciado": "¿Cómo se compatibiliza el acceso a la información con la protección de datos personales según el artículo 15 de la Ley 19/2013?",
+    "respuesta": "Si la información contiene datos personales, se concederá el acceso previa disociación de los mismos, salvo que el solicitante acredite un interés legítimo o que se trate de datos meramente identificativos relacionados con la organización y actividad pública.",
+    "explicacion": "El art. 15 de la Ley 19/2013 pondera el acceso con la protección de datos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E12-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué es una transferencia documental en el proceso de archivo?",
+    "respuesta": "El traslado de los documentos desde el archivo de oficina al archivo central, y de este al intermedio e histórico, una vez transcurridos los plazos de permanencia establecidos en el calendario de conservación.",
+    "explicacion": "Las transferencias articulan el ciclo vital del documento entre archivos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 39/2015",
+    "articulo": "—",
+    "enunciado": "¿Qué es el cuadro de clasificación de un archivo?",
+    "respuesta": "El instrumento que refleja la estructura jerárquica de las series documentales de una organización, normalmente con criterio funcional, y que sirve de base para la clasificación de los documentos.",
+    "explicacion": "El cuadro de clasificación es la herramienta básica de la organización archivística.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E12-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E12",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 22",
+    "enunciado": "¿Cómo se formaliza el acceso a la información pública según el artículo 22 de la Ley 19/2013?",
+    "respuesta": "El acceso se realizará preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado otro medio; si ya ha sido publicada, se indicará al solicitante cómo acceder a ella.",
+    "explicacion": "El art. 22 de la Ley 19/2013 regula la formalización del acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley Orgánica 3/2018 según su artículo 1?",
+    "respuesta": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y completar sus disposiciones, así como garantizar los derechos digitales de la ciudadanía conforme al mandato del artículo 18.4 de la Constitución.",
+    "explicacion": "El art. 1 de la LO 3/2018 fija su doble objeto: adaptación al RGPD y derechos digitales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué exige el principio de exactitud de los datos según el artículo 4 de la LO 3/2018?",
+    "respuesta": "Que los datos sean exactos y, si fuera necesario, actualizados, adoptándose todas las medidas razonables para que se supriman o rectifiquen sin dilación los datos personales inexactos con respecto a los fines para los que se tratan.",
+    "explicacion": "El art. 4 de la LO 3/2018 desarrolla el principio de exactitud.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 5",
+    "enunciado": "¿En qué consiste el deber de confidencialidad del artículo 5 de la LO 3/2018?",
+    "respuesta": "Los responsables y encargados del tratamiento, así como todas las personas que intervengan en cualquier fase de este, estarán sujetas al deber de confidencialidad, que subsistirá aun cuando hubiese finalizado la relación con el responsable o encargado.",
+    "explicacion": "El art. 5 de la LO 3/2018 impone un deber de secreto permanente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué características debe tener el consentimiento según el artículo 6 de la LO 3/2018?",
+    "respuesta": "Debe ser una manifestación de voluntad libre, específica, informada e inequívoca por la que el afectado acepta el tratamiento de sus datos personales.",
+    "explicacion": "El art. 6 de la LO 3/2018 define el consentimiento válido.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 7",
+    "enunciado": "¿A partir de qué edad puede un menor consentir el tratamiento de sus datos según el artículo 7 de la LO 3/2018?",
+    "respuesta": "El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de catorce años; por debajo de esa edad se requiere el consentimiento del titular de la patria potestad o tutela.",
+    "explicacion": "El art. 7 de la LO 3/2018 fija en catorce años la edad del consentimiento digital.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 8",
+    "enunciado": "¿Cuándo puede tratar datos una Administración Pública sin consentimiento según el artículo 8 de la LO 3/2018?",
+    "respuesta": "Cuando el tratamiento sea necesario para el cumplimiento de una obligación legal, para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable.",
+    "explicacion": "El art. 8 de la LO 3/2018 habilita el tratamiento por obligación legal o interés público, base habitual de las AAPP.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 9",
+    "enunciado": "¿Qué son las categorías especiales de datos según el artículo 9 de la LO 3/2018?",
+    "respuesta": "Los datos que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, la afiliación sindical, los datos genéticos o biométricos, los relativos a la salud o a la vida u orientación sexuales, cuyo tratamiento está en principio prohibido salvo excepciones tasadas.",
+    "explicacion": "El art. 9 de la LO 3/2018 otorga protección reforzada a las categorías especiales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 13",
+    "enunciado": "¿En qué consiste el derecho de acceso según el artículo 13 de la LO 3/2018?",
+    "respuesta": "El afectado tiene derecho a obtener del responsable confirmación de si se están tratando o no sus datos personales y, en tal caso, a acceder a ellos y a la información sobre los fines, categorías de datos, destinatarios, plazo de conservación y derechos que le asisten.",
+    "explicacion": "El art. 13 de la LO 3/2018 regula el derecho de acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 15",
+    "enunciado": "¿Cuándo puede ejercerse el derecho de supresión según el artículo 15 de la LO 3/2018?",
+    "respuesta": "Cuando los datos ya no sean necesarios para los fines para los que fueron recogidos, cuando se retire el consentimiento, cuando el interesado se oponga al tratamiento o cuando los datos hayan sido tratados ilícitamente, entre otros supuestos.",
+    "explicacion": "El art. 15 de la LO 3/2018 regula el derecho de supresión (derecho al olvido).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 18",
+    "enunciado": "¿En qué consiste el derecho de oposición según el artículo 18 de la LO 3/2018?",
+    "respuesta": "El afectado puede oponerse en cualquier momento, por motivos relacionados con su situación particular, a que sus datos personales sean objeto de tratamiento basado en el interés público o legítimo, y el responsable dejará de tratarlos salvo motivos legítimos imperiosos.",
+    "explicacion": "El art. 18 de la LO 3/2018 regula el derecho de oposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 22",
+    "enunciado": "¿Qué requisitos tiene el tratamiento de datos con fines de videovigilancia según el artículo 22 de la LO 3/2018?",
+    "respuesta": "Las personas físicas o jurídicas podrán tratar imágenes a través de cámaras con la finalidad de preservar la seguridad de personas y bienes, informando mediante un distintivo informativo y poniendo a disposición de los afectados la información completa; el plazo máximo de conservación es de un mes.",
+    "explicacion": "El art. 22 de la LO 3/2018 regula la videovigilancia con información y plazo de un mes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 28",
+    "enunciado": "¿Qué diferencia hay entre responsable y encargado del tratamiento según el artículo 28 de la LO 3/2018?",
+    "respuesta": "El responsable determina los fines y medios del tratamiento; el encargado trata los datos por cuenta del responsable, siguiendo sus instrucciones documentadas, en virtud de un contrato u otro acto jurídico.",
+    "explicacion": "El art. 28 de la LO 3/2018 fija las obligaciones generales de responsable y encargado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 34",
+    "enunciado": "¿Cuándo debe designarse un delegado de protección de datos según el artículo 34 de la LO 3/2018?",
+    "respuesta": "Entre otros supuestos, cuando el tratamiento lo lleve a cabo una autoridad u organismo público, excepto los tribunales en el ejercicio de su función judicial.",
+    "explicacion": "El art. 34 de la LO 3/2018 obliga a las Administraciones Públicas a designar un DPD.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 88",
+    "enunciado": "¿En qué consiste el derecho a la desconexión digital según el artículo 88 de la LO 3/2018?",
+    "respuesta": "Los trabajadores y empleados públicos tendrán derecho a la desconexión digital a fin de garantizar el respeto de su tiempo de descanso, permisos y vacaciones, así como de su intimidad personal y familiar.",
+    "explicacion": "El art. 88 de la LO 3/2018 reconoce la desconexión digital en el ámbito laboral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 93",
+    "enunciado": "¿En qué consiste el derecho al olvido en búsquedas de Internet según el artículo 93 de la LO 3/2018?",
+    "respuesta": "Toda persona tiene derecho a que los motores de búsqueda en Internet eliminen de las listas de resultados los enlaces publicados que contuvieran información relativa a esa persona cuando fuesen inadecuados, inexactos, no pertinentes o excesivos.",
+    "explicacion": "El art. 93 de la LO 3/2018 regula el derecho al olvido frente a buscadores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Ley Orgánica 3/2018",
+    "articulo": "art. 96",
+    "enunciado": "¿Qué es el testamento digital según el artículo 96 de la LO 3/2018?",
+    "respuesta": "El derecho de las personas vinculadas al fallecido por razones familiares o de hecho a acceder a sus datos personales y a solicitar su rectificación o supresión, así como a decidir sobre su destino, conforme a las instrucciones dejadas por el fallecido.",
+    "explicacion": "El art. 96 de la LO 3/2018 regula el acceso y destino de los datos de personas fallecidas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E13-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E13",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué establece el artículo 18.4 de la Constitución sobre la informática?",
+    "respuesta": "Que la ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.",
+    "explicacion": "El art. 18.4 CE es el fundamento constitucional de la protección de datos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-E14-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es un sistema ofimático?",
+    "respuesta": "El conjunto de hardware, software y procedimientos destinados a crear, almacenar, procesar y gestionar la información y los documentos propios del trabajo de oficina.",
+    "explicacion": "Los sistemas ofimáticos integran las aplicaciones de productividad de la oficina.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué aplicaciones integran una suite ofimática como LibreOffice?",
+    "respuesta": "Procesador de texto (Writer), hoja de cálculo (Calc), presentaciones (Impress), base de datos (Base), dibujo (Draw) y editor de fórmulas (Math).",
+    "explicacion": "LibreOffice es la suite ofimática libre equivalente a Microsoft 365.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué operaciones básicas permite un procesador de texto?",
+    "respuesta": "Crear, editar y dar formato a documentos: tipos y tamaños de letra, estilos, párrafos, tablas, encabezados y pies, numeración de páginas, corrector ortográfico y gramatical, e impresión o exportación a PDF.",
+    "explicacion": "El procesador de texto es la aplicación ofimática para documentos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es un estilo en un procesador de texto?",
+    "respuesta": "Un conjunto de formatos (fuente, tamaño, color, interlineado) que se aplica de una vez a párrafos o caracteres, garantizando la uniformidad del documento y facilitando la creación de índices automáticos.",
+    "explicacion": "Los estilos permiten un formato coherente y la generación de tablas de contenido.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "En una hoja de cálculo, ¿qué son el libro, la hoja y la celda?",
+    "respuesta": "El libro es el archivo de la hoja de cálculo, compuesto por una o varias hojas. Cada hoja se divide en filas (numeradas) y columnas (identificadas por letras). La celda es la intersección de una fila y una columna y se identifica por su referencia, como B4.",
+    "explicacion": "Libro, hoja y celda son los elementos estructurales de la hoja de cálculo.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es un rango en una hoja de cálculo y cómo se expresa?",
+    "respuesta": "Un conjunto de celdas contiguas, que se expresa indicando la celda inicial y la final separadas por dos puntos, por ejemplo A1:C5.",
+    "explicacion": "Los rangos se usan como argumento de funciones y para aplicar formatos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Cómo comienza una fórmula en una hoja de cálculo y qué funciones básicas conoce?",
+    "respuesta": "Comienza con el signo igual (=). Funciones básicas: SUMA (suma un rango), PROMEDIO (media aritmética), MAX y MIN (valor máximo y mínimo), CONTAR (cuenta celdas con números) y SI (devuelve un valor u otro según una condición).",
+    "explicacion": "Las fórmulas y funciones son la base del cálculo en la hoja.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué diferencia hay entre una referencia relativa y una absoluta en una hoja de cálculo?",
+    "respuesta": "La referencia relativa (A1) se ajusta al copiar la fórmula a otras celdas; la referencia absoluta ($A$1) mantiene fija la celda al copiar. También existen referencias mixtas ($A1 o A$1).",
+    "explicacion": "El símbolo $ fija la fila o la columna en las referencias.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Para qué sirve la función SI en una hoja de cálculo?",
+    "respuesta": "Para devolver un valor si una condición es verdadera y otro valor si es falsa, con la sintaxis =SI(condición; valor_si_verdadero; valor_si_falso).",
+    "explicacion": "La función SI introduce la lógica condicional en la hoja de cálculo.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es una base de datos ofimática y qué elementos tiene?",
+    "respuesta": "Un conjunto organizado de información estructurada en tablas formadas por registros (filas) y campos (columnas), que permite realizar consultas, formularios e informes para gestionar los datos.",
+    "explicacion": "Las bases de datos (Base/Access) gestionan información estructurada y relacionada.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué diferencia hay entre una red LAN y una red WAN?",
+    "respuesta": "La LAN (red de área local) conecta equipos en un ámbito reducido, como una oficina o edificio; la WAN (red de área extensa) cubre grandes distancias geográficas, como Internet.",
+    "explicacion": "LAN y WAN se distinguen por su alcance geográfico.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es una dirección IP y qué es una URL?",
+    "respuesta": "La dirección IP es el identificador numérico de cada equipo en una red TCP/IP. La URL (localizador uniforme de recursos) es la dirección que identifica un recurso en Internet, como una página web.",
+    "explicacion": "IP identifica equipos; URL identifica recursos en la red.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué formato tiene una dirección de correo electrónico y qué significan los campos CC y CCO?",
+    "respuesta": "El formato es usuario@dominio (por ejemplo, nombre@dipucadiz.es). CC (con copia) envía copia visible a otros destinatarios; CCO (con copia oculta) envía copia sin que los demás destinatarios lo vean.",
+    "explicacion": "CC y CCO gestionan los destinatarios en copia de un mensaje.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué protocolos intervienen en el correo electrónico?",
+    "respuesta": "SMTP para el envío de mensajes, y POP3 o IMAP para su recepción y lectura en el cliente de correo.",
+    "explicacion": "SMTP envía; POP3/IMAP reciben los mensajes.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es el phishing y cómo prevenirlo?",
+    "respuesta": "Es una técnica de fraude que suplanta la identidad de entidades de confianza por correo o mensajes para obtener datos personales o bancarios. Se previene verificando el remitente, no pulsando enlaces sospechosos, no facilitando credenciales por correo y usando antivirus y contraseñas robustas.",
+    "explicacion": "El phishing es el principal riesgo de seguridad en el uso del correo electrónico.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es un PDF y por qué se usa en la Administración?",
+    "respuesta": "Es un formato de documento portátil que conserva el aspecto original en cualquier dispositivo, admite firma electrónica y protección, y es el formato habitual para publicar y archivar documentos administrativos.",
+    "explicacion": "El PDF garantiza la fidelidad e integridad de los documentos administrativos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-E14-017",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "E14",
+    "ley": "Documentación de LibreOffice",
+    "articulo": "—",
+    "enunciado": "¿Qué es una presentación de diapositivas y para qué se usa?",
+    "respuesta": "Un documento formado por diapositivas con texto, imágenes, gráficos y efectos, creado con aplicaciones como Impress o PowerPoint, que sirve para exponer información de forma visual y ordenada.",
+    "explicacion": "Las presentaciones apoyan la comunicación oral con soporte visual.",
+    "verificado_corpus": false
+  }
+]

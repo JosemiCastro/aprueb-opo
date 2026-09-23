@@ -1,0 +1,26 @@
+{
+  "id": "GRA-C1-T02",
+  "numero": 2,
+  "tema": "T02",
+  "tipo": "comun",
+  "titulo": "La organización territorial del Estado y el Estatuto de Autonomía de Andalucía",
+  "relacionados": [
+    "GRA-C1-T01",
+    "GRA-C1-T03",
+    "GRA-C1-T04"
+  ],
+  "secciones": [
+    {
+      "titulo": "El Estado autonómico",
+      "texto": "El [[Constitución Española de 1978 | art. 137]] organiza territorialmente el Estado en municipios, provincias y Comunidades Autónomas, dotadas todas ellas de autonomía para la gestión de sus respectivos intereses. El [[Constitución Española de 1978 | art. 2]] fundamenta este modelo en la unidad de la Nación española y el derecho a la autonomía de nacionalidades y regiones, con el principio de solidaridad entre ellas.\n\nEl acceso a la autonomía se produjo por las vías de los [[Constitución Española de 1978 | arts. 143 y 151]]: la vía lenta del artículo 143 y la vía rápida del artículo 151 para las nacionalidades históricas, además de los supuestos de los artículos 144 y 144 (disposiciones transitorias). Andalucía accedió por la vía del artículo 151 tras el referéndum del 28 de febrero de 1980."
+    },
+    {
+      "titulo": "Distribución de competencias",
+      "texto": "Los [[Constitución Española de 1978 | arts. 148 y 149]] distribuyen las competencias: el artículo 148 enumera las materias asumibles por las Comunidades Autónomas y el 149 reserva al Estado las competencias exclusivas (nacionalidad, defensa, relaciones internacionales, sistema monetario, Hacienda general y Deuda del Estado, entre otras). Las materias no atribuidas expresamente al Estado pueden corresponder a las Comunidades Autónomas en virtud de sus Estatutos, y el Derecho estatal es supletorio del autonómico.\n\nLa Administración Pública sirve con objetividad los intereses generales actuando conforme a los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho ([[Constitución Española de 1978 | art. 103]])."
+    },
+    {
+      "titulo": "El Estatuto de Autonomía de Andalucía",
+      "texto": "El Estatuto vigente, aprobado por [[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 1]], proclama a Andalucía como nacionalidad histórica que se constituye en Comunidad Autónoma en el ejercicio del derecho de autogobierno reconocido por la Constitución, en el marco de la unidad de la Nación española.\n\nSus símbolos son la bandera, el escudo y el himno ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 3]]) y su capital es Sevilla, sede del Parlamento, la Presidencia y el Consejo de Gobierno ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 4]]). Las instituciones de autogobierno son el Parlamento de Andalucía, la Presidencia de la Junta y el Consejo de Gobierno ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 46]]). Las competencias se clasifican en exclusivas, compartidas y ejecutivas, con alcance territorial en Andalucía y regidas por los principios de eficacia, proximidad y coordinación."
+    }
+  ]
+}

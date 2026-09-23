@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T04",
+  "tema": "T04",
+  "numero": 4,
+  "tipo": "comun",
+  "titulo": "El Estatuto de Autonomía para Andalucía: estructura y disposiciones generales. Competencias de la Comunidad Autónoma de Andalucía.",
+  "relacionados": [
+    "CAD-C2-T01",
+    "CAD-C2-T03",
+    "CAD-C2-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Naturaleza y estructura del Estatuto",
+      "texto": "El Estatuto de Autonomía para Andalucía, aprobado por la Ley Orgánica 2/2007, de 19 de marzo, es la norma institucional básica de la Comunidad Autónoma, conforme al [[Constitución Española de 1978 |  art. 147]]. Sustituyó al Estatuto de 1981 y consta de un Título Preliminar, diez Títulos, disposiciones adicionales, transitorias, derogatoria y final, con un total de 250 artículos. Los Títulos regulan, entre otras materias, los derechos y deberes, las competencias, la organización institucional (Parlamento, Presidente y Consejo de Gobierno), la organización territorial, las relaciones institucionales, la economía y la hacienda, y la reforma del Estatuto."
+    },
+    {
+      "titulo": "2. Disposiciones generales",
+      "texto": "Andalucía se constituye en Comunidad Autónoma en el marco de la unidad de la Nación española (art. 1). Su territorio comprende los municipios de las provincias de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla (art. 2). Sus símbolos son la bandera (verde y blanca), el escudo (con la figura de Hércules) y el himno (art. 3). La capital de Andalucía es Sevilla, donde residen el Parlamento, la Presidencia de la Junta y el Consejo de Gobierno (art. 4). El Estatuto proclama objetivos básicos como la consecución del pleno empleo, la cohesión social, la igualdad de género y la protección del medio ambiente (art. 10)."
+    },
+    {
+      "titulo": "3. Las competencias de la Comunidad Autónoma",
+      "texto": "El Título II (arts. 42 a 88) clasifica las competencias en exclusivas, compartidas y ejecutivas (art. 42). Las competencias exclusivas comprenden la potestad legislativa, la reglamentaria y la ejecutiva de forma íntegra; las compartidas, el desarrollo legislativo y la ejecución en el marco de las bases estatales; y las ejecutivas, la ejecución de la legislación estatal. El Estatuto detalla un amplio catálogo: agricultura, educación, sanidad, vivienda y urbanismo, medio ambiente, turismo, cultura, régimen local (art. 60), función pública (art. 76) o policía autonómica, siempre dentro del marco de los [[Constitución Española de 1978 |  arts. 148 y 149]], que delimitan las competencias asumibles por las Comunidades Autónomas y las exclusivas del Estado."
+    },
+    {
+      "titulo": "4. Organización institucional: la Junta de Andalucía",
+      "texto": "La Junta de Andalucía es la institución en que se organiza políticamente el autogobierno de la Comunidad Autónoma (art. 99), integrada por el Parlamento, la Presidencia de la Junta y el Consejo de Gobierno. El Parlamento representa al pueblo andaluz, ejerce la potestad legislativa y aprueba los presupuestos (art. 106). El Presidente dirige y coordina la acción del Consejo de Gobierno (arts. 117 a 119). Existen además órganos de relevancia estatutaria: el Defensor del Pueblo Andaluz (art. 128), el Consejo Consultivo (art. 129) y la Cámara de Cuentas (art. 130)."
+    },
+    {
+      "titulo": "5. Andalucía y la Administración Local",
+      "texto": "El Estatuto dedica su art. 60 al régimen local, reconociendo la autonomía de municipios y provincias y la competencia de la Comunidad Autónoma sobre su organización y régimen. La Comunidad Autónoma de Andalucía ejerce sus competencias sobre las entidades locales andaluzas con respeto a la autonomía local garantizada por la Constitución y la legislación básica estatal ([[Constitución Española de 1978 |  art. 137]] y [[Constitución Española de 1978 |  art. 140]])."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T09",
+  "tema": "T09",
+  "numero": 9,
+  "tipo": "comun",
+  "titulo": "Ley Prevención de Riesgos Laborales. Definiciones. Derecho a la protección frente a los riesgos laborales. Principios de la acción preventiva.",
+  "relacionados": [
+    "CAD-C2-E01",
+    "CAD-C2-E02",
+    "CAD-C2-T10"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Objeto y ámbito de la Ley 31/1995",
+      "texto": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, tiene por objeto promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo. Se aplica a las relaciones laborales reguladas en el Estatuto de los Trabajadores y a las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 3]]), por lo que es plenamente aplicable al personal de la Diputación de Cádiz."
+    },
+    {
+      "titulo": "2. Definiciones básicas",
+      "texto": "El [[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 4]] define: prevención como el conjunto de actividades o medidas adoptadas en todas las fases de actividad de la empresa para evitar o disminuir los riesgos; riesgo laboral como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo; daños derivados del trabajo como las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo; riesgo grave e inminente como aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave; y equipo de protección individual como cualquier equipo destinado a ser llevado por el trabajador para protegerle de riesgos."
+    },
+    {
+      "titulo": "3. Derecho a la protección frente a los riesgos laborales",
+      "texto": "Los trabajadores tienen derecho a una protección eficaz en materia de seguridad y salud en el trabajo, lo que supone un correlativo deber del empresario de protección ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 14]]). Este deber incluye evaluar los riesgos, informar y formar a los trabajadores ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  arts. 18 y 19]]), adoptar medidas de emergencia ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 20]]), vigilar su salud ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 22]]) y documentar la evaluación y la planificación ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 23]]). En caso de riesgo grave e inminente, el trabajador puede interrumpir su actividad y abandonar el lugar de trabajo ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 21]])."
+    },
+    {
+      "titulo": "4. Principios de la acción preventiva",
+      "texto": "El [[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 15]] establece los principios que debe aplicar el empresario: evitar los riesgos; evaluar los riesgos que no se puedan evitar; combatir los riesgos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución de la técnica; sustituir lo peligroso por lo que entrañe poco o ningún peligro; planificar la prevención integrando técnica, organización, condiciones de trabajo y relaciones sociales; anteponer la protección colectiva a la individual; y dar las debidas instrucciones a los trabajadores. Además, el empresario debe integrar la prevención en un plan de prevención de riesgos laborales ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 16]])."
+    },
+    {
+      "titulo": "5. Obligaciones de los trabajadores y organización preventiva",
+      "texto": "Los trabajadores deben velar por su propia seguridad y por la de las personas afectadas por su actividad, usar correctamente los equipos y no poner fuera de funcionamiento los dispositivos de seguridad ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  art. 29]]). El empresario debe organizar los recursos para la actividad preventiva mediante servicios de prevención propios o ajenos o la designación de trabajadores ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  arts. 30 y 31]]), y garantizar la consulta y participación de los trabajadores a través de los Delegados de Prevención y el Comité de Seguridad y Salud ([[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales |  arts. 33 a 38]])."
+    }
+  ]
+}

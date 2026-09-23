@@ -1,0 +1,29 @@
+{
+  "id": "GRA-C1-T10",
+  "numero": 10,
+  "tema": "T10",
+  "tipo": "comun",
+  "titulo": "Igualdad efectiva, transparencia y protección de datos",
+  "relacionados": [
+    "GRA-C1-T01",
+    "GRA-C1-T09"
+  ],
+  "secciones": [
+    {
+      "titulo": "Igualdad efectiva entre mujeres y hombres",
+      "texto": "La LO 3/2007 define la igualdad de trato como la ausencia de toda discriminación directa o indirecta por razón de sexo ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 3]]). Es directa cuando una persona es tratada de forma menos favorable por su sexo, e indirecta cuando una disposición aparentemente neutra la pone en desventaja particular ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 6]]).\n\nSe permiten acciones positivas para corregir desigualdades de hecho mientras subsistan ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 11]]), y el principio de igualdad debe informar transversalmente toda la actuación de los poderes públicos ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 15]]). Las Administraciones deben remover obstáculos discriminatorios, facilitar la conciliación y aprobar planes de igualdad ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 51]]), incluido el Plan de Igualdad de la AGE que aprueba el Gobierno cada legislatura ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres | art. 64]])."
+    },
+    {
+      "titulo": "Transparencia y acceso a la información",
+      "texto": "Todas las personas tienen derecho a acceder a la información pública que obre en poder de los sujetos obligados ([[Ley 19/2013 | art. 12]]). Este derecho tiene como límites la seguridad nacional y pública, las relaciones exteriores, la prevención de ilícitos, la confidencialidad en la toma de decisiones y la protección del medio ambiente, entre otros ([[Ley 19/2013 | art. 14]]).\n\nLas solicitudes se resuelven en el plazo máximo de un mes, y el silencio es desestimatorio ([[Ley 19/2013 | art. 20]])."
+    },
+    {
+      "titulo": "Protección de datos personales",
+      "texto": "La LO 3/2018 desarrolla el derecho fundamental a la protección de datos conforme al Reglamento (UE) 2016/679. Los afectados pueden ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición ([[Ley Orgánica 3/2018 | arts. 13 a 18]]).\n\nEl tratamiento requiere una base jurídica (consentimiento, contrato, obligación legal, interés público, entre otras) y debe respetar los principios de licitud, lealtad, transparencia, minimización y exactitud, con especial protección para los datos de las Administraciones tributarias, sometidos al deber de reserva."
+    },
+    {
+      "titulo": "Publicidad activa y buen gobierno",
+      "texto": "Junto al derecho de acceso, la Ley 19/2013 impone obligaciones de publicidad activa: los sujetos obligados deben publicar de forma periódica y actualizada la información institucional y organizativa, la de relevancia jurídica (normas, ordenanzas, actos) y la económica, presupuestaria y estadística. La información debe ofrecerse en formatos reutilizables y accesibles.\n\nEl buen gobierno exige a los altos cargos actuar con transparencia, eficacia, austeridad e imparcialidad, y su incumplimiento puede dar lugar a infracciones y responsabilidades. En el ámbito tributario, estos principios se combinan con el deber de reserva sobre los datos de los obligados tributarios, de modo que la transparencia no ampara la difusión de información tributaria individualizada."
+    }
+  ]
+}

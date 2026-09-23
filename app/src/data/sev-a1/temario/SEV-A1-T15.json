@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T15",
+  "tema": "T15",
+  "tipo": "comun",
+  "numero": 15,
+  "titulo": "El procedimiento administrativo común: principios, interesados y fases",
+  "secciones": [
+    {
+      "titulo": "1. Principios y ámbito",
+      "texto": "La Ley 39/2015 regula el procedimiento administrativo común, aplicable a todas las Administraciones Públicas. La Administración está obligada a dictar resolución expresa en todos los procedimientos ([[Ley 39/2015 | art. 29]]), en el plazo fijado por su norma reguladora, que no puede exceder de seis meses o, en defecto de previsión, de tres ([[Ley 39/2015 | art. 21]])."
+    },
+    {
+      "titulo": "2. Los interesados",
+      "texto": "Tienen la condición de interesados quienes promuevan el procedimiento como titulares de derechos o intereses legítimos, quienes tengan derechos afectados por la resolución y quienes se personen con intereses legítimos ([[Ley 39/2015 | art. 4]]). Entre sus derechos: conocer el estado de tramitación, no presentar documentos ya aportados, formular alegaciones y acceder al expediente ([[Ley 39/2015 | art. 53]]; derechos generales del [[Ley 39/2015 | art. 13]])."
+    },
+    {
+      "titulo": "3. La relación electrónica",
+      "texto": "Están obligados a relacionarse electrónicamente las personas jurídicas, las entidades sin personalidad, los profesionales colegiados, los representantes de obligados y los empleados públicos ([[Ley 39/2015 | art. 14]]). Cada Administración dispone de un registro electrónico general ([[Ley 39/2015 | art. 16]]) y de sede electrónica para relacionarse con los ciudadanos."
+    },
+    {
+      "titulo": "4. Fases: iniciación e instrucción",
+      "texto": "El procedimiento puede iniciarse de oficio o a solicitud del interesado. La instrucción comprende las alegaciones, la prueba, los informes y el trámite de audiencia: antes de la propuesta de resolución se da vista del expediente por plazo de diez a quince días ([[Ley 39/2015 | art. 82]])."
+    },
+    {
+      "titulo": "5. Terminación y recursos",
+      "texto": "El procedimiento termina por resolución, desistimiento, renuncia, caducidad o imposibilidad sobrevenida. Contra las resoluciones y actos de trámite cualificados caben los recursos administrativos ([[Ley 39/2015 | art. 112]]), desarrollados en el tema siguiente."
+    },
+    {
+      "titulo": "6. Celeridad, eficacia y responsabilidad por demora",
+      "texto": "El procedimiento debe tramitarse con celeridad: la Administración está obligada a resolver expresamente en plazo ([[Ley 39/2015 | art. 29]]), con un máximo general de seis meses ([[Ley 39/2015 | art. 21]]). La demora injustificada genera responsabilidad: el silencio administrativo protege al ciudadano frente a la inactividad, y la Administración responde de los daños por funcionamiento anormal. La tramitación electrónica, los registros interoperables y la no exigencia de documentos ya aportados ([[Ley 39/2015 | art. 53]]) son instrumentos de simplificación al servicio de la eficacia. En la instrucción se solicitan los informes preceptivos y facultativos, que son no vinculantes salvo disposición en contrario, y se practica la prueba propuesta por los interesados y la acordada de oficio. El trámite de audiencia garantiza que nadie sea condenado sin ser oído: vista del expediente y plazo de diez a quince días para alegar ([[Ley 39/2015 | art. 82]]). Omitir la audiencia cuando es preceptiva produce indefensión y vicia la resolución."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T14",
+    "SEV-A1-T16",
+    "SEV-A1-T19"
+  ]
+}

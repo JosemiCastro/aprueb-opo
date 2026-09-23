@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T12",
+  "tema": "T12",
+  "tipo": "comun",
+  "numero": 12,
+  "titulo": "La Ley y el Reglamento: caracteres, jerarquía, elaboración y control",
+  "secciones": [
+    {
+      "titulo": "1. La ley: caracteres y clases",
+      "texto": "La ley es la norma jurídica aprobada por las Cortes Generales (o los Parlamentos autonómicos) con rango inmediatamente inferior a la Constitución. Se distingue entre leyes orgánicas, reservadas a las materias del [[Constitución Española de 1978 | art. 81]] y aprobadas por mayoría absoluta del Congreso, y leyes ordinarias, aprobadas por mayoría simple."
+    },
+    {
+      "titulo": "2. Normas con rango de ley del Gobierno",
+      "texto": "El decreto-ley se dicta en caso de extraordinaria y urgente necesidad, con límites materiales tasados y convalidación del Congreso en treinta días ([[Constitución Española de 1978 | art. 86]]). Los decretos legislativos son legislación delegada: textos articulados (leyes de bases, [[Constitución Española de 1978 | art. 82]]) y textos refundidos ([[Constitución Española de 1978 | art. 85]])."
+    },
+    {
+      "titulo": "3. El reglamento: concepto y jerarquía",
+      "texto": "El reglamento es la norma jurídica de rango inferior a la ley dictada por la Administración en ejercicio de la potestad reglamentaria, que corresponde al Gobierno ([[Constitución Española de 1978 | art. 97]]). Por el principio de jerarquía normativa ([[Constitución Española de 1978 | art. 9]]) está subordinado a la ley: no puede contradecirla ni regular materias reservadas a ella."
+    },
+    {
+      "titulo": "4. Elaboración y buena regulación",
+      "texto": "La Ley 39/2015 somete la potestad reglamentaria a los principios de buena regulación: necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia ([[Ley 39/2015 | art. 129]]). Las Administraciones publican anualmente el Plan Anual Normativo ([[Ley 39/2015 | art. 132]]) y someten los proyectos a consulta pública, audiencia e información pública ([[Ley 39/2015 | art. 133]])."
+    },
+    {
+      "titulo": "5. Control de los reglamentos",
+      "texto": "Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa ([[Constitución Española de 1978 | art. 106]]). Los reglamentos ilegales son nulos y pueden ser anulados por la jurisdicción contencioso-administrativa, que puede además inaplicarlos en casos concretos."
+    },
+    {
+      "titulo": "6. La jerarquía normativa en la práctica",
+      "texto": "El sistema de fuentes se ordena así: Constitución, leyes orgánicas y ordinarias (y normas con rango de ley), reglamentos estatales, autonómicos y locales. La jerarquía ([[Constitución Española de 1978 | art. 9]]) implica que la norma inferior contraria a la superior es inválida. La competencia distribuye materias entre Estado, Comunidades Autónomas y entidades locales sin relación jerárquica entre sus normas. La buena regulación exige evaluar necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia antes de aprobar cualquier norma ([[Ley 39/2015 | art. 129]]), con participación ciudadana en su elaboración ([[Ley 39/2015 | art. 133]]). Las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición general, aunque sean dictadas por órgano de igual o superior jerarquía: es la inderogabilidad singular de los reglamentos. Esta regla protege la seguridad jurídica y la igualdad, impidiendo dispensas individuales contrarias a la norma. Solo cabe apartarse del reglamento mediante su modificación o derogación por el procedimiento debido."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T11",
+    "SEV-A1-T17"
+  ]
+}

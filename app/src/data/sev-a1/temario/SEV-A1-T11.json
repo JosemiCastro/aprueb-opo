@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T11",
+  "tema": "T11",
+  "tipo": "comun",
+  "numero": 11,
+  "titulo": "El Derecho Administrativo: concepto, principio de legalidad y fuentes",
+  "secciones": [
+    {
+      "titulo": "1. Concepto de Derecho Administrativo",
+      "texto": "El Derecho Administrativo es la rama del Derecho público que regula la organización y la actividad de las Administraciones Públicas y sus relaciones con los ciudadanos. Se caracteriza por la presencia de la Administración como sujeto dotado de prerrogativas (ejecutividad, autotutela) y, correlativamente, por un sistema de garantías para el ciudadano (procedimiento, recursos, control judicial)."
+    },
+    {
+      "titulo": "2. El principio de legalidad",
+      "texto": "La Administración sirve con objetividad los intereses generales y actúa con sometimiento pleno a la ley y al Derecho ([[Constitución Española de 1978 | art. 103]]). El principio de legalidad exige cobertura legal para toda actuación administrativa y se manifiesta en la vinculación positiva de la Administración a la norma. Su reverso es la interdicción de la arbitrariedad ([[Constitución Española de 1978 | art. 9]])."
+    },
+    {
+      "titulo": "3. Las fuentes del Derecho Administrativo",
+      "texto": "Las fuentes son la ley, la costumbre y los principios generales del Derecho, con la jurisprudencia como complemento (Código Civil, art. 1). En el ámbito administrativo prima la ley en sentido amplio: Constitución, leyes orgánicas y ordinarias, decretos-leyes, decretos legislativos y reglamentos, ordenados por el principio de jerarquía normativa ([[Constitución Española de 1978 | art. 9]])."
+    },
+    {
+      "titulo": "4. Principios de actuación administrativa",
+      "texto": "El [[Ley 40/2015 | art. 3]] impone a las Administraciones actuar con servicio efectivo a los ciudadanos, simplicidad, claridad y proximidad, participación, transparencia, racionalización y agilidad, buena fe, confianza legítima, lealtad institucional y responsabilidad por la gestión pública. Cada Administración actúa con personalidad jurídica única ([[Ley 40/2015 | art. 5]])."
+    },
+    {
+      "titulo": "5. Participación ciudadana y control",
+      "texto": "El [[Constitución Española de 1978 | art. 105]] garantiza la audiencia de los ciudadanos en la elaboración de disposiciones administrativas que les afecten, el acceso a archivos y registros y la audiencia del interesado en el procedimiento. La actuación administrativa está sometida al control de los Tribunales ([[Constitución Española de 1978 | art. 106]])."
+    },
+    {
+      "titulo": "6. El reglamento: clases y control",
+      "texto": "Los reglamentos pueden ser ejecutivos (desarrollan una ley), independientes (regulan materias no reservadas a la ley) y de necesidad. Están sometidos al principio de jerarquía normativa ([[Constitución Española de 1978 | art. 9]]) y a la reserva de ley: no pueden contradecir la ley ni regular materias reservadas a ella. Su control corresponde a los Tribunales, que fiscalizan la potestad reglamentaria ([[Constitución Española de 1978 | art. 106]]). El reglamento ilegal es nulo de pleno derecho y el juez puede inaplicarlo en el caso concreto, además de la impugnación directa ante la jurisdicción contencioso-administrativa. La costumbre solo rige en defecto de ley aplicable y si no es contraria a la moral o al orden público, debiendo probarse su existencia. Los principios generales del Derecho —legalidad, seguridad jurídica, proporcionalidad, buena fe, confianza legítima— informan el ordenamiento y sirven para interpretar las normas y colmar lagunas. La jurisprudencia del Tribunal Supremo complementa el ordenamiento al interpretar y aplicar las normas de modo reiterado."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T01",
+    "SEV-A1-T12",
+    "SEV-A1-T13"
+  ]
+}

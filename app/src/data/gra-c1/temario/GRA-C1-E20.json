@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E20",
+  "numero": 20,
+  "tema": "E20",
+  "tipo": "especifico",
+  "titulo": "Tasas, contribuciones especiales, precios públicos y recaudación local",
+  "relacionados": [
+    "GRA-C1-E01",
+    "GRA-C1-E17",
+    "GRA-C1-E08"
+  ],
+  "secciones": [
+    {
+      "titulo": "Las tasas locales",
+      "texto": "Constituye el hecho imponible de las tasas la utilización privativa o el aprovechamiento especial del dominio público local y la prestación de servicios o actividades de competencia local que afecten particularmente al sujeto pasivo ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 20]]). Son sujetos pasivos quienes disfruten, utilicen o se beneficien de ellos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 23]]).\n\nSu importe no puede exceder en conjunto del coste real o previsible del servicio, considerando costes directos e indirectos y la capacidad económica ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 24]]). Se devengan al iniciarse la prestación o el aprovechamiento, pudiendo exigirse depósito previo ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 26]])."
+    },
+    {
+      "titulo": "Las contribuciones especiales",
+      "texto": "Su hecho imponible es la obtención de un beneficio o aumento de valor de los bienes por obras públicas o por el establecimiento o ampliación de servicios públicos locales ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 28]]). Son sujetos pasivos los propietarios de los inmuebles afectados y los titulares de explotaciones empresariales beneficiadas ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 30]]).\n\nLa base imponible es como máximo el 90% del coste soportado por la entidad local ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 31]]), repartido por módulos como los metros de fachada, la superficie o el valor catastral ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 32]]). Exigen acuerdos de imposición y de ordenación para cada obra o servicio ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 34]])."
+    },
+    {
+      "titulo": "Los precios públicos",
+      "texto": "Son las contraprestaciones por servicios o actividades de competencia local cuando no concurran las circunstancias propias de las tasas: servicios no obligatorios o prestados también por el sector privado ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 41]]). Están obligados al pago quienes se beneficien de ellos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 43]]).\n\nSu cuantía debe cubrir como mínimo el coste del servicio, salvo razones sociales, benéficas, culturales o de interés público que justifiquen un precio inferior con dotación presupuestaria ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 44]])."
+    },
+    {
+      "titulo": "La recaudación en el ámbito local",
+      "texto": "La recaudación de las entidades locales se lleva a cabo directamente, por otros entes territoriales mediante convenio o delegación, o por la AEAT por convenio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 8]]).\n\nEn período voluntario, las deudas de vencimiento periódico y notificación colectiva (IBI, IVTM) se comunican por edictos y pueden domiciliarse ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | arts. 24 y 25]]). Vencido el plazo sin pago se inicia el período ejecutivo con la providencia de apremio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | arts. 69 y 70]]), y el procedimiento continúa con embargos y enajenación conforme al Reglamento General de Recaudación."
+    }
+  ]
+}

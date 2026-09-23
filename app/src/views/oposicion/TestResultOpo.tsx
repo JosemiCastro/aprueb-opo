@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { Header, Btn, Card } from '../../components/ui';
 import { tituloTema } from '../../lib/data';
 import { navigate } from '../../lib/router';
+import { type OpoProps } from './props';
 
 interface TemaDetalle {
   temaId: string;
@@ -16,11 +17,9 @@ interface TestRes {
   detalle: TemaDetalle[];
 }
 
-const RES_KEY = 'oposdipu-testres';
-
-function loadRes(): TestRes | null {
+function loadRes(opoId: string): TestRes | null {
   try {
-    const raw = sessionStorage.getItem(RES_KEY);
+    const raw = sessionStorage.getItem(`oposdipu-testres-${opoId}`);
     if (!raw) return null;
     const v = JSON.parse(raw) as Partial<TestRes>;
     if (typeof v.aciertos !== 'number' || typeof v.total !== 'number') return null;
@@ -32,12 +31,12 @@ function loadRes(): TestRes | null {
   }
 }
 
-export default function TestResult() {
-  const [res] = useState<TestRes | null>(loadRes);
+export default function TestResultOpo({ opoId, base }: OpoProps) {
+  const [res] = useState<TestRes | null>(() => loadRes(opoId));
 
   useEffect(() => {
-    if (!res) navigate('/c1/test');
-  }, [res]);
+    if (!res) navigate(`${base}/test`);
+  }, [res, base]);
 
   if (!res) {
     return (
@@ -53,7 +52,7 @@ export default function TestResult() {
 
   return (
     <div className="screen">
-      <Header title="Resultado del test" backTo="/c1" />
+      <Header title="Resultado del test" backTo={base} />
       <main className="container">
         <Card>
           <div
@@ -97,7 +96,7 @@ export default function TestResult() {
                   borderTop: '1px solid var(--border)',
                 }}
               >
-                <span style={{ fontWeight: 600 }}>{tituloTema('c1', d.temaId)}</span>
+                <span style={{ fontWeight: 600 }}>{tituloTema(opoId, d.temaId)}</span>
                 <span style={{ whiteSpace: 'nowrap' }}>
                   <span style={{ color: 'var(--success)', fontWeight: 700 }}>{d.ok} ✓</span>
                   {' / '}
@@ -108,8 +107,8 @@ export default function TestResult() {
           )}
         </Card>
 
-        <Btn onClick={() => navigate('/c1/test')}>Nuevo test</Btn>
-        <Btn variant="ghost" onClick={() => navigate('/c1')}>
+        <Btn onClick={() => navigate(`${base}/test`)}>Nuevo test</Btn>
+        <Btn variant="ghost" onClick={() => navigate(base)}>
           Temas
         </Btn>
       </main>

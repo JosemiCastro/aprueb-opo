@@ -1,0 +1,31 @@
+{
+  "id": "CAD-C2-T05",
+  "tema": "T05",
+  "numero": 5,
+  "tipo": "comun",
+  "titulo": "El Régimen Local Español. Principios constitucionales y regulación jurídica. Organización y competencias municipales.",
+  "relacionados": [
+    "CAD-C2-T03",
+    "CAD-C2-T06",
+    "CAD-C2-T07",
+    "CAD-C2-E07"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Principios constitucionales del régimen local",
+      "texto": "La Constitución garantiza la autonomía de los municipios para la gestión de sus respectivos intereses ([[Constitución Española de 1978 |  art. 140]]), y el [[Constitución Española de 1978 |  art. 137]] incluye a municipios y provincias entre los entes territoriales autónomos. El gobierno y la administración de los municipios corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales, elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto. La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios, y su gobierno corresponde a las Diputaciones ([[Constitución Española de 1978 |  art. 141]])."
+    },
+    {
+      "titulo": "2. Regulación jurídica: la Ley 7/1985",
+      "texto": "La Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, es la norma básica estatal del régimen local, completada por la legislación autonómica de desarrollo (en Andalucía, la Ley 5/2010, de Autonomía Local). Su [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 1]] define a los municipios como entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana. Para la efectividad de la autonomía local, las leyes estatales y autonómicas deben asegurar a municipios, provincias e islas su derecho a intervenir en los asuntos de su interés ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 2]])."
+    },
+    {
+      "titulo": "3. Organización municipal",
+      "texto": "El gobierno y la administración municipal corresponde al Ayuntamiento, integrado por el Alcalde y los Concejales, salvo en los municipios de Concejo Abierto ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 19]]). El [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 20]] fija las reglas de organización: el Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los Ayuntamientos; la Junta de Gobierno Local existe en los de más de 5.000 habitantes y en los de menos cuando lo disponga su reglamento orgánico o lo acuerde el Pleno. El Alcalde es el Presidente de la Corporación ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 21]]) y el Pleno, integrado por todos los Concejales y presidido por el Alcalde, ejerce las atribuciones del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 22]] (aprobar presupuestos, ordenanzas, planeamiento, etc.)."
+    },
+    {
+      "titulo": "4. Competencias municipales",
+      "texto": "El [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 25]] permite al municipio promover actividades y prestar los servicios públicos que contribuyan a satisfacer las necesidades vecinales en materias como urbanismo, medio ambiente urbano, abastecimiento de agua, infraestructuras viarias, evaluación de situaciones de necesidad social, policía local, tráfico, transporte colectivo urbano, protección civil o promoción del deporte y la cultura. El [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 26]] impone servicios mínimos obligatorios según la población: en todos los municipios, alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a núcleos de población y pavimentación; a partir de 5.000 habitantes se añaden parque público, biblioteca, mercado y tratamiento de residuos; a partir de 20.000, protección civil, evaluación social, prevención de incendios y equipamientos deportivos; y a partir de 50.000, transporte colectivo urbano y protección del medio ambiente."
+    }
+  ]
+}

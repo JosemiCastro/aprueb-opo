@@ -1,5 +1,5 @@
 import { Header, TemaRow } from '../../components/ui';
-import { esquemaDeTema, temasDe } from '../../lib/data';
+import { esquemaDeTema, temasDeOpo } from '../../lib/data';
 import { useProgress } from '../../lib/storage';
 import { link } from '../../lib/router';
 import type { TemaMeta } from '../../types';
@@ -20,7 +20,7 @@ function subTema(t: TemaMeta): string {
 
 export default function TemasA2() {
   const [progress] = useProgress();
-  const temas = temasDe('a2');
+  const temas = temasDeOpo('HUE-A2');
   const comunes = temas.filter((t) => t.tipo === 'comun');
   const especificos = temas.filter((t) => t.tipo === 'especifico');
 

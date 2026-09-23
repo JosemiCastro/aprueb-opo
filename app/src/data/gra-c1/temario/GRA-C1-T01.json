@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T01",
+  "numero": 1,
+  "tema": "T01",
+  "tipo": "comun",
+  "titulo": "La Constitución Española de 1978: estructura, principios y derechos fundamentales",
+  "relacionados": [
+    "GRA-C1-T02",
+    "GRA-C1-T06",
+    "GRA-C1-T10"
+  ],
+  "secciones": [
+    {
+      "titulo": "Estructura y proceso constituyente",
+      "texto": "La Constitución de 1978 es fruto de un proceso de transición pactada desde el régimen autoritario anterior a la democracia. Las Cortes constituyentes elegidas el 15 de junio de 1977 elaboraron el texto, aprobado por las Cortes el 31 de octubre de 1978, ratificado en referéndum el 6 de diciembre de 1978 y sancionado por el Rey el 27 de diciembre, entrando en vigor el 29 de diciembre de 1978.\n\nEstructuralmente consta de un preámbulo, 169 artículos distribuidos en un título preliminar y diez títulos numerados, cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una final. El Título Preliminar ([[Constitución Española de 1978 | arts. 1 a 9]]) recoge los principios estructurales del Estado, y el Título I los derechos y deberes fundamentales."
+    },
+    {
+      "titulo": "Principios estructurales del Estado",
+      "texto": "El [[Constitución Española de 1978 | art. 1]] constituye a España en un **Estado social y democrático de Derecho** y proclama como valores superiores del ordenamiento la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado, y la forma política del Estado es la **Monarquía parlamentaria**.\n\nEl [[Constitución Española de 1978 | art. 2]] se fundamenta en la indisoluble unidad de la Nación española y reconoce el derecho a la autonomía de las nacionalidades y regiones. El [[Constitución Española de 1978 | art. 9]] somete a los ciudadanos y a los poderes públicos a la Constitución y al resto del ordenamiento, y su apartado 3 garantiza la legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables, la seguridad jurídica y la interdicción de la arbitrariedad."
+    },
+    {
+      "titulo": "Derechos y deberes fundamentales",
+      "texto": "El Título I regula los derechos y deberes fundamentales. Su Sección 1.ª del Capítulo II ([[Constitución Española de 1978 | arts. 15 a 29]]) recoge los derechos fundamentales y libertades públicas de máxima protección: derecho a la vida, a la libertad ideológica y religiosa, a la libertad y seguridad ([[Constitución Española de 1978 | art. 17]], con el límite de 72 horas para la detención preventiva), al honor, la intimidad y la propia imagen ([[Constitución Española de 1978 | art. 18]]), a la tutela judicial efectiva sin indefensión ([[Constitución Española de 1978 | art. 24]]), a la educación y a la libertad sindical, entre otros.\n\nLa Sección 2.ª ([[Constitución Española de 1978 | arts. 30 a 38]]) contiene los derechos y deberes de los ciudadanos (defensa, tributación, trabajo, propiedad), y el Capítulo III los principios rectores de la política social y económica. El [[Constitución Española de 1978 | art. 14]] consagra la igualdad ante la ley sin discriminación, y el [[Constitución Española de 1978 | art. 31]] impone el deber de contribuir al sostenimiento de los gastos públicos conforme a la capacidad económica mediante un sistema tributario justo, igualitario, progresivo y no confiscatorio."
+    },
+    {
+      "titulo": "Garantías y reforma constitucional",
+      "texto": "La protección de los derechos fundamentales se articula en tres niveles: la reserva de ley orgánica para su desarrollo ([[Constitución Española de 1978 | art. 81]]), el procedimiento preferente y sumario ante los tribunales ordinarios y el recurso de amparo ante el Tribunal Constitucional ([[Constitución Española de 1978 | art. 53]]), y la tutela del Defensor del Pueblo.\n\nLa reforma constitucional sigue dos procedimientos: el ordinario del [[Constitución Española de 1978 | art. 167]] (mayoría de tres quintos de cada Cámara, con mecanismos de desbloqueo y referéndum facultativo) y el agravado del [[Constitución Española de 1978 | art. 168]] para la revisión total o de las materias especialmente protegidas (mayoría de dos tercios, disolución de Cortes, ratificación de las nuevas y referéndum obligatorio)."
+    }
+  ]
+}

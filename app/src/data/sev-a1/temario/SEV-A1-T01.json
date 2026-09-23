@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T01",
+  "tema": "T01",
+  "tipo": "comun",
+  "numero": 1,
+  "titulo": "La Constitución Española de 1978: estructura, valores superiores, estabilidad presupuestaria y reforma constitucional",
+  "secciones": [
+    {
+      "titulo": "1. Estructura y caracteres de la Constitución",
+      "texto": "La Constitución Española de 1978 es la norma suprema del ordenamiento jurídico. Se estructura en un Título Preliminar y diez Títulos (169 artículos), más disposiciones adicionales, transitorias, derogatoria y final. Entre sus caracteres destacan su condición de norma jurídica directamente aplicable, su rigidez (procedimientos agravados de reforma) y su carácter consensuado. El [[Constitución Española de 1978 | art. 9]] somete a los ciudadanos y a los poderes públicos a la Constitución y al resto del ordenamiento jurídico, consagrando el principio de constitucionalidad."
+    },
+    {
+      "titulo": "2. Los valores superiores del ordenamiento jurídico",
+      "texto": "El [[Constitución Española de 1978 | art. 1]] proclama que España se constituye en un Estado social y democrático de Derecho y propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado, y la forma política del Estado es la Monarquía parlamentaria. Estos valores informan todo el ordenamiento e inspiran la interpretación de las normas."
+    },
+    {
+      "titulo": "3. Principios constitucionales del artículo 9",
+      "texto": "El [[Constitución Española de 1978 | art. 9]] garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. Su apartado segundo encomienda a los poderes públicos promover las condiciones para que la libertad y la igualdad sean reales y efectivas."
+    },
+    {
+      "titulo": "4. La estabilidad presupuestaria",
+      "texto": "El [[Constitución Española de 1978 | art. 135]], reformado en 2011, impone a todas las Administraciones Públicas adecuar sus actuaciones al principio de estabilidad presupuestaria. Los créditos para satisfacer intereses y capital de la deuda pública se entienden siempre incluidos en los presupuestos y su pago goza de prioridad absoluta. El Estado y las Comunidades Autónomas no pueden incurrir en déficit estructural que supere los márgenes fijados por la Unión Europea."
+    },
+    {
+      "titulo": "5. La reforma constitucional",
+      "texto": "La Constitución prevé dos procedimientos de reforma. El ordinario ([[Constitución Española de 1978 | art. 167]]) exige mayoría de tres quintos de cada Cámara, Comisión mixta en caso de desacuerdo y referéndum potestativo. El agravado ([[Constitución Española de 1978 | art. 168]]), para la reforma total o de las partes más protegidas, exige dos tercios de cada Cámara, disolución de las Cortes, ratificación por las nuevas Cámaras y referéndum obligatorio."
+    },
+    {
+      "titulo": "6. La Constitución como norma suprema directamente aplicable",
+      "texto": "La Constitución no es una mera declaración programática: es norma jurídica de aplicación directa que vincula a ciudadanos y poderes públicos ([[Constitución Española de 1978 | art. 9]]). Su supremacía se manifiesta en la rigidez de su reforma, en el control de constitucionalidad de las leyes y en la nulidad de las normas que la contradigan. Los derechos fundamentales gozan de protección reforzada y pueden alegarse directamente ante los Tribunales. La interpretación de todo el ordenamiento debe hacerse conforme a la Constitución, que irradia sus valores —libertad, justicia, igualdad y pluralismo político— sobre cada rama del Derecho, incluido el Derecho Administrativo. El Tribunal Constitucional, como intérprete supremo, garantiza esta supremacía mediante el recurso y la cuestión de inconstitucionalidad, cerrando el sistema de garantías constitucionales."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T02",
+    "SEV-A1-T07"
+  ]
+}

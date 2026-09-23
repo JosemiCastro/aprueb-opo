@@ -1,0 +1,29 @@
+{
+  "id": "GRA-C1-E12",
+  "numero": 12,
+  "tema": "E12",
+  "tipo": "especifico",
+  "titulo": "El embargo de bienes y derechos y su enajenación",
+  "relacionados": [
+    "GRA-C1-E11",
+    "GRA-C1-E13"
+  ],
+  "secciones": [
+    {
+      "titulo": "El embargo: principios y práctica",
+      "texto": "Transcurrido el plazo de la providencia sin ingreso, se procede al embargo de los bienes y derechos que procedan en cumplimiento de su mandato ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 75]]). Se embargan bienes en cuantía suficiente para cubrir la deuda, intereses, recargos y costas, con respeto a la proporcionalidad y evitando bienes de valor notoriamente superior si existen otros bastantes ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 169]]).\n\nCada embargo se documenta en diligencia ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 75]]). La práctica puede requerir la personación en locales de terceros, el precintado de bienes y el auxilio de la autoridad ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 76]])."
+    },
+    {
+      "titulo": "Embargo de dinero y créditos",
+      "texto": "El dinero en cuentas de entidades de crédito se embarga mediante diligencia notificada a la entidad, que retiene e ingresa el importe ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 79]]); el embargo alcanza los saldos existentes en los términos reglamentarios.\n\nLos sueldos, salarios y pensiones se embargan mediante diligencia al pagador, respetando los límites de inembargabilidad del salario mínimo de la Ley de Enjuiciamiento Civil ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 82]]). También son embargables los valores, los créditos y derechos realizables a corto o largo plazo, y los intereses, rentas y frutos."
+    },
+    {
+      "titulo": "Embargo de inmuebles",
+      "texto": "Los bienes inmuebles se embargan mediante diligencia que los identifique, notificada al obligado, a su cónyuge si son gananciales o vivienda habitual, y a los titulares de derechos ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 83]]).\n\nDel embargo se solicita anotación preventiva en el Registro de la Propiedad mediante mandamiento, que produce efectos frente a terceros y asegura la preferencia del crédito público ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 84]]). La diligencia de embargo y la anotación se regulan también en el [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 170]]."
+    },
+    {
+      "titulo": "Enajenación de los bienes embargados",
+      "texto": "Las formas de enajenación son la subasta pública, el concurso y la adjudicación directa; la subasta es el procedimiento ordinario y se realiza por medios electrónicos en el Portal de Subastas del BOE ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 100]]).\n\nEl órgano de recaudación acuerda la enajenación de los bienes bastantes para cubrir el débito y las costas, notificando el acuerdo al deudor, cónyuge, acreedores, depositario y copropietarios ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 101]]). La Mesa adjudica el bien o lote al licitador que hubiera presentado la mejor oferta ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 104]]); cuando en la enajenación no se hubieran adjudicado algunos bienes, puede proponerse su adjudicación a la Hacienda pública en pago de las deudas no cubiertas [[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 109]]."
+    }
+  ]
+}

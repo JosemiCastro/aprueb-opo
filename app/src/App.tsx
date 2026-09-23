@@ -2,22 +2,32 @@ import type { ReactElement } from 'react';
 import { BottomNav, Header } from './components/ui';
 import { RequireAuth } from './components/RequireAuth';
 import { AuthProvider } from './lib/auth';
+import { baseDeOpo, oposiciones, oposicionDe } from './lib/data';
 import { link, useHashRoute } from './lib/router';
-import Login from './views/auth/Login';
-import Register from './views/auth/Register';
-import TemasC1 from './views/c1/TemasC1';
-import EstudioTema from './views/c1/EstudioTema';
-import TestConfig from './views/c1/TestConfig';
-import TestRun from './views/c1/TestRun';
-import TestResult from './views/c1/TestResult';
-import Repaso from './views/c1/Repaso';
+import type { OposicionId } from './types';
+import TemasOpo from './views/oposicion/TemasOpo';
+import EstudioTemaOpo from './views/oposicion/EstudioTemaOpo';
+import TestConfigOpo from './views/oposicion/TestConfigOpo';
+import TestRunOpo from './views/oposicion/TestRunOpo';
+import TestResultOpo from './views/oposicion/TestResultOpo';
+import RepasoOpo from './views/oposicion/RepasoOpo';
 import TemasA2 from './views/a2/TemasA2';
 import FichaTema from './views/a2/FichaTema';
 import ListaTemario from './views/temario/ListaTemario';
 import DetalleTema from './views/temario/DetalleTema';
+import Oposiciones, { OpoCard } from './views/Oposiciones';
 import Progreso from './views/Progreso';
+import Login from './views/auth/Login';
+import Register from './views/auth/Register';
+
+const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)'];
 
 function Home() {
+  const grupos = ORDEN_DIPUTACION.map((dip) => ({
+    dip,
+    opos: oposiciones.filter((o) => o.diputacion === dip),
+  })).filter((g) => g.opos.length > 0);
+
   return (
     <div className="screen">
       <Header title="OposDipu" />
@@ -26,20 +36,20 @@ function Home() {
           <img className="hero-logo" src="/logo.png" alt="Logo de OposDipu" />
           <p className="hero-title">OposDipu</p>
           <p className="hero-sub">
-            Estudia las oposiciones de la Diputación de Huelva: cuestionarios,
-            fichas-esquema y seguimiento de tu progreso.
+            Estudia las oposiciones de las diputaciones andaluzas: cuestionarios,
+            temario desarrollado y seguimiento de tu progreso.
           </p>
         </section>
-        <div className="home-grid">
-          <a className="home-card home-card-c1" href={link('/c1')}>
-            <h2>C1 — Administrativo</h2>
-            <p>Administrativo — 40 temas, preguntas y respuestas</p>
-          </a>
-          <a className="home-card home-card-a2" href={link('/a2')}>
-            <h2>A2 — Técnico Medio de Gestión</h2>
-            <p>Técnico Medio de Gestión — 60 temas, fichas-esquema</p>
-          </a>
-        </div>
+        {grupos.map((g) => (
+          <section key={g.dip} aria-label={`Diputación de ${g.dip}`}>
+            <h2 className="temario-grupo">Diputación de {g.dip}</h2>
+            <div className="opo-grid">
+              {g.opos.map((o) => (
+                <OpoCard key={o.id} opo={o} />
+              ))}
+            </div>
+          </section>
+        ))}
         <a className="home-link" href={link('/progreso')}>
           📊 Ver mi progreso
         </a>
@@ -53,17 +63,27 @@ const publicRoutes: Record<string, () => ReactElement> = {
   '/register': Register,
 };
 
+const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1'];
+
+function vistasOpo(opoId: OposicionId): Record<string, () => ReactElement> {
+  const base = baseDeOpo(opoId);
+  return {
+    [base]: () => <TemasOpo opoId={opoId} base={base} />,
+    [`${base}/test`]: () => <TestConfigOpo opoId={opoId} base={base} />,
+    [`${base}/test/run`]: () => <TestRunOpo opoId={opoId} base={base} />,
+    [`${base}/test/fin`]: () => <TestResultOpo opoId={opoId} base={base} />,
+    [`${base}/repaso`]: () => <RepasoOpo opoId={opoId} base={base} />,
+    [`${base}/temario`]: () => <ListaTemario opoId={opoId} base={base} />,
+  };
+}
+
 const routes: Record<string, () => ReactElement> = {
   '/': Home,
-  '/c1': TemasC1,
-  '/c1/test': TestConfig,
-  '/c1/test/run': TestRun,
-  '/c1/test/fin': TestResult,
-  '/c1/repaso': Repaso,
-  '/c1/temario': () => <ListaTemario perfil="c1" />,
+  '/oposiciones': Oposiciones,
   '/a2': TemasA2,
-  '/a2/temario': () => <ListaTemario perfil="a2" />,
+  '/a2/temario': () => <ListaTemario opoId="HUE-A2" base="/a2" />,
   '/progreso': Progreso,
+  ...Object.fromEntries(OPOS_PREGUNTAS.flatMap((id) => Object.entries(vistasOpo(id)))),
 };
 
 function NotFound() {
@@ -78,25 +98,51 @@ function NotFound() {
 }
 
 function resolveDynamic(path: string): () => ReactElement {
+  const mOpoTema = path.match(/^\/opo\/([A-Za-z0-9-]+)\/tema\/([A-Za-z0-9]+)$/);
+  if (mOpoTema) {
+    try {
+      const opo = oposicionDe(mOpoTema[1] as OposicionId);
+      if (opo.formato === 'preguntas') {
+        const opoId = opo.id;
+        const base = baseDeOpo(opoId);
+        const temaId = mOpoTema[2];
+        return () => <EstudioTemaOpo opoId={opoId} base={base} temaId={temaId} />;
+      }
+    } catch {
+      // Oposición desconocida: NotFound.
+    }
+  }
   const mC1 = path.match(/^\/c1\/tema\/([A-Za-z0-9]+)$/);
   if (mC1) {
     const temaId = mC1[1];
-    return () => <EstudioTema temaId={temaId} />;
+    return () => <EstudioTemaOpo opoId="HUE-C1" base="/c1" temaId={temaId} />;
   }
   const mA2 = path.match(/^\/a2\/tema\/([A-Za-z0-9]+)$/);
   if (mA2) {
     const temaId = mA2[1];
     return () => <FichaTema temaId={temaId} />;
   }
+  const mOpoTemario = path.match(/^\/opo\/([A-Za-z0-9-]+)\/temario\/([A-Za-z0-9-]+)$/);
+  if (mOpoTemario) {
+    try {
+      const opo = oposicionDe(mOpoTemario[1] as OposicionId);
+      const opoId = opo.id;
+      const base = baseDeOpo(opoId);
+      const temaId = mOpoTemario[2];
+      return () => <DetalleTema opoId={opoId} base={base} temaId={temaId} />;
+    } catch {
+      // Oposición desconocida: NotFound.
+    }
+  }
   const mT1 = path.match(/^\/c1\/temario\/([A-Za-z0-9-]+)$/);
   if (mT1) {
     const temaId = mT1[1];
-    return () => <DetalleTema perfil="c1" temaId={temaId} />;
+    return () => <DetalleTema opoId="HUE-C1" base="/c1" temaId={temaId} />;
   }
   const mT2 = path.match(/^\/a2\/temario\/([A-Za-z0-9-]+)$/);
   if (mT2) {
     const temaId = mT2[1];
-    return () => <DetalleTema perfil="a2" temaId={temaId} />;
+    return () => <DetalleTema opoId="HUE-A2" base="/a2" temaId={temaId} />;
   }
   return NotFound;
 }

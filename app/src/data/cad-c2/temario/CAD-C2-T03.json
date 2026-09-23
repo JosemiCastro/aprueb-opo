@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T03",
+  "tema": "T03",
+  "numero": 3,
+  "tipo": "comun",
+  "titulo": "La Administración Pública en el ordenamiento jurídico español. Tipología de los entes públicos. Las Administraciones del Estado, Autonómica y Local.",
+  "relacionados": [
+    "CAD-C2-T02",
+    "CAD-C2-T05",
+    "CAD-C2-E01"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. La Administración Pública en el ordenamiento jurídico",
+      "texto": "La Administración Pública es el conjunto de órganos y entes que, bajo la dirección del Gobierno, sirven con objetividad los intereses generales. La [[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 2]] delimita su ámbito subjetivo: la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional. Su actuación se rige por los principios generales del [[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 3]]: servicio efectivo a los ciudadanos, simplicidad, claridad y proximidad, participación, racionalización y agilidad de los procedimientos, eficacia en el cumplimiento de objetivos, economía y eficiencia en la asignación de recursos, y plena coordinación y cooperación entre Administraciones."
+    },
+    {
+      "titulo": "2. Tipología de los entes públicos",
+      "texto": "El sector público institucional se compone, según el [[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 84]], de los organismos públicos vinculados o dependientes (organismos autónomos, entidades públicas empresariales y agencias estatales), las autoridades administrativas independientes, las sociedades mercantiles estatales, los consorcios, las fundaciones del sector público, los fondos sin personalidad jurídica y las universidades públicas no transferidas. Los organismos públicos tienen personalidad jurídica pública diferenciada, patrimonio y tesorería propios, y se rigen por los principios de eficacia, eficiencia y control de resultados ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  arts. 88 y 89]]), quedando sometidos a control de eficacia y supervisión continua ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 85]])."
+    },
+    {
+      "titulo": "3. La Administración General del Estado",
+      "texto": "La Administración General del Estado actúa en todo el territorio nacional bajo la dirección del Gobierno. Se organiza en órganos centrales (ministerios) y en organización territorial: las Delegaciones del Gobierno en las Comunidades Autónomas y las Subdelegaciones del Gobierno en las provincias, que dirigen la Administración periférica del Estado. El Estado tiene competencia exclusiva sobre las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de sus funcionarios ([[Constitución Española de 1978 |  art. 149]], apartado 1.18.ª)."
+    },
+    {
+      "titulo": "4. La Administración Autonómica",
+      "texto": "Cada Comunidad Autónoma dispone de su propia Administración, dirigida por su Gobierno autonómico, para la gestión de las competencias asumidas en su Estatuto. El Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas, que gozan de autonomía para la gestión de sus respectivos intereses ([[Constitución Española de 1978 |  art. 137]]). Las Comunidades Autónomas se rigen por sus Estatutos, aprobados por ley orgánica como norma institucional básica ([[Constitución Española de 1978 |  art. 147]])."
+    },
+    {
+      "titulo": "5. La Administración Local",
+      "texto": "La Administración Local está integrada por los municipios, las provincias y las islas, además de otras entidades como comarcas, áreas metropolitanas y mancomunidades ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 3]]). El Municipio es la entidad local básica, con personalidad jurídica y plena capacidad; la Provincia es una entidad local determinada por la agrupación de municipios ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  arts. 1 y 31]]). Para la efectividad de la autonomía local, las leyes del Estado y de las Comunidades Autónomas aseguran a los municipios, provincias e islas su derecho a intervenir en los asuntos que afecten a sus intereses ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 2]])."
+    }
+  ]
+}

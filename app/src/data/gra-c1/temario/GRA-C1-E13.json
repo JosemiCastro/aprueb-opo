@@ -1,0 +1,26 @@
+{
+  "id": "GRA-C1-E13",
+  "numero": 13,
+  "tema": "E13",
+  "tipo": "especifico",
+  "titulo": "Terminación del apremio, tercerías, sucesores y responsables",
+  "relacionados": [
+    "GRA-C1-E03",
+    "GRA-C1-E11",
+    "GRA-C1-E12"
+  ],
+  "secciones": [
+    {
+      "titulo": "Terminación del procedimiento de apremio",
+      "texto": "Solventados los débitos y las costas, el expediente queda ultimado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 116]]). Si lo obtenido es insuficiente, se aplica primero a las costas y luego a las deudas según las reglas de imputación, considerando las afecciones singulares, las preferencias genéricas y el orden de antigüedad; por el resto se actúa como crédito incobrable.\n\nEl procedimiento también termina por la declaración de fallido: acreditada la insolvencia total o parcial del obligado, se declara deudor fallido y la deuda como crédito incobrable, sin que ello la extinga y pudiendo rehabilitarse si mejora de fortuna ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 61]]). Las costas del apremio (registros, depósitos, gastos de ejecución) son a cargo del obligado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 113]])."
+    },
+    {
+      "titulo": "Las tercerías",
+      "texto": "La tercería es la reclamación en vía administrativa, previa a la acción judicial civil, que solo puede fundarse en el dominio de los bienes embargados o en el mejor derecho del tercerista a ser reintegrado con preferencia; no puede formularla el obligado al pago ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 117]]).\n\nSe interpone por escrito con principio de prueba ante el órgano que tramita el apremio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 119]]). Si se estima la de dominio se alza el embargo; si la de mejor derecho, el tercerista cobra con preferencia del producto de la enajenación ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 121]]). El embargo se levanta cuando se extingue la deuda o se estima la tercería de dominio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 112]])."
+    },
+    {
+      "titulo": "Sucesores y responsables",
+      "texto": "Fallecido el obligado, la recaudación continúa con herederos y legatarios subrogados en su posición, requiriéndoles el pago en los plazos del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62]] según el momento del fallecimiento ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 127]]).\n\nLa responsabilidad se declara por acto administrativo previa audiencia, con el alcance de los [[Ley 58/2003, de 17 de diciembre, General Tributaria | arts. 174 a 176]]; la derivación a los subsidiarios exige la previa declaración de fallido del deudor principal y de los solidarios ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 124]]). Los créditos de la Hacienda pública gozan de derecho de prelación frente a otros acreedores ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 64]])."
+    }
+  ]
+}

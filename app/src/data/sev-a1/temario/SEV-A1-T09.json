@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T09",
+  "tema": "T09",
+  "tipo": "comun",
+  "numero": 9,
+  "titulo": "El régimen local: principios constitucionales, Carta Europea de la Autonomía Local y clases de entidades locales",
+  "secciones": [
+    {
+      "titulo": "1. Principios constitucionales del régimen local",
+      "texto": "La Constitución garantiza la autonomía de municipios ([[Constitución Española de 1978 | art. 140]]) y provincias ([[Constitución Española de 1978 | art. 141]]) y la suficiencia financiera de las Haciendas locales ([[Constitución Española de 1978 | art. 142]]). La Ley 7/1985 asegura a los Municipios, Provincias e Islas su derecho a intervenir en los asuntos de su círculo de intereses ([[Ley 7/1985 | art. 2]])."
+    },
+    {
+      "titulo": "2. La Carta Europea de la Autonomía Local",
+      "texto": "La Carta Europea de la Autonomía Local (1985), ratificada por España, define la autonomía local como el derecho y la capacidad efectiva de las entidades locales de ordenar y gestionar una parte importante de los asuntos públicos bajo su propia responsabilidad. Sus principios (elección democrática, competencias propias, recursos adecuados, protección legal de la autonomía) inspiran la legislación española de régimen local."
+    },
+    {
+      "titulo": "3. Clases de entidades locales",
+      "texto": "Son entidades locales básicas el Municipio, la Provincia y la Isla ([[Ley 7/1985 | art. 1]]). El [[Ley 7/1985 | art. 3]] añade como entidades locales las de ámbito inferior al municipio, las comarcas, las áreas metropolitanas y las mancomunidades. Las entidades locales territoriales gozan de las potestades reglamentaria, tributaria, de planificación, expropiatoria, de ejecutividad y sancionadora, entre otras ([[Ley 7/1985 | art. 4]])."
+    },
+    {
+      "titulo": "4. Fuentes del régimen local",
+      "texto": "El [[Ley 7/1985 | art. 5]] dispone que el régimen local se rige por la legislación del Estado y de las Comunidades Autónomas dictada conforme a la Constitución. La Ley 7/1985 es la norma básica estatal, desarrollada por el texto refundido de 1986 y los reglamentos de organización, población, bienes y servicios."
+    },
+    {
+      "titulo": "5. Agrupaciones de municipios",
+      "texto": "El [[Constitución Española de 1978 | art. 141]] permite crear por ley agrupaciones de municipios diferentes de la provincia, cauce de las mancomunidades, comarcas y áreas metropolitanas como fórmulas de cooperación intermunicipal."
+    },
+    {
+      "titulo": "6. La autonomía local como garantía institucional",
+      "texto": "El Tribunal Constitucional ha configurado la autonomía local como garantía institucional: el legislador debe respetar un núcleo indisponible de autogobierno en los asuntos de interés local. Se concreta en la potestad normativa (ordenanzas), la autoorganización, la suficiencia financiera y la participación en los asuntos que afecten a su círculo de intereses ([[Ley 7/1985 | art. 2]]). La autonomía no equivale a soberanía: las entidades locales actúan dentro del ordenamiento estatal y autonómico, pero con un margen de decisión política propio que los Tribunales protegen frente a injerencias indebidas. Las entidades locales ejercen competencias propias atribuidas por la legislación sectorial estatal y autonómica, y pueden recibir competencias delegadas con la financiación correspondiente. Sus potestades —reglamentaria, tributaria, de planificación, expropiatoria, de ejecutividad y sancionadora— ([[Ley 7/1985 | art. 4]]) son el instrumental para gestionar los intereses locales con autonomía, desde el urbanismo hasta los servicios sociales de proximidad."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T07",
+    "SEV-A1-T21",
+    "SEV-A1-T22"
+  ]
+}

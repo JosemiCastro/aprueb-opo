@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T06",
+  "numero": 6,
+  "tema": "T06",
+  "tipo": "comun",
+  "titulo": "El acto administrativo: concepto, elementos, eficacia y validez",
+  "relacionados": [
+    "GRA-C1-T07",
+    "GRA-C1-T08",
+    "GRA-C1-E16"
+  ],
+  "secciones": [
+    {
+      "titulo": "Concepto y elementos",
+      "texto": "El acto administrativo es la declaración de voluntad, de juicio, de conocimiento o de deseo realizada por la Administración en ejercicio de una potestad administrativa. Se produce por el órgano competente ajustándose al procedimiento establecido, y su contenido debe ajustarse al ordenamiento jurídico, siendo determinado y adecuado a sus fines ([[Ley 39/2015 | art. 34]]).\n\nDeben ser motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos que limiten derechos o intereses legítimos, los que resuelvan recursos y procedimientos de revisión, los que se aparten de criterios o dictámenes anteriores y los que acuerden suspensiones o medidas provisionales, entre otros ([[Ley 39/2015 | art. 35]])."
+    },
+    {
+      "titulo": "Eficacia: notificación y publicación",
+      "texto": "Los actos se presumen válidos y producen efectos desde que se dictan, salvo disposición en contrario; excepcionalmente pueden tener eficacia retroactiva cuando produzcan efectos favorables y no lesionen derechos de terceros ([[Ley 39/2015 | art. 39]]).\n\nLa eficacia respecto de los interesados requiere la notificación, que debe cursarse en diez días desde que se dicta el acto e incluir el texto íntegro, los recursos procedentes y el plazo para interponerlos ([[Ley 39/2015 | art. 40]]). Se practica preferentemente por medios electrónicos ([[Ley 39/2015 | art. 41]]), con dos intentos en papel en horarios distintos antes de acudir al anuncio en el BOE ([[Ley 39/2015 | arts. 42 y 44]]). La publicación sustituye a la notificación ante pluralidad indeterminada de destinatarios o en procedimientos selectivos y de concurrencia competitiva ([[Ley 39/2015 | art. 45]])."
+    },
+    {
+      "titulo": "Validez: nulidad y anulabilidad",
+      "texto": "Son nulos de pleno derecho los actos que lesionen derechos fundamentales, los dictados por órgano manifiestamente incompetente, los de contenido imposible, los constitutivos de delito, los dictados prescindiendo total y absolutamente del procedimiento y los así calificados por una disposición ([[Ley 39/2015 | art. 47]]).\n\nSon anulables los que incurran en cualquier infracción del ordenamiento, incluida la desviación de poder; el defecto de forma solo anula cuando impida alcanzar el fin del acto o produzca indefensión ([[Ley 39/2015 | art. 48]])."
+    },
+    {
+      "titulo": "Ejecutividad y revisión de los actos",
+      "texto": "Los actos administrativos son inmediatamente ejecutivos: la Administración puede imponer su cumplimiento forzoso sin acudir a los tribunales, mediante los medios de ejecución forzosa (apremio sobre el patrimonio, ejecución subsidiaria, multa coercitiva y compulsión sobre las personas). La interposición de recursos no suspende por sí sola la ejecución, aunque puede acordarse la suspensión cuando cause perjuicios de imposible o difícil reparación ([[Ley 39/2015 | art. 117]]).\n\nAdemás de los recursos, los actos pueden revisarse de oficio: la declaración de nulidad de pleno derecho en cualquier momento previo dictamen del Consejo de Estado ([[Ley 39/2015 | art. 106]]), la declaración de lesividad de los actos anulables favorables para impugnarlos judicialmente, la revocación de actos desfavorables y la rectificación de errores materiales o aritméticos en cualquier momento."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T01",
+  "tema": "T01",
+  "numero": 1,
+  "tipo": "comun",
+  "titulo": "La Constitución Española de 1978. Principios generales, características y estructura. Los derechos y deberes fundamentales: garantía y suspensión.",
+  "relacionados": [
+    "CAD-C2-T02",
+    "CAD-C2-T08",
+    "CAD-C2-T10"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Antecedentes y significado jurídico",
+      "texto": "La Constitución Española de 1978 es la norma suprema del ordenamiento jurídico: todas las demás normas deben respetar su contenido y los ciudadanos y los poderes públicos están sujetos a ella. Fue aprobada en referéndum el 6 de diciembre de 1978, sancionada y promulgada por el Rey el 27 de diciembre y publicada en el BOE el 29 de diciembre de 1978, fecha de su entrada en vigor. Supuso la transición pactada desde el régimen autoritario anterior a la democracia, tras la Ley para la Reforma Política de 1977 y unas Cortes constituyentes elegidas el 15 de junio de 1977."
+    },
+    {
+      "titulo": "2. Características y estructura",
+      "texto": "Es una Constitución escrita, extensa (169 artículos), rígida (su reforma exige mayorías cualificadas) y de consenso. Se estructura en un Preámbulo, un Título Preliminar (arts. 1 a 9), diez Títulos numerados del I al X y disposiciones adicionales, transitorias, derogatoria y final. El Título I (arts. 10 a 55) regula los derechos y deberes fundamentales; el Título II (arts. 56 a 65), la Corona; el Título III (arts. 66 a 96), las Cortes Generales; el Título IV (arts. 97 a 107), el Gobierno y la Administración; el Título VI (arts. 117 a 127), el Poder Judicial; el Título VIII (arts. 137 a 158), la organización territorial del Estado; el Título IX (arts. 159 a 165), el Tribunal Constitucional; y el Título X (arts. 166 a 169), la reforma constitucional."
+    },
+    {
+      "titulo": "3. Principios generales del Título Preliminar",
+      "texto": "El [[Constitución Española de 1978 |  art. 1]] define a España como Estado social y democrático de Derecho y proclama como valores superiores del ordenamiento la libertad, la justicia, la igualdad y el pluralismo político; la forma política del Estado es la Monarquía parlamentaria. El [[Constitución Española de 1978 |  art. 2]] consagra la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones. El [[Constitución Española de 1978 |  art. 3]] declara el castellano lengua española oficial del Estado y la cooficialidad de las demás lenguas españolas en las Comunidades Autónomas según sus Estatutos. El [[Constitución Española de 1978 |  art. 9]] sujeta a los ciudadanos y a los poderes públicos a la Constitución y al resto del ordenamiento jurídico, y garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables, la seguridad jurídica y la responsabilidad de los poderes públicos."
+    },
+    {
+      "titulo": "4. Los derechos y deberes fundamentales",
+      "texto": "El Título I clasifica los derechos en: derechos fundamentales y libertades públicas (Sección 1.ª del Capítulo II, [[Constitución Española de 1978 |  arts. 15 a 29]]: vida, libertad ideológica, libertad y seguridad, honor e intimidad, expresión, reunión, asociación, participación política, tutela judicial efectiva, educación, sindicación y huelga), derechos y deberes de los ciudadanos (Sección 2.ª, [[Constitución Española de 1978 |  arts. 30 a 38]]: entre ellos el deber de contribuir al sostenimiento de los gastos públicos del [[Constitución Española de 1978 |  art. 31]]) y principios rectores de la política social y económica (Capítulo III, [[Constitución Española de 1978 |  arts. 39 a 52]]: salud, vivienda, medio ambiente, etc., que informan la legislación pero no son directamente exigibles). El [[Constitución Española de 1978 |  art. 14]] proclama la igualdad ante la ley sin discriminación alguna por razón de nacimiento, raza, sexo, religión u opinión."
+    },
+    {
+      "titulo": "5. Garantía y suspensión de los derechos",
+      "texto": "El [[Constitución Española de 1978 |  art. 53]] establece la tutela: los derechos del Capítulo II vinculan a todos los poderes públicos y solo por ley (orgánica para los fundamentales) puede regularse su ejercicio; los derechos de los [[Constitución Española de 1978 |  arts. 14 a 29]] más la objeción de conciencia gozan de recurso de amparo ante el Tribunal Constitucional. El [[Constitución Española de 1978 |  art. 54]] crea el Defensor del Pueblo como alto comisionado de las Cortes para la defensa de los derechos del Título I. El [[Constitución Española de 1978 |  art. 55]] permite la suspensión general de determinados derechos en los estados de alarma, excepción y sitio declarados conforme a la Ley Orgánica 4/1981, y la suspensión individual en investigaciones de bandas armadas o terrorismo con intervención judicial y control parlamentario."
+    }
+  ]
+}

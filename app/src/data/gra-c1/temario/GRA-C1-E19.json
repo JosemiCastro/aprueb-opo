@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E19",
+  "numero": 19,
+  "tema": "E19",
+  "tipo": "especifico",
+  "titulo": "IAE, IVTM, ICIO e IIVTNU",
+  "relacionados": [
+    "GRA-C1-E17",
+    "GRA-C1-E18",
+    "GRA-C1-E20"
+  ],
+  "secciones": [
+    {
+      "titulo": "Impuesto sobre Actividades Económicas",
+      "texto": "El IAE grava el mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 78]]). Están exentos el Estado y demás entes públicos, quienes inician la actividad durante los dos primeros períodos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 82]]).\n\nEl período impositivo coincide con el año natural, el devengo se produce el primer día y las cuotas son irreducibles salvo prorrateo trimestral en altas y bajas ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 89]]). Se gestiona a partir de la matrícula anual por términos municipales ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 91]])."
+    },
+    {
+      "titulo": "Impuesto sobre Vehículos de Tracción Mecánica",
+      "texto": "El IVTM es un tributo directo que grava la titularidad de los vehículos aptos para circular por las vías públicas ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 92]]). Son sujetos pasivos quienes figuren como titulares en el permiso de circulación ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 94]]).\n\nEstán exentos los vehículos oficiales de defensa o seguridad, las ambulancias, los de personas con discapacidad ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 93]]). La cuota se determina por las tarifas según clase y potencia ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 95]]); el período es anual con devengo el primer día y prorrateo trimestral en primera adquisición o baja ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 96]])."
+    },
+    {
+      "titulo": "Impuesto sobre Construcciones, Instalaciones y Obras",
+      "texto": "El ICIO grava la realización de cualquier construcción, instalación u obra para la que se exija licencia urbanística ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 100]]). Son sujetos pasivos los dueños de la obra y, como sustitutos, quienes soliciten la licencia o realicen la construcción ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 101]]).\n\nLa base imponible es el coste real y efectivo de ejecución material; el tipo no puede exceder del 4% y el impuesto se devenga al iniciarse la obra ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 102]])."
+    },
+    {
+      "titulo": "Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana",
+      "texto": "El IIVTNU grava el incremento de valor de los terrenos urbanos puesto de manifiesto en su transmisión o en la constitución o transmisión de derechos reales de goce ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 104]]). Es sujeto pasivo ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 106]]).\n\nEl tipo fijado por el ayuntamiento no puede exceder del 30%,. Se devenga en la fecha de la transmisión o constitución del derecho ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 109]])."
+    }
+  ]
+}

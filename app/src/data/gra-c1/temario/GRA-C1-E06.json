@@ -1,0 +1,34 @@
+{
+  "id": "GRA-C1-E06",
+  "numero": 6,
+  "tema": "E06",
+  "tipo": "especifico",
+  "titulo": "La gestión tributaria: procedimientos y liquidaciones",
+  "relacionados": [
+    "GRA-C1-E02",
+    "GRA-C1-E05",
+    "GRA-C1-E07"
+  ],
+  "secciones": [
+    {
+      "titulo": "Concepto e iniciación",
+      "texto": "La gestión tributaria es el ejercicio de las funciones administrativas de aplicación de los tributos no atribuidas a la inspección ni a la recaudación: recepción y tramitación de declaraciones, actuaciones de verificación y control de alcance limitado, y práctica de liquidaciones ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 117]]).\n\nSe inicia de oficio o a instancia del obligado, mediante declaraciones, autoliquidaciones, comunicaciones de datos o solicitudes ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 118]])."
+    },
+    {
+      "titulo": "Declaraciones, autoliquidaciones y comunicaciones",
+      "texto": "La **declaración tributaria** es el documento en que se manifiesta la realización de un hecho relevante para la aplicación de los tributos, sin que su presentación implique aceptación por la Administración ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 119]]).\n\nEn la **autoliquidación** el obligado, además de comunicar los datos, realiza por sí mismo las operaciones de cuantificación e ingresa la deuda ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 120]]); en la **comunicación de datos** solo manifiesta el hecho imponible o comunica datos para que liquide la Administración ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 121]]). Pueden presentarse declaraciones complementarias o sustitutivas de las anteriores ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 122]])."
+    },
+    {
+      "titulo": "Las liquidaciones tributarias",
+      "texto": "La liquidación es el acto resolutorio por el que el órgano competente cuantifica y determina el importe de la deuda o de la cantidad a devolver o compensar; pueden ser **provisionales** o **definitivas** ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 101]]).\n\nSu notificación debe expresar los elementos determinantes de la cuantía, la motivación cuando se aparte de los datos aportados, los medios de impugnación y el lugar y plazo de pago ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 102]])."
+    },
+    {
+      "titulo": "Procedimientos de gestión y terminación",
+      "texto": "El [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 123]] enumera los procedimientos de gestión: devolución iniciada por autoliquidación, solicitud o comunicación de datos; procedimiento iniciado mediante declaración; verificación de datos; comprobación de valores; comprobación limitada; y procedimiento de rectificación.\n\nLos procedimientos tributarios terminan por resolución expresa o silencio, desistimiento o renuncia, caducidad, cumplimiento de lo requerido o cualquier otra causa legal ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 100]])."
+    },
+    {
+      "titulo": "Notificaciones y prueba en la gestión",
+      "texto": "Las notificaciones en materia tributaria se rigen por la Ley 39/2015 con las especialidades de los [[Ley 58/2003, de 17 de diciembre, General Tributaria | arts. 109 a 112]]: lugar de práctica, personas legitimadas y notificación por comparecencia tras dos intentos infructuosos, con citación por quince días naturales.\n\nEn los procedimientos de aplicación de los tributos, la carga de la prueba corresponde a quien haga valer su derecho: el obligado debe probar los hechos constitutivos de beneficios o derechos, y la Administración los constitutivos de la obligación. Las diligencias extendidas por la Administración tienen valor probatorio y las presunciones legales admiten prueba en contrario salvo que la ley lo impida."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E18",
+  "numero": 18,
+  "tema": "E18",
+  "tipo": "especifico",
+  "titulo": "El Impuesto sobre Bienes Inmuebles (IBI)",
+  "relacionados": [
+    "GRA-C1-E04",
+    "GRA-C1-E17",
+    "GRA-C1-E19"
+  ],
+  "secciones": [
+    {
+      "titulo": "Naturaleza y hecho imponible",
+      "texto": "El IBI es un tributo directo de carácter real que grava el valor de los bienes inmuebles sitos en el término municipal ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 60]]). Su hecho imponible es la titularidad de una concesión administrativa, un derecho real de superficie, un derecho real de usufructo o el derecho de propiedad sobre bienes rústicos, urbanos o de características especiales ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 61]]).\n\nEstán exentos, entre otros, los inmuebles del Estado, Comunidades Autónomas o entidades locales afectos a la seguridad ciudadana y a servicios educativos o penitenciarios, los bienes comunales, los de la Iglesia Católica y los de la Cruz Roja ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 62]])."
+    },
+    {
+      "titulo": "Sujeto pasivo y afección real",
+      "texto": "Son sujetos pasivos quienes ostenten la titularidad de los derechos constitutivos del hecho imponible, por el orden de prelación legal: concesión, superficie, usufructo y propiedad ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 63]]).\n\nEn los cambios de titularidad, los inmuebles quedan afectos al pago de la totalidad de la cuota en régimen de responsabilidad subsidiaria; los notarios deben advertir de las deudas pendientes por IBI ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 64]])."
+    },
+    {
+      "titulo": "Cuantificación",
+      "texto": "La base imponible es el valor catastral del inmueble ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 65]]), y la base liquidable resulta de aplicar la reducción en los procedimientos de valoración colectiva ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 66]]).\n\nLos tipos son del 0,4% al 1,10% para bienes urbanos y del 0,3% al 0,90% para rústicos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 72]]); los ayuntamientos pueden exigir un recargo de hasta el 50% (o el 100% en ciertos casos) por inmuebles residenciales desocupados con carácter permanente. Son obligatorias las bonificaciones a empresas urbanizadoras y a viviendas de protección oficial ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 73]]), y potestativas otras que fije la ordenanza ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 74]])."
+    },
+    {
+      "titulo": "Devengo y gestión",
+      "texto": "El impuesto se devenga el primer día del período impositivo, que coincide con el año natural ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 75]]).\n\nSe gestiona a partir del padrón anual de bienes, sujetos pasivos y valores catastrales; la formación y mantenimiento del Catastro corresponde al Estado y la liquidación y recaudación al ayuntamiento o ente delegado ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 77]]). Las alteraciones catastrales deben declararse por los sujetos pasivos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 76]])."
+    }
+  ]
+}

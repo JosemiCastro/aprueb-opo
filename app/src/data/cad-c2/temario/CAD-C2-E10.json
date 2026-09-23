@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E10",
+  "tema": "E10",
+  "numero": 10,
+  "tipo": "especifico",
+  "titulo": "Los bienes de las entidades locales: concepto. Clases. Bienes de dominio público. Bienes patrimoniales.",
+  "relacionados": [
+    "CAD-C2-E08",
+    "CAD-C2-E09",
+    "CAD-C2-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Concepto y clases de bienes",
+      "texto": "El patrimonio de las entidades locales está constituido por el conjunto de bienes, derechos y acciones que les pertenezcan ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 79]]; [[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 1]]). Los bienes se clasifican en bienes de dominio público y bienes patrimoniales ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 2]]). Son de dominio público los destinados a un uso público o a un servicio público y los comunales; son patrimoniales o de propios los que, siendo propiedad de la entidad local, no están destinados a uso público ni afectados a servicio público ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  arts. 3, 4 y 6]])."
+    },
+    {
+      "titulo": "2. Los bienes de dominio público",
+      "texto": "Son bienes de uso público local los caminos, plazas, calles, paseos, parques, aguas, fuentes y demás obras públicas de aprovechamiento general ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 3]]); y son bienes de servicio público los destinados directamente al cumplimiento de fines públicos, como las Casas Consistoriales, los mataderos o los mercados ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 4]]). Los bienes comunales y demás bienes de dominio público son inalienables, inembargables e imprescriptibles y no están sujetos a tributo alguno ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 5]]; [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 80]]). Su utilización puede ser de uso común (general o especial) o privativo, este último sujeto a licencia o concesión ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  arts. 74 a 78]])."
+    },
+    {
+      "titulo": "3. Los bienes patrimoniales",
+      "texto": "Los bienes patrimoniales se rigen por las normas del Derecho privado en cuanto a su administración y disposición, sin perjuicio de las especialidades legales. Los bienes inmuebles patrimoniales no podrán enajenarse, gravarse ni permutarse sin autorización en determinados supuestos ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 109]]); las enajenaciones se rigen en cuanto a su preparación y adjudicación por la normativa de contratos ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 112]]), y cuando su valor exceda de ciertos límites requieren autorización de la Comunidad Autónoma ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 114]]). La cesión gratuita requiere acuerdo adoptado con el voto favorable de la mayoría absoluta ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 110]])."
+    },
+    {
+      "titulo": "4. Alteración de la calificación y prerrogativas",
+      "texto": "La alteración de la calificación jurídica de los bienes requiere expediente en el que se acrediten su oportunidad y legalidad ([[Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales |  art. 8]]; [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 81]]). Las entidades locales gozan respecto de sus bienes de las prerrogativas de recuperar por sí mismas su posesión en cualquier momento (interdicto propio), desahuciar en vía administrativa a los ocupantes y la inembargabilidad de sus bienes y derechos ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 82]]). La afectación de bienes patrimoniales a un uso o servicio público los convierte en bienes demaniales, y la desafectación produce el efecto contrario, con las garantías procedimentales establecidas en el Reglamento de Bienes."
+    }
+  ]
+}

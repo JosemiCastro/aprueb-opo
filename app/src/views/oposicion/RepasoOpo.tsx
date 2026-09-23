@@ -6,6 +6,7 @@ import { todasPreguntas } from '../../lib/data';
 import { recordAnswer, recordSession, failedIds } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
 import { navigate } from '../../lib/router';
+import { type OpoProps } from './props';
 
 function shuffle<T>(arr: T[]): T[] {
   const a = arr.slice();
@@ -35,10 +36,10 @@ const chipStyle: CSSProperties = {
 
 type Phase = 'pregunta' | 'respuesta';
 
-export default function Repaso() {
+export default function RepasoOpo({ opoId, base }: OpoProps) {
   const [progress, setP] = useProgress();
   const [questions] = useState<Question[]>(() => {
-    const all = todasPreguntas();
+    const all = todasPreguntas(opoId);
     const byId = new Map(all.map((q) => [q.id, q]));
     return shuffle(
       failedIds(progress)
@@ -57,13 +58,13 @@ export default function Repaso() {
     setP((prev) =>
       recordSession(prev, {
         date: todayStr(),
-        perfil: 'c1',
+        perfil: opoId,
         modo: 'repaso',
         total: respondidas,
         aciertos: ok,
       }),
     );
-    navigate('/c1');
+    navigate(base);
   }
 
   function gradeQuestion(ok: boolean) {
@@ -84,11 +85,11 @@ export default function Repaso() {
   if (total === 0) {
     return (
       <div className="screen">
-        <Header title="Repasar falladas" backTo="/c1" />
+        <Header title="Repasar falladas" backTo={base} />
         <main className="container">
           <Card>
             <p>Sin falladas pendientes. ¡Buen trabajo!</p>
-            <Btn onClick={() => navigate('/c1')}>Volver a temas</Btn>
+            <Btn onClick={() => navigate(base)}>Volver a temas</Btn>
           </Card>
         </main>
       </div>
@@ -98,7 +99,7 @@ export default function Repaso() {
   if (done) {
     return (
       <div className="screen">
-        <Header title="Repasar falladas" backTo="/c1" />
+        <Header title="Repasar falladas" backTo={base} />
         <main className="container">
           <Card>
             <h2 style={{ marginTop: 0 }}>Repaso completado</h2>
@@ -116,7 +117,7 @@ export default function Repaso() {
 
   return (
     <div className="screen">
-      <Header title="Repasar falladas" backTo="/c1" />
+      <Header title="Repasar falladas" backTo={base} />
       <main className="container">
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)', whiteSpace: 'nowrap' }}>

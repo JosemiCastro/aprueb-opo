@@ -1,0 +1,242 @@
+[
+  {
+    "id": "T01",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 1,
+    "titulo": "La Constitución Española de 1978: estructura, principios generales y derechos y deberes fundamentales."
+  },
+  {
+    "id": "T02",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 2,
+    "titulo": "La organización territorial del Estado. La Administración del Estado y la Administración Local. Las Comunidades Autónomas. El Estatuto de Autonomía de Andalucía: estructura y disposiciones generales."
+  },
+  {
+    "id": "T03",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 3,
+    "titulo": "El régimen local español. La Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local: entidades locales, autonomía local y principios constitucionales."
+  },
+  {
+    "id": "T04",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 4,
+    "titulo": "El municipio: concepto, elementos, organización y competencias. La provincia: organización y competencias. La Diputación Provincial."
+  },
+  {
+    "id": "T05",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 5,
+    "titulo": "La Diputación Provincial de Granada. El Servicio Provincial Tributario: organización, competencias y órganos de gestión tributaria y recaudación."
+  },
+  {
+    "id": "T06",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 6,
+    "titulo": "El acto administrativo: concepto, elementos, clases, motivación, notificación y publicación. Eficacia y validez de los actos administrativos (Ley 39/2015)."
+  },
+  {
+    "id": "T07",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 7,
+    "titulo": "El procedimiento administrativo común: principios generales, fases, derechos de los interesados y obligación de resolver (Ley 39/2015)."
+  },
+  {
+    "id": "T08",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 8,
+    "titulo": "Los recursos administrativos: recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión. La revisión de oficio (Ley 39/2015)."
+  },
+  {
+    "id": "T09",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 9,
+    "titulo": "El personal al servicio de las Administraciones Públicas. El Estatuto Básico del Empleado Público: clases de personal, derechos y deberes, régimen disciplinario y situaciones administrativas."
+  },
+  {
+    "id": "T10",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "comun",
+    "numero": 10,
+    "titulo": "La igualdad de género (LO 3/2007). La transparencia y el acceso a la información pública (Ley 19/2013). La protección de datos (LO 3/2018)."
+  },
+  {
+    "id": "E01",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 1,
+    "titulo": "El Derecho Financiero y Tributario. Los tributos: concepto, fines y clases. Principios de la ordenación del sistema tributario. La potestad tributaria (LGT)."
+  },
+  {
+    "id": "E02",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 2,
+    "titulo": "La Administración tributaria. Derechos y garantías de los obligados tributarios. La relación jurídico-tributaria y la obligación tributaria principal: hecho imponible, devengo y exigibilidad (LGT)."
+  },
+  {
+    "id": "E03",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 3,
+    "titulo": "Los obligados tributarios: clases, sujetos pasivos, responsables, sucesores, representación y domicilio fiscal (LGT)."
+  },
+  {
+    "id": "E04",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 4,
+    "titulo": "Elementos de cuantificación de la obligación tributaria: base imponible, base liquidable, tipo de gravamen y cuota. La deuda tributaria: concepto, formas de pago y plazos de pago (LGT)."
+  },
+  {
+    "id": "E05",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 5,
+    "titulo": "La extinción de la deuda tributaria: pago, prescripción, compensación, condonación y baja por insolvencia. Interés de demora y recargos (LGT)."
+  },
+  {
+    "id": "E06",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 6,
+    "titulo": "La gestión tributaria: concepto y procedimientos de gestión. Declaraciones, autoliquidaciones, liquidaciones y notificaciones tributarias (LGT)."
+  },
+  {
+    "id": "E07",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 7,
+    "titulo": "La inspección tributaria: concepto, funciones, facultades y procedimiento de inspección (LGT)."
+  },
+  {
+    "id": "E08",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 8,
+    "titulo": "La recaudación tributaria: concepto, órganos y facultades. El Reglamento General de Recaudación: ámbito de aplicación y gestión recaudatoria (LGT y RD 939/2005)."
+  },
+  {
+    "id": "E09",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 9,
+    "titulo": "La recaudación en periodo voluntario: iniciación y terminación, plazos de ingreso y modalidades de cobro (RD 939/2005)."
+  },
+  {
+    "id": "E10",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 10,
+    "titulo": "El aplazamiento y fraccionamiento del pago. Las garantías de la deuda tributaria (LGT y RD 939/2005)."
+  },
+  {
+    "id": "E11",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 11,
+    "titulo": "El periodo ejecutivo y el procedimiento de apremio: iniciación, providencia de apremio y motivos de oposición (LGT y RD 939/2005)."
+  },
+  {
+    "id": "E12",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 12,
+    "titulo": "El embargo: diligencia de embargo, orden de embargo, embargo de cuentas y salarios, valoración y enajenación de los bienes embargados (LGT y RD 939/2005)."
+  },
+  {
+    "id": "E13",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 13,
+    "titulo": "La terminación del procedimiento de apremio. Las tercerías. Las costas. La recaudación frente a sucesores y responsables (LGT y RD 939/2005)."
+  },
+  {
+    "id": "E14",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 14,
+    "titulo": "Las infracciones y sanciones tributarias: principios, concepto, sujetos infractores y cuantía de las sanciones (LGT)."
+  },
+  {
+    "id": "E15",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 15,
+    "titulo": "Los tipos de infracciones tributarias y sus sanciones. El procedimiento sancionador (LGT)."
+  },
+  {
+    "id": "E16",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 16,
+    "titulo": "La revisión en vía administrativa: el recurso de reposición y las reclamaciones económico-administrativas. La devolución de ingresos indebidos (LGT)."
+  },
+  {
+    "id": "E17",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 17,
+    "titulo": "Las Haciendas Locales: recursos de las entidades locales, principios de tributación local y ordenanzas fiscales (TRLHL)."
+  },
+  {
+    "id": "E18",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 18,
+    "titulo": "El Impuesto sobre Bienes Inmuebles: naturaleza, hecho imponible, sujetos pasivos, base imponible, tipos, bonificaciones y gestión (TRLHL)."
+  },
+  {
+    "id": "E19",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 19,
+    "titulo": "El Impuesto sobre Actividades Económicas, el Impuesto sobre Vehículos de Tracción Mecánica, el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana (TRLHL)."
+  },
+  {
+    "id": "E20",
+    "oposicion": "GRA-C1",
+    "perfil": "c1",
+    "tipo": "especifico",
+    "numero": 20,
+    "titulo": "Las tasas, las contribuciones especiales y los precios públicos. La recaudación de los tributos locales (TRLHL)."
+  }
+]

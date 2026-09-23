@@ -1,9 +1,10 @@
 import type { CSSProperties } from 'react';
 import { Card, Header, ProgressBar } from '../components/ui';
-import { esquemaDeTema, temasDe, tituloTema, todasPreguntas } from '../lib/data';
+import { esquemaDeTema, oposiciones, opoDeSesion, temasDeOpo, tituloTema, todasPreguntas } from '../lib/data';
 import { grade, masteryPct, streakDays } from '../lib/progress';
 import { useProgress } from '../lib/storage';
-import type { SessionRec } from '../types';
+import { link } from '../lib/router';
+import type { OposicionId, SessionRec } from '../types';
 
 const MODO_LABEL: Record<SessionRec['modo'], string> = {
   estudio: 'Estudio',
@@ -12,10 +13,10 @@ const MODO_LABEL: Record<SessionRec['modo'], string> = {
   ficha: 'Ficha',
 };
 
-const PERFIL_LABEL: Record<SessionRec['perfil'], string> = {
-  c1: 'C1',
-  a2: 'A2',
-};
+function etiquetaSesion(perfil: string): string {
+  const o = oposiciones.find((x) => x.id === opoDeSesion(perfil));
+  return o ? `${o.grupo} · ${o.diputacion}` : perfil;
+}
 
 const listReset: CSSProperties = { listStyle: 'none', margin: 0, padding: 0 };
 
@@ -50,15 +51,21 @@ function temaDominado(checks: Record<string, boolean[]>, temaId: string): boolea
   return arr.length >= total && arr.slice(0, total).every(Boolean);
 }
 
+const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1'];
+
 export default function Progreso() {
   const [progress] = useProgress();
 
-  const c1 = masteryPct(
-    progress,
-    todasPreguntas().map((q) => q.id),
-  );
+  const porOpo = OPOS_PREGUNTAS.map((opoId) => {
+    const o = oposiciones.find((x) => x.id === opoId)!;
+    const m = masteryPct(
+      progress,
+      todasPreguntas(opoId).map((q) => q.id),
+    );
+    return { opoId, o, m };
+  });
 
-  const temasA2 = temasDe('a2');
+  const temasA2 = temasDeOpo('HUE-A2');
   const pcts = temasA2.map((t) => pctChecks(progress.checks, t.id));
   const pctMedio =
     temasA2.length > 0
@@ -73,19 +80,25 @@ export default function Progreso() {
     <div className="screen">
       <Header title="Mi progreso" backTo="/" />
       <main className="container">
+        {porOpo.map(({ opoId, o, m }) => (
+          <Card key={opoId}>
+            <h2>
+              {o.grupo} · {o.cuerpo} <small>({o.diputacion})</small>
+            </h2>
+            <ProgressBar pct={m.pct} />
+            <p style={muted}>
+              {m.pct}% · {m.done} de {m.total} preguntas intentadas
+            </p>
+            <a href={link(opoId === 'HUE-C1' ? '/c1' : `/opo/${opoId}`)}>Seguir estudiando ›</a>
+          </Card>
+        ))}
         <Card>
-          <h2>C1 · Administrativo</h2>
-          <ProgressBar pct={c1.pct} />
-          <p style={muted}>
-            {c1.pct}% · {c1.done} de {c1.total} preguntas intentadas
-          </p>
-        </Card>
-        <Card>
-          <h2>A2 · Gestión</h2>
+          <h2>A2 · Técnico/a Medio/a de Gestión <small>(Huelva)</small></h2>
           <ProgressBar pct={pctMedio} />
           <p style={muted}>
             {dominados} de {temasA2.length} temas dominados
           </p>
+          <a href={link('/a2')}>Seguir estudiando ›</a>
         </Card>
         <Card>
           <h2>Racha</h2>
@@ -102,20 +115,23 @@ export default function Progreso() {
             </p>
           ) : (
             <ul style={listReset}>
-              {historial.map((s, i) => (
-                <li key={`${s.date}-${s.modo}-${i}`} style={histItem}>
-                  <div>
-                    <strong>{MODO_LABEL[s.modo]}</strong> · {PERFIL_LABEL[s.perfil]}
-                    {s.temaId ? ` · ${tituloTema(s.perfil, s.temaId)}` : null}
-                  </div>
-                  <div style={histMeta}>
-                    {s.date} — {s.aciertos}/{s.total} aciertos
-                    {s.modo === 'test'
-                      ? ` · Nota: ${grade(s.aciertos, s.total).toFixed(1)}`
-                      : null}
-                  </div>
-                </li>
-              ))}
+              {historial.map((s, i) => {
+                const opoId = opoDeSesion(s.perfil);
+                return (
+                  <li key={`${s.date}-${s.modo}-${i}`} style={histItem}>
+                    <div>
+                      <strong>{MODO_LABEL[s.modo]}</strong> · {etiquetaSesion(s.perfil)}
+                      {s.temaId ? ` · ${tituloTema(opoId, s.temaId)}` : null}
+                    </div>
+                    <div style={histMeta}>
+                      {s.date} — {s.aciertos}/{s.total} aciertos
+                      {s.modo === 'test'
+                        ? ` · Nota: ${grade(s.aciertos, s.total).toFixed(1)}`
+                        : null}
+                    </div>
+                  </li>
+                );
+              })}
             </ul>
           )}
         </Card>

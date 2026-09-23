@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E14",
+  "tema": "E14",
+  "tipo": "especifico",
+  "numero": 14,
+  "titulo": "El IAE, el IIVTNU, el IVTM y el ICIO. Tasas, precios públicos y contribuciones especiales",
+  "secciones": [
+    {
+      "titulo": "1. El IAE",
+      "texto": "Grava el mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas ([[Real Decreto Legislativo 2/2004 | art. 78]]). Están exentos, entre otros, el Estado, las Comunidades Autónomas, las entidades locales y quienes tengan una cifra de negocios inferior a 1.000.000 de euros ([[Real Decreto Legislativo 2/2004 | art. 82]])."
+    },
+    {
+      "titulo": "2. El IVTM",
+      "texto": "Grava la titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas ([[Real Decreto Legislativo 2/2004 | art. 92]]). Se gestiona a partir del permiso de circulación y se devenga el primer día del año natural."
+    },
+    {
+      "titulo": "3. El ICIO",
+      "texto": "Grava la realización de construcciones, instalaciones u obras para las que se exija licencia urbanística ([[Real Decreto Legislativo 2/2004 | art. 100]]). El tipo lo fija cada Ayuntamiento sin exceder del 4 % ([[Real Decreto Legislativo 2/2004 | art. 102]])."
+    },
+    {
+      "titulo": "4. El IIVTNU",
+      "texto": "Grava el incremento de valor de los terrenos de naturaleza urbana manifestado en la transmisión de la propiedad o de derechos reales de goce ([[Real Decreto Legislativo 2/2004 | art. 104]]). Tras la STC 182/2021, no se exige cuando no existe incremento real."
+    },
+    {
+      "titulo": "5. Tasas, precios públicos y contribuciones especiales",
+      "texto": "Las tasas tienen por hecho imponible el uso privativo del dominio público o la prestación de servicios que afecten particularmente al sujeto ([[Real Decreto Legislativo 2/2004 | art. 20]]). Las contribuciones especiales gravan el beneficio por obras o servicios públicos ([[Real Decreto Legislativo 2/2004 | art. 28]]). Los precios públicos retribuyen servicios también prestados por el sector privado y de solicitud voluntaria."
+    },
+    {
+      "titulo": "6. El recargo provincial del IAE",
+      "texto": "Las Diputaciones pueden establecer un recargo sobre las cuotas municipales del IAE, que no puede exceder del 40 % ([[Real Decreto Legislativo 2/2004 | art. 134]], verificado en el rango 59-110 del corpus). Se exige conjuntamente con el impuesto municipal y su gestión corresponde al Ayuntamiento, que transfiere a la Diputación lo recaudado. Es una de las principales fuentes de financiación provincial, junto con la participación en los tributos del Estado. Su establecimiento requiere acuerdo del Pleno de la Diputación y la correspondiente ordenanza fiscal. Los precios públicos retribuyen servicios o actividades también prestados por el sector privado y de solicitud voluntaria, a diferencia de las tasas, que exigen monopolio público o obligatoriedad ([[Real Decreto Legislativo 2/2004 | art. 20]]). Los fijan las entidades locales por acuerdo, debiendo cubrir como mínimo el coste del servicio, salvo razones sociales o de interés público. No requieren ordenanza fiscal, aunque sí acuerdo de establecimiento. Ejemplos: cursos municipales, instalaciones deportivas o publicaciones. Su cuantía debe cubrir como mínimo el coste del servicio, salvo razones sociales o de interés público que justifiquen un importe inferior."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E07",
+    "SEV-A1-E13"
+  ]
+}

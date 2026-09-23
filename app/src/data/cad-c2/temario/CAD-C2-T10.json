@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-T10",
+  "tema": "T10",
+  "numero": 10,
+  "tipo": "comun",
+  "titulo": "Conceptualización básica. Discriminación y relaciones desiguales: concepto y tipos de discriminación. Igualdad de oportunidades: principios de igualdad. Planes de igualdad. Breve referencia al Plan Estratégico de Igualdad de Oportunidades entre mujeres y hombres de la Diputación Provincial de Cádiz.",
+  "relacionados": [
+    "CAD-C2-T01",
+    "CAD-C2-T08",
+    "CAD-C2-T09"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Conceptualización básica: igualdad y no discriminación",
+      "texto": "La igualdad es un valor superior del ordenamiento ([[Constitución Española de 1978 |  art. 1]]) y un derecho fundamental: los españoles son iguales ante la ley sin discriminación por nacimiento, raza, sexo, religión u opinión ([[Constitución Española de 1978 |  art. 14]]). La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 1]]), estableciendo que el principio de igualdad de trato supone la ausencia de toda discriminación por razón de sexo ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 3]])."
+    },
+    {
+      "titulo": "2. Discriminación y relaciones desiguales: concepto y tipos",
+      "texto": "Se considera discriminación directa la situación en que una persona sea tratada de manera menos favorable que otra en situación comparable por razón de sexo; y discriminación indirecta cuando una disposición o práctica aparentemente neutra pone a personas de un sexo en desventaja particular ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 6]]). Constituyen también discriminación el acoso sexual y el acoso por razón de sexo ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 7]]). La Ley 15/2022, integral para la igualdad de trato y la no discriminación, amplía la protección frente a la discriminación por nacimiento, origen racial o étnico, sexo, religión, edad, discapacidad u orientación sexual, entre otras causas ([[Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación |  arts. 2 y 6]])."
+    },
+    {
+      "titulo": "3. Igualdad de oportunidades: principios de igualdad",
+      "texto": "Los poderes públicos deben adoptar medidas para garantizar la igualdad de trato y de oportunidades en el acceso al empleo, en la formación y en la promoción profesionales ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 5]]), integrar el principio de igualdad en todas sus políticas (transversalidad, [[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 15]]) y pueden adoptar acciones positivas para corregir desigualdades ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  art. 11]]). En el acceso al empleo público rigen los principios de igualdad, mérito y capacidad con perspectiva de género."
+    },
+    {
+      "titulo": "4. Planes de igualdad",
+      "texto": "Las empresas están obligadas a respetar la igualdad de trato y elaborar y aplicar planes de igualdad, que son un conjunto ordenado de medidas para alcanzar la igualdad de trato y de oportunidades y eliminar la discriminación por razón de sexo ([[Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres |  arts. 45 y 46]]). En las Administraciones Públicas, los planes de igualdad se negocian en el ámbito de la función pública. La Diputación Provincial de Cádiz dispone de un Plan Estratégico de Igualdad de Oportunidades entre mujeres y hombres como instrumento de planificación de sus políticas de igualdad. La Diputación Provincial de Cádiz dispone de su propio Plan de Igualdad de Oportunidades entre mujeres y hombres, como instrumento para integrar la perspectiva de género en su organización y en las políticas provinciales."
+    }
+  ]
+}

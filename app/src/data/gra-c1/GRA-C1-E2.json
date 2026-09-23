@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "GRA-C1-E11-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 161",
+    "enunciado": "¿Cuándo se inicia el período ejecutivo según el artículo 161 de la LGT?",
+    "respuesta": "El día siguiente al del vencimiento del plazo establecido para su ingreso en período voluntario sin haberse efectuado el ingreso; el inicio determina la exigencia de los intereses de demora y de los recargos del período ejecutivo.",
+    "explicacion": "El artículo 161 LGT fija el inicio automático del período ejecutivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 163",
+    "enunciado": "¿Qué carácter tiene el procedimiento de apremio según el artículo 163 de la LGT?",
+    "respuesta": "Es exclusivamente administrativo; la competencia para entender del mismo y resolver sus incidencias corresponde únicamente a la Administración tributaria; no se admitirán las reclamaciones económico-administrativas ni los recursos contra las actuaciones de apremio salvo por los motivos tasados.",
+    "explicacion": "El artículo 163 LGT atribuye carácter exclusivamente administrativo al apremio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 167",
+    "enunciado": "¿Cómo se inicia el procedimiento de apremio según el artículo 167 de la LGT?",
+    "respuesta": "Mediante la notificación de la providencia de apremio, que es el acto que ordena la ejecución contra el patrimonio del obligado; contra ella solo caben los motivos de oposición tasados en la ley (pago, prescripción, aplazamiento, falta de notificación, etc.).",
+    "explicacion": "El artículo 167 LGT regula la iniciación del apremio y los motivos de oposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 69",
+    "enunciado": "¿Cómo se desarrolla la recaudación en período ejecutivo según el artículo 69 del RGR?",
+    "respuesta": "Iniciado el período ejecutivo, la recaudación se efectuará por el procedimiento de apremio, que se iniciará mediante la notificación de la providencia de apremio; el obligado podrá pagar total o parcialmente, continuando el procedimiento por el resto impagado.",
+    "explicacion": "El artículo 69 RGR desarrolla el artículo 161 de la LGT.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 70",
+    "enunciado": "¿Qué es la providencia de apremio y qué debe contener?",
+    "respuesta": "El acto de la Administración que ordena la ejecución contra el patrimonio del obligado; debe contener su identificación, el concepto e importe de la deuda, la indicación de que ha finalizado el período voluntario, la liquidación del recargo, el requerimiento de pago en el plazo del artículo 62.5 de la LGT y la advertencia de embargo.",
+    "explicacion": "El artículo 70 RGR define la providencia de apremio y su contenido mínimo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 71",
+    "enunciado": "¿Qué extremos constan en la notificación de la providencia de apremio?",
+    "respuesta": "El lugar de ingreso, la repercusión de costas, la posibilidad de solicitar aplazamiento o fraccionamiento, la suspensión del procedimiento en los casos previstos y los recursos procedentes con sus plazos.",
+    "explicacion": "El artículo 71 RGR fija el contenido de la notificación de la providencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 62.5",
+    "enunciado": "¿Cuál es el plazo de pago tras la notificación de la providencia de apremio?",
+    "respuesta": "Si la notificación se realiza entre los días 1 y 15 del mes, hasta el día 20 de dicho mes; si se realiza entre los días 16 y último, hasta el día 5 del mes siguiente; o el inmediato hábil posterior si no fueran hábiles.",
+    "explicacion": "El artículo 62.5 de la LGT fija el plazo de ingreso en período ejecutivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 72",
+    "enunciado": "¿Desde cuándo se devengan intereses de demora en el período ejecutivo?",
+    "respuesta": "Desde el inicio del período ejecutivo hasta la fecha del pago de la deuda, al tipo del interés de demora vigente; no se exigirán cuando se haya garantizado la deuda o se haya suspendido el procedimiento con garantía.",
+    "explicacion": "El artículo 72 RGR regula el interés de demora del período ejecutivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 73",
+    "enunciado": "¿Cuándo se suspende el procedimiento de apremio según el artículo 73 del RGR?",
+    "respuesta": "En los casos y condiciones previstos en la normativa vigente: interposición de recurso o reclamación con garantía, solicitud de aplazamiento con garantía, o cuando se aprecie causa legal de suspensión; la suspensión se acordará por el órgano competente.",
+    "explicacion": "El artículo 73 RGR regula la suspensión del procedimiento de apremio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E11-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E11",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 74",
+    "enunciado": "¿Cómo se ejecutan las garantías en el procedimiento de apremio?",
+    "respuesta": "Transcurrido el plazo de pago sin ingreso, se procederá a la ejecución de las garantías existentes para el cobro de la deuda; si de la ejecución no resultara líquido suficiente, se continuará con el embargo de bienes.",
+    "explicacion": "El artículo 74 RGR regula la ejecución de garantías antes del embargo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 75",
+    "enunciado": "¿Cuándo se procede al embargo según el artículo 75 del RGR?",
+    "respuesta": "Transcurrido el plazo del artículo 62.5 de la LGT sin haberse realizado el ingreso, se procederá al embargo de los bienes y derechos que procedan en cumplimiento del mandato de la providencia de apremio, salvo que se pague por ejecución de garantías o sea previsible que de ella resulte líquido suficiente.",
+    "explicacion": "El artículo 75 RGR ordena el embargo tras el vencimiento del plazo de la providencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 169",
+    "enunciado": "¿Qué principios rigen la práctica del embargo según el artículo 169 de la LGT?",
+    "respuesta": "Se embargarán los bienes y derechos en cuantía suficiente para cubrir el importe de la deuda no ingresada, los intereses, los recargos y las costas; se respetará el orden de embargo legal y el principio de proporcionalidad, evitando el embargo de bienes de valor notoriamente superior cuando existan otros suficientes.",
+    "explicacion": "El artículo 169 LGT fija los principios de suficiencia y proporcionalidad del embargo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 76",
+    "enunciado": "¿Cómo se practican los embargos según el artículo 76 del RGR?",
+    "respuesta": "Mediante personación en los locales donde se encuentren los bienes, ordenando su entrega al depositario; en caso de negativa o imposibilidad, se podrá proceder al precintado y a las medidas necesarias para impedir la sustitución o levantamiento, con auxilio de la autoridad si fuera necesario.",
+    "explicacion": "El artículo 76 RGR regula la práctica material de los embargos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 79",
+    "enunciado": "¿Cómo se embarga el dinero en cuentas de entidades de crédito?",
+    "respuesta": "Mediante diligencia de embargo que se notificará a la entidad, que deberá retener el importe embargado e ingresarlo en el Tesoro; el embargo se extiende a los saldos existentes y a los que se produzcan en los términos reglamentarios.",
+    "explicacion": "El artículo 79 RGR regula el embargo de dinero en cuentas bancarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 82",
+    "enunciado": "¿Cómo se embargan los sueldos, salarios y pensiones?",
+    "respuesta": "Mediante diligencia notificada al pagador, que deberá retener y ingresar las cantidades embargadas; se respetarán los límites de inembargabilidad del salario mínimo interprofesional establecidos en la Ley de Enjuiciamiento Civil.",
+    "explicacion": "El artículo 82 RGR regula el embargo de sueldos, salarios y pensiones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 83",
+    "enunciado": "¿Cómo se embargan los bienes inmuebles según el artículo 83 del RGR?",
+    "respuesta": "Mediante diligencia de embargo que identificará el inmueble y se notificará al obligado, a su cónyuge si son gananciales o vivienda habitual, y a los terceros titulares de derechos; se solicitará del Registrador la práctica de la anotación preventiva.",
+    "explicacion": "El artículo 83 RGR regula el embargo de bienes inmuebles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 84",
+    "enunciado": "¿Qué es la anotación preventiva de embargo en el Registro de la Propiedad?",
+    "respuesta": "La inscripción registral del embargo practicado sobre bienes inmuebles, que se solicita mediante mandamiento al Registrador; produce efectos frente a terceros y garantiza la preferencia del crédito de la Hacienda pública.",
+    "explicacion": "El artículo 84 RGR regula la anotación preventiva de los embargos de inmuebles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 100",
+    "enunciado": "¿Cuáles son las formas de enajenación de los bienes embargados?",
+    "respuesta": "La subasta pública, el concurso o la adjudicación directa; el procedimiento ordinario será la subasta pública, que se realizará por medios electrónicos en el Portal de Subastas del BOE.",
+    "explicacion": "El artículo 100 RGR establece las formas de enajenación con preferencia por la subasta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 101",
+    "enunciado": "¿Qué contiene el acuerdo de enajenación y cómo se anuncia la subasta?",
+    "respuesta": "Los datos del deudor y de los bienes, el tipo para la subasta y el plazo de presentación de ofertas electrónicas; se notificará al obligado, a su cónyuge, a los acreedores y titulares de derechos inscritos, al depositario y a los copropietarios.",
+    "explicacion": "El artículo 101 RGR regula el acuerdo de enajenación y el anuncio de la subasta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E12-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E12",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 104",
+    "enunciado": "¿A quién se adjudican los bienes subastados según el artículo 104 del RGR?",
+    "respuesta": "Al licitador que hubiera presentado la mejor oferta; la Mesa adjudica el bien o lote y el adjudicatario debe ingresar la diferencia entre el precio total y el depósito en quince días.",
+    "explicacion": "El artículo 104 RGR regula el desarrollo de la subasta y la designación del adjudicatario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 116",
+    "enunciado": "¿Cómo termina el procedimiento de apremio según el artículo 116 del RGR?",
+    "respuesta": "Cuando resulten solventados los débitos y las costas, declarándose ultimado el expediente; si el importe obtenido es insuficiente, se aplicará primero a las costas y luego a las deudas según las reglas de imputación, declarándose el resto como crédito incobrable.",
+    "explicacion": "El artículo 116 RGR regula la terminación del apremio por pago o por insuficiencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 61",
+    "enunciado": "¿Qué es un deudor fallido y un crédito incobrable según el artículo 61 del RGR?",
+    "respuesta": "Deudor fallido es el obligado al pago respecto del cual se acredita la insolvencia total o parcial; crédito incobrable es aquel cuya realización no es posible por insolvencia del deudor; la declaración de fallido no extingue la deuda y permite su rehabilitación si el deudor deviene a mejor fortuna.",
+    "explicacion": "El artículo 61 RGR define el deudor fallido y el crédito incobrable.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué es la tercería en el procedimiento de apremio?",
+    "respuesta": "La reclamación en vía administrativa, previa al ejercicio de la acción ante los juzgados civiles, que solo puede fundarse en el dominio de los bienes embargados o en el derecho del tercerista a ser reintegrado de su crédito con preferencia al perseguido en el apremio; no puede formularla el obligado al pago.",
+    "explicacion": "El artículo 117 RGR define el carácter y fundamento de la tercería.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 119",
+    "enunciado": "¿Cómo se interpone la reclamación de tercería?",
+    "respuesta": "Por escrito dirigido al órgano que tramita el apremio, con principio de prueba escrita del fundamento; no se admite segunda tercería sobre títulos que ya se poseyeran, ni la de dominio tras la transmisión del bien en la enajenación.",
+    "explicacion": "El artículo 119 RGR regula la forma, plazos y efectos de la tercería.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 121",
+    "enunciado": "¿Qué efectos tiene la estimación de la tercería?",
+    "respuesta": "Si se estima la tercería de dominio, se alzará el embargo sobre los bienes; si se estima la de mejor derecho, el tercerista será reintegrado de su crédito con preferencia, aplicándose el producto de la enajenación según el orden de prelación.",
+    "explicacion": "El artículo 121 RGR regula los efectos de la estimación de la tercería.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 124",
+    "enunciado": "¿Cómo se declara la responsabilidad tributaria en el procedimiento de recaudación?",
+    "respuesta": "Mediante acto administrativo en el que, previa audiencia al interesado, se declare la responsabilidad y se determine su alcance y extensión, conforme a los artículos 174 a 176 de la LGT; la derivación a los responsables subsidiarios requiere la previa declaración de fallido del deudor principal y de los solidarios.",
+    "explicacion": "El artículo 124 RGR desarrolla la declaración de responsabilidad del artículo 41 de la LGT.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 127",
+    "enunciado": "¿Cómo continúa la recaudación frente a los sucesores tras el fallecimiento del obligado?",
+    "respuesta": "El procedimiento continuará con los herederos y legatarios, con subrogación en la posición del causante; se les requerirá el pago en los plazos del artículo 62 de la LGT según el momento del fallecimiento (voluntario, antes o después de la providencia).",
+    "explicacion": "El artículo 127 RGR regula la recaudación frente a los sucesores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 112",
+    "enunciado": "¿Cuándo se levanta el embargo según el artículo 112 del RGR?",
+    "respuesta": "Cuando se extinga la deuda y las costas, cuando se estime una tercería de dominio, o cuando por cualquier causa quede sin efecto el embargo; el levantamiento se acordará por el órgano de recaudación y se comunicará a los registros y depositarios.",
+    "explicacion": "El artículo 112 RGR regula el levantamiento del embargo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 113",
+    "enunciado": "¿Qué son las costas del procedimiento de apremio?",
+    "respuesta": "Los gastos en que se incurra durante el procedimiento: honorarios de registradores, gastos de depósito y administración de bienes embargados, y demás gastos necesarios para la ejecución; están a cargo del obligado al pago.",
+    "explicacion": "El artículo 113 RGR define las costas del apremio a cargo del deudor.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E13-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 64",
+    "enunciado": "¿Qué es el derecho de prelación de la Hacienda pública según el artículo 64 del RGR?",
+    "respuesta": "La preferencia de los créditos de la Hacienda pública frente a otros acreedores en los procedimientos concursales y de ejecución, en los términos de los artículos 77 a 79 de la LGT (prelación general, hipoteca legal tácita y afección de bienes).",
+    "explicacion": "El artículo 64 RGR desarrolla el derecho de prelación de los créditos públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 178",
+    "enunciado": "¿Qué principios rigen la potestad sancionadora tributaria según el artículo 178 de la LGT?",
+    "respuesta": "Los principios de legalidad, tipicidad, responsabilidad, proporcionalidad, no concurrencia e irretroactividad, en los términos de la legislación administrativa general, con las especialidades de este título.",
+    "explicacion": "El artículo 178 LGT somete la potestad sancionadora a los principios generales con especialidades tributarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 179",
+    "enunciado": "¿Qué exige el principio de responsabilidad en las infracciones tributarias?",
+    "respuesta": "Que las personas físicas o jurídicas realicen las acciones u omisiones tipificadas sin que concurra dolo o culpa; no hay responsabilidad cuando se haya puesto la diligencia necesaria, cuando la interpretación haya sido razonable, o cuando se haya actuado conforme a consultas contestadas.",
+    "explicacion": "El artículo 179 LGT regula el principio de culpabilidad y sus causas de exoneración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 180",
+    "enunciado": "¿Qué establece el principio de no concurrencia de sanciones?",
+    "respuesta": "Que una misma acción u omisión no puede ser sancionada como infracción tributaria y como infracción administrativa o penal cuando exista identidad de sujeto, hecho y fundamento; si se estima que puede ser constitutiva de delito, se pasará el tanto de culpa a la jurisdicción penal.",
+    "explicacion": "El artículo 180 LGT consagra el non bis in idem en materia sancionadora tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 181",
+    "enunciado": "¿Quiénes son sujetos infractores según el artículo 181 de la LGT?",
+    "respuesta": "Las personas físicas o jurídicas y las entidades del artículo 35.4 que realicen las acciones u omisiones tipificadas como infracciones, así como quienes por ley deban responder de ellas; entre otros, los obligados tributarios, los retenedores y los sucesores.",
+    "explicacion": "El artículo 181 LGT define los sujetos infractores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 183",
+    "enunciado": "¿Qué es una infracción tributaria según el artículo 183 de la LGT?",
+    "respuesta": "Las acciones u omisiones dolosas o culposas con cualquier grado de negligencia que estén tipificadas y sancionadas como tales en esta u otra ley; las infracciones se clasifican en leves, graves y muy graves.",
+    "explicacion": "El artículo 183 LGT define el concepto y las clases de infracciones tributarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 184",
+    "enunciado": "¿Cómo se califican las infracciones tributarias?",
+    "respuesta": "Como leves, graves o muy graves según lo dispuesto en los artículos 191 a 206; la calificación atiende a la ocultación de datos (incidencia superior al 10% de la base) y a la utilización de medios fraudulentos (anomalías contables sustanciales, facturas falsas, interposición de personas).",
+    "explicacion": "El artículo 184 LGT fija los criterios de calificación: ocultación y medios fraudulentos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 185",
+    "enunciado": "¿Qué clases de sanciones tributarias existen?",
+    "respuesta": "Sanciones pecuniarias (multa fija o proporcional) y, cuando proceda, sanciones no pecuniarias de carácter accesorio, como la pérdida de subvenciones o la prohibición de contratar en infracciones graves o muy graves.",
+    "explicacion": "El artículo 185 LGT distingue sanciones pecuniarias y no pecuniarias accesorias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 187",
+    "enunciado": "¿Cuáles son los criterios de graduación de las sanciones tributarias?",
+    "respuesta": "Exclusivamente: la comisión repetida de infracciones, el perjuicio económico para la Hacienda Pública, el incumplimiento sustancial de la obligación de facturación o documentación, y el acuerdo o conformidad del interesado.",
+    "explicacion": "El artículo 187 LGT establece un numerus clausus de criterios de graduación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 188",
+    "enunciado": "¿Qué reducciones pueden aplicarse a las sanciones tributarias?",
+    "respuesta": "Un 65% en actas con acuerdo y un 30% en supuestos de conformidad; además, un 40% adicional por pronto pago si se ingresa en plazo y no se recurre; las reducciones se pierden si se impugna la regularización o la sanción.",
+    "explicacion": "El artículo 188 LGT regula las reducciones por acuerdo, conformidad y pronto pago.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E14-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E14",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 189",
+    "enunciado": "¿Cuándo prescribe la potestad para imponer sanciones tributarias?",
+    "respuesta": "A los cuatro años desde la comisión de la infracción; la prescripción se aplica de oficio y se interrumpe por actuaciones de la Administración conducentes a la imposición de la sanción o por la interposición de recursos.",
+    "explicacion": "El artículo 189 LGT fija en cuatro años la prescripción para imponer sanciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 191",
+    "enunciado": "¿Qué conducta constituye la infracción tributaria del artículo 191 de la LGT?",
+    "respuesta": "Dejar de ingresar dentro del plazo establecido la deuda tributaria que debiera resultar de una autoliquidación, salvo que se regularice conforme al artículo 27 (recargos por declaración extemporánea) o proceda la aplicación del artículo 161.1.b) (ingreso en período ejecutivo); se califica como leve, grave o muy grave según la ocultación y los medios fraudulentos.",
+    "explicacion": "El artículo 191 LGT tipifica la infracción por dejar de ingresar la deuda autoliquidada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 193",
+    "enunciado": "¿Qué sanciona el artículo 193 de la LGT?",
+    "respuesta": "Obtener indebidamente devoluciones derivadas de la normativa de cada tributo; constituye infracción grave o muy grave según concurran ocultación o medios fraudulentos.",
+    "explicacion": "El artículo 193 LGT tipifica la obtención indebida de devoluciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 198",
+    "enunciado": "¿Qué infracción regula el artículo 198 de la LGT?",
+    "respuesta": "No presentar en plazo autoliquidaciones o declaraciones sin que se produzca perjuicio económico, incumplir la obligación de comunicar el domicilio fiscal o incumplir las condiciones de determinadas autorizaciones; se sanciona con multa fija.",
+    "explicacion": "El artículo 198 LGT tipifica incumplimientos formales sin perjuicio económico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 200",
+    "enunciado": "¿Qué sanciona el artículo 200 de la LGT?",
+    "respuesta": "El incumplimiento de las obligaciones contables y registrales: la inexactitud u omisión de operaciones en la contabilidad o en los libros y registros exigidos por la normativa tributaria; la sanción es proporcional según la gravedad.",
+    "explicacion": "El artículo 200 LGT tipifica el incumplimiento de obligaciones contables y registrales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 201",
+    "enunciado": "¿Qué regula el artículo 201 de la LGT sobre facturación?",
+    "respuesta": "El incumplimiento de las obligaciones de facturación o documentación: no expedir o no conservar facturas o documentos equivalentes, expedirlos con datos falsos o expedir facturas por persona distinta; constituye criterio de graduación cuando el incumplimiento es sustancial (más del 20% de las operaciones).",
+    "explicacion": "El artículo 201 LGT tipifica el incumplimiento de las obligaciones de facturación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 203",
+    "enunciado": "¿Qué es la infracción por resistencia u obstrucción del artículo 203 de la LGT?",
+    "respuesta": "La resistencia, obstrucción, excusa o negativa a las actuaciones de la Administración tributaria, como no facilitar el examen de documentos, no atender requerimientos debidamente notificados o la incomparecencia injustificada; se sanciona con multa fija o proporcional.",
+    "explicacion": "El artículo 203 LGT tipifica la resistencia a la actuación inspectora y de comprobación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 208",
+    "enunciado": "¿Cómo se tramita el procedimiento sancionador tributario según el artículo 208 de la LGT?",
+    "respuesta": "De forma separada a los procedimientos de aplicación de los tributos, salvo renuncia del obligado tributario, en cuyo caso se tramitará conjuntamente; garantiza los derechos a ser notificado de los hechos imputados, a formular alegaciones y a los demás derechos del artículo 34.",
+    "explicacion": "El artículo 208 LGT establece la tramitación separada del procedimiento sancionador.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 209",
+    "enunciado": "¿Cómo se inicia el procedimiento sancionador y en qué plazo?",
+    "respuesta": "Siempre de oficio, mediante notificación del acuerdo del órgano competente; los procedimientos incoados tras un procedimiento de aplicación no podrán iniciarse una vez transcurridos seis meses desde la notificación de la liquidación o resolución.",
+    "explicacion": "El artículo 209 LGT exige la iniciación de oficio y fija el plazo de seis meses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 210",
+    "enunciado": "¿Qué trámite esencial tiene la instrucción del procedimiento sancionador?",
+    "respuesta": "Concluidas las actuaciones se formula propuesta de resolución motivada con los hechos, su calificación y la sanción propuesta; se notifica al interesado con puesta de manifiesto del expediente y plazo de 15 días para alegaciones y prueba.",
+    "explicacion": "El artículo 210 LGT regula la propuesta de resolución y el trámite de alegaciones de 15 días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E15-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E15",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 211",
+    "enunciado": "¿Cómo termina el procedimiento sancionador y en qué plazo?",
+    "respuesta": "Mediante resolución o por caducidad; debe concluir en el plazo máximo de seis meses desde la notificación del inicio; el vencimiento sin resolución expresa produce la caducidad, que impide iniciar un nuevo procedimiento sancionador.",
+    "explicacion": "El artículo 211 LGT fija el plazo de seis meses y la caducidad impeditiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 216",
+    "enunciado": "¿Qué procedimientos especiales de revisión existen según el artículo 216 de la LGT?",
+    "respuesta": "La declaración de nulidad de pleno derecho, la declaración de lesividad de actos anulables, la revocación, la rectificación de errores y la devolución de ingresos indebidos.",
+    "explicacion": "El artículo 216 LGT enumera los procedimientos especiales de revisión de actos tributarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 217",
+    "enunciado": "¿Cuándo procede la declaración de nulidad de pleno derecho según el artículo 217 de la LGT?",
+    "respuesta": "Contra actos que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo, en los supuestos de nulidad del artículo 217 (lesión de derechos fundamentales, incompetencia manifiesta, contenido imposible, delito, prescindencia total del procedimiento); puede iniciarse en cualquier momento, de oficio o a instancia, previo dictamen del Consejo de Estado.",
+    "explicacion": "El artículo 217 LGT permite declarar la nulidad de pleno derecho en cualquier momento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 218",
+    "enunciado": "¿Qué es la declaración de lesividad según el artículo 218 de la LGT?",
+    "respuesta": "El procedimiento por el que la Administración declara lesivos para el interés público sus propios actos favorables a los interesados que incurran en infracción del ordenamiento, como paso previo para impugnarlos ante la jurisdicción contencioso-administrativa.",
+    "explicacion": "El artículo 218 LGT regula la lesividad como vía para impugnar actos propios favorables.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 219",
+    "enunciado": "¿Qué es la revocación de actos tributarios según el artículo 219 de la LGT?",
+    "respuesta": "La posibilidad de la Administración de revocar sus actos de aplicación de los tributos y de imposición de sanciones cuando estime que infringen manifiestamente la ley, cuando circunstancias sobrevenidas afecten a una situación jurídica particular o cuando en la tramitación se haya producido indefensión; solo en beneficio de los interesados.",
+    "explicacion": "El artículo 219 LGT permite revocar actos solo en beneficio del interesado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 220",
+    "enunciado": "¿Qué errores pueden rectificarse según el artículo 220 de la LGT?",
+    "respuesta": "Los errores materiales, de hecho o aritméticos existentes en los actos y liquidaciones, que podrán rectificarse en cualquier momento, de oficio o a instancia del interesado.",
+    "explicacion": "El artículo 220 LGT permite rectificar errores materiales, de hecho o aritméticos en cualquier momento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 221",
+    "enunciado": "¿Cuándo procede la devolución de ingresos indebidos según el artículo 221 de la LGT?",
+    "respuesta": "Cuando se haya producido una duplicidad en el pago, cuando la cantidad pagada haya sido superior al importe a ingresar, cuando se hayan ingresado cantidades correspondientes a deudas o sanciones después de haber prescrito, o cuando así lo establezca la normativa tributaria; se sigue el procedimiento reglamentario.",
+    "explicacion": "El artículo 221 LGT regula el procedimiento de devolución de ingresos indebidos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 222",
+    "enunciado": "¿Qué naturaleza tiene el recurso de reposición en materia tributaria?",
+    "respuesta": "Es potestativo y previo a la reclamación económico-administrativa: los actos susceptibles de reclamación económico-administrativa pueden impugnarse potestativamente en reposición ante el órgano que los dictó.",
+    "explicacion": "El artículo 222 LGT configura la reposición tributaria como recurso potestativo previo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 223",
+    "enunciado": "¿Cuál es el plazo para interponer el recurso de reposición tributario?",
+    "respuesta": "Un mes contado desde el día siguiente al de la notificación del acto o a aquel en que se produzcan los efectos del silencio; la interposición no suspende la ejecución salvo que se garantice la deuda.",
+    "explicacion": "El artículo 223 LGT fija el plazo de un mes para la reposición tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 224",
+    "enunciado": "¿Cuándo se suspende la ejecución del acto recurrido en reposición?",
+    "respuesta": "Automáticamente cuando se aporte garantía suficiente (aval, certificado de seguro de caución o fianza personal solidaria en casos tasados); también puede suspenderse sin garantía cuando se aprecie que la ejecución causaría perjuicios de imposible o difícil reparación.",
+    "explicacion": "El artículo 224 LGT regula la suspensión automática con garantía en reposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E16-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E16",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 225",
+    "enunciado": "¿En qué plazo se resuelve el recurso de reposición tributario?",
+    "respuesta": "En el plazo máximo de un mes contado desde el día siguiente al de presentación del recurso.",
+    "explicacion": "El artículo 225.4 LGT fija en un mes el plazo máximo para notificar la resolución del recurso de reposición.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué recursos constituyen la hacienda de las entidades locales según el artículo 2 del TRLRHL?",
+    "respuesta": "Los ingresos de su patrimonio y demás de derecho privado; los tributos propios (tasas, contribuciones especiales e impuestos) y recargos; las participaciones en tributos del Estado y de las Comunidades Autónomas; las subvenciones; los precios públicos; las operaciones de crédito; las multas y sanciones; y las demás prestaciones de derecho público.",
+    "explicacion": "El artículo 2 TRLRHL enumera los recursos de las haciendas locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 12",
+    "enunciado": "¿A quién corresponde la gestión, liquidación, inspección y recaudación de los tributos locales?",
+    "respuesta": "Al ayuntamiento respectivo, que podrá delegarla en la Diputación Provincial, en la Comunidad Autónoma o en el Estado mediante los convenios o acuerdos previstos en la ley; la delegación comprende todas las facultades salvo que se disponga otra cosa.",
+    "explicacion": "El artículo 12 TRLRHL atribuye la gestión tributaria local al ayuntamiento y permite su delegación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué deben aprobar las entidades locales respecto de sus tributos propios según el artículo 15 del TRLRHL?",
+    "respuesta": "Acordar la imposición y supresión de sus tributos propios y aprobar las correspondientes ordenanzas fiscales reguladoras; respecto de los impuestos obligatorios, aprobar las ordenanzas para fijar los elementos de cuantificación cuando usen sus facultades.",
+    "explicacion": "El artículo 15 TRLRHL exige acuerdo de imposición y ordenanza fiscal para cada tributo propio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué contenido mínimo tienen las ordenanzas fiscales según el artículo 16 del TRLRHL?",
+    "respuesta": "La determinación del hecho imponible, sujeto pasivo, responsables, exenciones, reducciones y bonificaciones, base imponible y liquidable, tipo de gravamen o cuota, período impositivo y devengo; los regímenes de declaración y de ingreso; y las fechas de aprobación y comienzo de aplicación.",
+    "explicacion": "El artículo 16 TRLRHL fija el contenido mínimo de las ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 17.1",
+    "enunciado": "¿Cómo se tramita la aprobación de las ordenanzas fiscales?",
+    "respuesta": "Los acuerdos provisionales se exponen en el tablón de anuncios durante treinta días mínimo para examen del expediente y presentación de reclamaciones; se publica anuncio en el boletín oficial de la provincia; finalizada la exposición, se adoptan los acuerdos definitivos resolviendo las reclamaciones.",
+    "explicacion": "El artículo 17.1 TRLRHL regula la exposición pública de treinta días de los acuerdos provisionales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 17.3",
+    "enunciado": "¿Qué ocurre si no se presentan reclamaciones contra el acuerdo provisional de una ordenanza fiscal?",
+    "respuesta": "Se entenderá definitivamente adoptado el acuerdo, hasta entonces provisional, sin necesidad de acuerdo plenario.",
+    "explicacion": "El artículo 17.3 TRLRHL prevé la elevación automática a definitivo sin reclamaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 17.4",
+    "enunciado": "¿Cuándo entran en vigor las ordenanzas fiscales?",
+    "respuesta": "Los acuerdos definitivos y el texto íntegro de las ordenanzas o sus modificaciones deben publicarse en el boletín oficial de la provincia, sin que entren en vigor hasta que se haya llevado a cabo dicha publicación.",
+    "explicacion": "El artículo 17.4 TRLRHL condiciona la vigencia a la publicación íntegra en el boletín oficial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 18",
+    "enunciado": "¿Quiénes son interesados para reclamar contra los acuerdos provisionales de ordenanzas fiscales?",
+    "respuesta": "Quienes tengan un interés directo o resulten afectados por los acuerdos, y los colegios oficiales, cámaras, asociaciones y entidades legalmente constituidas para velar por intereses profesionales, económicos o vecinales.",
+    "explicacion": "El artículo 18 TRLRHL define los interesados a efectos de reclamación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 19",
+    "enunciado": "¿Qué recurso cabe contra las ordenanzas fiscales?",
+    "respuesta": "Únicamente el recurso contencioso-administrativo, que podrá interponerse a partir de su publicación en el boletín oficial de la provincia en la forma y plazos de dicha jurisdicción.",
+    "explicacion": "El artículo 19 TRLRHL excluye la vía administrativa contra las ordenanzas fiscales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E17-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E17",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 59",
+    "enunciado": "¿Qué impuestos pueden exigir los ayuntamientos según el artículo 59 del TRLRHL?",
+    "respuesta": "Con carácter obligatorio: el Impuesto sobre Bienes Inmuebles, el Impuesto sobre Actividades Económicas y el Impuesto sobre Vehículos de Tracción Mecánica; con carácter potestativo: el Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+    "explicacion": "El artículo 59 TRLRHL distingue impuestos obligatorios y potestativos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 60",
+    "enunciado": "¿Qué naturaleza tiene el Impuesto sobre Bienes Inmuebles?",
+    "respuesta": "Es un tributo directo de carácter real que grava el valor de los bienes inmuebles sitos en el término municipal, con independencia del lugar de residencia del sujeto pasivo.",
+    "explicacion": "El artículo 60 TRLRHL define el IBI como tributo directo y real.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 61",
+    "enunciado": "¿Cuál es el hecho imponible del IBI?",
+    "respuesta": "La titularidad de los siguientes derechos sobre los bienes inmuebles rústicos y urbanos y sobre los inmuebles de características especiales: de una concesión administrativa, de un derecho real de superficie, de un derecho real de usufructo y del derecho de propiedad.",
+    "explicacion": "El artículo 61 TRLRHL enumera los derechos cuyo titular constituye el hecho imponible.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 62",
+    "enunciado": "¿Qué inmuebles están exentos del IBI?",
+    "respuesta": "Entre otros: los del Estado, Comunidades Autónomas o entidades locales afectos a la seguridad ciudadana y a los servicios educativos y penitenciarios; los bienes comunales; los de la Iglesia Católica y confesiones con acuerdo; los de la Cruz Roja; y los declarados monumento histórico-artístico.",
+    "explicacion": "El artículo 62 TRLRHL enumera las exenciones del IBI.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 63",
+    "enunciado": "¿Quiénes son sujetos pasivos del IBI?",
+    "respuesta": "Las personas físicas y jurídicas y las entidades del artículo 35.4 de la LGT que ostenten la titularidad de los derechos constitutivos del hecho imponible, en el orden de prelación legal: concesión administrativa, derecho de superficie, usufructo y propiedad.",
+    "explicacion": "El artículo 63 TRLRHL atribuye la condición de sujeto pasivo por orden de prelación de derechos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 64",
+    "enunciado": "¿Qué es la afección real en el IBI?",
+    "respuesta": "En los cambios de titularidad de los derechos constitutivos del hecho imponible, los inmuebles quedan afectos al pago de la totalidad de la cuota tributaria en régimen de responsabilidad subsidiaria; los notarios deben advertir de las deudas pendientes por IBI.",
+    "explicacion": "El artículo 64 TRLRHL establece la afección real del inmueble al pago de la cuota.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 65",
+    "enunciado": "¿Qué es la base imponible del IBI?",
+    "respuesta": "El valor catastral de los bienes inmuebles, que se determinará, notificará y será susceptible de impugnación conforme a las normas reguladoras del Catastro Inmobiliario.",
+    "explicacion": "El artículo 65 TRLRHL identifica la base imponible con el valor catastral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 72",
+    "enunciado": "¿Cuáles son los tipos de gravamen del IBI?",
+    "respuesta": "El tipo mínimo y supletorio es el 0,4% para bienes urbanos y el 0,3% para rústicos; el máximo, el 1,10% para urbanos y el 0,90% para rústicos; los ayuntamientos pueden incrementarlos por las circunstancias del apartado 3 y exigir un recargo de hasta el 50% (o 100%) por inmuebles residenciales desocupados con carácter permanente.",
+    "explicacion": "El artículo 72 TRLRHL fija los tipos mínimo y máximo y el recargo por desocupación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 73",
+    "enunciado": "¿Qué bonificaciones son obligatorias en el IBI?",
+    "respuesta": "Entre otras, la de las empresas de urbanización, construcción y promoción inmobiliaria respecto de los inmuebles objeto de su actividad, y la de las viviendas de protección oficial y equiparables durante los tres períodos impositivos siguientes al otorgamiento de la calificación definitiva.",
+    "explicacion": "El artículo 73 TRLRHL enumera las bonificaciones obligatorias del IBI.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 75",
+    "enunciado": "¿Cuándo se devenga el IBI y cuál es su período impositivo?",
+    "respuesta": "El impuesto se devenga el primer día del período impositivo, que coincide con el año natural.",
+    "explicacion": "El artículo 75 TRLRHL fija el devengo el 1 de enero.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E18-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E18",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 77",
+    "enunciado": "¿Cómo se gestiona el IBI según el artículo 77 del TRLRHL?",
+    "respuesta": "A partir del padrón anual comprensivo de los censos de bienes inmuebles, sujetos pasivos y valores catastrales; la gestión tributaria se comparte entre el Catastro (formación y mantenimiento) y el ayuntamiento (liquidación y recaudación).",
+    "explicacion": "El artículo 77 TRLRHL regula la gestión del IBI a partir del padrón anual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 78",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Actividades Económicas?",
+    "respuesta": "El mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado y se hallen o no especificadas en las tarifas del impuesto.",
+    "explicacion": "El artículo 78 TRLRHL define el hecho imponible del IAE por el mero ejercicio de la actividad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 82",
+    "enunciado": "¿Quiénes están exentos del IAE?",
+    "respuesta": "Entre otros: el Estado, las Comunidades Autónomas y las entidades locales; quienes inicien su actividad, durante los dos primeros períodos impositivos; y las entidades con un importe neto de la cifra de negocios inferior a 1.000.000 de euros.",
+    "explicacion": "El artículo 82 TRLRHL enumera las exenciones, incluida la de cifra de negocios inferior al millón de euros.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 89",
+    "enunciado": "¿Cómo se devenga el IAE?",
+    "respuesta": "El período impositivo coincide con el año natural y el impuesto se devenga el primer día; las cuotas son irreducibles, salvo prorrateo por trimestres en altas (desde el inicio de la actividad) y bajas por cese.",
+    "explicacion": "El artículo 89 TRLRHL fija el devengo el 1 de enero y el prorrateo trimestral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 90",
+    "enunciado": "¿Cómo se gestiona el IAE?",
+    "respuesta": "A partir de la matrícula anual formada para cada término municipal, constituida por los censos de actividades, sujetos pasivos y cuotas; la matrícula está a disposición del público en los ayuntamientos.",
+    "explicacion": "El artículo 90 TRLRHL regula la gestión del IAE a partir de la matrícula.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 92",
+    "enunciado": "¿Cuál es el hecho imponible del Impuesto sobre Vehículos de Tracción Mecánica?",
+    "respuesta": "La titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría; se considera apto el vehículo matriculado mientras no cause baja.",
+    "explicacion": "El artículo 92 TRLRHL define el IVTM como tributo directo sobre la titularidad de vehículos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 93",
+    "enunciado": "¿Qué vehículos están exentos del IVTM?",
+    "respuesta": "Entre otros: los oficiales adscritos a la defensa o seguridad ciudadana; las ambulancias y vehículos sanitarios; los de personas con discapacidad (grado igual o superior al 33%) para su uso exclusivo, con un solo vehículo por beneficiario; y los autobuses de transporte público urbano de más de nueve plazas.",
+    "explicacion": "El artículo 93 TRLRHL enumera las exenciones del IVTM.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 96",
+    "enunciado": "¿Cómo se devenga el IVTM?",
+    "respuesta": "El período impositivo coincide con el año natural, salvo primera adquisición; el impuesto se devenga el primer día del período impositivo; la cuota se prorratea por trimestres en primera adquisición, baja definitiva o baja temporal por sustracción o robo.",
+    "explicacion": "El artículo 96 TRLRHL fija el devengo y el prorrateo trimestral del IVTM.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 100",
+    "enunciado": "¿Cuál es el hecho imponible del ICIO?",
+    "respuesta": "La realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística, se haya obtenido o no dicha licencia, o para la que se exija presentación de declaración responsable o comunicación previa.",
+    "explicacion": "El artículo 100 TRLRHL define el hecho imponible del ICIO.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 102",
+    "enunciado": "¿Cómo se cuantifica el ICIO?",
+    "respuesta": "La base imponible está constituida por el coste real y efectivo de la construcción, instalación u obra, entendido como el coste de ejecución material de aquélla; la cuota resulta de aplicar el tipo fijado por el ayuntamiento, que no puede exceder del 4%; se devenga al iniciarse la obra.",
+    "explicacion": "El artículo 102 TRLRHL regula la base, el tipo y el devengo del ICIO.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E19-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E19",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 108",
+    "enunciado": "¿Cuál es el tipo máximo del IIVTNU?",
+    "respuesta": "El tipo de gravamen será el fijado por cada ayuntamiento, sin que pueda exceder del 30%; las ordenanzas pueden regular bonificaciones de hasta el 95% en transmisiones mortis causa a favor de descendientes, cónyuges y ascendientes.",
+    "explicacion": "El artículo 108 TRLRHL fija el tipo máximo del 30% para la plusvalía municipal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 20",
+    "enunciado": "¿Cuál es el hecho imponible de las tasas locales según el artículo 20 del TRLRHL?",
+    "respuesta": "La utilización privativa o el aprovechamiento especial del dominio público local, y la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+    "explicacion": "El artículo 20 TRLRHL define el hecho imponible de las tasas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 23",
+    "enunciado": "¿Quiénes son sujetos pasivos de las tasas?",
+    "respuesta": "Las personas físicas y jurídicas y las entidades del artículo 35.4 de la LGT que disfruten, utilicen o aprovechen especialmente el dominio público local, o que soliciten o resulten beneficiadas por los servicios o actividades.",
+    "explicacion": "El artículo 23 TRLRHL define los sujetos pasivos de las tasas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 24",
+    "enunciado": "¿Cómo se cuantifican las tasas?",
+    "respuesta": "El importe no podrá exceder, en su conjunto, del coste real o previsible del servicio o actividad, o del valor de la prestación recibida; para su determinación se tendrán en cuenta los costes directos e indirectos y la capacidad económica de los obligados.",
+    "explicacion": "El artículo 24 TRLRHL limita la cuantía de las tasas al coste del servicio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 26",
+    "enunciado": "¿Cuándo se devengan las tasas?",
+    "respuesta": "Cuando se inicie la prestación del servicio o la realización de la actividad, o cuando se inicie el uso privativo o aprovechamiento especial; podrá exigirse el depósito previo de su importe.",
+    "explicacion": "El artículo 26 TRLRHL fija el devengo de las tasas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 28",
+    "enunciado": "¿Cuál es el hecho imponible de las contribuciones especiales?",
+    "respuesta": "La obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos, de carácter local.",
+    "explicacion": "El artículo 28 TRLRHL define el hecho imponible de las contribuciones especiales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 31",
+    "enunciado": "¿Cuál es la base imponible de las contribuciones especiales?",
+    "respuesta": "Como máximo, el 90% del coste que la entidad local soporte por la realización de las obras o por el establecimiento o ampliación de los servicios, incluidos los costes de proyectos, obras, terrenos, indemnizaciones e intereses del capital invertido.",
+    "explicacion": "El artículo 31 TRLRHL limita la base imponible al 90% del coste soportado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 32",
+    "enunciado": "¿Cómo se reparte la cuota de las contribuciones especiales?",
+    "respuesta": "Con carácter general, mediante módulos de reparto como los metros lineales de fachada, la superficie, el volumen edificable y el valor catastral de los inmuebles; en el servicio de extinción de incendios, proporcionalmente a las primas de seguros.",
+    "explicacion": "El artículo 32 TRLRHL establece los módulos de reparto de las contribuciones especiales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué acuerdos exige la exacción de contribuciones especiales?",
+    "respuesta": "El acuerdo de imposición y el acuerdo de ordenación concretos para cada obra o servicio, que determinarán el coste previsto, la cantidad a repartir y los criterios de reparto; no cabe exigirlas sin ambos acuerdos.",
+    "explicacion": "El artículo 34 TRLRHL exige acuerdos de imposición y ordenación para cada obra.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 41",
+    "enunciado": "¿Qué son los precios públicos según el artículo 41 del TRLRHL?",
+    "respuesta": "Las contraprestaciones por la prestación de servicios o la realización de actividades de la competencia de la entidad local cuando no concurra ninguna de las circunstancias del artículo 20.1.B) (servicios no obligatorios o prestados también por el sector privado).",
+    "explicacion": "El artículo 41 TRLRHL define los precios públicos frente a las tasas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E20-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E20",
+    "ley": "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales",
+    "articulo": "art. 44",
+    "enunciado": "¿Cómo se fija la cuantía de los precios públicos?",
+    "respuesta": "Deberá cubrir como mínimo el coste del servicio prestado o de la actividad realizada; cuando existan razones sociales, benéficas, culturales o de interés público, podrán fijarse por debajo, consignándose en el presupuesto las dotaciones para la diferencia.",
+    "explicacion": "El artículo 44 TRLRHL exige que los precios públicos cubran el coste del servicio.",
+    "verificado_corpus": true
+  }
+]

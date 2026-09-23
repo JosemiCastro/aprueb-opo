@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E01",
+  "tema": "E01",
+  "tipo": "especifico",
+  "numero": 1,
+  "titulo": "Los contratos del Sector Público: objeto, ámbito, tipos y calificación",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y ámbito",
+      "texto": "Son contratos del sector público los contratos onerosos celebrados por entidades del sector público para el cumplimiento de sus fines ([[Ley 9/2017 | art. 2]]). El sector público comprende la Administración General del Estado, las Comunidades Autónomas, las Entidades Locales y demás poderes adjudicadores ([[Ley 9/2017 | art. 3]]). La Ley 9/2017 transpone las Directivas 2014/23/UE y 2014/24/UE."
+    },
+    {
+      "titulo": "2. Tipos contractuales",
+      "texto": "Los tipos principales son: obras (realización de una obra: [[Ley 9/2017 | art. 13]]), suministro (adquisición o arrendamiento de bienes muebles: [[Ley 9/2017 | art. 16]]) y servicios (prestaciones de hacer distintas de obra o suministro: [[Ley 9/2017 | art. 17]]). Existen además la concesión de obras y de servicios y los contratos mixtos, que se rigen por la prestación principal ([[Ley 9/2017 | art. 18]])."
+    },
+    {
+      "titulo": "3. Contratos sujetos a regulación armonizada",
+      "texto": "Son SARA los contratos de obras, suministro y servicios cuyo valor estimado iguala o supera los umbrales comunitarios, sometidos a reglas reforzadas de publicidad y adjudicación ([[Ley 9/2017 | art. 19]])."
+    },
+    {
+      "titulo": "4. Régimen jurídico",
+      "texto": "Los contratos administrativos se rigen por la Ley 9/2017 y su desarrollo; supletoriamente, por el Derecho administrativo y, en su defecto, por el Derecho privado ([[Ley 9/2017 | art. 25]]). La jurisdicción contencioso-administrativa conoce de las cuestiones de preparación y adjudicación de los contratos administrativos."
+    },
+    {
+      "titulo": "5. Principios de la contratación",
+      "texto": "La contratación pública se somete a los principios de libertad de acceso, publicidad, transparencia, no discriminación, igualdad de trato y proporcionalidad, garantizando la integridad y la mejor relación calidad-precio en el empleo de fondos públicos."
+    },
+    {
+      "titulo": "6. El valor estimado y los umbrales",
+      "texto": "El valor estimado del contrato determina el procedimiento de adjudicación y la sujeción a regulación armonizada. Se calcula con el importe total pagadero, incluidas prórrogas y modificaciones previstas, sin IVA. Cuando iguala o supera los umbrales fijados por la normativa europea, el contrato es SARA y se somete a publicidad en el DOUE y a reglas reforzadas ([[Ley 9/2017 | art. 19]]). La prohibición de fraccionamiento del objeto para eludir estos umbrales es una garantía esencial de la libre concurrencia. El precio del contrato, en cambio, es la contraprestación pactada con el adjudicatario. Son contratos administrativos los de obras, concesión de obras, concesión de servicios, suministro y servicios, además de los declarados tales por ley ([[Ley 9/2017 | art. 25]]). Los contratos privados de la Administración (patrimoniales, artísticos o de servicios financieros) se rigen por el Derecho privado en sus efectos, aunque su preparación y adjudicación siguen la Ley 9/2017 cuando los celebra un poder adjudicador. Esta dualidad determina la jurisdicción competente: contencioso-administrativa para los administrativos y civil para los privados."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E02",
+    "SEV-A1-E03"
+  ]
+}

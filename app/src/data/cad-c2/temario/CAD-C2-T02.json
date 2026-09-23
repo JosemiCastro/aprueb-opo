@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T02",
+  "tema": "T02",
+  "numero": 2,
+  "tipo": "comun",
+  "titulo": "La Corona. El Poder Legislativo. El Poder Ejecutivo. El Poder Judicial. El Gobierno y la Administración del Estado.",
+  "relacionados": [
+    "CAD-C2-T01",
+    "CAD-C2-T03",
+    "CAD-C2-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. La Corona",
+      "texto": "El [[Constitución Española de 1978 |  art. 56]] define al Rey como Jefe del Estado, símbolo de su unidad y permanencia, que arbitra y modera el funcionamiento regular de las instituciones y asume la más alta representación del Estado en las relaciones internacionales. La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida la línea anterior a las posteriores, el grado más próximo al más remoto, el varón a la mujer y la persona de más edad a la de menos ([[Constitución Española de 1978 |  art. 57]]). Las abdicaciones y renuncias se resolverán por ley orgánica. Las funciones del Rey ([[Constitución Española de 1978 |  art. 62]]) incluyen sancionar y promulgar las leyes, convocar y disolver las Cortes, proponer y nombrar al Presidente del Gobierno, el mando supremo de las Fuerzas Armadas y el derecho de gracia. Sus actos deben ser refrendados por el Presidente del Gobierno o los ministros competentes, que asumen la responsabilidad ([[Constitución Española de 1978 |  art. 64]]); la persona del Rey es inviolable y no está sujeta a responsabilidad."
+    },
+    {
+      "titulo": "2. El Poder Legislativo: las Cortes Generales",
+      "texto": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado; ejercen la potestad legislativa del Estado, aprueban sus Presupuestos y controlan la acción del Gobierno ([[Constitución Española de 1978 |  art. 66]]). El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, con circunscripción provincial y mandato de cuatro años ([[Constitución Española de 1978 |  art. 68]]). El Senado es la Cámara de representación territorial ([[Constitución Española de 1978 |  art. 69]]). La iniciativa legislativa corresponde al Gobierno, al Congreso, al Senado, a las Asambleas de las Comunidades Autónomas y a la iniciativa popular con 500.000 firmas, excluida en materias de ley orgánica, tributarias, internacionales o de prerrogativa de gracia ([[Constitución Española de 1978 |  art. 87]])."
+    },
+    {
+      "titulo": "3. El Poder Ejecutivo: el Gobierno",
+      "texto": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva y la potestad reglamentaria ([[Constitución Española de 1978 |  art. 97]]). Se compone del Presidente, los Vicepresidentes en su caso y los Ministros ([[Constitución Española de 1978 |  art. 98]]). El Presidente es investido por el Congreso: necesita mayoría absoluta en primera votación o mayoría simple cuarenta y ocho horas después; si en dos meses ningún candidato obtiene la confianza, se disuelven las Cámaras ([[Constitución Española de 1978 |  art. 99]]). El control parlamentario se ejerce mediante la moción de censura, que exige una décima parte de los Diputados, candidato alternativo y mayoría absoluta ([[Constitución Española de 1978 |  art. 113]]), y la cuestión de confianza planteada por el Presidente ([[Constitución Española de 1978 |  art. 114]])."
+    },
+    {
+      "titulo": "4. El Poder Judicial",
+      "texto": "La justicia emana del pueblo y se administra por Jueces y Magistrados independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley ([[Constitución Española de 1978 |  art. 117]]). El Consejo General del Poder Judicial es su órgano de gobierno, integrado por el Presidente del Tribunal Supremo, que lo presidirá, y veinte miembros nombrados por el Rey (doce jueces y ocho juristas de reconocida competencia, designados por las Cámaras por mayoría de tres quintos) ([[Constitución Española de 1978 |  art. 122]]). El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales ([[Constitución Española de 1978 |  art. 123]]). La justicia será gratuita para quienes acrediten insuficiencia de recursos para litigar."
+    },
+    {
+      "titulo": "5. El Gobierno y la Administración del Estado",
+      "texto": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho ([[Constitución Española de 1978 |  art. 103]]). El acceso a la función pública se realiza de acuerdo con los principios de mérito y capacidad. La ley regulará la audiencia de los ciudadanos en el procedimiento de elaboración de disposiciones administrativas, el acceso a los archivos y registros administrativos y el procedimiento administrativo con garantía de audiencia del interesado ([[Constitución Española de 1978 |  art. 105]]). Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa ([[Constitución Española de 1978 |  art. 106]])."
+    }
+  ]
+}

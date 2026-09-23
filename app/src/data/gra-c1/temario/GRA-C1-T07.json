@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T07",
+  "numero": 7,
+  "tema": "T07",
+  "tipo": "comun",
+  "titulo": "El procedimiento administrativo común: fases y tramitación",
+  "relacionados": [
+    "GRA-C1-T06",
+    "GRA-C1-T08",
+    "GRA-C1-E06"
+  ],
+  "secciones": [
+    {
+      "titulo": "Iniciación y derechos de los interesados",
+      "texto": "El procedimiento puede iniciarse de oficio (por propia iniciativa, orden superior, petición razonada o denuncia) o a solicitud del interesado ([[Ley 39/2015 | art. 54]]). Quienes tienen la condición de interesados gozan de los derechos del [[Ley 39/2015 | art. 53]]: conocer el estado de tramitación, identificar a autoridades y personal, no aportar documentos ya en poder de la Administración, formular alegaciones y actuar asistidos de asesor.\n\nCon carácter general, las personas tienen derecho a relacionarse electrónicamente, a ser asistidas en el uso de medios electrónicos y a la protección de sus datos ([[Ley 39/2015 | art. 13]])."
+    },
+    {
+      "titulo": "Instrucción",
+      "texto": "El procedimiento se impulsa de oficio en todos sus trámites ([[Ley 39/2015 | art. 71]]). Si la solicitud no reúne los requisitos, se requiere la subsanación en diez días con apercibimiento de desistimiento ([[Ley 39/2015 | art. 68]]).\n\nLos actos de instrucción comprenden las alegaciones, la prueba, los informes y el trámite de audiencia ([[Ley 39/2015 | art. 75]]). La audiencia se concede por plazo no inferior a diez días ni superior a quince, antes de redactar la propuesta de resolución ([[Ley 39/2015 | art. 82]])."
+    },
+    {
+      "titulo": "Terminación y obligación de resolver",
+      "texto": "El procedimiento termina por resolución expresa, desistimiento o renuncia, caducidad, imposibilidad sobrevenida o terminación convencional ([[Ley 39/2015 | art. 84]]). La resolución decide todas las cuestiones planteadas, es congruente con lo pedido y no puede agravar la situación inicial del interesado ([[Ley 39/2015 | art. 88]]).\n\nLa Administración está obligada a dictar resolución expresa en todos los procedimientos, en el plazo máximo fijado por su norma reguladora, que no puede exceder de seis meses ([[Ley 39/2015 | art. 21]]); transcurrido sin resolución se producen los efectos del silencio administrativo."
+    },
+    {
+      "titulo": "Plazos, silencio y notificaciones electrónicas",
+      "texto": "Los plazos señalados por días se computan como hábiles, excluyendo sábados, domingos y festivos; los fijados por meses o años se computan de fecha a fecha, y si el último día es inhábil el plazo se prorroga al primer hábil siguiente. La Administración debe resolver en el plazo máximo de su norma reguladora, sin exceder de seis meses ([[Ley 39/2015 | art. 21]]).\n\nEl silencio administrativo opera como acto presunto: vencido el plazo sin resolución expresa, el interesado puede entender estimada o desestimada su solicitud según disponga la norma e interponer los recursos procedentes. Las notificaciones electrónicas son obligatorias para las personas jurídicas y los profesionales colegiados, y se practican por comparecencia en la sede electrónica, entendiéndose realizadas cuando se accede a su contenido.\n\nLos registros electrónicos de cada Administración permiten la presentación de documentos todos los días del año durante las veinticuatro horas, y la sede electrónica es el punto de acceso para consultar el estado de tramitación y recibir notificaciones."
+    }
+  ]
+}

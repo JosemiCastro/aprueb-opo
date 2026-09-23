@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T03",
+  "tema": "T03",
+  "tipo": "comun",
+  "numero": 3,
+  "titulo": "La Corona y el Poder Judicial",
+  "secciones": [
+    {
+      "titulo": "1. La Corona: posición constitucional",
+      "texto": "El [[Constitución Española de 1978 | art. 56]] define al Rey como Jefe del Estado, símbolo de su unidad y permanencia, que arbitra y modera el funcionamiento regular de las instituciones y asume la más alta representación del Estado en las relaciones internacionales. Su persona es inviolable y no está sujeta a responsabilidad; de sus actos responden quienes los refrenden."
+    },
+    {
+      "titulo": "2. Sucesión, Regencia y refrendo",
+      "texto": "La sucesión es hereditaria por primogenitura y representación, con preferencia del varón sobre la mujer ([[Constitución Española de 1978 | art. 57]]). En caso de minoría de edad ejerce la Regencia el padre o la madre del Rey ([[Constitución Española de 1978 | art. 59]]). El Rey presta juramento ante las Cortes Generales de guardar la Constitución ([[Constitución Española de 1978 | art. 61]]), y sus actos son refrendados por el Presidente del Gobierno o los Ministros competentes ([[Constitución Española de 1978 | art. 64]])."
+    },
+    {
+      "titulo": "3. Funciones del Rey",
+      "texto": "Corresponde al Rey sancionar y promulgar las leyes ([[Constitución Española de 1978 | art. 62]] y [[Constitución Española de 1978 | art. 91]]), convocar y disolver las Cortes, proponer el candidato a Presidente del Gobierno, nombrar al Presidente del Gobierno y a los Ministros, ejercer el mando supremo de las Fuerzas Armadas y el derecho de gracia, entre otras funciones tasadas."
+    },
+    {
+      "titulo": "4. El Poder Judicial: principios",
+      "texto": "La justicia emana del pueblo y se administra por Jueces y Magistrados independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley ([[Constitución Española de 1978 | art. 117]]). El principio de unidad jurisdiccional es la base de la organización de los Tribunales, y se prohíben los Tribunales de excepción."
+    },
+    {
+      "titulo": "5. El Consejo General del Poder Judicial",
+      "texto": "El [[Constitución Española de 1978 | art. 122]] configura el CGPJ como órgano de gobierno del Poder Judicial: lo preside el Presidente del Tribunal Supremo y lo integran veinte vocales nombrados por el Rey por cinco años, doce entre Jueces y Magistrados y ocho entre juristas de reconocida competencia elegidos por las Cámaras por mayoría de tres quintos."
+    },
+    {
+      "titulo": "6. El Tribunal Supremo y la organización judicial",
+      "texto": "El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales. La planta judicial se completa con la Audiencia Nacional, los Tribunales Superiores de Justicia, las Audiencias Provinciales y los Juzgados. El estatuto de Jueces y Magistrados, así como la constitución y funcionamiento de los Juzgados y Tribunales, se regula por ley orgánica ([[Constitución Española de 1978 | art. 122]]). Rigen los principios de independencia, inamovilidad, responsabilidad y sometimiento exclusivo al imperio de la ley ([[Constitución Española de 1978 | art. 117]]), que aseguran una justicia imparcial al servicio de los ciudadanos."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T01",
+    "SEV-A1-T04"
+  ]
+}

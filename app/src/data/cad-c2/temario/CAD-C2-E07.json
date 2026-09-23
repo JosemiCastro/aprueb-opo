@@ -1,0 +1,31 @@
+{
+  "id": "CAD-C2-E07",
+  "tema": "E07",
+  "numero": 7,
+  "tipo": "especifico",
+  "titulo": "Funcionamiento de los órganos colegiados locales. Convocatoria y orden del día. Actas y certificaciones de acuerdos.",
+  "relacionados": [
+    "CAD-C2-T05",
+    "CAD-C2-T06",
+    "CAD-C2-T07",
+    "CAD-C2-E05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Los órganos colegiados: régimen general",
+      "texto": "Son órganos colegiados aquellos que se integran por tres o más personas, a los que se atribuyen funciones administrativas de decisión, propuesta, asesoramiento o seguimiento ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 15]]). En el ámbito local son órganos colegiados el Pleno, la Junta de Gobierno Local, las Comisiones Informativas y la Comisión Especial de Cuentas. Funcionan en régimen de sesiones ordinarias de periodicidad preestablecida y extraordinarias, que pueden ser además urgentes ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 46]]). En el ámbito local, además del Pleno y la Junta de Gobierno, tienen carácter colegiado las Comisiones Informativas y la Comisión Especial de Cuentas, que estudian y dictaminan los asuntos que se someten al Pleno."
+    },
+    {
+      "titulo": "2. Convocatoria y orden del día",
+      "texto": "Los órganos colegiados son convocados por su Secretario, por orden de su Presidente, con una antelación mínima de dos días, y la convocatoria debe contener el orden del día con los asuntos a tratar ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 17]]). No puede ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que asistan todos los miembros y sea declarada la urgencia por el voto favorable de la mayoría. Para la válida constitución del órgano se requiere la asistencia del Presidente y del Secretario (o quienes les sustituyan) y la de la mitad, al menos, de sus miembros."
+    },
+    {
+      "titulo": "3. Desarrollo de las sesiones y adopción de acuerdos",
+      "texto": "Las sesiones pueden ser presenciales o a distancia por medios electrónicos que garanticen la identidad, el contenido de las manifestaciones y el momento en que se producen ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 17]]). Los acuerdos se adoptan por mayoría de votos, con carácter general por mayoría simple de los miembros presentes; el voto puede ser ordinario, nominal o secreto. En el ámbito local, determinadas materias exigen mayoría absoluta del número legal de miembros (art. 47 de la Ley 7/1985). En caso de empate en las votaciones decide el voto de calidad del Presidente, y los miembros pueden formular votos particulares que se incorporan al acta cuando discrepen del acuerdo adoptado."
+    },
+    {
+      "titulo": "4. Actas y certificaciones de acuerdos",
+      "texto": "De cada sesión se levantará acta por el Secretario, que especificará los asistentes, el orden del día, las circunstancias de lugar y tiempo, los puntos principales de las deliberaciones y el contenido de los acuerdos adoptados ([[Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público |  art. 18]]). Las actas se aprobarán en la misma o en la siguiente sesión. El Secretario puede emitir certificación sobre los acuerdos específicos adoptados, sin perjuicio de la ulterior aprobación del acta, haciendo constar expresamente tal circunstancia. En las entidades locales, la fe pública y el asesoramiento legal preceptivo corresponden al Secretario de la Corporación."
+    }
+  ]
+}

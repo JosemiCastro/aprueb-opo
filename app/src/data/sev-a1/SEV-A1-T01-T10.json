@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "SEV-A1-T01-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué valores superiores propugna el artículo 1.1 de la Constitución Española como valores de su ordenamiento jurídico?",
+    "respuesta": "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "explicacion": "El artículo 1.1 CE dispone que España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 1",
+    "enunciado": "Según el artículo 1 de la Constitución, ¿en quién reside la soberanía nacional y cuál es la forma política del Estado español?",
+    "respuesta": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado; la forma política del Estado español es la Monarquía parlamentaria.",
+    "explicacion": "El artículo 1.2 CE atribuye la soberanía nacional al pueblo español y el artículo 1.3 establece que la forma política del Estado español es la Monarquía parlamentaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 9",
+    "enunciado": "¿Qué garantías recoge el artículo 9.3 de la Constitución?",
+    "respuesta": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "explicacion": "El artículo 9.3 CE garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 10",
+    "enunciado": "¿Cómo deben interpretarse las normas relativas a los derechos fundamentales y libertades públicas según el artículo 10.2 de la Constitución?",
+    "respuesta": "De conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+    "explicacion": "El artículo 10.2 CE impone interpretar las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce de conformidad con la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 135",
+    "enunciado": "¿Qué establece el artículo 135.1 de la Constitución sobre la estabilidad presupuestaria?",
+    "respuesta": "Que todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.",
+    "explicacion": "El artículo 135.1 CE, en la redacción dada por la reforma de 2011, dispone que todas las Administraciones Públicas adecuarán sus actuaciones al principio de estabilidad presupuestaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 135",
+    "enunciado": "¿Qué prioridad establece el artículo 135.3 de la Constitución respecto del pago de la deuda pública?",
+    "respuesta": "Los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones se entenderán siempre incluidos en el estado de gastos de sus presupuestos y su pago gozará de prioridad absoluta.",
+    "explicacion": "El artículo 135.3 CE establece que los créditos para satisfacer los intereses y el capital de la deuda pública se entenderán siempre incluidos en el estado de gastos de los presupuestos y que su pago gozará de prioridad absoluta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 167",
+    "enunciado": "¿Qué mayorías exige el artículo 167 de la Constitución para la reforma constitucional ordinaria?",
+    "respuesta": "Aprobación por mayoría de tres quintos de cada una de las Cámaras; si no hubiera acuerdo, se crea una Comisión mixta paritaria; y referéndum si lo solicitan una décima parte de los miembros de cualquiera de las Cámaras.",
+    "explicacion": "El artículo 167 CE regula el procedimiento ordinario de reforma: mayoría de tres quintos de cada Cámara, Comisión mixta paritaria en caso de desacuerdo y referéndum potestativo si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T01-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 168",
+    "enunciado": "¿Qué procedimiento exige el artículo 168 de la Constitución para la reforma total o de sus partes más protegidas?",
+    "respuesta": "Aprobación del principio por mayoría de dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación de la decisión y estudio del nuevo texto por las nuevas Cámaras elegidas (también por dos tercios) y referéndum para su ratificación.",
+    "explicacion": "El artículo 168 CE establece el procedimiento agravado de reforma (reforma total, Título Preliminar, Capítulo II Sección 1.ª del Título I o Título II): dos tercios de cada Cámara, disolución de las Cortes, nuevas Cámaras que ratifican por dos tercios y referéndum.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué proclama el artículo 14 de la Constitución en materia de igualdad?",
+    "respuesta": "Que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "explicacion": "El artículo 14 CE consagra la igualdad formal ante la ley y prohíbe toda discriminación por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué dispone el artículo 15 de la Constitución sobre el derecho a la vida y la pena de muerte?",
+    "respuesta": "Todos tienen derecho a la vida y a la integridad física y moral, sin que puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes; queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+    "explicacion": "El artículo 15 CE reconoce el derecho a la vida y a la integridad física y moral y abole la pena de muerte, con la única salvedad de lo que dispongan las leyes penales militares para tiempos de guerra.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué garantías establece el artículo 17 de la Constitución respecto de la detención preventiva?",
+    "respuesta": "Toda persona tiene derecho a la libertad y a la seguridad; nadie puede ser privado de su libertad sino con observancia de la ley; la detención preventiva no podrá durar más del tiempo estrictamente necesario y, en todo caso, un máximo de setenta y dos horas; se garantiza el habeas corpus.",
+    "explicacion": "El artículo 17 CE limita la detención preventiva al tiempo estrictamente necesario para las averiguaciones, con un máximo de setenta y dos horas, tras las cuales el detenido debe ser puesto en libertad o a disposición judicial, y garantiza el procedimiento de habeas corpus.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 18",
+    "enunciado": "¿En qué casos puede vulnerarse la inviolabilidad del domicilio según el artículo 18.2 de la Constitución?",
+    "respuesta": "El domicilio es inviolable: ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+    "explicacion": "El artículo 18.2 CE declara el domicilio inviolable y solo permite la entrada o registro con consentimiento del titular, resolución judicial o en caso de flagrante delito.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 20",
+    "enunciado": "¿Cuáles son los límites de la libertad de expresión según el artículo 20.4 de la Constitución?",
+    "respuesta": "El respeto a los derechos reconocidos en el Título I, los preceptos de las leyes que lo desarrollan y, especialmente, el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.",
+    "explicacion": "El artículo 20.4 CE establece que la libertad de expresión tiene su límite en el respeto a los derechos del Título I, en las leyes de desarrollo y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y la infancia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 24",
+    "enunciado": "¿Qué garantías incluye el derecho a la tutela judicial efectiva del artículo 24 de la Constitución?",
+    "respuesta": "El derecho a obtener la tutela efectiva de jueces y tribunales, sin indefensión; al juez ordinario predeterminado por la ley; a la defensa y a la asistencia de letrado; a un proceso público sin dilaciones indebidas y con todas las garantías; y a la presunción de inocencia.",
+    "explicacion": "El artículo 24 CE enumera las garantías de la tutela judicial efectiva: juez ordinario predeterminado por la ley, defensa, asistencia de letrado, proceso público sin dilaciones indebidas y presunción de inocencia, entre otras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 53",
+    "enunciado": "¿Qué protección jurisdiccional otorga el artículo 53.2 de la Constitución a los derechos fundamentales?",
+    "respuesta": "Cualquier ciudadano podrá recabar su tutela ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+    "explicacion": "El artículo 53.2 CE reserva la tutela reforzada (procedimiento preferente y sumario ante la jurisdicción ordinaria y recurso de amparo ante el TC) a los derechos del artículo 14 y la Sección 1.ª del Capítulo II, además del artículo 30.2.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T02-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué derechos pueden suspenderse en los estados de excepción y de sitio según el artículo 55.1 de la Constitución?",
+    "respuesta": "Los artículos 17, 18.2, 18.3, 19, 20.1.a) y d), 20.5, 21, 28.2 y 37.2; y en caso de terrorismo o bandas armadas (art. 55.2), los artículos 17.2, 18.2 y 18.3, con intervención judicial y control parlamentario.",
+    "explicacion": "El artículo 55.1 CE permite suspender determinados derechos en los estados de excepción y sitio (17, 18.2, 18.3, 19, 20.1.a y d, 20.5, 21, 28.2, 37.2), y el 55.2 autoriza una suspensión individualizada frente al terrorismo con garantías judiciales y parlamentarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 56",
+    "enunciado": "¿Qué posición atribuye el artículo 56 de la Constitución al Rey?",
+    "respuesta": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales y ejerce las funciones que le atribuyen la Constitución y las leyes.",
+    "explicacion": "El artículo 56.1 CE define al Rey como Jefe del Estado, símbolo de su unidad y permanencia, con funciones de arbitraje y moderación del funcionamiento regular de las instituciones y la más alta representación internacional del Estado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 57",
+    "enunciado": "¿Qué orden de sucesión a la Corona establece el artículo 57.1 de la Constitución?",
+    "respuesta": "La sucesión es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón por el orden regular de primogenitura y representación, con preferencia de la línea anterior a las posteriores, del grado más próximo al más remoto, del varón a la mujer y del mayor al menor dentro del mismo sexo.",
+    "explicacion": "El artículo 57.1 CE fija el orden sucesorio: primogenitura y representación, preferencia de línea anterior, grado más próximo, varón sobre mujer y mayor sobre menor en el mismo sexo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 59",
+    "enunciado": "¿Quién ejerce la Regencia cuando el Rey fuere menor de edad según el artículo 59 de la Constitución?",
+    "respuesta": "El padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona; si no existiere ninguna de estas personas, las Cortes Generales nombrarán a una, tres o cinco personas para ejercerla.",
+    "explicacion": "El artículo 59 CE regula la Regencia: en caso de minoría de edad del Rey la ejerce el padre o la madre y, en su defecto, el pariente mayor de edad más próximo a la sucesión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 61",
+    "enunciado": "¿Ante quién y con qué contenido presta juramento el Rey según el artículo 61 de la Constitución?",
+    "respuesta": "Ante las Cortes Generales, al ser proclamado: desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+    "explicacion": "El artículo 61.1 CE impone al Rey prestar juramento ante las Cortes Generales de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "arts. 62 y 91",
+    "enunciado": "¿A quién corresponde sancionar y promulgar las leyes y en qué plazo?",
+    "respuesta": "Al Rey, que sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, las promulgará y ordenará su inmediata publicación.",
+    "explicacion": "Los artículos 62.a) y 91 CE atribuyen al Rey sancionar y promulgar las leyes en el plazo de quince días desde su aprobación por las Cortes Generales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 64",
+    "enunciado": "¿Qué es el refrendo y quién responde de los actos del Rey según el artículo 64 de la Constitución?",
+    "respuesta": "Los actos del Rey son refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes; la propuesta y el nombramiento del Presidente del Gobierno y la disolución prevista en el artículo 99 son refrendados por el Presidente del Congreso; de los actos del Rey serán responsables quienes los refrenden.",
+    "explicacion": "El artículo 64 CE establece el refrendo ministerial de los actos del Rey y dispone que serán responsables quienes los refrenden, consagrando la irresponsabilidad personal del Rey (art. 56.3).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué principios rigen el ejercicio de la potestad jurisdiccional según el artículo 117 de la Constitución?",
+    "respuesta": "La justicia emana del pueblo y se administra por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+    "explicacion": "El artículo 117 CE consagra la independencia judicial: los jueces están sometidos únicamente al imperio de la ley, son inamovibles y responsables, y la justicia emana del pueblo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T03-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 122",
+    "enunciado": "¿Cómo se compone el Consejo General del Poder Judicial según el artículo 122 de la Constitución?",
+    "respuesta": "Por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte vocales nombrados por el Rey por un período de cinco años: doce entre Jueces y Magistrados de todas las categorías judiciales y cuatro a propuesta del Congreso y cuatro a propuesta del Senado, elegidos por mayoría de tres quintos entre juristas de reconocida competencia con más de quince años de ejercicio.",
+    "explicacion": "El artículo 122.3 CE fija la composición del CGPJ: Presidente del TS más veinte vocales (doce judiciales y ocho juristas de reconocida competencia), nombrados por el Rey por cinco años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 66",
+    "enunciado": "¿Qué son las Cortes Generales y qué funciones ejercen según el artículo 66 de la Constitución?",
+    "respuesta": "Representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado; ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.",
+    "explicacion": "El artículo 66 CE define a las Cortes Generales como representantes del pueblo español, integradas por Congreso y Senado, y les atribuye la potestad legislativa, la aprobación de los Presupuestos y el control del Gobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 68",
+    "enunciado": "¿Cómo se compone el Congreso de los Diputados según el artículo 68 de la Constitución?",
+    "respuesta": "Por un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto; la circunscripción electoral es la provincia y el mandato dura cuatro años.",
+    "explicacion": "El artículo 68 CE fija la composición del Congreso (300-400 diputados), el sufragio universal, libre, igual, directo y secreto, la circunscripción provincial y el mandato de cuatro años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 69",
+    "enunciado": "¿Cómo se compone el Senado según el artículo 69 de la Constitución?",
+    "respuesta": "En cada provincia se eligen cuatro Senadores por sufragio universal, libre, igual, directo y secreto (con especialidades insulares y para Ceuta y Melilla); además, las Comunidades Autónomas designan un Senador y otro más por cada millón de habitantes; el mandato es de cuatro años.",
+    "explicacion": "El artículo 69 CE regula la composición del Senado: cuatro senadores por provincia elegidos por sufragio universal más los designados por las Comunidades Autónomas (uno más uno por cada millón de habitantes).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 75",
+    "enunciado": "¿Cómo funcionan las Cámaras y qué delegación legislativa permiten según el artículo 75 de la Constitución?",
+    "respuesta": "Funcionan en Pleno y por Comisiones; pueden delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley, salvo reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases y Presupuestos Generales del Estado.",
+    "explicacion": "El artículo 75 CE establece el funcionamiento en Pleno y Comisiones y permite delegar en Comisiones Legislativas Permanentes la aprobación de leyes, con las exclusiones tasadas (reforma constitucional, cuestiones internacionales, leyes orgánicas y de bases y Presupuestos).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 81",
+    "enunciado": "¿Qué materias se regulan por ley orgánica y qué mayoría exige su aprobación según el artículo 81 de la Constitución?",
+    "respuesta": "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución; su aprobación, modificación o derogación exige mayoría absoluta del Congreso.",
+    "explicacion": "El artículo 81 CE reserva a la ley orgánica el desarrollo de los derechos fundamentales, los Estatutos de Autonomía y el régimen electoral general, exigiendo mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 86",
+    "enunciado": "¿Qué es el decreto-ley y qué límites tiene según el artículo 86 de la Constitución?",
+    "respuesta": "Norma con rango de ley dictada por el Gobierno en caso de extraordinaria y urgente necesidad; no puede afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al derecho electoral general; debe someterse a convalidación del Congreso en treinta días.",
+    "explicacion": "El artículo 86 CE regula el decreto-ley: presupuesto de extraordinaria y urgente necesidad, límites materiales tasados y convalidación por el Congreso en el plazo de treinta días.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 54",
+    "enunciado": "¿Qué es el Defensor del Pueblo según el artículo 54 de la Constitución?",
+    "respuesta": "Un alto comisionado de las Cortes Generales designado por éstas para la defensa de los derechos comprendidos en el Título I, que supervisa la actividad de la Administración dando cuenta a las Cortes Generales.",
+    "explicacion": "El artículo 54 CE configura al Defensor del Pueblo como alto comisionado de las Cortes para la defensa de los derechos del Título I, con funciones de supervisión de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T04-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 136",
+    "enunciado": "¿Qué es el Tribunal de Cuentas según el artículo 136 de la Constitución?",
+    "respuesta": "El supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público; depende directamente de las Cortes Generales y ejerce sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado.",
+    "explicacion": "El artículo 136 CE define al Tribunal de Cuentas como supremo órgano fiscalizador de las cuentas y la gestión económica del Estado y del sector público, dependiente directamente de las Cortes Generales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 97",
+    "enunciado": "¿Qué funciones atribuye el artículo 97 de la Constitución al Gobierno?",
+    "respuesta": "Dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado; ejercer la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+    "explicacion": "El artículo 97 CE atribuye al Gobierno la dirección de la política interior y exterior, la Administración civil y militar, la defensa del Estado, la función ejecutiva y la potestad reglamentaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 98",
+    "enunciado": "¿Cómo se compone el Gobierno según el artículo 98 de la Constitución?",
+    "respuesta": "Del Presidente, de los Vicepresidentes en su caso, de los Ministros y de los demás miembros que establezca la ley; el Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros.",
+    "explicacion": "El artículo 98 CE fija la composición del Gobierno (Presidente, Vicepresidentes, Ministros y demás miembros legales) y atribuye al Presidente la dirección y coordinación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 99",
+    "enunciado": "¿Cómo se produce la investidura del Presidente del Gobierno según el artículo 99 de la Constitución?",
+    "respuesta": "El Rey propone un candidato previa consulta con los grupos parlamentarios; el Congreso vota: mayoría absoluta en primera votación o mayoría simple en la segunda; si en dos meses ningún candidato obtiene la confianza, el Rey disuelve las Cámaras y convoca nuevas elecciones.",
+    "explicacion": "El artículo 99 CE regula la investidura: propuesta regia tras consultas, mayoría absoluta en primera votación, mayoría simple cuarenta y ocho horas después, y disolución automática si en dos meses nadie alcanza la confianza.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 102",
+    "enunciado": "¿Cómo se exige la responsabilidad criminal del Presidente y de los Ministros según el artículo 102 de la Constitución?",
+    "respuesta": "Ante la Sala de lo Penal del Tribunal Supremo; si la acusación fuese por traición o por cualquier delito contra la seguridad del Estado en el ejercicio de sus funciones, solo podrá ser planteada por iniciativa de la cuarta parte de los miembros del Congreso y con la aprobación de la mayoría absoluta del mismo.",
+    "explicacion": "El artículo 102 CE somete la responsabilidad criminal del Presidente y los Ministros a la Sala de lo Penal del Tribunal Supremo, con iniciativa cualificada para los delitos de traición o contra la seguridad del Estado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 103",
+    "enunciado": "¿Con qué principios actúa la Administración Pública según el artículo 103.1 de la Constitución?",
+    "respuesta": "Sirve con objetividad los intereses generales y actúa con sometimiento pleno a la ley y al Derecho, de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+    "explicacion": "El artículo 103.1 CE consagra el sometimiento pleno de la Administración a la ley y al Derecho y los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 106",
+    "enunciado": "¿Qué control ejercen los Tribunales sobre la Administración según el artículo 106 de la Constitución?",
+    "respuesta": "Controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican; los particulares tienen derecho a ser indemnizados por toda lesión en sus bienes y derechos consecuencia del funcionamiento de los servicios públicos, salvo fuerza mayor.",
+    "explicacion": "El artículo 106 CE atribuye a los Tribunales el control de la potestad reglamentaria y de la legalidad administrativa y reconoce el derecho a indemnización por el funcionamiento de los servicios públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 55",
+    "enunciado": "¿Cómo se organiza la Administración General del Estado según el artículo 55 de la Ley 40/2015?",
+    "respuesta": "En organización central, integrada por los Ministerios y los servicios comunes, y organización territorial, integrada por las Delegaciones del Gobierno en las Comunidades Autónomas y las Subdelegaciones del Gobierno en las provincias.",
+    "explicacion": "El artículo 55 de la Ley 40/2015 estructura la AGE en organización central (Ministerios) y organización territorial (Delegaciones y Subdelegaciones del Gobierno).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T05-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T05",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 69",
+    "enunciado": "¿Qué son las Delegaciones y Subdelegaciones del Gobierno según el artículo 69 de la Ley 40/2015?",
+    "respuesta": "Órganos de la Administración General del Estado en el territorio: las Delegaciones en las Comunidades Autónomas y las Subdelegaciones en las provincias; el Delegado del Gobierno representa al Gobierno en la Comunidad Autónoma y dirige la Administración General del Estado en su territorio.",
+    "explicacion": "El artículo 69 de la Ley 40/2015 configura las Delegaciones y Subdelegaciones del Gobierno como la organización territorial de la AGE, con el Delegado del Gobierno como representante del Gobierno en la Comunidad Autónoma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 159",
+    "enunciado": "¿Cómo se compone el Tribunal Constitucional según el artículo 159.1 de la Constitución?",
+    "respuesta": "De doce miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres quintos, cuatro a propuesta del Senado por mayoría de tres quintos, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial, entre juristas de reconocida competencia con más de quince años de ejercicio profesional.",
+    "explicacion": "El artículo 159.1 CE fija la composición del TC: doce miembros de designación parlamentaria, gubernamental y judicial, todos juristas de reconocida competencia con más de quince años de ejercicio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 159",
+    "enunciado": "¿Cuál es el mandato de los miembros del Tribunal Constitucional y cómo se renueva según el artículo 159.3?",
+    "respuesta": "Son designados por un período de nueve años y se renovarán por terceras partes cada tres.",
+    "explicacion": "El artículo 159.3 CE establece el mandato de nueve años de los magistrados del TC y su renovación por terceras partes cada tres años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 159",
+    "enunciado": "¿Cómo se nombra al Presidente del Tribunal Constitucional según el artículo 159.4?",
+    "respuesta": "El Rey lo nombra entre sus miembros, a propuesta del mismo Tribunal en pleno y por un período de tres años.",
+    "explicacion": "El artículo 159.4 CE dispone que el Presidente del TC es nombrado por el Rey entre sus miembros, a propuesta del Pleno del Tribunal, por tres años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 161",
+    "enunciado": "¿Cuáles son las competencias del Tribunal Constitucional según el artículo 161.1 de la Constitución?",
+    "respuesta": "El recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley; el recurso de amparo por violación de los derechos y libertades del artículo 14 y la Sección 1.ª del Capítulo II (y el 30.2); los conflictos de competencia entre el Estado y las Comunidades Autónomas o de éstas entre sí; y las demás materias que le atribuyan la Constitución o las leyes orgánicas.",
+    "explicacion": "El artículo 161.1 CE enumera las competencias del TC: recurso de inconstitucionalidad, recurso de amparo, conflictos de competencia y demás materias atribuidas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 161",
+    "enunciado": "¿Qué efecto produce la impugnación por el Gobierno de una disposición autonómica según el artículo 161.2 de la Constitución?",
+    "respuesta": "La impugnación por el Gobierno de las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas produce la suspensión automática de la disposición impugnada.",
+    "explicacion": "El artículo 161.2 CE establece que la impugnación gubernamental de disposiciones autonómicas ante el TC produce la suspensión de la disposición o resolución recurrida.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 162",
+    "enunciado": "¿Quiénes están legitimados para interponer el recurso de inconstitucionalidad según el artículo 162.1.a) de la Constitución?",
+    "respuesta": "El Presidente del Gobierno, el Defensor del Pueblo, cincuenta Diputados, cincuenta Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+    "explicacion": "El artículo 162.1.a) CE enumera la legitimación para el recurso de inconstitucionalidad: Presidente del Gobierno, Defensor del Pueblo, cincuenta Diputados, cincuenta Senadores y órganos autonómicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 163",
+    "enunciado": "¿Qué es la cuestión de inconstitucionalidad del artículo 163 de la Constitución?",
+    "respuesta": "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley aplicable al caso y de cuya validez dependa el fallo pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional.",
+    "explicacion": "El artículo 163 CE regula la cuestión de inconstitucionalidad: el juez que dude de la constitucionalidad de una norma legal aplicable al caso la eleva al TC.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T06-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 164",
+    "enunciado": "¿Qué efectos tienen las sentencias del Tribunal Constitucional según el artículo 164 de la Constitución?",
+    "respuesta": "Tienen el valor de cosa juzgada a partir del día siguiente de su publicación; las que declaren la inconstitucionalidad de una norma tienen plenos efectos frente a todos.",
+    "explicacion": "El artículo 164 CE atribuye a las sentencias del TC valor de cosa juzgada desde el día siguiente a su publicación y eficacia erga omnes a las declarativas de inconstitucionalidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 137",
+    "enunciado": "¿Cómo se organiza territorialmente el Estado según el artículo 137 de la Constitución?",
+    "respuesta": "En municipios, en provincias y en las Comunidades Autónomas que se constituyan; todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+    "explicacion": "El artículo 137 CE establece la organización territorial del Estado en municipios, provincias y Comunidades Autónomas, todas dotadas de autonomía para la gestión de sus intereses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Qué garantiza el artículo 140 de la Constitución respecto de los municipios?",
+    "respuesta": "La autonomía de los municipios, que gozarán de personalidad jurídica plena; su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.",
+    "explicacion": "El artículo 140 CE garantiza la autonomía de los municipios, con personalidad jurídica plena, y atribuye su gobierno y administración a los Ayuntamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué es la provincia según el artículo 141 de la Constitución?",
+    "respuesta": "Una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado; su gobierno y administración autónoma están encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
+    "explicacion": "El artículo 141 CE define la provincia como entidad local con personalidad jurídica propia, agrupación de municipios y división territorial del Estado, gobernada por Diputaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 142",
+    "enunciado": "¿Qué establece el artículo 142 de la Constitución sobre las Haciendas locales?",
+    "respuesta": "Que deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+    "explicacion": "El artículo 142 CE consagra la suficiencia financiera de las Haciendas locales: tributos propios y participación en los tributos del Estado y de las Comunidades Autónomas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 143",
+    "enunciado": "¿Qué territorios pueden acceder al autogobierno por la vía del artículo 143 de la Constitución?",
+    "respuesta": "Las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica.",
+    "explicacion": "El artículo 143 CE regula la vía lenta de acceso a la autonomía para provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 148",
+    "enunciado": "¿Qué tipo de competencias pueden asumir las Comunidades Autónomas según el artículo 148 de la Constitución?",
+    "respuesta": "Las materias enumeradas en el artículo 148.1, como organización de sus instituciones de autogobierno, ordenación del territorio, obras públicas de interés autonómico, agricultura, montes, medio ambiente, sanidad e higiene, entre otras.",
+    "explicacion": "El artículo 148.1 CE enumera las competencias que las Comunidades Autónomas pueden asumir en sus Estatutos (organización institucional, territorio, obras públicas, agricultura, sanidad, etc.).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 149",
+    "enunciado": "¿Qué competencias exclusivas del Estado en materia administrativa establece el artículo 149.1.18.ª de la Constitución?",
+    "respuesta": "Las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios, que garantizarán a los administrados un tratamiento común; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; y la legislación sobre expropiación forzosa, responsabilidad y sistema de responsabilidad de las Administraciones Públicas.",
+    "explicacion": "El artículo 149.1.18.ª CE reserva al Estado las bases del régimen jurídico de las Administraciones Públicas, el procedimiento administrativo común y la legislación de expropiación forzosa y responsabilidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T07-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 155",
+    "enunciado": "¿En qué consiste la coerción estatal del artículo 155 de la Constitución?",
+    "respuesta": "Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan o atentare gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en caso de no ser atendido, con la aprobación por mayoría absoluta del Senado, podrá adoptar las medidas necesarias para obligar a aquélla al cumplimiento forzoso.",
+    "explicacion": "El artículo 155 CE permite al Gobierno, previo requerimiento desatendido y con aprobación de la mayoría absoluta del Senado, adoptar las medidas necesarias para el cumplimiento forzoso por la Comunidad Autónoma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 1",
+    "enunciado": "¿Cómo se define Andalucía en el artículo 1 del Estatuto de Autonomía?",
+    "respuesta": "Andalucía, como nacionalidad histórica y en el ejercicio del derecho de autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la unidad de la nación española, de acuerdo con la Constitución y el Estatuto, que es su norma institucional básica.",
+    "explicacion": "El artículo 1 del Estatuto de Autonomía define a Andalucía como nacionalidad histórica constituida en Comunidad Autónoma, siendo el Estatuto su norma institucional básica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 4",
+    "enunciado": "¿Cuál es la capital de Andalucía y dónde tienen su sede sus instituciones según el artículo 4 del Estatuto?",
+    "respuesta": "La capital de Andalucía es la ciudad de Sevilla, sede del Parlamento, de la Presidencia de la Junta y del Consejo de Gobierno, sin perjuicio de que estas instituciones puedan celebrar sesiones en otros lugares de Andalucía.",
+    "explicacion": "El artículo 4 del Estatuto establece que Sevilla es la capital de Andalucía y sede del Parlamento, la Presidencia de la Junta y el Consejo de Gobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 5",
+    "enunciado": "¿Quiénes tienen la condición política de andaluces según el artículo 5 del Estatuto?",
+    "respuesta": "Los ciudadanos españoles que tengan vecindad administrativa en cualquiera de los municipios de Andalucía; también se reconoce la condición a los andaluces en el exterior.",
+    "explicacion": "El artículo 5 del Estatuto atribuye la condición política de andaluz a los españoles con vecindad administrativa en Andalucía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 10",
+    "enunciado": "¿Qué son los objetivos básicos de la Comunidad Autónoma según el artículo 10 del Estatuto?",
+    "respuesta": "Los fines y metas que la Comunidad Autónoma debe perseguir en el ejercicio de sus competencias, como la consecución del pleno empleo, la cohesión social, la igualdad o la protección del medio ambiente, entre otros.",
+    "explicacion": "El artículo 10 del Estatuto enumera los objetivos básicos que orientan la acción de la Comunidad Autónoma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 60",
+    "enunciado": "¿Qué competencia atribuye el artículo 60 del Estatuto a la Comunidad Autónoma en materia de régimen local?",
+    "respuesta": "La competencia exclusiva en materia de régimen local que, respetando el artículo 149.1.18.ª de la Constitución y el principio de autonomía local, incluye las relaciones entre las instituciones de la Junta y los entes locales, las técnicas de organización y de relación y la determinación de las competencias y potestades propias de los municipios y demás entes locales.",
+    "explicacion": "El artículo 60 del Estatuto atribuye a Andalucía la competencia exclusiva en materia de régimen local, con respeto al artículo 149.1.18.ª CE y al principio de autonomía local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 99",
+    "enunciado": "¿Qué es la Junta de Andalucía según el artículo 99 del Estatuto?",
+    "respuesta": "La institución en que se organiza políticamente el autogobierno de la Comunidad Autónoma, integrada por el Parlamento de Andalucía, la Presidencia de la Junta y el Consejo de Gobierno.",
+    "explicacion": "El artículo 99 del Estatuto define a la Junta de Andalucía como la institución del autogobierno, integrada por el Parlamento, la Presidencia y el Consejo de Gobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 101",
+    "enunciado": "¿Cómo se compone el Parlamento de Andalucía según el artículo 101 del Estatuto?",
+    "respuesta": "Por un mínimo de 109 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto, que representan a toda Andalucía y no están sujetos a mandato imperativo.",
+    "explicacion": "El artículo 101 del Estatuto fija la composición del Parlamento (mínimo 109 diputados), elegidos por sufragio universal, igual, libre, directo y secreto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T08-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T08",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué funciones corresponden al Presidente de la Junta según el artículo 117 del Estatuto?",
+    "respuesta": "Dirige y coordina la actividad del Consejo de Gobierno, coordina la Administración de la Comunidad Autónoma, designa y separa a los Consejeros y ostenta la suprema representación de la Comunidad Autónoma y la ordinaria del Estado en Andalucía.",
+    "explicacion": "El artículo 117 del Estatuto atribuye al Presidente la dirección y coordinación del Consejo de Gobierno y de la Administración autonómica, además de la representación de la Comunidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Qué principio del régimen local garantiza el artículo 140 de la Constitución?",
+    "respuesta": "La autonomía de los municipios: garantiza su autonomía, les reconoce personalidad jurídica plena y encomienda su gobierno y administración a sus respectivos Ayuntamientos.",
+    "explicacion": "El artículo 140 CE garantiza constitucionalmente la autonomía municipal, con personalidad jurídica plena y gobierno por los Ayuntamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué entidades locales básicas reconoce el artículo 1 de la Ley 7/1985?",
+    "respuesta": "El Municipio, la Provincia y la Isla, como entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos.",
+    "explicacion": "El artículo 1 de la Ley 7/1985 identifica como entidades locales básicas al Municipio, la Provincia y la Isla.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades locales enumera el artículo 3 de la Ley 7/1985?",
+    "respuesta": "Como entidades locales territoriales: el Municipio, la Provincia y la Isla; y también gozan de la condición de Entidades locales las entidades de ámbito territorial inferior al Municipio, las Comarcas, las Áreas Metropolitanas y las Mancomunidades de Municipios.",
+    "explicacion": "El artículo 3 de la Ley 7/1985 distingue las entidades locales territoriales (Municipio, Provincia, Isla) de otras entidades locales (ámbito inferior al municipio, comarcas, áreas metropolitanas, mancomunidades).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 4",
+    "enunciado": "¿De qué potestades gozan las entidades locales territoriales según el artículo 4.1 de la Ley 7/1985?",
+    "respuesta": "La potestad reglamentaria y de autoorganización; la tributaria y financiera; la de programación o planificación; la expropiatoria y de investigación, deslinde y recuperación de oficio de sus bienes; la presunción de legitimidad y la ejecutividad de sus actos; la de ejecución forzosa y sancionadora; y la de revisión de oficio de sus actos y acuerdos.",
+    "explicacion": "El artículo 4.1 de la Ley 7/1985 enumera las potestades de las entidades locales territoriales: reglamentaria, tributaria, de planificación, expropiatoria, ejecutividad, ejecución forzosa y sancionadora y revisión de oficio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 5",
+    "enunciado": "¿Cuáles son las fuentes del régimen local según el artículo 5 de la Ley 7/1985?",
+    "respuesta": "La legislación del Estado y la de las Comunidades Autónomas, dictadas conforme a lo dispuesto en la Constitución en los términos de esta Ley.",
+    "explicacion": "El artículo 5 de la Ley 7/1985 establece que el régimen local se rige por la legislación del Estado y de las Comunidades Autónomas conforme a la Constitución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué derecho asegura el artículo 2 de la Ley 7/1985 a los Municipios, Provincias e Islas?",
+    "respuesta": "Su derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles las competencias que proceda en atención a las características de la actividad pública y a la capacidad de gestión de la Entidad Local.",
+    "explicacion": "El artículo 2 de la Ley 7/1985 asegura a las entidades locales su derecho a intervenir en los asuntos de su círculo de intereses, como concreción de la autonomía local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T09-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Ley 7/1985",
+    "articulo": "—",
+    "enunciado": "¿Qué entiende la Carta Europea de la Autonomía Local por autonomía local?",
+    "respuesta": "El derecho y la capacidad efectiva de las Entidades locales de ordenar y gestionar una parte importante de los asuntos públicos, en el marco de la Ley, bajo su propia responsabilidad y en beneficio de sus habitantes.",
+    "explicacion": "La Carta Europea de la Autonomía Local (1985, ratificada por España) define la autonomía local como el derecho y la capacidad efectiva de ordenar y gestionar los asuntos públicos locales bajo responsabilidad propia.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T09-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T09",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué agrupaciones de municipios distintas de la provincia permite el artículo 141.3 de la Constitución?",
+    "respuesta": "Mediante ley se podrán crear agrupaciones de municipios diferentes de la provincia.",
+    "explicacion": "El artículo 141.3 CE permite crear por ley agrupaciones de municipios diferentes de la provincia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T10-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 93",
+    "enunciado": "¿Cómo puede España atribuir competencias a una organización internacional según el artículo 93 de la Constitución?",
+    "respuesta": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución.",
+    "explicacion": "El artículo 93 CE permite, mediante ley orgánica, atribuir a organizaciones internacionales el ejercicio de competencias derivadas de la Constitución: es la base constitucional de la integración europea.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T10-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Cuáles son las instituciones de la Unión Europea según el artículo 13 del Tratado de la Unión Europea?",
+    "respuesta": "El Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión Europea, el Tribunal de Justicia de la Unión Europea, el Banco Central Europeo y el Tribunal de Cuentas.",
+    "explicacion": "El artículo 13 TUE enumera las siete instituciones de la Unión: Parlamento Europeo, Consejo Europeo, Consejo, Comisión, TJUE, BCE y Tribunal de Cuentas.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Cómo se elige el Parlamento Europeo y cuál es la duración de su mandato?",
+    "respuesta": "Por sufragio universal directo de los ciudadanos europeos, con un mandato de cinco años.",
+    "explicacion": "El Parlamento Europeo es la única institución de la UE elegida por sufragio universal directo, con legislaturas de cinco años.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Qué función tiene el Consejo Europeo y quiénes lo componen?",
+    "respuesta": "Define las orientaciones y prioridades políticas generales de la Unión; está compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión.",
+    "explicacion": "El Consejo Europeo marca la agenda política de la UE y reúne a los Jefes de Estado o de Gobierno.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Qué papel desempeña la Comisión Europea en el sistema institucional de la Unión?",
+    "respuesta": "Promueve el interés general de la Unión, vela por la aplicación de los Tratados, ejecuta el presupuesto, ejerce funciones de coordinación y ostenta, con carácter general, el monopolio de la iniciativa legislativa.",
+    "explicacion": "La Comisión Europea es el órgano ejecutivo de la UE: guardiana de los Tratados e iniciadora de la legislación.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Qué diferencia hay entre un reglamento y una directiva de la Unión Europea?",
+    "respuesta": "El reglamento tiene alcance general, es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro; la directiva obliga al Estado miembro destinatario en cuanto al resultado, dejando a las autoridades nacionales la elección de la forma y los medios (requiere transposición).",
+    "explicacion": "Los reglamentos son directamente aplicables mientras que las directivas necesitan transposición al Derecho interno.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Qué es el principio de primacía del Derecho de la Unión Europea?",
+    "respuesta": "El principio jurisprudencial (Costa/ENEL, 1964) según el cual el Derecho de la Unión prevalece sobre el Derecho interno de los Estados miembros, incluso sobre normas constitucionales, en caso de conflicto.",
+    "explicacion": "La primacía, de creación jurisprudencial del TJUE, garantiza la aplicación uniforme del Derecho de la Unión.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-T10-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "—",
+    "enunciado": "¿Qué es el Comité de las Regiones?",
+    "respuesta": "Un órgano consultivo de la Unión Europea compuesto por representantes de los entes regionales y locales, que debe ser consultado en las materias que les afectan.",
+    "explicacion": "El Comité de las Regiones da voz a las entidades regionales y locales en el proceso decisorio de la UE.",
+    "verificado_corpus": false
+  }
+]

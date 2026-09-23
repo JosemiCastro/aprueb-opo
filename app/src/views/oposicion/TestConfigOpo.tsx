@@ -2,17 +2,16 @@ import { useState } from 'react';
 import type { CSSProperties } from 'react';
 import type { Question } from '../../types';
 import { Header, Btn, Card } from '../../components/ui';
-import { todasPreguntas } from '../../lib/data';
+import { todasPreguntas, oposicionDe } from '../../lib/data';
 import { failedIds, isDominated } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
 import { navigate } from '../../lib/router';
+import { tituloOpo, type OpoProps } from './props';
 
 type Ambito = 'todos' | 'pendientes' | 'falladas';
 
-const CFG_KEY = 'oposdipu-testcfg';
-
 const AMBITOS: { id: Ambito; label: string; hint: string }[] = [
-  { id: 'todos', label: 'Todas', hint: 'todas las preguntas del C1' },
+  { id: 'todos', label: 'Todas', hint: 'todas las preguntas' },
   { id: 'pendientes', label: 'Pendientes', hint: 'no dominadas todavía' },
   { id: 'falladas', label: 'Falladas', hint: 'con fallos pendientes' },
 ];
@@ -28,10 +27,11 @@ const inputStyle: CSSProperties = {
   color: 'var(--text)',
 };
 
-export default function TestConfig() {
+export default function TestConfigOpo({ opoId, base }: OpoProps) {
   const [progress] = useProgress();
-  const all = todasPreguntas();
+  const all = todasPreguntas(opoId);
   const max = all.length;
+  const grupo = oposicionDe(opoId).grupo;
 
   const [n, setN] = useState(20);
   const [ambito, setAmbito] = useState<Ambito>('todos');
@@ -60,13 +60,13 @@ export default function TestConfig() {
       return;
     }
     setAviso(null);
-    sessionStorage.setItem(CFG_KEY, JSON.stringify({ n, ambito }));
-    navigate('/c1/test/run');
+    sessionStorage.setItem(`oposdipu-testcfg-${opoId}`, JSON.stringify({ n, ambito }));
+    navigate(`${base}/test/run`);
   }
 
   return (
     <div className="screen">
-      <Header title="Test C1" backTo="/c1" />
+      <Header title={`Test ${grupo}`} backTo={base} />
       <main className="container">
         <Card>
           <label htmlFor="test-n" style={{ fontWeight: 600, display: 'block', marginBottom: 8 }}>
@@ -121,11 +121,14 @@ export default function TestConfig() {
 
         {aviso ? (
           <Card>
-            <p style={{ margin: 0, color: 'var(--danger)', fontWeight: 600 }}>{aviso}</p>
+            <p style={{ margin: 0 }}>{aviso}</p>
           </Card>
         ) : null}
 
         <Btn onClick={empezar}>Empezar test</Btn>
+        <p style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>
+          Test de {tituloOpo(opoId)} · Diputación de {oposicionDe(opoId).diputacion}
+        </p>
       </main>
     </div>
   );

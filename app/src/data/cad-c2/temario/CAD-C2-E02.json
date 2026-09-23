@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E02",
+  "tema": "E02",
+  "numero": 2,
+  "tipo": "especifico",
+  "titulo": "Los funcionarios públicos: situaciones administrativas. La responsabilidad y el procedimiento disciplinario. Derechos colectivos de los funcionarios.",
+  "relacionados": [
+    "CAD-C2-E01",
+    "CAD-C2-T09",
+    "CAD-C2-T10"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Situaciones administrativas",
+      "texto": "Los funcionarios de carrera pueden hallarse en alguna de las siguientes situaciones ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 85]]): servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. El servicio activo es la situación ordinaria de quien desempeña un puesto ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 86]]). Los servicios especiales se declaran, entre otros supuestos, a quienes sean designados miembros del Gobierno, Diputados o Senadores o miembros de asambleas legislativas autonómicas ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 87]]). La excedencia presenta modalidades como la voluntaria por interés particular, por cuidado de familiares o por razón de violencia de género o terrorista ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 89]]). El reingreso al servicio activo se produce conforme al [[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 91]]."
+    },
+    {
+      "titulo": "2. Responsabilidad disciplinaria",
+      "texto": "Los funcionarios incurren en responsabilidad disciplinaria por el incumplimiento de sus deberes ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 93]]). Las faltas se califican en muy graves, graves y leves: son muy graves, entre otras, el incumplimiento del deber de respeto a la Constitución, la discriminación por razón de sexo u otras causas, el abandono del servicio, la adopción de acuerdos manifiestamente ilegales o la publicación indebida de secretos oficiales ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 95]]). Las sanciones van desde la separación del servicio hasta el apercibimiento ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 96]]). Las faltas muy graves prescriben a los tres años, las graves a los dos y las leves a los seis meses ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 97]])."
+    },
+    {
+      "titulo": "3. El procedimiento disciplinario",
+      "texto": "El procedimiento disciplinario se rige por los principios de presunción de inocencia, audiencia y defensa, y debe resolverse en el plazo que establezca la normativa, con imposición de la sanción mediante resolución motivada ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 98]]). La potestad disciplinaria se ejerce por la Administración respecto del personal a su servicio ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 94]]). Durante la tramitación pueden adoptarse medidas provisionales, como la suspensión provisional de funciones con pérdida de retribuciones salvo supuestos tasados."
+    },
+    {
+      "titulo": "4. Derechos colectivos: negociación y representación",
+      "texto": "Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 31]]). La negociación se articula a través de las Mesas de Negociación ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  arts. 33 y 34]]) y culmina en Pactos y Acuerdos ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 38]]). Los órganos de representación son los Delegados de Personal y las Juntas de Personal ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 39]]), y los funcionarios tienen derecho de reunión ([[Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público |  art. 46]])."
+    }
+  ]
+}

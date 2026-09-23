@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E13",
+  "tema": "E13",
+  "tipo": "especifico",
+  "numero": 13,
+  "titulo": "Los tributos locales: imposición y ordenación. El Impuesto sobre Bienes Inmuebles",
+  "secciones": [
+    {
+      "titulo": "1. La potestad tributaria local",
+      "texto": "Las entidades locales pueden establecer tasas, contribuciones especiales e impuestos conforme a la Constitución, las leyes y el texto refundido de la Ley de Haciendas Locales. La imposición y ordenación de cada tributo se articula mediante ordenanza fiscal."
+    },
+    {
+      "titulo": "2. Impuestos obligatorios y potestativos",
+      "texto": "Son obligatorios el IBI, el IAE y el IVTM; son potestativos el ICIO y el IIVTNU ([[Real Decreto Legislativo 2/2004 | art. 59]]). Los Ayuntamientos exigen los impuestos conforme a sus ordenanzas, dentro de los márgenes legales."
+    },
+    {
+      "titulo": "3. El IBI: hecho imponible y sujeto pasivo",
+      "texto": "Grava la titularidad de derechos (concesión, superficie, usufructo o propiedad) sobre inmuebles rústicos, urbanos y de características especiales ([[Real Decreto Legislativo 2/2004 | art. 60]]). Son sujetos pasivos quienes ostenten la titularidad del derecho ([[Real Decreto Legislativo 2/2004 | art. 65]])."
+    },
+    {
+      "titulo": "4. Base, tipos y devengo",
+      "texto": "La base imponible es el valor catastral ([[Real Decreto Legislativo 2/2004 | art. 68]]). Los tipos van del 0,4 % (urbanos) y 0,3 % (rústicos) mínimos al 1,10 % y 0,90 % máximos ([[Real Decreto Legislativo 2/2004 | art. 71]]). Se devenga el primer día del año natural ([[Real Decreto Legislativo 2/2004 | art. 75]])."
+    },
+    {
+      "titulo": "5. Gestión del IBI",
+      "texto": "La gestión catastral corresponde al Estado y la gestión tributaria (liquidación y recaudación) al Ayuntamiento. El padrón anual se expone al público y las liquidaciones pueden notificarse colectivamente. Las Diputaciones pueden asumir por delegación la gestión y recaudación del IBI de los municipios, un servicio esencial para los de menor capacidad de gestión. La revisión de los valores catastrales se realiza mediante procedimientos de valoración colectiva, general o parcial, con audiencia de los interesados."
+    },
+    {
+      "titulo": "6. Los beneficios fiscales en el IBI",
+      "texto": "El IBI admite exenciones (bienes del Estado, de las Comunidades Autónomas y de las entidades locales afectos a usos públicos, entre otros) y bonificaciones potestativas que cada Ayuntamiento regula en su ordenanza: por empresas de urbanización, por viviendas de protección oficial o por familias numerosas, por ejemplo. La base imponible es el valor catastral ([[Real Decreto Legislativo 2/2004 | art. 68]]) y los tipos se mueven entre los mínimos y máximos legales ([[Real Decreto Legislativo 2/2004 | art. 71]]), lo que permite a cada municipio modular la carga fiscal dentro de la horquilla. La gestión del IBI se reparte: el Catastro (Estado) fija el valor catastral, base imponible del impuesto ([[Real Decreto Legislativo 2/2004 | art. 68]]), mediante ponencias de valores revisadas periódicamente; el Ayuntamiento gestiona el tributo: concede beneficios fiscales, liquida y recauda. El padrón anual se expone al público para reclamaciones. Esta dualidad exige coordinación entre Administraciones: los convenios de colaboración permiten delegar en las Diputaciones la gestión tributaria y recaudatoria de los municipios pequeños."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E07",
+    "SEV-A1-E14",
+    "SEV-A1-T24"
+  ]
+}

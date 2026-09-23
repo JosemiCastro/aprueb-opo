@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T04",
+  "tema": "T04",
+  "tipo": "comun",
+  "numero": 4,
+  "titulo": "Las Cortes Generales y sus órganos dependientes: Tribunal de Cuentas y Defensor del Pueblo",
+  "secciones": [
+    {
+      "titulo": "1. Las Cortes Generales: composición y funciones",
+      "texto": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado ([[Constitución Española de 1978 | art. 66]]). Ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias constitucionales. El Congreso se compone de 300 a 400 Diputados elegidos por sufragio universal con circunscripción provincial ([[Constitución Española de 1978 | art. 68]]); el Senado combina senadores provinciales electivos y senadores designados por las Comunidades Autónomas ([[Constitución Española de 1978 | art. 69]])."
+    },
+    {
+      "titulo": "2. Funcionamiento y clases de leyes",
+      "texto": "Las Cámaras funcionan en Pleno y por Comisiones, pudiendo delegar en Comisiones Legislativas Permanentes la aprobación de leyes con las exclusiones tasadas ([[Constitución Española de 1978 | art. 75]]). Las leyes orgánicas, reservadas a las materias del [[Constitución Española de 1978 | art. 81]], exigen mayoría absoluta del Congreso. El Gobierno puede dictar decretos-leyes en caso de extraordinaria y urgente necesidad, con límites materiales y convalidación en treinta días ([[Constitución Española de 1978 | art. 86]])."
+    },
+    {
+      "titulo": "3. El Defensor del Pueblo",
+      "texto": "El [[Constitución Española de 1978 | art. 54]] configura al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I, que supervisa la actividad de la Administración. Es elegido por las Cámaras por mayoría cualificada y actúa con independencia, pudiendo interponer el recurso de inconstitucionalidad y el de amparo."
+    },
+    {
+      "titulo": "4. El Tribunal de Cuentas",
+      "texto": "El [[Constitución Española de 1978 | art. 136]] define al Tribunal de Cuentas como supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público. Depende directamente de las Cortes Generales y ejerce sus funciones por delegación de ellas en el examen y comprobación de la Cuenta General del Estado, sin perjuicio de su propia jurisdicción contable."
+    },
+    {
+      "titulo": "5. Relaciones entre las Cámaras y el Gobierno",
+      "texto": "Las Cortes controlan la acción del Gobierno mediante preguntas, interpelaciones, mociones y comisiones de investigación. El Congreso puede exigir la responsabilidad política del Gobierno mediante la moción de censura o la cuestión de confianza, reguladas en los artículos 112 y 113 de la Constitución."
+    },
+    {
+      "titulo": "6. El procedimiento legislativo",
+      "texto": "Las Cortes ejercen la potestad legislativa del Estado ([[Constitución Española de 1978 | art. 66]]). La iniciativa legislativa corresponde al Gobierno (proyectos de ley), al Congreso y al Senado (proposiciones de ley) y a las Asambleas autonómicas. Los proyectos se aprueban en Consejo de Ministros y se remiten al Congreso, donde siguen las fases de debate de totalidad, ponencia, comisión y pleno. Las leyes orgánicas exigen mayoría absoluta del Congreso en votación final sobre el conjunto ([[Constitución Española de 1978 | art. 81]]). Aprobada por una Cámara, la norma pasa a la otra, que puede enmendarla o vetarla, resolviendo el Congreso en caso de discrepancia."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T03",
+    "SEV-A1-T05"
+  ]
+}

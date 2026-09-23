@@ -1,0 +1,34 @@
+{
+  "id": "GRA-C1-E07",
+  "numero": 7,
+  "tema": "E07",
+  "tipo": "especifico",
+  "titulo": "La inspección tributaria: funciones, facultades y procedimiento",
+  "relacionados": [
+    "GRA-C1-E06",
+    "GRA-C1-E14",
+    "GRA-C1-E15"
+  ],
+  "secciones": [
+    {
+      "titulo": "Funciones y facultades",
+      "texto": "La inspección tiene encomendadas la investigación de los supuestos de hecho para descubrir los ignorados, la comprobación de la veracidad de declaraciones y autoliquidaciones, la obtención de información, la comprobación de valores, la práctica de las liquidaciones resultantes y la información a los obligados ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 141]]).\n\nPara ello puede examinar documentos, libros y ficheros, entrar en fincas y locales de negocio (con autorización judicial para el domicilio constitucionalmente protegido) y requerir al obligado la aportación de documentación ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 142]])."
+    },
+    {
+      "titulo": "Documentación y valor probatorio",
+      "texto": "Las actuaciones se documentan en diligencias (hechos y manifestaciones), comunicaciones (inicio y estado) e informes, y el resultado con la propuesta de liquidación en **actas** ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 143]]).\n\nLas actas son documentos públicos y hacen prueba de los hechos que motivan su formalización, salvo prueba en contrario; los hechos aceptados por el obligado se presumen ciertos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 144]])."
+    },
+    {
+      "titulo": "El procedimiento de inspección",
+      "texto": "Su objeto es comprobar e investigar el cumplimiento de las obligaciones tributarias y regularizar la situación del obligado mediante las liquidaciones procedentes ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 145]]). Se inicia de oficio mediante comunicación notificada al obligado, con información sobre su naturaleza, alcance y derechos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 147]]).\n\nLas actuaciones pueden ser de alcance **general** (verificación conjunta de la situación tributaria) o **parcial** (limitadas a determinados elementos) ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 148]]); el obligado puede solicitar que tengan carácter general ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 149]])."
+    },
+    {
+      "titulo": "Medidas cautelares y plazo",
+      "texto": "Pueden adoptarse medidas cautelares como el precinto, depósito o incautación de libros y documentos, y las del artículo 81 de la LGT cuando existan indicios de que pueda frustrarse el cobro ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 146]]).\n\nLas actuaciones deben concluir en **18 meses** desde la notificación del inicio, ampliables en 12 meses por especial complejidad; el incumplimiento no produce caducidad pero impide considerar interrumpida la prescripción por las actuaciones anteriores ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 150]])."
+    },
+    {
+      "titulo": "Actas de la inspección",
+      "texto": "Las actas son los documentos públicos que recogen el resultado de las actuaciones inspectoras y pueden ser con acuerdo, de conformidad o de disconformidad. Las actas con acuerdo requieren la concurrencia de determinados supuestos y conllevan una reducción del 65% de la sanción ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 188]]); las de conformidad, una reducción del 30%.\n\nCuando el obligado no comparece o no aporta la documentación requerida, las actuaciones continúan con los datos de que disponga la Administración. La inspección puede solicitar autorización judicial para la entrada en el domicilio constitucionalmente protegido ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 113]]), y sus actuaciones se desarrollan en el lugar donde el obligado tenga su actividad o sus libros y registros."
+    }
+  ]
+}

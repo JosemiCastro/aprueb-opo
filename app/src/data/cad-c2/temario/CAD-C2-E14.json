@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-E14",
+  "tema": "E14",
+  "numero": 14,
+  "tipo": "especifico",
+  "titulo": "Sistemas ofimáticos. Procesadores de Texto. Hojas de cálculo: principales funciones y utilidades. Libros, hojas y celdas. Otras aplicaciones ofimáticas. Redes de comunicaciones e internet. El correo electrónico: conceptos elementales y funcionamiento.",
+  "relacionados": [
+    "CAD-C2-E03",
+    "CAD-C2-E11",
+    "CAD-C2-E12"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Sistemas ofimáticos y procesadores de texto",
+      "texto": "Un sistema ofimático es el conjunto de hardware, software y procedimientos para crear, almacenar y gestionar documentos de oficina. Las suites ofimáticas (como LibreOffice o Microsoft 365) integran procesador de texto, hoja de cálculo, presentaciones, base de datos y otras utilidades. El procesador de texto (Writer/Word) permite crear y dar formato a documentos: tipos y tamaños de letra, párrafos, estilos, tablas, encabezados y pies de página, corrector ortográfico, e impresión o exportación a PDF. Entre las funciones avanzadas destacan la combinación de correspondencia, las tablas de contenido automáticas generadas a partir de estilos de título y el control de cambios para la revisión colaborativa de documentos."
+    },
+    {
+      "titulo": "2. Hojas de cálculo: libros, hojas y celdas",
+      "texto": "La hoja de cálculo (Calc/Excel) organiza la información en libros, compuestos por hojas, divididas en filas (numeradas) y columnas (identificadas por letras); la intersección es la celda, identificada por su referencia (por ejemplo, B4). Un rango es un conjunto de celdas (A1:C5). Las celdas pueden contener texto, números, fechas o fórmulas, que comienzan por el signo igual (=). Las fórmulas combinan operadores (+, -, *, /) y funciones: SUMA, PROMEDIO, MAX, MIN, CONTAR, SI, BUSCARV, etc. Las referencias pueden ser relativas (A1), absolutas ($A$1) o mixtas."
+    },
+    {
+      "titulo": "3. Otras aplicaciones ofimáticas",
+      "texto": "Las presentaciones (Impress/PowerPoint) crean diapositivas con texto, imágenes y efectos para exposiciones. Las bases de datos (Base/Access) almacenan información estructurada en tablas relacionadas, consultables mediante consultas e informes. También forman parte del entorno ofimático los gestores de correo, las agendas y calendarios, las aplicaciones de dibujo y los lectores de PDF. El trabajo colaborativo se apoya en el almacenamiento en la nube y el control de versiones."
+    },
+    {
+      "titulo": "4. Redes de comunicaciones e internet",
+      "texto": "Una red de comunicaciones conecta equipos para compartir recursos e información: las redes de área local (LAN) cubren un ámbito reducido y las de área extensa (WAN) grandes distancias. Internet es la red mundial de redes basada en el protocolo TCP/IP; cada equipo se identifica por una dirección IP y los recursos por su URL. El navegador permite acceder a páginas web, los buscadores localizan información y es esencial adoptar medidas de seguridad: contraseñas robustas, antivirus y precaución ante el phishing."
+    },
+    {
+      "titulo": "5. El correo electrónico",
+      "texto": "El correo electrónico permite enviar y recibir mensajes a través de una dirección con el formato usuario@dominio. Los protocolos principales son SMTP (envío), POP3 e IMAP (recepción). Los campos de un mensaje son Para, CC (con copia), CCO (con copia oculta) y Asunto; pueden adjuntarse archivos. Es importante gestionar la bandeja de entrada, usar el correo con criterios de seguridad y conservar los mensajes conforme a la normativa de archivos. Las listas de distribución permiten enviar un mismo mensaje a un grupo de destinatarios, y las firmas automáticas identifican al remitente en los mensajes oficiales."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "CAD-C2-E03",
+  "tema": "E03",
+  "numero": 3,
+  "tipo": "especifico",
+  "titulo": "El Procedimiento Administrativo Común. El Registro General de entrada y salida de documentos. Días y horas hábiles. Cómputo de plazos. Requisitos en la presentación de documentos.",
+  "relacionados": [
+    "CAD-C2-E04",
+    "CAD-C2-E05",
+    "CAD-C2-E11",
+    "CAD-C2-T08"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. El procedimiento administrativo común: concepto",
+      "texto": "El procedimiento administrativo común es la secuencia ordenada de trámites y actuaciones a través de la cual se forma la voluntad de la Administración y se dictan los actos administrativos. La Ley 39/2015, de 1 de octubre, regula el procedimiento administrativo común a todas las Administraciones Públicas, garantizando los derechos de los ciudadanos ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 1]]). Sus fases son la iniciación, la ordenación, la instrucción y la finalización. La Administración está obligada a dictar resolución expresa en todos los procedimientos y a notificarla ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 21]])."
+    },
+    {
+      "titulo": "2. El Registro General de entrada y salida",
+      "texto": "Cada Administración dispone de un Registro Electrónico General en el que se hace el correspondiente asiento de todo documento que sea presentado o que se reciba ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 16]]). En el asiento se anotan el número, epígrafe expresivo de su naturaleza, fecha y hora de presentación, identificación del interesado y del órgano destinatario. Los documentos pueden presentarse en el registro electrónico de la Administración competente, en las oficinas de Correos, en las representaciones diplomáticas o en las oficinas de asistencia en materia de registros. El registro emite automáticamente un recibo acreditativo de la presentación."
+    },
+    {
+      "titulo": "3. Días y horas hábiles y cómputo de plazos",
+      "texto": "Los términos y plazos son obligatorios para las autoridades y el personal y para los interesados ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 29]]). Salvo que por ley o por el Derecho de la UE se disponga otro cómputo, cuando los plazos se señalen por días se entiende que son hábiles, excluyéndose del cómputo los sábados, los domingos y los festivos ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 30]]). Si el plazo se fija en meses o años, se computa de fecha a fecha; si en el mes de vencimiento no hubiera día equivalente, se entiende que expira el último día del mes. El cómputo en los registros atiende a la fecha y hora oficial de la sede electrónica ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 31]]). Los plazos pueden ampliarse hasta la mitad de su duración, salvo precepto en contrario ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 32]]), y tramitarse por urgencia reduciéndolos a la mitad ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 33]])."
+    },
+    {
+      "titulo": "4. Requisitos en la presentación de documentos",
+      "texto": "Las solicitudes de iniciación deben contener el nombre y apellidos del interesado, los hechos y razones, el lugar y fecha, la firma y el órgano al que se dirigen ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 66]]). Si la solicitud no reúne los requisitos, se requiere al interesado para que subsane en diez días, con apercibimiento de desistimiento ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 68]]). Los interesados no están obligados a aportar documentos ya en poder de la Administración o elaborados por ella ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 28]]). Los documentos presentados en registro electrónico deben cumplir los requisitos de validez del [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 26]]."
+    }
+  ]
+}

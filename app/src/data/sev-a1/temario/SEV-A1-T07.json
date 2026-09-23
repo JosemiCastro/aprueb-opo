@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T07",
+  "tema": "T07",
+  "tipo": "comun",
+  "numero": 7,
+  "titulo": "La organización territorial del Estado y el sistema de distribución de competencias",
+  "secciones": [
+    {
+      "titulo": "1. La organización territorial",
+      "texto": "El [[Constitución Española de 1978 | art. 137]] organiza territorialmente el Estado en municipios, provincias y Comunidades Autónomas, todas dotadas de autonomía para la gestión de sus intereses. Los municipios gozan de personalidad jurídica plena y su gobierno corresponde a los Ayuntamientos ([[Constitución Española de 1978 | art. 140]]); la provincia es entidad local con personalidad jurídica propia, agrupación de municipios ([[Constitución Española de 1978 | art. 141]]); y las Haciendas locales deben disponer de medios suficientes ([[Constitución Española de 1978 | art. 142]])."
+    },
+    {
+      "titulo": "2. Vías de acceso a la autonomía",
+      "texto": "La Constitución prevé dos vías: la vía lenta del [[Constitución Española de 1978 | art. 143]] (provincias limítrofes con características comunes, territorios insulares y provincias con entidad regional histórica) y la vía rápida del artículo 151 para las nacionalidades históricas. Los Estatutos son la norma institucional básica de cada Comunidad Autónoma."
+    },
+    {
+      "titulo": "3. El reparto competencial",
+      "texto": "El [[Constitución Española de 1978 | art. 148]] enumera las competencias asumibles por las Comunidades Autónomas (organización institucional, territorio, obras públicas, agricultura, sanidad, etc.). El [[Constitución Española de 1978 | art. 149]] reserva al Estado competencias exclusivas, entre ellas las bases del régimen jurídico de las Administraciones Públicas, el procedimiento administrativo común y la legislación de expropiación forzosa y responsabilidad ([[Constitución Española de 1978 | art. 149]], 1.18.ª). Las materias no atribuidas expresamente al Estado pueden corresponder a las Comunidades Autónomas."
+    },
+    {
+      "titulo": "4. Relaciones Estado-Comunidades Autónomas",
+      "texto": "Las Comunidades Autónomas actúan con autonomía financiera y sus actos están sometidos al control del Tribunal Constitucional, del Gobierno, de la jurisdicción contencioso-administrativa y del Tribunal de Cuentas. El [[Constitución Española de 1978 | art. 155]] permite al Gobierno, previo requerimiento desatendido y con aprobación de la mayoría absoluta del Senado, adoptar las medidas necesarias para obligar a la Comunidad Autónoma al cumplimiento forzoso de sus obligaciones."
+    },
+    {
+      "titulo": "5. Principios del Estado autonómico",
+      "texto": "El sistema se rige por los principios de unidad, autonomía y solidaridad entre todos los territorios, con igualdad de derechos y obligaciones de los españoles en cualquier parte del territorio nacional."
+    },
+    {
+      "titulo": "6. Unidad, autonomía y solidaridad",
+      "texto": "El Estado autonómico se asienta en la indisoluble unidad de la Nación española, el derecho a la autonomía de nacionalidades y regiones y la solidaridad entre todas ellas. Ninguna norma autonómica puede establecer privilegios económicos o sociales ni obstaculizar la libre circulación de personas y bienes. Las Comunidades Autónomas gozan de autonomía financiera para el desarrollo de sus competencias, con recursos propios y participación en los del Estado. El Tribunal Constitucional arbitra los conflictos de competencia, garantizando el equilibrio entre la unidad del Estado y la autonomía política de los territorios."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T01",
+    "SEV-A1-T08",
+    "SEV-A1-T09"
+  ]
+}

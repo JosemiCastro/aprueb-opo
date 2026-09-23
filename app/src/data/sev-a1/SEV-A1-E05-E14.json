@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "SEV-A1-E05-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derechos individuales tienen los empleados públicos según el artículo 14 del TREBEP?",
+    "respuesta": "Entre otros: a la inamovilidad en su condición de funcionario de carrera; al desempeño efectivo de las funciones propias de su puesto; a la progresión en la carrera profesional; a percibir las retribuciones; y a la defensa jurídica en los procedimientos que se sigan ante cualquier orden jurisdiccional.",
+    "explicacion": "El artículo 14 del TREBEP enumera los derechos individuales de los empleados públicos: inamovilidad, carrera, retribuciones y defensa jurídica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué derechos colectivos reconoce el artículo 15 del TREBEP?",
+    "respuesta": "La libertad sindical; la negociación colectiva y la participación en la determinación de las condiciones de trabajo; el ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales; y el de reunión.",
+    "explicacion": "El artículo 15 del TREBEP reconoce los derechos colectivos: libertad sindical, negociación colectiva, huelga y reunión.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 52",
+    "enunciado": "¿Cuáles son los deberes de los empleados públicos según el artículo 52 del TREBEP?",
+    "respuesta": "Desempeñar con diligencia las tareas asignadas; velar por los intereses generales con sujeción a la Constitución; obedecer las instrucciones profesionales; informar a los ciudadanos; y administrar los recursos públicos con austeridad, entre otros.",
+    "explicacion": "El artículo 52 del TREBEP enumera los deberes: diligencia, servicio al interés general, obediencia, información y austeridad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 53",
+    "enunciado": "¿Qué principios éticos rigen la actuación de los empleados públicos según el artículo 53 del TREBEP?",
+    "respuesta": "Entre otros: el respeto a la Constitución; la satisfacción de los intereses generales con objetividad e imparcialidad; la lealtad institucional; la buena fe y la diligencia; y el trato digno a los ciudadanos.",
+    "explicacion": "El artículo 53 del TREBEP establece los principios éticos: objetividad, imparcialidad, lealtad, buena fe y trato digno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 93",
+    "enunciado": "¿Qué responsabilidad disciplinaria tienen los empleados públicos según el artículo 93 del TREBEP?",
+    "respuesta": "Los funcionarios públicos y el personal laboral quedan sujetos al régimen disciplinario establecido en el Título VII del TREBEP y en las normas dictadas en desarrollo del mismo.",
+    "explicacion": "El artículo 93 del TREBEP somete a funcionarios y personal laboral al régimen disciplinario del Título VII.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 95",
+    "enunciado": "¿Cómo se clasifican las faltas disciplinarias según el artículo 95 del TREBEP?",
+    "respuesta": "En faltas muy graves, graves y leves, tipificándose las muy graves en el artículo 95 del TREBEP.",
+    "explicacion": "El artículo 95 del TREBEP clasifica las faltas en muy graves, graves y leves.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 96",
+    "enunciado": "¿Qué sanciones pueden imponerse según el artículo 96 del TREBEP?",
+    "respuesta": "Por razón de las faltas cometidas podrán imponerse: la separación del servicio o el despido disciplinario; la suspensión de funciones o de empleo y sueldo; el traslado forzoso; el demérito; y el apercibimiento.",
+    "explicacion": "El artículo 96 del TREBEP enumera las sanciones: separación/despido, suspensión, traslado forzoso, demérito y apercibimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E05-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 53/1984",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué establece el principio general de incompatibilidades del artículo 1 de la Ley 53/1984?",
+    "respuesta": "Que el personal al servicio de las Administraciones Públicas no podrá compatibilizar sus actividades con el desempeño de un segundo puesto de trabajo, cargo o actividad en el sector público, salvo en los supuestos previstos en la propia Ley.",
+    "explicacion": "El artículo 1 de la Ley 53/1984 prohíbe con carácter general compatibilizar el empleo público con un segundo puesto o actividad en el sector público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 11",
+    "enunciado": "¿Quiénes integran el personal laboral según el artículo 11 del TREBEP?",
+    "respuesta": "El que en virtud de contrato de trabajo formalizado por escrito presta servicios retribuidos por las Administraciones Públicas, como personal fijo, por tiempo indefinido o temporal.",
+    "explicacion": "El artículo 11 del TREBEP define el personal laboral: contrato de trabajo escrito al servicio de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué es el contrato de trabajo según el artículo 1 del Estatuto de los Trabajadores?",
+    "respuesta": "La relación individual de trabajo por la que una persona física presta voluntariamente sus servicios retribuidos por cuenta ajena y dentro del ámbito de organización y dirección de otra persona, física o jurídica, denominada empleador o empresario.",
+    "explicacion": "El artículo 1 del Estatuto de los Trabajadores define el contrato de trabajo: prestación voluntaria, retribuida, por cuenta ajena y bajo dependencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 8",
+    "enunciado": "¿Qué forma requiere el contrato de trabajo según el artículo 8 del Estatuto de los Trabajadores?",
+    "respuesta": "Podrá celebrarse por escrito o de palabra, pero deberán constar por escrito cuando así lo exija una disposición legal, y en todo caso los contratos temporales y los de formación.",
+    "explicacion": "El artículo 8 del ET establece la libertad de forma con exigencia de forma escrita para los contratos temporales y otros supuestos legales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué duración tiene el contrato de trabajo según el artículo 15 del Estatuto de los Trabajadores?",
+    "respuesta": "Podrá concertarse por tiempo indefinido o por una duración determinada en los supuestos tasados (circunstancias de la producción o sustitución de persona trabajadora).",
+    "explicacion": "El artículo 15 del ET regula la duración del contrato: indefinido como regla y temporal solo en supuestos tasados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 34",
+    "enunciado": "¿Cuál es la jornada máxima legal según el artículo 34 del Estatuto de los Trabajadores?",
+    "respuesta": "La duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales de trabajo efectivo de promedio en cómputo anual.",
+    "explicacion": "El artículo 34 del ET fija la jornada máxima en cuarenta horas semanales de promedio en cómputo anual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 38",
+    "enunciado": "¿Cuántas vacaciones anuales corresponden según el artículo 38 del Estatuto de los Trabajadores?",
+    "respuesta": "El período de vacaciones anuales retribuidas no será inferior a treinta días naturales.",
+    "explicacion": "El artículo 38 del ET garantiza un mínimo de treinta días naturales de vacaciones anuales retribuidas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores",
+    "articulo": "art. 49",
+    "enunciado": "¿Cuáles son las causas de extinción del contrato de trabajo según el artículo 49 del Estatuto de los Trabajadores?",
+    "respuesta": "Entre otras: el mutuo acuerdo; las causas consignadas en el contrato; la expiración del tiempo convenido; la dimisión del trabajador; el despido del trabajador; y la jubilación.",
+    "explicacion": "El artículo 49 del ET enumera las causas de extinción del contrato de trabajo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E06-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E06",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 77",
+    "enunciado": "¿Cómo se clasifican los puestos de trabajo del personal laboral según el artículo 77 del TREBEP?",
+    "respuesta": "El personal laboral se clasifica de conformidad con la legislación laboral, en los grupos y niveles que correspondan según el convenio colectivo aplicable.",
+    "explicacion": "El artículo 77 del TREBEP remite la clasificación del personal laboral a la legislación laboral y al convenio colectivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué es un tributo según el artículo 2 de la Ley 58/2003?",
+    "respuesta": "Los ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la ley vincula el deber de contribuir, con el fin primordial de obtener los ingresos necesarios para el sostenimiento de los gastos públicos.",
+    "explicacion": "El artículo 2 de la LGT define el tributo como prestación pecuniaria exigida por la realización del hecho imponible, para el sostenimiento de los gastos públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué clases de tributos existen según el artículo 2.2 de la Ley 58/2003?",
+    "respuesta": "Las tasas, las contribuciones especiales y los impuestos.",
+    "explicacion": "El artículo 2.2 de la LGT clasifica los tributos en tasas, contribuciones especiales e impuestos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué es el hecho imponible según el artículo 20 de la Ley 58/2003?",
+    "respuesta": "El presupuesto fijado por la ley para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal.",
+    "explicacion": "El artículo 20 de la LGT define el hecho imponible como el presupuesto legal cuyo acaecimiento origina la obligación tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 49",
+    "enunciado": "¿Qué es la base imponible según el artículo 49 de la Ley 58/2003?",
+    "respuesta": "La magnitud dineraria o de otra naturaleza que resulta de la medición o valoración del hecho imponible.",
+    "explicacion": "El artículo 49 de la LGT define la base imponible como la magnitud resultante de medir o valorar el hecho imponible.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué es el tipo de gravamen según el artículo 55 de la Ley 58/2003?",
+    "respuesta": "La cifra, coeficiente o porcentaje que se aplica a la base liquidable para obtener como resultado la cuota íntegra.",
+    "explicacion": "El artículo 55 de la LGT define el tipo de gravamen como el porcentaje o coeficiente aplicable a la base liquidable para obtener la cuota íntegra.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 56",
+    "enunciado": "¿Qué es la cuota tributaria según el artículo 56 de la Ley 58/2003?",
+    "respuesta": "La cantidad a ingresar que resulta de aplicar el tipo de gravamen a la base liquidable; la cuota íntegra se minorará con deducciones y bonificaciones para obtener la cuota líquida.",
+    "explicacion": "El artículo 56 de la LGT define la cuota tributaria: cuota íntegra menos deducciones y bonificaciones igual a cuota líquida.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 58",
+    "enunciado": "¿Qué es la deuda tributaria según el artículo 58 de la Ley 58/2003?",
+    "respuesta": "La cuota o cantidad a ingresar que resulte de la obligación tributaria principal o de las obligaciones a cuenta, más los recargos, intereses y sanciones que procedan.",
+    "explicacion": "El artículo 58 de la LGT define la deuda tributaria: cuota más recargos, intereses y sanciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E07-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué es la obligación tributaria principal según el artículo 17 de la Ley 58/2003?",
+    "respuesta": "La que tiene por objeto el pago de la cuota tributaria.",
+    "explicacion": "El artículo 17 de la LGT define la obligación tributaria principal como la de pago de la cuota.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 35",
+    "enunciado": "¿Quiénes son obligados tributarios según el artículo 35 de la Ley 58/2003?",
+    "respuesta": "Las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias: contribuyentes, sustitutos, obligados a realizar pagos a cuenta, retenedores y otros.",
+    "explicacion": "El artículo 35 de la LGT enumera los obligados tributarios: contribuyentes, sustitutos, retenedores y demás obligados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 36",
+    "enunciado": "¿Quién es el contribuyente según el artículo 36 de la Ley 58/2003?",
+    "respuesta": "El sujeto pasivo que realiza el hecho imponible.",
+    "explicacion": "El artículo 36 de la LGT define al contribuyente como el sujeto pasivo que realiza el hecho imponible.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 37",
+    "enunciado": "¿Quién es el sustituto del contribuyente según el artículo 37 de la Ley 58/2003?",
+    "respuesta": "El sujeto pasivo que, por imposición de la ley y en lugar del contribuyente, está obligado a cumplir la obligación tributaria principal, así como las obligaciones formales inherentes a la misma.",
+    "explicacion": "El artículo 37 de la LGT define al sustituto: cumple en lugar del contribuyente por imposición legal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 83",
+    "enunciado": "¿Qué es la aplicación de los tributos según el artículo 83 de la Ley 58/2003?",
+    "respuesta": "El conjunto de actuaciones administrativas dirigidas a la información y asistencia a los obligados tributarios y a la gestión, inspección y recaudación, así como las actuaciones de los obligados en el ejercicio de sus derechos o en cumplimiento de sus obligaciones.",
+    "explicacion": "El artículo 83 de la LGT define la aplicación de los tributos: información, gestión, inspección y recaudación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué es la gestión tributaria según el artículo 117 de la Ley 58/2003?",
+    "respuesta": "El conjunto de actuaciones de la Administración dirigidas a la determinación de la deuda tributaria: recepción y tramitación de declaraciones, comprobación de datos y liquidación, entre otras.",
+    "explicacion": "El artículo 117 de la LGT atribuye a la gestión tributaria la determinación de la deuda mediante declaraciones y liquidaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 119",
+    "enunciado": "¿Qué son las declaraciones tributarias según el artículo 119 de la Ley 58/2003?",
+    "respuesta": "Todo documento por el que se manifiesta o reconoce espontáneamente ante la Administración tributaria que se han dado o no las circunstancias o elementos de un hecho imponible.",
+    "explicacion": "El artículo 119 de la LGT define la declaración tributaria como la manifestación espontánea del hecho imponible.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 120",
+    "enunciado": "¿Qué son las autoliquidaciones según el artículo 120 de la Ley 58/2003?",
+    "respuesta": "Las declaraciones en las que los obligados tributarios, además de comunicar a la Administración los datos necesarios para la liquidación del tributo, realizan por sí mismos las operaciones de calificación y cuantificación necesarias para determinar e ingresar el importe de la deuda tributaria.",
+    "explicacion": "El artículo 120 de la LGT define la autoliquidación: el obligado cuantifica e ingresa la deuda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E08-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E08",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 101",
+    "enunciado": "¿Qué es la liquidación tributaria según el artículo 101 de la Ley 58/2003?",
+    "respuesta": "El acto resolutorio mediante el cual el órgano competente de la Administración realiza las operaciones de cuantificación necesarias y determina el importe de la deuda tributaria o de la cantidad que, en su caso, resulte a devolver o a compensar.",
+    "explicacion": "El artículo 101 de la LGT define la liquidación como el acto administrativo que cuantifica la deuda tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 60",
+    "enunciado": "¿Qué es el pago de la deuda tributaria según el artículo 60 de la Ley 58/2003?",
+    "respuesta": "El pago podrá efectuarse en efectivo o mediante efectos timbrados y en especie en los supuestos previstos; se entiende pagada la deuda cuando se haya realizado el ingreso de su importe en las cajas de los órganos competentes.",
+    "explicacion": "El artículo 60 de la LGT regula el pago: en efectivo o en especie en los supuestos legales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 62",
+    "enunciado": "¿Cuáles son los plazos de pago en período voluntario según el artículo 62 de la Ley 58/2003?",
+    "respuesta": "Si la notificación se realiza entre los días 1 y 15 del mes, hasta el día 20 del mes posterior; si se realiza entre los días 16 y último, hasta el día 5 del segundo mes posterior.",
+    "explicacion": "El artículo 62 de la LGT fija los plazos de pago en período voluntario según la fecha de notificación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 28",
+    "enunciado": "¿Qué recargos del período ejecutivo existen según el artículo 28 de la Ley 58/2003?",
+    "respuesta": "El recargo ejecutivo del 5 %, el recargo de apremio reducido del 10 % y el recargo de apremio ordinario del 20 %.",
+    "explicacion": "El artículo 28 de la LGT establece los recargos del período ejecutivo: 5 %, 10 % reducido y 20 % ordinario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 161",
+    "enunciado": "¿Cuándo comienza el período ejecutivo según el artículo 161 de la Ley 58/2003?",
+    "respuesta": "El día siguiente al del vencimiento del plazo para el pago en período voluntario; iniciado el período ejecutivo se devengan los recargos del artículo 28.",
+    "explicacion": "El artículo 161 de la LGT inicia el período ejecutivo al día siguiente del vencimiento del período voluntario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 167",
+    "enunciado": "¿Qué es la providencia de apremio según el artículo 167 de la Ley 58/2003?",
+    "respuesta": "El acto de la Administración que ordena la ejecución contra el patrimonio del obligado al pago; es el título suficiente para iniciar el procedimiento de apremio y tiene la misma fuerza ejecutiva que la sentencia judicial.",
+    "explicacion": "El artículo 167 de la LGT define la providencia de apremio como título ejecutivo para iniciar el apremio.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 169",
+    "enunciado": "¿Qué es el embargo de bienes según el artículo 169 de la Ley 58/2003?",
+    "respuesta": "La traba de bienes y derechos del obligado al pago en cuantía suficiente para cubrir el importe de la deuda no ingresada, los recargos, los intereses y las costas del procedimiento.",
+    "explicacion": "El artículo 169 de la LGT regula el embargo de bienes y derechos en cuantía suficiente para cubrir la deuda, recargos, intereses y costas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 172",
+    "enunciado": "¿Cómo se enajenan los bienes embargados según el artículo 172 de la Ley 58/2003?",
+    "respuesta": "Los bienes embargados se enajenarán mediante subasta, concurso o adjudicación directa en los casos y condiciones que se fijen reglamentariamente.",
+    "explicacion": "El artículo 172 de la LGT establece la enajenación de bienes embargados por subasta, concurso o adjudicación directa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E09-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E09",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 163",
+    "enunciado": "¿Qué es el procedimiento de apremio según el artículo 163 de la Ley 58/2003?",
+    "respuesta": "El procedimiento exclusivamente administrativo para el cobro de las deudas tributarias, que se inicia e impulsa de oficio en todos sus trámites y consta de las fases de providencia de apremio, embargo y enajenación.",
+    "explicacion": "El artículo 163 de la LGT configura el apremio como procedimiento exclusivamente administrativo de cobro forzoso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 59",
+    "enunciado": "¿Cómo se extingue la deuda tributaria según el artículo 59 de la Ley 58/2003?",
+    "respuesta": "Por el pago o cumplimiento, la prescripción, la compensación, la condonación y por los demás medios previstos en las leyes.",
+    "explicacion": "El artículo 59 de la LGT enumera las formas de extinción de la deuda: pago, prescripción, compensación y condonación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 66",
+    "enunciado": "¿Qué plazo de prescripción establece el artículo 66 de la Ley 58/2003?",
+    "respuesta": "Prescribirán a los cuatro años el derecho de la Administración para determinar la deuda tributaria, el derecho para exigir su pago, el derecho a solicitar devoluciones y el derecho a obtenerlas.",
+    "explicacion": "El artículo 66 de la LGT fija el plazo general de prescripción en cuatro años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 68",
+    "enunciado": "¿Qué interrumpe la prescripción según el artículo 68 de la Ley 58/2003?",
+    "respuesta": "Entre otras causas: cualquier actuación fehaciente del obligado tributario conducente a la liquidación o autoliquidación de la deuda, y cualquier actuación de la Administración tributaria realizada con conocimiento formal del obligado y dirigida al reconocimiento o liquidación de la deuda.",
+    "explicacion": "El artículo 68 de la LGT regula la interrupción de la prescripción por actuaciones del obligado o de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 71",
+    "enunciado": "¿Qué es la compensación según el artículo 71 de la Ley 58/2003?",
+    "respuesta": "Las deudas tributarias de un obligado tributario podrán extinguirse total o parcialmente por compensación con créditos reconocidos por acto administrativo a favor del mismo obligado.",
+    "explicacion": "El artículo 71 de la LGT permite extinguir la deuda por compensación con créditos reconocidos a favor del obligado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 75",
+    "enunciado": "¿Qué es la condonación según el artículo 75 de la Ley 58/2003?",
+    "respuesta": "Las deudas tributarias solo podrán condonarse en virtud de ley, en la cuantía y con los requisitos que en ella se determinen.",
+    "explicacion": "El artículo 75 de la LGT reserva la condonación a la ley, con sus requisitos y cuantía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 41",
+    "enunciado": "¿Quiénes son responsables de la deuda tributaria según el artículo 41 de la Ley 58/2003?",
+    "respuesta": "La ley podrá declarar responsables de la deuda tributaria, junto a los deudores principales, a otras personas, solidaria o subsidiariamente.",
+    "explicacion": "El artículo 41 de la LGT permite declarar responsables solidarios o subsidiarios junto a los deudores principales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 42",
+    "enunciado": "¿Quiénes son responsables solidarios según el artículo 42 de la Ley 58/2003?",
+    "respuesta": "Entre otros: quienes sean causantes o colaboren activamente en la realización de una infracción tributaria; y los partícipes o cotitulares de entidades sin personalidad jurídica en proporción a sus participaciones.",
+    "explicacion": "El artículo 42 de la LGT enumera los responsables solidarios: causantes o colaboradores en infracciones y cotitulares de entes sin personalidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E10-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 40",
+    "enunciado": "¿Quiénes son sucesores de personas físicas según el artículo 40 de la Ley 58/2003?",
+    "respuesta": "A la muerte de los obligados tributarios, las obligaciones tributarias pendientes se transmitirán a los herederos y legatarios, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia.",
+    "explicacion": "El artículo 40 de la LGT transmite a herederos y legatarios las obligaciones tributarias pendientes del causante.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué es la inspección de los tributos según el artículo 141 de la Ley 58/2003?",
+    "respuesta": "La actuación administrativa dirigida a la investigación de los supuestos de hecho de las obligaciones tributarias, la comprobación de la veracidad de las declaraciones y la práctica de las liquidaciones resultantes.",
+    "explicacion": "El artículo 141 de la LGT define la inspección: investigación, comprobación y liquidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 142",
+    "enunciado": "¿Qué facultades tiene la inspección según el artículo 142 de la Ley 58/2003?",
+    "respuesta": "Entre otras: examinar documentos y libros; requerir información; entrar en fincas y locales; y recabar el auxilio de las autoridades.",
+    "explicacion": "El artículo 142 de la LGT atribuye a la inspección facultades de examen documental, requerimientos y entrada en locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 145",
+    "enunciado": "¿Cómo se inicia el procedimiento de inspección según el artículo 145 de la Ley 58/2003?",
+    "respuesta": "De oficio, mediante comunicación notificada al obligado tributario o personación sin previa comunicación en los supuestos legales.",
+    "explicacion": "El artículo 145 de la LGT regula el inicio de oficio del procedimiento inspector, con comunicación previa o personación directa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 150",
+    "enunciado": "¿Cuál es el plazo del procedimiento inspector según el artículo 150 de la Ley 58/2003?",
+    "respuesta": "Las actuaciones del procedimiento de inspección deberán concluir en el plazo de 18 meses, ampliable a 27 meses en los supuestos previstos en la ley.",
+    "explicacion": "El artículo 150 de la LGT fija el plazo general de 18 meses para el procedimiento inspector, ampliable a 27 meses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 146",
+    "enunciado": "¿Qué son las actas de inspección según el artículo 146 de la Ley 58/2003?",
+    "respuesta": "Los documentos públicos que extiende la inspección para recoger el resultado de sus actuaciones de comprobación e investigación, proponiendo la regularización que estime procedente.",
+    "explicacion": "El artículo 146 de la LGT define las actas como documentos públicos que recogen el resultado de la inspección.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 147",
+    "enunciado": "¿Qué clases de actas existen según el artículo 147 de la Ley 58/2003?",
+    "respuesta": "Las actas pueden ser con acuerdo, de conformidad o de disconformidad, según la aceptación por el obligado de la propuesta de regularización.",
+    "explicacion": "El artículo 147 de la LGT clasifica las actas en con acuerdo, de conformidad y de disconformidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 152",
+    "enunciado": "¿Qué medidas cautelares puede adoptar la inspección según el artículo 152 de la Ley 58/2003?",
+    "respuesta": "En el procedimiento de inspección se podrán adoptar medidas cautelares debidamente motivadas para impedir que desaparezcan o se destruyan pruebas o para asegurar el cobro de la deuda.",
+    "explicacion": "El artículo 152 de la LGT permite medidas cautelares motivadas para preservar pruebas o asegurar el cobro.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E11-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E11",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 151",
+    "enunciado": "¿Cómo termina el procedimiento de inspección según el artículo 151 de la Ley 58/2003?",
+    "respuesta": "El procedimiento inspector terminará con la notificación del acto de liquidación, que deberá ser motivado cuando no se ajuste a la propuesta del acta.",
+    "explicacion": "El artículo 151 de la LGT pone fin al procedimiento con el acto de liquidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 178",
+    "enunciado": "¿Qué son las infracciones tributarias según el artículo 178 de la Ley 58/2003?",
+    "respuesta": "Las acciones u omisiones dolosas o culposas con cualquier grado de negligencia que estén tipificadas y sancionadas como tales en la Ley o en otra ley.",
+    "explicacion": "El artículo 178 de la LGT define la infracción tributaria: acción u omisión dolosa o culposa tipificada y sancionada por ley.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 179",
+    "enunciado": "¿Qué principios rigen la potestad sancionadora tributaria según el artículo 179 de la Ley 58/2003?",
+    "respuesta": "Los de legalidad, tipicidad, responsabilidad, proporcionalidad, no concurrencia e irretroactividad, en los términos de la Ley 40/2015.",
+    "explicacion": "El artículo 179 de la LGT remite a los principios sancionadores de la Ley 40/2015.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 187",
+    "enunciado": "¿Qué tipos de sanciones tributarias existen según el artículo 187 de la Ley 58/2003?",
+    "respuesta": "Las sanciones tributarias podrán consistir en multa pecuniaria fija o proporcional; también pueden imponerse sanciones no pecuniarias en los supuestos previstos.",
+    "explicacion": "El artículo 187 de la LGT establece las sanciones pecuniarias (fijas o proporcionales) y las no pecuniarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 191",
+    "enunciado": "¿Qué infracción es dejar de ingresar la deuda tributaria según el artículo 191 de la Ley 58/2003?",
+    "respuesta": "Constituye infracción tributaria dejar de ingresar dentro del plazo establecido en la normativa de cada tributo la totalidad o parte de la deuda tributaria que debiera resultar de la correcta autoliquidación.",
+    "explicacion": "El artículo 191 de la LGT tipifica como infracción dejar de ingresar la deuda resultante de la autoliquidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 207",
+    "enunciado": "¿Cómo se inicia el procedimiento sancionador según el artículo 207 de la Ley 58/2003?",
+    "respuesta": "El procedimiento sancionador en materia tributaria se iniciará siempre de oficio, mediante la notificación del acuerdo del órgano competente.",
+    "explicacion": "El artículo 207 de la LGT impone el inicio de oficio del procedimiento sancionador tributario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 208",
+    "enunciado": "¿Qué plazo tiene el procedimiento sancionador según el artículo 208 de la Ley 58/2003?",
+    "respuesta": "El procedimiento sancionador deberá concluir en el plazo máximo de seis meses contados desde la notificación del acuerdo de inicio.",
+    "explicacion": "El artículo 208 de la LGT fija en seis meses el plazo máximo del procedimiento sancionador.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 213",
+    "enunciado": "¿Qué recursos caben en vía administrativa según el artículo 213 de la Ley 58/2003?",
+    "respuesta": "Contra los actos de aplicación de los tributos cabe el recurso de reposición y la reclamación económico-administrativa, en los términos de la Ley.",
+    "explicacion": "El artículo 213 de la LGT articula la revisión: recurso de reposición y reclamación económico-administrativa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E12-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E12",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 226",
+    "enunciado": "¿Qué son las reclamaciones económico-administrativas según el artículo 226 de la Ley 58/2003?",
+    "respuesta": "Las que pueden interponerse contra los actos de aplicación de los tributos ante los Tribunales Económico-Administrativos, que resuelven en única instancia las reclamaciones de cuantía superior a la fijada.",
+    "explicacion": "El artículo 226 de la LGT regula las reclamaciones económico-administrativas ante los TEA.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Ley 58/2003",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué tributos pueden establecer las entidades locales según la Ley 58/2003 y el texto refundido de la Ley de Haciendas Locales?",
+    "respuesta": "Las entidades locales pueden establecer tasas, contribuciones especiales e impuestos, de acuerdo con la Constitución, las leyes del Estado y de las Comunidades Autónomas y el TRLRHL.",
+    "explicacion": "El TRLRHL (arts. 2 a 19) y la LGT reconocen la potestad tributaria local: tasas, contribuciones especiales e impuestos.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "SEV-A1-E13-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 59",
+    "enunciado": "¿Qué impuestos municipales son obligatorios según el artículo 59 del TRLRHL?",
+    "respuesta": "El Impuesto sobre Bienes Inmuebles, el Impuesto sobre Actividades Económicas y el Impuesto sobre Vehículos de Tracción Mecánica.",
+    "explicacion": "El artículo 59.1 del TRLRHL impone como obligatorios el IBI, el IAE y el IVTM.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 59",
+    "enunciado": "¿Qué impuestos municipales son potestativos según el artículo 59.2 del TRLRHL?",
+    "respuesta": "El Impuesto sobre Construcciones, Instalaciones y Obras y el Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+    "explicacion": "El artículo 59.2 del TRLRHL permite establecer con carácter potestativo el ICIO y el IIVTNU.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 60",
+    "enunciado": "¿Qué grava el Impuesto sobre Bienes Inmuebles según el artículo 60 del TRLRHL?",
+    "respuesta": "La titularidad de los derechos de concesión administrativa, superficie, usufructo o propiedad sobre los bienes inmuebles rústicos y urbanos y sobre los inmuebles de características especiales.",
+    "explicacion": "El artículo 60 del TRLRHL define el hecho imponible del IBI: la titularidad de derechos sobre inmuebles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 65",
+    "enunciado": "¿Quiénes son sujetos pasivos del IBI según el artículo 65 del TRLRHL?",
+    "respuesta": "Las personas naturales y jurídicas y las entidades del artículo 35.4 de la Ley 58/2003 que ostenten la titularidad del derecho que constituya el hecho imponible.",
+    "explicacion": "El artículo 65 del TRLRHL atribuye la condición de sujeto pasivo del IBI al titular del derecho que constituye el hecho imponible.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 68",
+    "enunciado": "¿Qué es la base imponible del IBI según el artículo 68 del TRLRHL?",
+    "respuesta": "Estará constituida por el valor catastral de los bienes inmuebles.",
+    "explicacion": "El artículo 68 del TRLRHL fija la base imponible del IBI en el valor catastral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 71",
+    "enunciado": "¿Qué tipos de gravamen tiene el IBI según el artículo 71 del TRLRHL?",
+    "respuesta": "El tipo de gravamen mínimo y supletorio será el 0,4 % para bienes urbanos y el 0,3 % para rústicos; el máximo será el 1,10 % para urbanos y el 0,90 % para rústicos, pudiendo incrementarse en los supuestos del artículo 72.",
+    "explicacion": "El artículo 71 del TRLRHL fija los tipos mínimo y máximo del IBI para bienes urbanos y rústicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E13-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E13",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 75",
+    "enunciado": "¿Cuándo se devenga el IBI según el artículo 75 del TRLRHL?",
+    "respuesta": "El impuesto se devengará el primer día del período impositivo, que coincidirá con el año natural.",
+    "explicacion": "El artículo 75 del TRLRHL establece el devengo del IBI el primer día del año natural.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 78",
+    "enunciado": "¿Qué grava el Impuesto sobre Actividades Económicas según el artículo 78 del TRLRHL?",
+    "respuesta": "El mero ejercicio en territorio nacional de actividades empresariales, profesionales o artísticas, se ejerzan o no en local determinado.",
+    "explicacion": "El artículo 78 del TRLRHL define el hecho imponible del IAE: el mero ejercicio de actividades económicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 82",
+    "enunciado": "¿Quiénes están exentos del IAE según el artículo 82 del TRLRHL?",
+    "respuesta": "Entre otros: el Estado, las Comunidades Autónomas y las entidades locales; y las personas físicas y los sujetos pasivos del Impuesto sobre Sociedades con un importe neto de la cifra de negocios inferior a 1.000.000 de euros.",
+    "explicacion": "El artículo 82 del TRLRHL enumera las exenciones del IAE, incluida la de cifra de negocios inferior al millón de euros.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 92",
+    "enunciado": "¿Qué grava el Impuesto sobre Vehículos de Tracción Mecánica según el artículo 92 del TRLRHL?",
+    "respuesta": "La titularidad de los vehículos de tracción mecánica aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría.",
+    "explicacion": "El artículo 92 del TRLRHL define el hecho imponible del IVTM: la titularidad de vehículos aptos para circular.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 100",
+    "enunciado": "¿Qué grava el Impuesto sobre Construcciones, Instalaciones y Obras según el artículo 100 del TRLRHL?",
+    "respuesta": "La realización, dentro del término municipal, de cualquier construcción, instalación u obra para la que se exija obtención de la correspondiente licencia de obras o urbanística.",
+    "explicacion": "El artículo 100 del TRLRHL define el hecho imponible del ICIO: la realización de construcciones, instalaciones u obras con licencia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 102",
+    "enunciado": "¿Cuál es el tipo de gravamen máximo del ICIO según el artículo 102 del TRLRHL?",
+    "respuesta": "El tipo de gravamen del impuesto será el fijado por cada Ayuntamiento, sin que dicho tipo pueda exceder del 4 %.",
+    "explicacion": "El artículo 102 del TRLRHL limita al 4 % el tipo de gravamen del ICIO.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 104",
+    "enunciado": "¿Qué grava el IIVTNU según el artículo 104 del TRLRHL?",
+    "respuesta": "El incremento de valor que experimenten los terrenos de naturaleza urbana puesto de manifiesto a consecuencia de la transmisión de la propiedad por cualquier título o de la constitución o transmisión de cualquier derecho real de goce limitativo del dominio.",
+    "explicacion": "El artículo 104 del TRLRHL define el hecho imponible del IIVTNU (plusvalía): el incremento de valor de terrenos urbanos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué son las tasas locales según el artículo 20 del TRLRHL?",
+    "respuesta": "Los tributos cuyo hecho imponible consiste en la utilización privativa o el aprovechamiento especial del dominio público local, o en la prestación de servicios públicos o actividades administrativas que afecten o beneficien de modo particular a los sujetos pasivos.",
+    "explicacion": "El artículo 20 del TRLRHL define las tasas locales por uso del dominio público o prestación de servicios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E14-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E14",
+    "ley": "Real Decreto Legislativo 2/2004",
+    "articulo": "art. 28",
+    "enunciado": "¿Qué son las contribuciones especiales según el artículo 28 del TRLRHL?",
+    "respuesta": "Los tributos cuyo hecho imponible consiste en la obtención por el sujeto pasivo de un beneficio o de un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
+    "explicacion": "El artículo 28 del TRLRHL define las contribuciones especiales por beneficio derivado de obras o servicios públicos.",
+    "verificado_corpus": true
+  }
+]

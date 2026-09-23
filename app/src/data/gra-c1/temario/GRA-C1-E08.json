@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E08",
+  "numero": 8,
+  "tema": "E08",
+  "tipo": "especifico",
+  "titulo": "La gestión recaudatoria y el Reglamento General de Recaudación",
+  "relacionados": [
+    "GRA-C1-T05",
+    "GRA-C1-E09",
+    "GRA-C1-E11"
+  ],
+  "secciones": [
+    {
+      "titulo": "Objeto y concepto",
+      "texto": "El Reglamento General de Recaudación desarrolla la LGT en materia de recaudación de los tributos y demás recursos de naturaleza pública ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 1]]).\n\nLa **gestión recaudatoria** es el ejercicio de la función administrativa conducente al cobro de las deudas y sanciones tributarias y demás recursos públicos que deban satisfacer los obligados, tanto en período voluntario como en período ejecutivo ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 2]])."
+    },
+    {
+      "titulo": "Órganos y entidades colaboradoras",
+      "texto": "La recaudación estatal corresponde a los órganos de la Agencia Estatal de Administración Tributaria ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 6]]), que gozan de facultades de dirección, impulso, tramitación, resolución de recursos y tercerías y adopción de medidas cautelares ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 10]]).\n\nLas entidades locales recaudan directamente, a través de otros entes territoriales por convenio o delegación, o mediante la AEAT por convenio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 8]]). Las entidades de crédito pueden prestar el servicio de caja o actuar como colaboradoras, pero en ningún caso tendrán la condición de órganos de recaudación ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 9]])."
+    },
+    {
+      "titulo": "El pago de las deudas",
+      "texto": "Puede pagar cualquier persona, conozca o no el obligado el pago, sin que ello altere la titularidad de la deuda ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 33]]). El pago en efectivo puede realizarse en dinero de curso legal, cheque, tarjeta, transferencia, domiciliación u otros medios autorizados, entendiéndose pagada la deuda al ingresar su importe en los órganos o entidades autorizadas ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 34]]).\n\nLas deudas se extinguen por pago, prescripción, compensación, deducción sobre transferencias, condonación y demás medios legales ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 32]])."
+    },
+    {
+      "titulo": "Justificantes del pago",
+      "texto": "El pago se justifica con el documento de ingreso debidamente diligenciado, y la Administración expedirá certificaciones a solicitud del interesado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 41]]).\n\nEl RGR detalla cada medio de pago: el cheque debe ser nominativo y conformado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 35]]), la transferencia exige identificar la deuda ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 37]]) y la domiciliación requiere comunicación previa al órgano de recaudación ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 38]])."
+    }
+  ]
+}

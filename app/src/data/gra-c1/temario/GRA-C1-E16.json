@@ -1,0 +1,33 @@
+{
+  "id": "GRA-C1-E16",
+  "numero": 16,
+  "tema": "E16",
+  "tipo": "especifico",
+  "titulo": "La revisión en vía administrativa: reposición, reclamaciones y devoluciones",
+  "relacionados": [
+    "GRA-C1-T08",
+    "GRA-C1-E14"
+  ],
+  "secciones": [
+    {
+      "titulo": "Procedimientos especiales de revisión",
+      "texto": "El [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 216]] enumera los procedimientos especiales: declaración de nulidad de pleno derecho, declaración de lesividad, revocación, rectificación de errores y devolución de ingresos indebidos.\n\nLa nulidad de pleno derecho procede contra actos firmes en los supuestos tasados, en cualquier momento, de oficio o a instancia y previo dictamen del Consejo de Estado ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 217]]). La lesividad permite a la Administración impugnar judicialmente sus propios actos favorables anulables, previa declaración de lesivos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 218]]). La revocación solo cabe en beneficio de los interesados cuando los actos infrinjan manifiestamente la ley ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 219]]), y los errores materiales, de hecho o aritméticos se rectifican en cualquier momento ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 220]])."
+    },
+    {
+      "titulo": "Devolución de ingresos indebidos",
+      "texto": "Procede la devolución cuando haya duplicidad de pago, cantidad pagada superior a la debida, ingreso de deudas prescritas o así lo prevea la normativa ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 221]]). El procedimiento se inicia a instancia del interesado o de oficio y reconoce el derecho a la devolución con los intereses que correspondan."
+    },
+    {
+      "titulo": "Recurso de reposición",
+      "texto": "En materia tributaria la reposición es potestativa y previa a la reclamación económico-administrativa ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 222]]). Se interpone en un mes ante el órgano que dictó el acto ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 223]]) y no suspende la ejecución, salvo aportación de garantía, en cuyo caso la suspensión es automática ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 224]]).\n\nDebe resolverse en el plazo máximo de un año; el silencio es desestimatorio ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 225]])."
+    },
+    {
+      "titulo": "Reclamaciones económico-administrativas",
+      "texto": "Las reclamaciones económico-administrativas se interponen contra los actos de aplicación de los tributos y de imposición de sanciones ante los Tribunales Económico-Administrativos, órganos especializados e independientes ([[Ley 58/2003, de 17 de diciembre, General Tributaria | arts. 226 a 228]]).\n\nSu interposición no suspende la ejecución salvo garantía, y agotan la vía administrativa previa a la jurisdicción contencioso-administrativa. En el ámbito local, el recurso de reposición ante el propio ayuntamiento es el cauce de revisión de los actos tributarios."
+    },
+    {
+      "titulo": "Tribunales económico-administrativos",
+      "texto": "Los Tribunales Económico-Administrativos son órganos colegiados especializados que resuelven las reclamaciones con independencia funcional, aunque adscritos al Ministerio de Hacienda ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 228]]). Existen el Tribunal Económico-Administrativo Central y los regionales, competentes según la cuantía y el órgano que dictó el acto.\n\nEn el procedimiento abreviado ante órganos unipersonales se resuelven las reclamaciones de menor cuantía con mayor agilidad. Las resoluciones de los tribunales ponen fin a la vía administrativa y solo son impugnables ante la jurisdicción contencioso-administrativa."
+    }
+  ]
+}

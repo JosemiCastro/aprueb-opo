@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E03",
+  "numero": 3,
+  "tema": "E03",
+  "tipo": "especifico",
+  "titulo": "Los obligados tributarios: sujetos pasivos, sucesores y responsables",
+  "relacionados": [
+    "GRA-C1-E02",
+    "GRA-C1-E04",
+    "GRA-C1-E13"
+  ],
+  "secciones": [
+    {
+      "titulo": "Concepto de obligado tributario",
+      "texto": "Son obligados tributarios las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 35]]). Entre otros: contribuyentes, sustitutos, obligados a realizar pagos fraccionados, retenedores, obligados a practicar ingresos a cuenta, obligados a repercutir y a soportar la repercusión, sucesores y responsables.\n\nTambién lo son las herencias yacentes, comunidades de bienes y demás entidades sin personalidad que constituyan una unidad económica susceptible de imposición, y quienes deban cumplir obligaciones formales. La concurrencia de varios obligados en un mismo presupuesto determina su responsabilidad solidaria, salvo disposición legal en contrario."
+    },
+    {
+      "titulo": "Sujetos pasivos y pagos a cuenta",
+      "texto": "Es sujeto pasivo el obligado que debe cumplir la obligación tributaria principal, sea como **contribuyente** (quien realiza el hecho imponible) o como **sustituto** (quien por ley cumple en lugar del contribuyente, pudiendo exigirle el importe satisfecho) ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 36]]).\n\nEstán obligados a realizar pagos a cuenta el contribuyente (pagos fraccionados) y el retenedor, que detrae e ingresa una parte de los pagos que realiza a otros obligados ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 37]]). El [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 38]] regula las obligaciones entre particulares resultantes del tributo, como la repercusión de la cuota."
+    },
+    {
+      "titulo": "Sucesores",
+      "texto": "A la muerte del obligado, las deudas pendientes se transmiten a herederos y legatarios, que responden solidariamente hasta el límite del valor de la herencia ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 39]]).\n\nEn la disolución de personas jurídicas y entidades sin personalidad, las obligaciones pendientes se transmiten a los socios, copartícipes o cotitulares, obligados solidariamente hasta el valor de su cuota de liquidación ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 40]]). En ambos casos, las sanciones no se transmiten salvo previsión legal expresa."
+    },
+    {
+      "titulo": "Responsables tributarios",
+      "texto": "La ley puede configurar responsables solidarios o subsidiarios junto a los deudores principales; salvo precepto expreso, la responsabilidad es siempre subsidiaria y no alcanza a las sanciones ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 41]]).\n\nSon **solidarios**, entre otros, los causantes o colaboradores en infracciones tributarias y quienes sucedan en explotaciones económicas ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 42]]); son **subsidiarios** los administradores de personas jurídicas que consientan incumplimientos o no realicen los actos necesarios para el cumplimiento ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 43]]). La derivación requiere acto administrativo previa audiencia, y para los subsidiarios, la previa declaración de fallido del deudor principal.\n\nEl domicilio fiscal es, para las personas físicas, la residencia habitual, y para las jurídicas, el domicilio social donde esté centralizada su gestión ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 48]])."
+    }
+  ]
+}

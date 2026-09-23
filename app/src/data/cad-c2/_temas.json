@@ -1,0 +1,194 @@
+[
+  {
+    "id": "T01",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "1",
+    "titulo": "La Constitución Española de 1978. Principios generales, características y estructura. Los derechos y deberes fundamentales: garantía y suspensión.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T02",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "2",
+    "titulo": "La Corona. El Poder Legislativo. El Poder Ejecutivo. El Poder Judicial. El Gobierno y la Administración del Estado.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T03",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "3",
+    "titulo": "La Administración Pública en el ordenamiento jurídico español. Tipología de los entes públicos. Las Administraciones del Estado, Autonómica y Local.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T04",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "4",
+    "titulo": "El Estatuto de Autonomía para Andalucía: estructura y disposiciones generales. Competencias de la Comunidad Autónoma de Andalucía.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T05",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "5",
+    "titulo": "El Régimen Local Español. Principios constitucionales y regulación jurídica. Organización y competencias municipales.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T06",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "6",
+    "titulo": "La Provincia. Organización: órganos necesarios y complementarios de las Diputaciones Provinciales. Sistema de elección de los/las Diputados/as y del/la Presidente/a.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T07",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "7",
+    "titulo": "El Municipio. Organización Municipal. Competencias. Autonomía Municipal.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T08",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "8",
+    "titulo": "Los derechos de los ciudadanos ante la Administración Pública. Consideración especial del interesado. Colaboración y participación de los ciudadanos en la Administración.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T09",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "9",
+    "titulo": "Ley Prevención de Riesgos Laborales. Definiciones. Derecho a la protección frente a los riesgos laborales. Principios de la acción preventiva.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "T10",
+    "perfil": "c2",
+    "tipo": "comun",
+    "numero": "10",
+    "titulo": "Conceptualización básica. Discriminación y relaciones desiguales: concepto y tipos de discriminación. Igualdad de oportunidades: principios de igualdad. Planes de igualdad. Breve referencia al Plan Estratégico de Igualdad de Oportunidades entre mujeres y hombres de la Diputación Provincial de Cádiz.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E01",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "1",
+    "titulo": "El personal al servicio de las Administraciones Públicas: los empleados públicos. Retribuciones del personal.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E02",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "2",
+    "titulo": "Los funcionarios públicos: situaciones administrativas. La responsabilidad y el procedimiento disciplinario. Derechos colectivos de los funcionarios.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E03",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "3",
+    "titulo": "El Procedimiento Administrativo Común. El Registro General de entrada y salida de documentos. Días y horas hábiles. Cómputo de plazos. Requisitos en la presentación de documentos.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E04",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "4",
+    "titulo": "Fases del procedimiento administrativo: iniciación, ordenación, instrucción y finalización. Derechos de los ciudadanos en el procedimiento.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E05",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "5",
+    "titulo": "El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E06",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "6",
+    "titulo": "Los recursos administrativos. La revisión de oficio de los actos administrativos. El recurso contencioso-administrativo.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E07",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "7",
+    "titulo": "Funcionamiento de los órganos colegiados locales. Convocatoria y orden del día. Actas y certificaciones de acuerdos.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E08",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "8",
+    "titulo": "Los contratos administrativos en la esfera local. Especial referencia a la selección del contratista.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E09",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "9",
+    "titulo": "Las haciendas locales. Clasificación de ingresos. Las ordenanzas fiscales: procedimiento de elaboración y aprobación. Régimen jurídico del gasto público local. Control y fiscalización del gasto.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E10",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "10",
+    "titulo": "Los bienes de las entidades locales: concepto. Clases. Bienes de dominio público. Bienes patrimoniales.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E11",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "11",
+    "titulo": "El interesado: concepto, representación, pluralidad de interesados y nuevos interesados en el procedimiento. Identificación y firma. Sistema de identificación de los interesados y sistemas de firma admitidos por las Administraciones Públicas; el uso de medios de identificación y firma, asistencia en el uso de medios electrónicos a los interesados. Derechos de las personas en sus relaciones con las AA.PP., derecho y obligación de relacionarse electrónicamente.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E12",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "12",
+    "titulo": "El archivo. Concepto. Tipos de archivos. Organización del archivo. Normas de acceso a los archivos. El proceso de archivo. El archivo de los documentos administrativos.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E13",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "13",
+    "titulo": "La protección de datos personales y garantía de los derechos digitales. Regulación legal. Principios de protección de datos. Derechos de las personas. Disposiciones aplicables a tratamientos concretos. Responsable y encargado del tratamiento. Garantía de los derechos digitales.",
+    "oposicion": "CAD-C2"
+  },
+  {
+    "id": "E14",
+    "perfil": "c2",
+    "tipo": "especifico",
+    "numero": "14",
+    "titulo": "Sistemas ofimáticos. Procesadores de Texto. Hojas de cálculo: principales funciones y utilidades. Libros, hojas y celdas. Otras aplicaciones ofimáticas. Redes de comunicaciones e internet. El correo electrónico: conceptos elementales y funcionamiento.",
+    "oposicion": "CAD-C2"
+  }
+]

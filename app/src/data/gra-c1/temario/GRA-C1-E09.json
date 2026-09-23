@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E09",
+  "numero": 9,
+  "tema": "E09",
+  "tipo": "especifico",
+  "titulo": "La recaudación en período voluntario",
+  "relacionados": [
+    "GRA-C1-E05",
+    "GRA-C1-E08",
+    "GRA-C1-E10"
+  ],
+  "secciones": [
+    {
+      "titulo": "Inicio y fin del período voluntario",
+      "texto": "La recaudación en período voluntario se inicia con la notificación de la liquidación, con la apertura del plazo recaudatorio en deudas de notificación colectiva y periódica, o con el comienzo del plazo de presentación en las autoliquidaciones; concluye el día del vencimiento de los plazos de ingreso ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 68]]).\n\nLos obligados pueden pagar total o parcialmente; por la cantidad no pagada se inicia el período ejecutivo ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 68]]). Los plazos de ingreso son los del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62]]: notificaciones del 1 al 15, hasta el día 20 del mes posterior; del 16 a fin de mes, hasta el día 5 del segundo mes posterior."
+    },
+    {
+      "titulo": "Anuncios de cobranza",
+      "texto": "La comunicación del período de pago se realiza de forma colectiva mediante edictos en el boletín oficial y en las oficinas de los ayuntamientos, que pueden divulgarse por medios de comunicación ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 24]]). El anuncio debe contener el plazo de ingreso, la modalidad de cobro, los lugares, días y horas de ingreso y la advertencia del apremio con recargos, intereses y costas.\n\nEl anuncio puede sustituirse por notificaciones individuales."
+    },
+    {
+      "titulo": "Deudas de vencimiento periódico",
+      "texto": "En las deudas que se cobran por recibo (como el IBI o el IVTM), si el obligado se persona sin disponer del recibo se admite el pago si figura en las listas cobratorias ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 25]]).\n\nLos obligados pueden domiciliar el pago en entidades de crédito comunicándolo al órgano de recaudación al menos dos meses antes del comienzo del período de cobro; las domiciliaciones valen por tiempo indefinido mientras no se anulen ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 25]])."
+    },
+    {
+      "titulo": "Otros supuestos",
+      "texto": "Excepcionalmente se admite el pago en especie cuando una ley lo prevea, salvo en deudas inaplazables ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 40]]). El obligado puede consignar el importe de la deuda a disposición de la Administración, sin devengo de intereses desde la consignación si resulta procedente ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 43]]).\n\nAnte tributos incompatibles, la Administración realiza las actuaciones necesarias para evitar la doble imposición o la exigencia indebida ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 42]])."
+    }
+  ]
+}

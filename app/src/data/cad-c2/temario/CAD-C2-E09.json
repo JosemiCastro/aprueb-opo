@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E09",
+  "tema": "E09",
+  "numero": 9,
+  "tipo": "especifico",
+  "titulo": "Las haciendas locales. Clasificación de ingresos. Las ordenanzas fiscales: procedimiento de elaboración y aprobación. Régimen jurídico del gasto público local. Control y fiscalización del gasto.",
+  "relacionados": [
+    "CAD-C2-E08",
+    "CAD-C2-E10",
+    "CAD-C2-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Las haciendas locales y la clasificación de ingresos",
+      "texto": "Las Haciendas locales deben disponer de medios suficientes para el desempeño de sus funciones y se nutren fundamentalmente de tributos propios y de participaciones en tributos del Estado y de las Comunidades Autónomas (art. 142 CE). El [[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 2]] enumera los recursos de las entidades locales: los ingresos procedentes de su patrimonio y demás de derecho privado; los tributos propios (tasas, contribuciones especiales e impuestos); las participaciones en tributos del Estado y de las CCAA; las subvenciones; los precios públicos; el producto de operaciones de crédito; las multas y sanciones; y las demás prestaciones de derecho público."
+    },
+    {
+      "titulo": "2. Las ordenanzas fiscales: elaboración y aprobación",
+      "texto": "Las entidades locales pueden establecer y exigir tributos mediante ordenanzas fiscales ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 15]]), que deben contener al menos la determinación del hecho imponible, sujeto pasivo, base, tipo, devengo y período impositivo ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 16]]). El procedimiento de elaboración y aprobación exige: aprobación provisional por el Pleno, exposición pública durante treinta días para reclamaciones, resolución de las reclamaciones y aprobación definitiva, y publicación íntegra en el Boletín Oficial de la Provincia ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 17]]). Contra los acuerdos definitivos cabe recurso contencioso-administrativo en el plazo de dos meses ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 19]])."
+    },
+    {
+      "titulo": "3. El presupuesto y el régimen jurídico del gasto público local",
+      "texto": "El presupuesto general constituye la expresión cifrada, conjunta y sistemática de las obligaciones y los derechos de la entidad ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 162]]). Lo forma el Presidente y lo aprueba inicialmente el Pleno, con exposición pública de quince días y aprobación definitiva ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  arts. 168 y 169]]). La gestión del gasto sigue las fases de autorización (A), disposición o compromiso (D), reconocimiento y liquidación de la obligación (O) y ordenación del pago (P) ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 184]]). Las modificaciones de crédito incluyen los créditos extraordinarios, suplementos, ampliaciones, transferencias, generaciones e incorporaciones ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  arts. 177 a 182]])."
+    },
+    {
+      "titulo": "4. Control y fiscalización del gasto",
+      "texto": "El control interno de la gestión económico-financiera corresponde a la Intervención ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 213]]), que ejerce la función interventora o fiscalización previa de los actos con contenido económico ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  arts. 214 y 219]]) y el control financiero y de eficacia ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  arts. 220 y 221]]). Cuando la Intervención disiente, formula reparo escrito con efectos suspensivos en determinados casos ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 215]]). El control externo corresponde al Tribunal de Cuentas y, en Andalucía, a la Cámara de Cuentas ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales |  art. 223]])."
+    }
+  ]
+}

@@ -1,15 +1,14 @@
-import type { TemaDesarrollado } from '../types';
+import type { OposicionId, TemaDesarrollado } from '../types';
 
-// Carga perezosa de los JSON del temario desarrollado (generados por workers
-// en paralelo). Cada entrada es una función () => Promise<{ default: TemaDesarrollado }>.
-const modulosC1 = import.meta.glob('../data/c1/temario/*.json');
-const modulosA2 = import.meta.glob('../data/a2/temario/*.json');
-
-type Modulos = Record<string, () => Promise<unknown>>;
-
-function modulosDe(perfil: 'c1' | 'a2'): Modulos {
-  return (perfil === 'c1' ? modulosC1 : modulosA2) as Modulos;
-}
+// Carga perezosa de los JSON del temario desarrollado. Cada entrada es una
+// función () => Promise<{ default: TemaDesarrollado }>.
+const modulosPorOpo: Record<OposicionId, Record<string, () => Promise<unknown>>> = {
+  'HUE-C1': import.meta.glob('../data/c1/temario/*.json'),
+  'HUE-A2': import.meta.glob('../data/a2/temario/*.json'),
+  'CAD-C2': import.meta.glob('../data/cad-c2/temario/*.json'),
+  'GRA-C1': import.meta.glob('../data/gra-c1/temario/*.json'),
+  'SEV-A1': import.meta.glob('../data/sev-a1/temario/*.json'),
+};
 
 function esTemaDesarrollado(v: unknown): v is TemaDesarrollado {
   if (typeof v !== 'object' || v === null) return false;
@@ -28,8 +27,8 @@ function ordenTemario(a: TemaDesarrollado, b: TemaDesarrollado): number {
   return a.numero - b.numero;
 }
 
-async function cargarTodos(perfil: 'c1' | 'a2'): Promise<TemaDesarrollado[]> {
-  const mods = modulosDe(perfil);
+async function cargarTodos(opoId: OposicionId): Promise<TemaDesarrollado[]> {
+  const mods = modulosPorOpo[opoId];
   const temas: TemaDesarrollado[] = [];
   await Promise.all(
     Object.values(mods).map(async (cargar) => {
@@ -52,30 +51,30 @@ async function cargarTodos(perfil: 'c1' | 'a2'): Promise<TemaDesarrollado[]> {
   return temas.sort(ordenTemario);
 }
 
-// Caché en memoria: la lista solo se lee de disco/red la primera vez.
-const cache: Partial<Record<'c1' | 'a2', Promise<TemaDesarrollado[]>>> = {};
+// Caché en memoria: cada temario solo se lee de disco/red la primera vez.
+const cache: Partial<Record<OposicionId, Promise<TemaDesarrollado[]>>> = {};
 
-/** Todos los temas desarrollados del perfil, ordenados: comunes y luego específicos. */
-export function listarTemario(perfil: 'c1' | 'a2'): Promise<TemaDesarrollado[]> {
-  if (!cache[perfil]) cache[perfil] = cargarTodos(perfil);
-  return cache[perfil];
+/** Todos los temas desarrollados de la oposición, ordenados: comunes y luego específicos. */
+export function listarTemario(opoId: OposicionId): Promise<TemaDesarrollado[]> {
+  if (!cache[opoId]) cache[opoId] = cargarTodos(opoId);
+  return cache[opoId];
 }
 
-/** Un tema desarrollado por su id (p. ej. "HUE-C1-T01"), o null si no existe. */
+/** Un tema desarrollado por su id (p. ej. "CAD-C2-T01"), o null si no existe. */
 export async function obtenerTema(
-  perfil: 'c1' | 'a2',
+  opoId: OposicionId,
   id: string,
 ): Promise<TemaDesarrollado | null> {
-  const temas = await listarTemario(perfil);
+  const temas = await listarTemario(opoId);
   return temas.find((t) => t.id === id) ?? null;
 }
 
 /** Resuelve los ids de `relacionados` a temas existentes (para el bloque "Ver también"). */
 export async function temasRelacionados(
-  perfil: 'c1' | 'a2',
+  opoId: OposicionId,
   tema: TemaDesarrollado,
 ): Promise<TemaDesarrollado[]> {
-  const temas = await listarTemario(perfil);
+  const temas = await listarTemario(opoId);
   const porId = new Map(temas.map((t) => [t.id, t]));
   const out: TemaDesarrollado[] = [];
   for (const rid of tema.relacionados) {
@@ -87,6 +86,5 @@ export async function temasRelacionados(
 
 /** Solo para tests: vacía la caché en memoria. */
 export function _resetCacheTemario(): void {
-  delete cache.c1;
-  delete cache.a2;
+  for (const k of Object.keys(cache) as OposicionId[]) delete cache[k];
 }

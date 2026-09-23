@@ -2,10 +2,11 @@ import { useEffect, useRef, useState } from 'react';
 import type { CSSProperties } from 'react';
 import type { Question } from '../../types';
 import { Header, ProgressBar, Btn, Card } from '../../components/ui';
-import { todasPreguntas } from '../../lib/data';
+import { todasPreguntas, oposicionDe } from '../../lib/data';
 import { recordAnswer, recordSession, isDominated, failedIds, grade } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
 import { navigate } from '../../lib/router';
+import { type OpoProps } from './props';
 
 type Ambito = 'todos' | 'pendientes' | 'falladas';
 
@@ -13,9 +14,6 @@ interface TestCfg {
   n: number;
   ambito: Ambito;
 }
-
-const CFG_KEY = 'oposdipu-testcfg';
-const RES_KEY = 'oposdipu-testres';
 
 // Normaliza el campo `tema` a IDs 'T01' / 'E05' (misma lógica que src/lib/data.ts).
 function normTemaId(t: string | number): string {
@@ -42,9 +40,9 @@ function todayStr(): string {
   return `${d.getFullYear()}-${m}-${day}`;
 }
 
-function loadCfg(): TestCfg | null {
+function loadCfg(opoId: string): TestCfg | null {
   try {
-    const raw = sessionStorage.getItem(CFG_KEY);
+    const raw = sessionStorage.getItem(`oposdipu-testcfg-${opoId}`);
     if (!raw) return null;
     const v = JSON.parse(raw) as Partial<TestCfg>;
     if (typeof v.n !== 'number' || typeof v.ambito !== 'string') return null;
@@ -67,12 +65,12 @@ const chipStyle: CSSProperties = {
 
 type Phase = 'pregunta' | 'respuesta';
 
-export default function TestRun() {
-  const [cfg] = useState<TestCfg | null>(loadCfg);
+export default function TestRunOpo({ opoId, base }: OpoProps) {
+  const [cfg] = useState<TestCfg | null>(() => loadCfg(opoId));
   const [progress, setP] = useProgress();
   const [questions] = useState<Question[]>(() => {
     if (!cfg) return [];
-    const all = todasPreguntas();
+    const all = todasPreguntas(opoId);
     let pool: Question[];
     if (cfg.ambito === 'todos') {
       pool = all;
@@ -91,10 +89,11 @@ export default function TestRun() {
   const [aciertos, setAciertos] = useState(0);
   const [done, setDone] = useState(false);
   const results = useRef<{ temaId: string; ok: boolean }[]>([]);
+  const grupo = oposicionDe(opoId).grupo;
 
   useEffect(() => {
-    if (!cfg) navigate('/c1/test');
-  }, [cfg]);
+    if (!cfg) navigate(`${base}/test`);
+  }, [cfg, base]);
 
   if (!cfg) {
     return (
@@ -122,19 +121,19 @@ export default function TestRun() {
       ko: v.ko,
     }));
     sessionStorage.setItem(
-      RES_KEY,
+      `oposdipu-testres-${opoId}`,
       JSON.stringify({ aciertos: ok, total: respondidas, nota: grade(ok, respondidas), detalle }),
     );
     setP((prev) =>
       recordSession(prev, {
         date: todayStr(),
-        perfil: 'c1',
+        perfil: opoId,
         modo: 'test',
         total: respondidas,
         aciertos: ok,
       }),
     );
-    navigate('/c1/test/fin');
+    navigate(`${base}/test/fin`);
   }
 
   function gradeQuestion(ok: boolean) {
@@ -156,11 +155,11 @@ export default function TestRun() {
   if (total === 0) {
     return (
       <div className="screen">
-        <Header title="Test C1" backTo="/c1/test" />
+        <Header title={`Test ${grupo}`} backTo={`${base}/test`} />
         <main className="container">
           <Card>
             <p>No hay preguntas disponibles para este test.</p>
-            <Btn onClick={() => navigate('/c1/test')}>Volver</Btn>
+            <Btn onClick={() => navigate(`${base}/test`)}>Volver</Btn>
           </Card>
         </main>
       </div>
@@ -170,7 +169,7 @@ export default function TestRun() {
   if (done) {
     return (
       <div className="screen">
-        <Header title="Test C1" backTo="/c1/test" />
+        <Header title={`Test ${grupo}`} backTo={`${base}/test`} />
         <main className="container">
           <Card>
             <h2 style={{ marginTop: 0 }}>Test completado</h2>
@@ -188,7 +187,7 @@ export default function TestRun() {
 
   return (
     <div className="screen">
-      <Header title="Test C1" backTo="/c1/test" />
+      <Header title={`Test ${grupo}`} backTo={`${base}/test`} />
       <main className="container">
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ fontSize: '0.875rem', color: 'var(--text-muted)', whiteSpace: 'nowrap' }}>

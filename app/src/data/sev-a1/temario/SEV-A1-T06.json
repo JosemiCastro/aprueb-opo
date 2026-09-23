@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T06",
+  "tema": "T06",
+  "tipo": "comun",
+  "numero": 6,
+  "titulo": "El Tribunal Constitucional: composición, organización y competencias",
+  "secciones": [
+    {
+      "titulo": "1. Naturaleza y composición",
+      "texto": "El Tribunal Constitucional es el intérprete supremo de la Constitución, independiente de los demás órganos constitucionales y sometido solo a la Constitución y a su Ley Orgánica. Se compone de doce miembros nombrados por el Rey: cuatro a propuesta del Congreso, cuatro del Senado (ambos por mayoría de tres quintos), dos del Gobierno y dos del CGPJ, entre juristas de reconocida competencia con más de quince años de ejercicio ([[Constitución Española de 1978 | art. 159]])."
+    },
+    {
+      "titulo": "2. Mandato y Presidencia",
+      "texto": "Los magistrados son designados por nueve años y se renuevan por terceras partes cada tres ([[Constitución Española de 1978 | art. 159]]). El Presidente es nombrado por el Rey entre sus miembros, a propuesta del Pleno del Tribunal, por tres años. Gozan de las mismas garantías de independencia e inamovilidad que los miembros del Poder Judicial."
+    },
+    {
+      "titulo": "3. Competencias",
+      "texto": "El [[Constitución Española de 1978 | art. 161]] atribuye al TC: el recurso de inconstitucionalidad contra leyes y disposiciones con fuerza de ley; el recurso de amparo por violación de los derechos del artículo 14 y la Sección 1.ª del Capítulo II; los conflictos de competencia entre el Estado y las Comunidades Autónomas o entre éstas; y las demás materias que le atribuyan la Constitución o las leyes orgánicas. La impugnación gubernamental de disposiciones autonómicas produce su suspensión automática."
+    },
+    {
+      "titulo": "4. Legitimación y cuestión de inconstitucionalidad",
+      "texto": "Están legitimados para el recurso de inconstitucionalidad el Presidente del Gobierno, el Defensor del Pueblo, cincuenta Diputados, cincuenta Senadores y los órganos autonómicos ([[Constitución Española de 1978 | art. 162]]). Cuando un juez dude de la constitucionalidad de una norma legal aplicable al caso, planteará la cuestión de inconstitucionalidad ante el TC ([[Constitución Española de 1978 | art. 163]])."
+    },
+    {
+      "titulo": "5. Efectos de las sentencias",
+      "texto": "Las sentencias del TC tienen valor de cosa juzgada desde el día siguiente a su publicación, y las que declaran la inconstitucionalidad de una norma tienen plenos efectos frente a todos ([[Constitución Española de 1978 | art. 164]])."
+    },
+    {
+      "titulo": "6. El recurso de amparo",
+      "texto": "El recurso de amparo protege frente a violaciones de los derechos del artículo 14 y la Sección 1.ª del Capítulo II originadas por disposiciones, actos jurídicos o simple vía de hecho de los poderes públicos ([[Constitución Española de 1978 | art. 161]]). Es subsidiario: exige haber agotado la vía judicial previa invocando el derecho vulnerado. También protege la objeción de conciencia del artículo 30. La legitimación corresponde a la persona directamente afectada, al Defensor del Pueblo y al Ministerio Fiscal. Su estimación anula el acto lesivo y restablece al recurrente en su derecho, con eficacia entre las partes y, en ocasiones, efectos generales."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T02",
+    "SEV-A1-T17"
+  ]
+}

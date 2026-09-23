@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E09",
+  "tema": "E09",
+  "tipo": "especifico",
+  "numero": 9,
+  "titulo": "La recaudación tributaria: período voluntario, período ejecutivo y apremio",
+  "secciones": [
+    {
+      "titulo": "1. El pago",
+      "texto": "El pago puede efectuarse en efectivo o en especie en los supuestos legales, y la deuda se entiende pagada con el ingreso en las cajas competentes ([[Ley 58/2003 | art. 60]]). Cabe el aplazamiento y fraccionamiento con garantías e intereses. La falta de pago en período voluntario abre el período ejecutivo, con devengo de los recargos del artículo 28. La providencia de apremio se notifica al deudor antes de iniciar el embargo de sus bienes y derechos."
+    },
+    {
+      "titulo": "2. Plazos en período voluntario",
+      "texto": "Notificada entre los días 1 y 15, se paga hasta el día 20 del mes siguiente; notificada entre el 16 y el último día, hasta el día 5 del segundo mes posterior ([[Ley 58/2003 | art. 62]])."
+    },
+    {
+      "titulo": "3. El período ejecutivo y sus recargos",
+      "texto": "Comienza al día siguiente del vencimiento del período voluntario ([[Ley 58/2003 | art. 161]]). Se devengan los recargos del período ejecutivo: 5 % ejecutivo, 10 % de apremio reducido y 20 % de apremio ordinario ([[Ley 58/2003 | art. 28]])."
+    },
+    {
+      "titulo": "4. La providencia de apremio",
+      "texto": "Es el acto que ordena la ejecución contra el patrimonio del obligado y constituye título suficiente para iniciar el apremio, con fuerza ejecutiva equivalente a la sentencia judicial ([[Ley 58/2003 | art. 167]])."
+    },
+    {
+      "titulo": "5. Embargo y enajenación",
+      "texto": "El apremio es el procedimiento exclusivamente administrativo de cobro forzoso ([[Ley 58/2003 | art. 163]]). Se traban bienes y derechos en cuantía suficiente para cubrir deuda, recargos, intereses y costas ([[Ley 58/2003 | art. 169]]), y los bienes embargados se enajenan por subasta, concurso o adjudicación directa ([[Ley 58/2003 | art. 172]])."
+    },
+    {
+      "titulo": "6. La suspensión del apremio",
+      "texto": "El procedimiento de apremio, exclusivamente administrativo ([[Ley 58/2003 | art. 163]]), puede suspenderse cuando se impugna la deuda y se aporta garantía suficiente, o automáticamente en ciertos supuestos legales. La suspensión no extingue la deuda: paraliza la ejecución mientras se resuelve la impugnación. Si la reclamación prospera, se anula la providencia de apremio ([[Ley 58/2003 | art. 167]]) y se devuelven las cantidades indebidamente embargadas con intereses. La ejecutividad inmediata de los actos tributarios cede aquí ante la tutela judicial efectiva. El embargo sigue un orden legal: dinero y créditos, valores, rentas, bienes muebles e inmuebles, buscando la menor onerosidad para el obligado ([[Ley 58/2003 | art. 169]]). Son inembargables el mínimo vital —salarios hasta el salario mínimo interprofesional— y los bienes necesarios para la actividad. El embargo de cuentas y salarios se practica mediante diligencia notificada a la entidad pagadora. Los bienes trabados se valoran y, si la deuda no se paga, se enajenan por subasta, concurso o adjudicación directa ([[Ley 58/2003 | art. 172]])."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E08",
+    "SEV-A1-E10",
+    "SEV-A1-E11"
+  ]
+}

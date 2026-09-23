@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T14",
+  "tema": "T14",
+  "tipo": "comun",
+  "numero": 14,
+  "titulo": "El acto administrativo: concepto, elementos, eficacia, invalidez y revisión",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y elementos",
+      "texto": "El acto administrativo es la declaración de voluntad, de juicio, de conocimiento o de deseo de la Administración en ejercicio de potestad administrativa, distinta del reglamento. Sus elementos son: el sujeto (órgano competente), el objeto (contenido lícito y determinado), la causa y fin (interés público), y la forma (procedimiento y, en su caso, motivación). Deben motivarse los actos que limiten derechos, resuelvan recursos o se dicten en ejercicio de potestades discrecionales ([[Ley 39/2015 | art. 35]])."
+    },
+    {
+      "titulo": "2. Eficacia y notificación",
+      "texto": "Los actos se presumen válidos y producen efectos desde su dictado, salvo disposición en contrario ([[Ley 39/2015 | art. 39]]). La notificación debe cursarse en diez días con el texto íntegro e indicación de recursos ([[Ley 39/2015 | art. 40]]). La publicación sustituye a la notificación en los supuestos legales."
+    },
+    {
+      "titulo": "3. Nulidad de pleno derecho",
+      "texto": "Son nulos los actos que lesionen derechos susceptibles de amparo, los dictados por órgano manifiestamente incompetente, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento y los expresamente declarados nulos por ley ([[Ley 39/2015 | art. 47]]). La nulidad es imprescriptible e insubsanable."
+    },
+    {
+      "titulo": "4. Anulabilidad",
+      "texto": "Son anulables los actos que infrinjan el ordenamiento jurídico, incluida la desviación de poder ([[Ley 39/2015 | art. 48]]). El defecto de forma solo determina la anulabilidad cuando falten requisitos indispensables o se produzca indefensión. La anulabilidad es subsanable y prescribible."
+    },
+    {
+      "titulo": "5. Revisión de oficio y revocación",
+      "texto": "La Administración puede declarar de oficio la nulidad de los actos del [[Ley 39/2015 | art. 47]] previo dictamen favorable del órgano consultivo ([[Ley 39/2015 | art. 106]]), y revocar sus actos de gravamen o desfavorables y los anulables no prescritos ([[Ley 39/2015 | art. 109]])."
+    },
+    {
+      "titulo": "6. La ejecución forzosa de los actos administrativos",
+      "texto": "La ejecutividad permite a la Administración imponer sus actos sin acudir al juez, y la ejecución forzosa se practica por sus propios medios tras apercibimiento, salvo suspensión. Los medios de ejecución son el apremio sobre el patrimonio, la ejecución subsidiaria, la multa coercitiva y la compulsión sobre las personas, además del desahucio administrativo. Cada medio exige habilitación legal y proporcionalidad: no cabe la compulsión sobre personas sin ley que la autorice expresamente. La autotutela ejecutiva es la contrapartida de las garantías del procedimiento y del control judicial posterior. Los actos favorables amplían la esfera jurídica del ciudadano (autorizaciones, subvenciones, nombramientos) y gozan de estabilidad: solo pueden revisarse por causas tasadas. Los actos de gravamen la restringen (sanciones, expropiaciones, órdenes) y exigen un plus de garantías: legalidad estricta, motivación reforzada ([[Ley 39/2015 | art. 35]]) y proporcionalidad. Esta distinción modula la intensidad del control judicial y las posibilidades de revisión de oficio y revocación."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T13",
+    "SEV-A1-T15",
+    "SEV-A1-T16"
+  ]
+}

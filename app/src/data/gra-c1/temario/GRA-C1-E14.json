@@ -1,0 +1,33 @@
+{
+  "id": "GRA-C1-E14",
+  "numero": 14,
+  "tema": "E14",
+  "tipo": "especifico",
+  "titulo": "Infracciones y sanciones tributarias: principios y concepto",
+  "relacionados": [
+    "GRA-C1-E07",
+    "GRA-C1-E15"
+  ],
+  "secciones": [
+    {
+      "titulo": "Principios de la potestad sancionadora",
+      "texto": "La potestad sancionadora tributaria se rige por los principios de legalidad, tipicidad, responsabilidad, proporcionalidad, no concurrencia e irretroactividad, con las especialidades del Título IV de la LGT ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 178]]).\n\nEl principio de responsabilidad exige dolo o culpa: no hay infracción cuando se ha puesto la diligencia necesaria, la interpretación ha sido razonable o se ha actuado conforme a consultas contestadas ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 179]]). El principio de no concurrencia impide sancionar dos veces los mismos hechos con identidad de sujeto, hecho y fundamento, remitiéndose el tanto de culpa a la jurisdicción penal si hay indicio de delito ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 180]])."
+    },
+    {
+      "titulo": "Concepto, sujetos y calificación",
+      "texto": "Son infracciones tributarias las acciones u omisiones dolosas o culposas tipificadas y sancionadas por la ley ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 183]]). Son sujetos infractores quienes las realizan, incluidos obligados tributarios, retenedores y sucesores ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 181]]).\n\nSe califican como leves, graves o muy graves atendiendo a la ocultación de datos (incidencia superior al 10% de la base de la sanción) y a los medios fraudulentos: anomalías contables sustanciales, facturas falsas o interposición de personas ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 184]])."
+    },
+    {
+      "titulo": "Sanciones: clases, graduación y reducción",
+      "texto": "Las sanciones son pecuniarias (multa fija o proporcional) y, accesoriamente, no pecuniarias como la pérdida de subvenciones o la prohibición de contratar en infracciones graves o muy graves ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 185]]).\n\nSe gradúan exclusivamente por comisión repetida, perjuicio económico, incumplimiento sustancial de facturación y acuerdo o conformidad ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 187]]). Las reducciones son del 65% en actas con acuerdo, del 30% por conformidad y del 40% adicional por pronto pago sin recurso ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 188]])."
+    },
+    {
+      "titulo": "Extinción y prescripción",
+      "texto": "La responsabilidad por infracciones se extingue por fallecimiento del infractor y por prescripción; el plazo para imponer sanciones es de cuatro años desde la comisión, se interrumpe por actuaciones de la Administración o recursos, y se aprecia de oficio ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 189]])."
+    },
+    {
+      "titulo": "Culpabilidad y circunstancias",
+      "texto": "En el procedimiento sancionador la carga de probar la culpabilidad corresponde a la Administración: sin dolo o culpa acreditados no hay infracción sancionable. Se excluye la responsabilidad, entre otros casos, cuando se ha actuado con la diligencia necesaria en el cumplimiento de las obligaciones tributarias o cuando la discrepancia se debe a una interpretación razonable de la norma ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 179]]).\n\nLa imposición de sanciones es compatible con la regularización de la situación tributaria: la deuda y la sanción son conceptos independientes, de modo que pagar la cuota no extingue la sanción ni viceversa. Cuando unos mismos hechos puedan ser delito contra la Hacienda pública, la Administración se abstiene de continuar el procedimiento sancionador y remite el tanto de culpa al Ministerio Fiscal ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 180]])."
+    }
+  ]
+}

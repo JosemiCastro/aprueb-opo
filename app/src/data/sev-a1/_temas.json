@@ -1,0 +1,306 @@
+[
+  {
+    "id": "T01",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "1",
+    "titulo": "La Constitución Española de 1978: estructura, valores superiores, estabilidad presupuestaria y reforma constitucional"
+  },
+  {
+    "id": "T02",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "2",
+    "titulo": "Derechos y deberes fundamentales: clasificación, garantías y suspensión"
+  },
+  {
+    "id": "T03",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "3",
+    "titulo": "La Corona y el Poder Judicial"
+  },
+  {
+    "id": "T04",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "4",
+    "titulo": "Las Cortes Generales y sus órganos dependientes: Tribunal de Cuentas y Defensor del Pueblo"
+  },
+  {
+    "id": "T05",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "5",
+    "titulo": "El Gobierno y la Administración General del Estado"
+  },
+  {
+    "id": "T06",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "6",
+    "titulo": "El Tribunal Constitucional: composición, organización y competencias"
+  },
+  {
+    "id": "T07",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "7",
+    "titulo": "La organización territorial del Estado y el sistema de distribución de competencias"
+  },
+  {
+    "id": "T08",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "8",
+    "titulo": "El Estatuto de Autonomía de Andalucía: competencias y organización institucional"
+  },
+  {
+    "id": "T09",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "9",
+    "titulo": "El régimen local: principios constitucionales, Carta Europea de la Autonomía Local y clases de entidades locales"
+  },
+  {
+    "id": "T10",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "10",
+    "titulo": "La Unión Europea: origen, instituciones y Derecho de la Unión"
+  },
+  {
+    "id": "T11",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "11",
+    "titulo": "El Derecho Administrativo: concepto, principio de legalidad y fuentes"
+  },
+  {
+    "id": "T12",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "12",
+    "titulo": "La Ley y el Reglamento: caracteres, jerarquía, elaboración y control"
+  },
+  {
+    "id": "T13",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "13",
+    "titulo": "Los órganos administrativos y la competencia en la Ley 40/2015"
+  },
+  {
+    "id": "T14",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "14",
+    "titulo": "El acto administrativo: concepto, elementos, eficacia, invalidez y revisión"
+  },
+  {
+    "id": "T15",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "15",
+    "titulo": "El procedimiento administrativo común: principios, interesados y fases"
+  },
+  {
+    "id": "T16",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "16",
+    "titulo": "La terminación del procedimiento, el silencio administrativo y los recursos administrativos"
+  },
+  {
+    "id": "T17",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "17",
+    "titulo": "La jurisdicción contencioso-administrativa: órganos, legitimación y procedimiento"
+  },
+  {
+    "id": "T18",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "18",
+    "titulo": "La potestad sancionadora y la responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "T19",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "19",
+    "titulo": "La protección de datos, la administración electrónica y la transparencia"
+  },
+  {
+    "id": "T20",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "20",
+    "titulo": "La expropiación forzosa: concepto, procedimiento, garantías y reversión"
+  },
+  {
+    "id": "T21",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "21",
+    "titulo": "El Municipio: concepto, elementos, término municipal y organización"
+  },
+  {
+    "id": "T22",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "22",
+    "titulo": "La provincia como entidad local: organización, competencias y cooperación"
+  },
+  {
+    "id": "T23",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "23",
+    "titulo": "La potestad reglamentaria local y el régimen de sesiones y acuerdos"
+  },
+  {
+    "id": "T24",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "comun",
+    "numero": "24",
+    "titulo": "El patrimonio de las Entidades Locales: bienes, clases y prerrogativas"
+  },
+  {
+    "id": "E01",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "1",
+    "titulo": "Los contratos del Sector Público: objeto, ámbito, tipos y calificación"
+  },
+  {
+    "id": "E02",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "2",
+    "titulo": "Preparación, adjudicación y ejecución de los contratos del sector público"
+  },
+  {
+    "id": "E03",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "3",
+    "titulo": "Los contratos de obras, suministro y servicios. La contratación en las Entidades Locales"
+  },
+  {
+    "id": "E04",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "4",
+    "titulo": "Los empleados públicos: clases, acceso y pérdida de la condición de funcionario"
+  },
+  {
+    "id": "E05",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "5",
+    "titulo": "Derechos y deberes de los empleados públicos. Régimen disciplinario e incompatibilidades"
+  },
+  {
+    "id": "E06",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "6",
+    "titulo": "El personal laboral al servicio de las Corporaciones Locales"
+  },
+  {
+    "id": "E07",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "7",
+    "titulo": "El Derecho Tributario: los tributos y la cuantificación de la obligación tributaria"
+  },
+  {
+    "id": "E08",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "8",
+    "titulo": "Los obligados tributarios. La aplicación de los tributos y los procedimientos de gestión"
+  },
+  {
+    "id": "E09",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "9",
+    "titulo": "La recaudación tributaria: período voluntario, período ejecutivo y apremio"
+  },
+  {
+    "id": "E10",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "10",
+    "titulo": "La extinción de la deuda tributaria. Responsables y sucesores"
+  },
+  {
+    "id": "E11",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "11",
+    "titulo": "La inspección de los tributos: actuaciones y procedimiento"
+  },
+  {
+    "id": "E12",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "12",
+    "titulo": "Infracciones y sanciones tributarias. Revisión en vía administrativa y reclamaciones económico-administrativas"
+  },
+  {
+    "id": "E13",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "13",
+    "titulo": "Los tributos locales: imposición y ordenación. El Impuesto sobre Bienes Inmuebles"
+  },
+  {
+    "id": "E14",
+    "oposicion": "SEV-A1",
+    "perfil": "a1",
+    "tipo": "especifico",
+    "numero": "14",
+    "titulo": "El IAE, el IIVTNU, el IVTM y el ICIO. Tasas, precios públicos y contribuciones especiales"
+  }
+]

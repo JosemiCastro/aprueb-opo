@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E03",
+  "tema": "E03",
+  "tipo": "especifico",
+  "numero": 3,
+  "titulo": "Los contratos de obras, suministro y servicios. La contratación en las Entidades Locales",
+  "secciones": [
+    {
+      "titulo": "1. El contrato de obras",
+      "texto": "Preceden a la contratación la aprobación del proyecto y el replanteo ([[Ley 9/2017 | art. 231]]). El acta de comprobación del replanteo, firmada por contratista y dirección de obra, inicia el plazo de ejecución ([[Ley 9/2017 | art. 237]]). La recepción se formaliza en acta y el plazo de garantía no puede ser inferior a un año ([[Ley 9/2017 | art. 243]] y [[Ley 9/2017 | art. 244]])."
+    },
+    {
+      "titulo": "2. Suministro y servicios",
+      "texto": "El suministro comprende la adquisición o arrendamiento de bienes muebles ([[Ley 9/2017 | art. 298]]). Los servicios son prestaciones de hacer distintas de obra o suministro, sin que puedan implicar ejercicio de autoridad pública ([[Ley 9/2017 | art. 308]]). Los contratos de servicios de prestación sucesiva duran como máximo cinco años, prórrogas incluidas ([[Ley 9/2017 | art. 29]])."
+    },
+    {
+      "titulo": "3. Modificación y extinción",
+      "texto": "Los contratos solo pueden modificarse por razones de interés público en los supuestos y límites legales, con audiencia del contratista. Son causas de resolución, entre otras, el incumplimiento, la demora y el mutuo acuerdo, con los efectos indemnizatorios previstos."
+    },
+    {
+      "titulo": "4. La contratación en las Entidades Locales",
+      "texto": "La disposición adicional segunda de la Ley 9/2017 distribuye las competencias: corresponden al Alcalde o Presidente cuando el valor estimado no supere el 10 % de los recursos ordinarios ni seis millones de euros; en otro caso, al Pleno (disposición adicional segunda de la Ley 9/2017)."
+    },
+    {
+      "titulo": "5. Garantías y responsabilidad",
+      "texto": "El adjudicatario constituye garantía definitiva del 5 % del precio (IVA excluido). Responde de la correcta ejecución y, en obras, de los vicios durante la garantía; la Administración responde de las modificaciones impuestas por interés público con el reequilibrio económico."
+    },
+    {
+      "titulo": "6. El control de la contratación local",
+      "texto": "La contratación de las entidades locales se somete a los mismos principios y procedimientos de la Ley 9/2017, con las especialidades de su disposición adicional segunda: el Alcalde o Presidente contrata hasta el 10 % de los recursos ordinarios o seis millones de euros, y el Pleno por encima (disposición adicional segunda de la Ley 9/2017). La fiscalización previa de la Intervención, la publicidad en el Perfil de Contratante y el recurso especial en contratos SARA ([[Ley 9/2017 | art. 44]]) garantizan la legalidad. La Diputación de Sevilla, como poder adjudicador, aplica estos mismos esquemas en sus licitaciones. El contratista tiene derecho al abono del precio convenido, con intereses de demora si la Administración paga tarde. En obras, se certifica mensualmente la obra ejecutada; en suministros y servicios, se factura conforme a los hitos o periodicidad pactados. La mora administrativa genera el interés legal incrementado y, en casos graves, el derecho del contratista a suspender el cumplimiento o resolver el contrato. El pago es la contraprestación esencial que equilibra las prerrogativas administrativas durante la ejecución."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E01",
+    "SEV-A1-E02",
+    "SEV-A1-T23"
+  ]
+}

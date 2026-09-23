@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E10",
+  "numero": 10,
+  "tema": "E10",
+  "tipo": "especifico",
+  "titulo": "Aplazamientos, fraccionamientos y garantías",
+  "relacionados": [
+    "GRA-C1-E05",
+    "GRA-C1-E09",
+    "GRA-C1-E11"
+  ],
+  "secciones": [
+    {
+      "titulo": "Concepto y deudas aplazables",
+      "texto": "Cuando la situación económico-financiera del obligado le impida pagar en plazo, las deudas en período voluntario o ejecutivo pueden aplazarse o fraccionarse a su solicitud, con devengo de intereses y prestación de garantía ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 65]]).\n\nSon aplazables o fraccionables todas las deudas tributarias y demás de naturaleza pública de la Hacienda pública, salvo las excepciones previstas en las leyes ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 44]]); no cabe el aplazamiento de las deudas legalmente inaplazables."
+    },
+    {
+      "titulo": "Solicitudes e inadmisión",
+      "texto": "La solicitud se dirige al órgano competente e identifica la deuda, los plazos solicitados, los motivos y la garantía ofrecida o la petición de dispensa justificada ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 46]]).\n\nSe inadmiten las referidas a deudas inaplazables, las reiteraciones sin cambio de circunstancias y las que no subsanen sus defectos formales ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 47]])."
+    },
+    {
+      "titulo": "Garantías",
+      "texto": "La garantía debe cubrir, en período voluntario, la deuda, los intereses del aplazamiento y un 25% adicional de ambas partidas; en período ejecutivo, el importe aplazado con su recargo, los intereses y un 5% adicional ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 48]]). El aval o seguro de caución debe exceder en seis meses al vencimiento garantizado y formalizarse en dos meses desde la concesión.\n\nPuede dispensarse la garantía cuando el obligado carezca de bienes suficientes y su ejecución afecte a la capacidad productiva o al empleo, o en deudas de pequeña cuantía ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 50]])."
+    },
+    {
+      "titulo": "Resolución, intereses e incumplimiento",
+      "texto": "Las solicitudes deben resolverse y notificarse en plazo; el silencio es desestimatorio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 52]]). Los intereses se calculan sobre la deuda aplazada desde el vencimiento del período voluntario hasta el vencimiento concedido, al tipo de demora vigente ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 53]]).\n\nEl impago de un plazo produce el vencimiento anticipado de las fracciones pendientes y su exigencia en apremio ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 54]]). Para asegurar el cobro pueden adoptarse medidas cautelares cuando existan indicios de frustración ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 49]])."
+    }
+  ]
+}

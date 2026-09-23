@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E05",
+  "tema": "E05",
+  "numero": 5,
+  "tipo": "especifico",
+  "titulo": "El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos.",
+  "relacionados": [
+    "CAD-C2-E03",
+    "CAD-C2-E04",
+    "CAD-C2-E06"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Concepto, clases y elementos",
+      "texto": "El acto administrativo es la declaración de voluntad, de juicio, de conocimiento o de deseo realizada por una Administración Pública en ejercicio de una potestad administrativa. Se produce por el órgano competente ajustándose a los requisitos y al procedimiento establecido ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 34]]). Sus elementos son el sujeto (órgano competente), el objeto (contenido lícito, posible y determinado), la causa o motivo, la finalidad (servicio al interés público) y la forma (por escrito, salvo excepciones, [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 36]]). Se clasifican en resolutorios y de trámite, favorables y de gravamen, expresos y presuntos, y singulares o generales."
+    },
+    {
+      "titulo": "2. La motivación de los actos",
+      "texto": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho, los actos que limiten derechos subjetivos o intereses legítimos, los que resuelvan procedimientos de revisión de oficio y recursos, los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, los acuerdos de suspensión de actos y la aplicación de la tramitación de urgencia, entre otros ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 35]]). La falta de motivación en los casos exigidos determina la anulabilidad del acto."
+    },
+    {
+      "titulo": "3. La notificación de los actos",
+      "texto": "Toda notificación deberá ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado, y deberá contener el texto íntegro de la resolución, con indicación de si pone fin o no a la vía administrativa y de los recursos procedentes ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 40]]). Las notificaciones se practican preferentemente por medios electrónicos ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 41]]): en papel cuando el interesado no esté obligado a relacionarse electrónicamente ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 42]]) o por medios electrónicos con aviso de puesta a disposición ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 43]]). Cuando la notificación sea infructuosa tras dos intentos, se hará por medio de anuncio en el BOE (Tablón Edictal Único) ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 44]])."
+    },
+    {
+      "titulo": "4. Eficacia y validez de los actos",
+      "texto": "Los actos de las Administraciones Públicas son ejecutivos con arreglo a la ley ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 38]]) y producen efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 39]]). Son nulos de pleno derecho los dictados por órgano manifiestamente incompetente, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento o los que lesionen derechos fundamentales, entre otros ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 47]]). Son anulables los que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 48]]). Los actos nulos o anulables que contengan los elementos de otro distinto producirán los efectos de este (conversión, [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 50]]), y el órgano que declare la nulidad dispondrá la conservación de los actos no viciados ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 51]])."
+    }
+  ]
+}

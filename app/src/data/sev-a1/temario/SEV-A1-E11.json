@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E11",
+  "tema": "E11",
+  "tipo": "especifico",
+  "numero": 11,
+  "titulo": "La inspección de los tributos: actuaciones y procedimiento",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y funciones",
+      "texto": "La inspección es la actuación administrativa de investigación de los supuestos de hecho de las obligaciones tributarias, comprobación de declaraciones y práctica de liquidaciones ([[Ley 58/2003 | art. 141]]). Sus facultades incluyen examinar documentos y libros, requerir información y entrar en fincas y locales ([[Ley 58/2003 | art. 142]])."
+    },
+    {
+      "titulo": "2. Inicio del procedimiento",
+      "texto": "Se inicia de oficio mediante comunicación notificada al obligado o por personación sin previa comunicación en los supuestos legales ([[Ley 58/2003 | art. 145]])."
+    },
+    {
+      "titulo": "3. Plazo",
+      "texto": "Las actuaciones deben concluir en dieciocho meses, ampliables a veintisiete en los supuestos legales ([[Ley 58/2003 | art. 150]]). El incumplimiento del plazo no determina por sí solo la caducidad, pero impide considerar interrumpida la prescripción."
+    },
+    {
+      "titulo": "4. Las actas",
+      "texto": "Son documentos públicos que recogen el resultado de la comprobación, proponiendo la regularización procedente ([[Ley 58/2003 | art. 146]]). Pueden ser con acuerdo, de conformidad o de disconformidad ([[Ley 58/2003 | art. 147]])."
+    },
+    {
+      "titulo": "5. Medidas cautelares y terminación",
+      "texto": "Caben medidas cautelares motivadas para preservar pruebas o asegurar el cobro ([[Ley 58/2003 | art. 152]]). El procedimiento termina con el acto de liquidación ([[Ley 58/2003 | art. 151]]), recurrible en reposición o reclamación económico-administrativa."
+    },
+    {
+      "titulo": "6. Los planes de inspección",
+      "texto": "La inspección actúa conforme a planes que fijan objetivos, sectores y criterios de selección de obligados, garantizando la objetividad y la igualdad en la comprobación ([[Ley 58/2003 | art. 141]]). Las actuaciones pueden ser de comprobación limitada o de investigación general, con las facultades de examen documental y entrada en locales ([[Ley 58/2003 | art. 142]]). El procedimiento, iniciado de oficio ([[Ley 58/2003 | art. 145]]), debe concluir en dieciocho meses, ampliables a veintisiete ([[Ley 58/2003 | art. 150]]), y termina con el acto de liquidación ([[Ley 58/2003 | art. 151]]). La Ley fomenta la colaboración social: los obligados pueden actuar mediante representantes y adherirse a acuerdos de colaboración para la presentación telemática de declaraciones. Los requerimientos de información a terceros ([[Ley 58/2003 | art. 142]]) permiten a la inspección obtener datos bancarios y económicos con las garantías legales. El deber de sigilo protege los datos obtenidos, que solo pueden usarse para la aplicación de los tributos. El acta con acuerdo permite terminar la comprobación por pacto sobre los hechos y la regularización, con reducción de sanciones; requiere autorización y no cabe en supuestos de defraudación grave ([[Ley 58/2003 | art. 146]]). El acta de conformidad supone la aceptación por el obligado de la propuesta inspectora, con reducción de la sanción; la de disconformidad abre el trámite de alegaciones previo a la liquidación ([[Ley 58/2003 | art. 147]]). Estas fórmulas agilizan la regularización y reducen la litigiosidad."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E08",
+    "SEV-A1-E09",
+    "SEV-A1-E12"
+  ]
+}

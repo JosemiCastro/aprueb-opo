@@ -6,6 +6,7 @@ import { preguntasDeTema, tituloTema } from '../../lib/data';
 import { recordAnswer, recordSession } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
 import { navigate } from '../../lib/router';
+import { tituloOpo, type OpoProps } from './props';
 
 function shuffle<T>(arr: T[]): T[] {
   const a = arr.slice();
@@ -25,29 +26,30 @@ function todayStr(): string {
 
 type Phase = 'pregunta' | 'respuesta';
 
-export default function EstudioTema({ temaId }: { temaId: string }) {
+export default function EstudioTemaOpo({ opoId, base, temaId }: OpoProps & { temaId: string }) {
   const [, setP] = useProgress();
-  const [questions] = useState<Question[]>(() => shuffle(preguntasDeTema(temaId)));
+  const [questions] = useState<Question[]>(() => shuffle(preguntasDeTema(temaId, opoId)));
   const [idx, setIdx] = useState(0);
   const [phase, setPhase] = useState<Phase>('pregunta');
   const [aciertos, setAciertos] = useState(0);
   const [done, setDone] = useState(false);
 
   const total = questions.length;
-  const title = tituloTema('c1', temaId);
+  const title = tituloTema(opoId, temaId);
+  const headerTitle = `Estudio ${tituloOpo(opoId)}`;
 
   function finish(respondidas: number, ok: number) {
     setP((prev) =>
       recordSession(prev, {
         date: todayStr(),
-        perfil: 'c1',
+        perfil: opoId,
         modo: 'estudio',
         temaId,
         total: respondidas,
         aciertos: ok,
       }),
     );
-    navigate('/c1');
+    navigate(base);
   }
 
   function gradeQuestion(ok: boolean) {
@@ -68,12 +70,12 @@ export default function EstudioTema({ temaId }: { temaId: string }) {
   if (total === 0) {
     return (
       <div className="screen">
-        <Header title="Estudio C1" backTo="/c1" />
+        <Header title={headerTitle} backTo={base} />
         <main className="container">
           <h1 className="tema-title">{title}</h1>
           <Card>
             <p>No hay preguntas para este tema todavía.</p>
-            <Btn onClick={() => navigate('/c1')}>Volver a temas</Btn>
+            <Btn onClick={() => navigate(base)}>Volver a temas</Btn>
           </Card>
         </main>
       </div>
@@ -83,7 +85,7 @@ export default function EstudioTema({ temaId }: { temaId: string }) {
   if (done) {
     return (
       <div className="screen">
-        <Header title="Estudio C1" backTo="/c1" />
+        <Header title={headerTitle} backTo={base} />
         <main className="container">
           <h1 className="tema-title">{title}</h1>
           <Card>
@@ -102,7 +104,7 @@ export default function EstudioTema({ temaId }: { temaId: string }) {
 
   return (
     <div className="screen">
-      <Header title="Estudio C1" backTo="/c1" />
+      <Header title={headerTitle} backTo={base} />
       <main className="container">
         <h1 className="tema-title">{title}</h1>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>

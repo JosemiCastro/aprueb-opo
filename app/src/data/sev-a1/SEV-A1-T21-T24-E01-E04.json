@@ -1,0 +1,834 @@
+[
+  {
+    "id": "SEV-A1-T21-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Qué garantiza el artículo 140 de la Constitución respecto del Municipio?",
+    "respuesta": "Su autonomía: garantiza la autonomía de los municipios, que gozarán de personalidad jurídica plena, y atribuye su gobierno y administración a sus respectivos Ayuntamientos.",
+    "explicacion": "El artículo 140 CE garantiza la autonomía municipal con personalidad jurídica plena y gobierno por los Ayuntamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 11",
+    "enunciado": "¿Cuáles son los elementos del Municipio según el artículo 11 de la Ley 7/1985?",
+    "respuesta": "El territorio, la población y la organización.",
+    "explicacion": "El artículo 11 de la Ley 7/1985 identifica como elementos del municipio el territorio, la población y la organización.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el término municipal según el artículo 12 de la Ley 7/1985?",
+    "respuesta": "El territorio en que el Ayuntamiento ejerce sus competencias.",
+    "explicacion": "El artículo 12 de la Ley 7/1985 define el término municipal como el territorio de ejercicio de las competencias municipales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 15",
+    "enunciado": "¿Quiénes forman la población del municipio según el artículo 15 de la Ley 7/1985?",
+    "respuesta": "Toda persona que tenga su residencia habitual en el término municipal, con la condición de vecino desde su inscripción en el Padrón municipal.",
+    "explicacion": "El artículo 15 de la Ley 7/1985 atribuye la condición de vecino a quien tenga residencia habitual en el municipio e inscripción padronal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué derechos tienen los vecinos según el artículo 18 de la Ley 7/1985?",
+    "respuesta": "Entre otros: ser elector y elegible; participar en la gestión municipal; utilizar los servicios públicos; acceder a la información y a los archivos; y pedir la consulta popular.",
+    "explicacion": "El artículo 18 de la Ley 7/1985 enumera los derechos de los vecinos: sufragio, participación, servicios, información y consulta popular.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 19",
+    "enunciado": "¿Cómo se organiza el gobierno municipal según el artículo 19 de la Ley 7/1985?",
+    "respuesta": "El gobierno y la administración municipal corresponden al Ayuntamiento, integrado por el Alcalde y los Concejales; los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto.",
+    "explicacion": "El artículo 19 de la Ley 7/1985 atribuye el gobierno municipal al Ayuntamiento (Alcalde y Concejales elegidos por sufragio universal).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 20",
+    "enunciado": "¿Cuáles son los órganos necesarios del Ayuntamiento según el artículo 20 de la Ley 7/1985?",
+    "respuesta": "En todos los Ayuntamientos: el Alcalde, los Tenientes de Alcalde y el Pleno; en los de más de 5.000 habitantes, además, la Junta de Gobierno Local; y en los de más de 5.000 habitantes y capitales de provincia, la Comisión Especial de Cuentas.",
+    "explicacion": "El artículo 20 de la Ley 7/1985 establece los órganos necesarios: Alcalde, Tenientes de Alcalde y Pleno en todos; Junta de Gobierno Local y Comisión Especial de Cuentas según población.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T21-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T21",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué atribuciones corresponden al Alcalde según el artículo 21 de la Ley 7/1985?",
+    "respuesta": "Entre otras: dirigir el gobierno y la administración municipal; representar al Ayuntamiento; convocar y presidir las sesiones del Pleno y de la Junta de Gobierno; dictar bandos; y desempeñar la jefatura superior de todo el personal.",
+    "explicacion": "El artículo 21 de la Ley 7/1985 enumera las atribuciones del Alcalde: dirección del gobierno municipal, representación, presidencia de órganos y jefatura de personal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué es la Provincia según el artículo 141 de la Constitución?",
+    "respuesta": "Una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado; su gobierno y administración autónoma están encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
+    "explicacion": "El artículo 141 CE define la provincia como entidad local con personalidad jurídica propia, agrupación de municipios y división territorial del Estado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 31",
+    "enunciado": "¿Cuáles son los fines de la Provincia según el artículo 31 de la Ley 7/1985?",
+    "respuesta": "Garantizar los principios de solidaridad y equilibrio intermunicipales, asegurar la prestación integral y adecuada en la totalidad del territorio provincial de los servicios de competencia municipal, y participar en la coordinación de la Administración local con la de la Comunidad Autónoma y la del Estado.",
+    "explicacion": "El artículo 31 de la Ley 7/1985 asigna a la provincia la solidaridad intermunicipal, la prestación integral de servicios municipales y la coordinación administrativa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 32",
+    "enunciado": "¿Cómo se organiza la Diputación Provincial según el artículo 32 de la Ley 7/1985?",
+    "respuesta": "Se compone del Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno; los Diputados provinciales se eligen por los Concejales de los partidos judiciales.",
+    "explicacion": "El artículo 32 de la Ley 7/1985 regula la organización de la Diputación: Presidente, Vicepresidentes, Junta de Gobierno y Pleno, con elección indirecta de los Diputados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 33",
+    "enunciado": "¿Qué corresponde al Pleno de la Diputación según el artículo 33 de la Ley 7/1985?",
+    "respuesta": "Entre otras: la organización de la Diputación; la aprobación de ordenanzas y presupuestos; y el control y fiscalización de los órganos de gobierno.",
+    "explicacion": "El artículo 33 de la Ley 7/1985 atribuye al Pleno de la Diputación la organización, la aprobación de ordenanzas y presupuestos y el control de los órganos de gobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué atribuciones corresponden al Presidente de la Diputación según el artículo 34 de la Ley 7/1985?",
+    "respuesta": "Entre otras: dirigir el gobierno y la administración de la provincia; representar a la Diputación; convocar y presidir las sesiones; y desempeñar la jefatura superior del personal.",
+    "explicacion": "El artículo 34 de la Ley 7/1985 enumera las atribuciones del Presidente de la Diputación: dirección, representación, presidencia y jefatura de personal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 36",
+    "enunciado": "¿Cuáles son las competencias propias de la Diputación según el artículo 36 de la Ley 7/1985?",
+    "respuesta": "Entre otras: coordinar los servicios municipales entre sí; asistir y cooperar jurídica, económica y técnicamente a los Municipios, especialmente a los de menor capacidad; prestar servicios públicos de carácter supramunicipal; y fomentar los intereses peculiares de la provincia.",
+    "explicacion": "El artículo 36 de la Ley 7/1985 enumera las competencias propias de la Diputación: coordinación, asistencia y cooperación con los municipios y servicios supramunicipales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 37",
+    "enunciado": "¿En qué consiste la cooperación económica a los municipios según el artículo 37 de la Ley 7/1985?",
+    "respuesta": "Las Diputaciones aprueban anualmente un plan provincial de cooperación a las obras y servicios de competencia municipal, en cuya elaboración deben participar los municipios de la provincia.",
+    "explicacion": "El artículo 37 de la Ley 7/1985 regula el plan provincial de cooperación a obras y servicios municipales, con participación de los municipios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T22-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T22",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 38",
+    "enunciado": "¿Qué son las Delegaciones del Gobierno en relación con las provincias según la Ley 7/1985?",
+    "respuesta": "La actividad de las Diputaciones en el ámbito de sus competencias se desarrolla sin perjuicio de las funciones de la Administración General del Estado en la provincia a través de la Subdelegación del Gobierno.",
+    "explicacion": "El artículo 38 de la Ley 7/1985 coordina la actuación provincial con la Administración General del Estado en la provincia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 4",
+    "enunciado": "¿En qué consiste la potestad reglamentaria de las entidades locales según el artículo 4 de la Ley 7/1985?",
+    "respuesta": "En la potestad de dictar ordenanzas y reglamentos como manifestación de su autonomía para la gestión de sus intereses, dentro de la esfera de sus competencias.",
+    "explicacion": "El artículo 4.1.a) de la Ley 7/1985 reconoce a las entidades locales la potestad reglamentaria y de autoorganización.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 49",
+    "enunciado": "¿Cómo se aprueban las ordenanzas locales según el artículo 49 de la Ley 7/1985?",
+    "respuesta": "Aprobación inicial por el Pleno; información pública y audiencia a los interesados por un plazo mínimo de treinta días; resolución de reclamaciones y aprobación definitiva por el Pleno.",
+    "explicacion": "El artículo 49 de la Ley 7/1985 regula el procedimiento de aprobación de ordenanzas: aprobación inicial, información pública mínima de treinta días y aprobación definitiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Cómo son las sesiones del Pleno según el artículo 46 de la Ley 7/1985?",
+    "respuesta": "Las sesiones del Pleno son públicas; no obstante, podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos al honor, la intimidad y la propia imagen.",
+    "explicacion": "El artículo 46 de la Ley 7/1985 establece la publicidad de las sesiones del Pleno, con la excepción de los asuntos que afecten al honor, la intimidad o la propia imagen.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué periodicidad se celebra la sesión ordinaria del Pleno según el artículo 46.2 de la Ley 7/1985?",
+    "respuesta": "Como mínimo cada mes en los municipios de más de 20.000 habitantes y en las Diputaciones Provinciales; cada dos meses en los de 5.001 a 20.000; y cada tres meses en los de hasta 5.000 habitantes.",
+    "explicacion": "El artículo 46.2.a) de la Ley 7/1985 fija la periodicidad mínima de las sesiones ordinarias según la población.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 47",
+    "enunciado": "¿Qué mayoría se exige para los acuerdos de las corporaciones locales según el artículo 47 de la Ley 7/1985?",
+    "respuesta": "Los acuerdos se adoptan, como regla general, por mayoría simple de los miembros presentes; se exige mayoría absoluta para los supuestos tasados en el apartado 2 (como la aprobación del planeamiento o la concertación de operaciones de crédito).",
+    "explicacion": "El artículo 47 de la Ley 7/1985 establece la mayoría simple como regla general y la mayoría absoluta para los supuestos tasados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué es el quórum de constitución del Pleno según el artículo 46.2.c) de la Ley 7/1985?",
+    "respuesta": "El Pleno se constituye válidamente con la asistencia de un tercio del número legal de miembros, que nunca podrá ser inferior a tres; este quórum debe mantenerse durante toda la sesión.",
+    "explicacion": "El artículo 46.2.c) de la Ley 7/1985 fija el quórum del Pleno en un tercio del número legal de miembros, mínimo tres.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 70",
+    "enunciado": "¿Qué publicidad tienen los acuerdos de las corporaciones locales según el artículo 70 de la Ley 7/1985?",
+    "respuesta": "Las sesiones del Pleno son públicas y los acuerdos se publican o notifican en la forma prevista; además, las corporaciones deben remitir copia o extracto de sus actos y acuerdos a la Administración del Estado y a la de la Comunidad Autónoma.",
+    "explicacion": "El artículo 70 de la Ley 7/1985 regula la publicidad de las sesiones y la remisión de acuerdos a las Administraciones estatal y autonómica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T23-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T23",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 62",
+    "enunciado": "¿Qué es la impugnación de actos y acuerdos locales según el artículo 62 de la Ley 7/1985?",
+    "respuesta": "La Administración del Estado o de la Comunidad Autónoma puede impugnar los actos y acuerdos de las entidades locales que incurran en infracción del ordenamiento jurídico ante la jurisdicción contencioso-administrativa.",
+    "explicacion": "El artículo 62 de la Ley 7/1985 permite impugnar los actos locales que infrinjan el ordenamiento jurídico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 79",
+    "enunciado": "¿Qué clases de bienes integran el patrimonio de las entidades locales según el artículo 79 de la Ley 7/1985?",
+    "respuesta": "Los bienes de dominio público y los bienes patrimoniales.",
+    "explicacion": "El artículo 79 de la Ley 7/1985 clasifica los bienes locales en bienes de dominio público y bienes patrimoniales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 80",
+    "enunciado": "¿Qué son los bienes de dominio público local según el artículo 80 de la Ley 7/1985?",
+    "respuesta": "Los destinados a un uso o servicio público y los comunales; son inalienables, imprescriptibles e inembargables.",
+    "explicacion": "El artículo 80 de la Ley 7/1985 define los bienes demaniales locales y sus notas: inalienabilidad, imprescriptibilidad e inembargabilidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 80",
+    "enunciado": "¿Qué son los bienes patrimoniales según el artículo 80 de la Ley 7/1985?",
+    "respuesta": "Los que, siendo propiedad de la entidad local, no estén destinados a uso público ni afectados a algún servicio público y puedan constituir fuentes de ingresos para el erario de la entidad.",
+    "explicacion": "El artículo 80 de la Ley 7/1985 define los bienes patrimoniales como los no afectados a uso o servicio público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 81",
+    "enunciado": "¿Qué requiere la alteración de la calificación jurídica de los bienes según el artículo 81 de la Ley 7/1985?",
+    "respuesta": "Los bienes de dominio público no podrán enajenarse ni gravarse; la alteración de su calificación jurídica requiere expediente en el que se acrediten su oportunidad y legalidad.",
+    "explicacion": "El artículo 81 de la Ley 7/1985 exige expediente para alterar la calificación jurídica de los bienes demaniales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 82",
+    "enunciado": "¿De qué prerrogativas gozan las entidades locales respecto de sus bienes según el artículo 82 de la Ley 7/1985?",
+    "respuesta": "Investigar la situación de los bienes y derechos que se presuman de su propiedad; deslindar en vía administrativa; recuperar de oficio la posesión indebidamente perdida; y desahuciar en vía administrativa a los ocupantes.",
+    "explicacion": "El artículo 82 de la Ley 7/1985 enumera las prerrogativas: investigación, deslinde, recuperación de oficio y desahucio administrativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 132",
+    "enunciado": "¿Qué establece el artículo 132 de la Constitución sobre los bienes de dominio público?",
+    "respuesta": "La ley regulará el régimen jurídico de los bienes de dominio público y de los comunales, inspirándose en los principios de inalienabilidad, imprescriptibilidad e inembargabilidad, así como su desafectación.",
+    "explicacion": "El artículo 132.1 CE consagra los principios de inalienabilidad, imprescriptibilidad e inembargabilidad de los bienes demaniales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 83",
+    "enunciado": "¿Qué es el inventario de bienes según el artículo 83 de la Ley 7/1985?",
+    "respuesta": "Las entidades locales deberán formar inventario de todos sus bienes y derechos, cualquiera que sea su naturaleza o forma de adquisición, que se rectificará anualmente.",
+    "explicacion": "El artículo 83 de la Ley 7/1985 obliga a formar y rectificar anualmente el inventario de bienes y derechos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-T24-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "T24",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 84",
+    "enunciado": "¿Qué uso puede hacerse de los bienes patrimoniales según el artículo 84 de la Ley 7/1985?",
+    "respuesta": "Los bienes patrimoniales se rigen por su legislación específica y, en su defecto, por las normas de Derecho privado; su enajenación requiere expediente y no puede hacerse por precio inferior al de tasación.",
+    "explicacion": "El artículo 84 de la Ley 7/1985 somete los bienes patrimoniales a su legislación específica y supletoriamente al Derecho privado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué es un contrato del sector público según el artículo 2 de la Ley 9/2017?",
+    "respuesta": "Son contratos del sector público los contratos onerosos, cualquiera que sea su denominación, celebrados por las entidades del sector público para el cumplimiento de sus fines institucionales.",
+    "explicacion": "El artículo 2 de la Ley 9/2017 define el contrato del sector público como el contrato oneroso celebrado por entidades del sector público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades forman parte del sector público a efectos de la Ley 9/2017 según su artículo 3?",
+    "respuesta": "La Administración General del Estado, las de las Comunidades Autónomas, las Entidades que integran la Administración Local y las entidades gestoras de la Seguridad Social, entre otras, además de los poderes adjudicadores no Administración Pública.",
+    "explicacion": "El artículo 3 de la Ley 9/2017 delimita el ámbito subjetivo: Administraciones Públicas y demás poderes adjudicadores del sector público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 13",
+    "enunciado": "¿Qué es el contrato de obras según el artículo 13 de la Ley 9/2017?",
+    "respuesta": "El que tiene por objeto la realización de una obra, entendida como el resultado de un conjunto de trabajos de construcción o de ingeniería civil destinado a cumplir por sí mismo una función económica o técnica.",
+    "explicacion": "El artículo 13 de la Ley 9/2017 define el contrato de obras por su objeto: la realización de una obra.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es el contrato de suministro según el artículo 16 de la Ley 9/2017?",
+    "respuesta": "El que tiene por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+    "explicacion": "El artículo 16 de la Ley 9/2017 define el contrato de suministro: adquisición o arrendamiento de bienes muebles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué es el contrato de servicios según el artículo 17 de la Ley 9/2017?",
+    "respuesta": "Aquel cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro.",
+    "explicacion": "El artículo 17 de la Ley 9/2017 define el contrato de servicios por prestaciones de hacer distintas de obra o suministro.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué es el contrato mixto según el artículo 18 de la Ley 9/2017?",
+    "respuesta": "El que contiene prestaciones correspondientes a dos o más contratos de distinta clase; se rige por las normas del contrato cuya prestación sea la principal.",
+    "explicacion": "El artículo 18 de la Ley 9/2017 regula el contrato mixto: se aplica el régimen de la prestación principal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 19",
+    "enunciado": "¿Qué son los contratos sujetos a regulación armonizada según el artículo 19 de la Ley 9/2017?",
+    "respuesta": "Los contratos de obras, suministro y servicios cuyo valor estimado sea igual o superior a los umbrales fijados por la normativa de la Unión Europea, sometidos a reglas especiales de publicidad y adjudicación.",
+    "explicacion": "El artículo 19 de la Ley 9/2017 define los contratos SARA por superar los umbrales comunitarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E01-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 25",
+    "enunciado": "¿Cuál es el régimen jurídico de los contratos administrativos según el artículo 25 de la Ley 9/2017?",
+    "respuesta": "Se rigen por la Ley 9/2017 y sus disposiciones de desarrollo; supletoriamente, por las demás normas de derecho administrativo y, en su defecto, por las normas de derecho privado.",
+    "explicacion": "El artículo 25 de la Ley 9/2017 fija el régimen de los contratos administrativos: la propia Ley, supletoriamente el Derecho administrativo y en defecto el Derecho privado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 116",
+    "enunciado": "¿Qué debe contener el expediente de contratación según el artículo 116 de la Ley 9/2017?",
+    "respuesta": "Al expediente se incorporarán el pliego de cláusulas administrativas particulares y el de prescripciones técnicas, el certificado de existencia de crédito y la fiscalización previa de la intervención, en su caso.",
+    "explicacion": "El artículo 116 de la Ley 9/2017 exige en el expediente los pliegos, el certificado de crédito y la fiscalización previa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 122",
+    "enunciado": "¿Qué es el pliego de cláusulas administrativas particulares según el artículo 122 de la Ley 9/2017?",
+    "respuesta": "El documento que incluye los pactos y condiciones definidores de los derechos y obligaciones de las partes del contrato y que debe aprobarse previamente a la autorización del gasto.",
+    "explicacion": "El artículo 122 de la Ley 9/2017 regula el pliego de cláusulas administrativas particulares: derechos y obligaciones de las partes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 131",
+    "enunciado": "¿Cuáles son los procedimientos de adjudicación según el artículo 131 de la Ley 9/2017?",
+    "respuesta": "Los contratos se adjudicarán ordinariamente utilizando el procedimiento abierto o el procedimiento restringido; también pueden utilizarse el procedimiento negociado, el diálogo competitivo y la asociación para la innovación.",
+    "explicacion": "El artículo 131 de la Ley 9/2017 establece como procedimientos ordinarios el abierto y el restringido, además del negociado, el diálogo competitivo y la asociación para la innovación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 145",
+    "enunciado": "¿Cómo se adjudican los contratos según el artículo 145 de la Ley 9/2017?",
+    "respuesta": "La adjudicación se realizará utilizando una pluralidad de criterios de adjudicación en base a la mejor relación calidad-precio, que se evaluará con arreglo a criterios económicos y cualitativos.",
+    "explicacion": "El artículo 145 de la Ley 9/2017 impone la adjudicación por la mejor relación calidad-precio con pluralidad de criterios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 150",
+    "enunciado": "¿Qué es la clasificación de ofertas según el artículo 150 de la Ley 9/2017?",
+    "respuesta": "La mesa de contratación clasificará, por orden decreciente, las proposiciones presentadas para posteriormente elevar al órgano de contratación la propuesta de adjudicación a favor del licitador que haya presentado la mejor oferta.",
+    "explicacion": "El artículo 150 de la Ley 9/2017 regula la clasificación decreciente de ofertas por la mesa de contratación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 153",
+    "enunciado": "¿Cómo se formalizan los contratos según el artículo 153 de la Ley 9/2017?",
+    "respuesta": "Los contratos que celebren los poderes adjudicadores se perfeccionan con su formalización en documento administrativo, salvo que se indique otra cosa; no podrá procederse a la ejecución con carácter previo a la formalización.",
+    "explicacion": "El artículo 153 de la Ley 9/2017 exige la formalización en documento administrativo y prohíbe ejecutar antes de formalizar.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 44",
+    "enunciado": "¿Qué es el recurso especial en materia de contratación según el artículo 44 de la Ley 9/2017?",
+    "respuesta": "El recurso que puede interponerse contra los anuncios de licitación, los pliegos, los actos de trámite cualificados y los acuerdos de adjudicación en los contratos SARA y otros supuestos, ante el Tribunal Administrativo de Recursos Contractuales.",
+    "explicacion": "El artículo 44 de la Ley 9/2017 regula el recurso especial en materia de contratación para contratos SARA y supuestos tasados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E02-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 210",
+    "enunciado": "¿Cuándo se cumple el contrato según el artículo 210 de la Ley 9/2017?",
+    "respuesta": "El contrato se entenderá cumplido por el contratista cuando éste haya realizado, de acuerdo con los términos del mismo y a satisfacción de la Administración, la totalidad de la prestación.",
+    "explicacion": "El artículo 210 de la Ley 9/2017 regula el cumplimiento: realización total de la prestación a satisfacción de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 231",
+    "enunciado": "¿Qué actuaciones preceden al contrato de obras según el artículo 231 de la Ley 9/2017?",
+    "respuesta": "La aprobación del proyecto de obras por el órgano de contratación, que requiere el replanteo previo del mismo.",
+    "explicacion": "El artículo 231 de la Ley 9/2017 exige la aprobación del proyecto y el replanteo previo en los contratos de obras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 237",
+    "enunciado": "¿Qué es el acta de comprobación del replanteo según el artículo 237 de la Ley 9/2017?",
+    "respuesta": "La comprobación del replanteo se realiza en presencia del contratista y del director de la obra, levantándose acta que refleja su resultado; el plazo de ejecución comienza al día siguiente de su firma.",
+    "explicacion": "El artículo 237 de la Ley 9/2017 regula el acta de comprobación del replanteo, que marca el inicio del plazo de ejecución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 243",
+    "enunciado": "¿Cómo se recibe la obra según el artículo 243 de la Ley 9/2017?",
+    "respuesta": "A la recepción de las obras concurrirá un facultativo designado por la Administración representante de ésta, el facultativo encargado de la dirección de las obras y el contratista; si se encuentran en buen estado se darán por recibidas, levantándose acta.",
+    "explicacion": "El artículo 243 de la Ley 9/2017 regula la recepción de las obras con acta suscrita por la Administración, la dirección y el contratista.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 244",
+    "enunciado": "¿Qué es el plazo de garantía en el contrato de obras según el artículo 244 de la Ley 9/2017?",
+    "respuesta": "El establecido en el pliego, que no podrá ser inferior a un año salvo casos especiales; durante el mismo el contratista responde de los defectos de construcción.",
+    "explicacion": "El artículo 244 de la Ley 9/2017 fija el plazo de garantía mínimo de un año en el contrato de obras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 298",
+    "enunciado": "¿Qué es el contrato de suministro según los artículos 16 y 298 de la Ley 9/2017?",
+    "respuesta": "El que tiene por objeto la adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles; en el arrendamiento el contratista asume el mantenimiento.",
+    "explicacion": "Los artículos 16 y 298 de la Ley 9/2017 definen el contrato de suministro y sus modalidades.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 308",
+    "enunciado": "¿Qué es el contrato de servicios según los artículos 17 y 308 de la Ley 9/2017?",
+    "respuesta": "Aquel cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro; no pueden ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
+    "explicacion": "Los artículos 17 y 308 de la Ley 9/2017 definen el contrato de servicios y excluyen los que impliquen ejercicio de autoridad pública.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "art. 29",
+    "enunciado": "¿Cuál es la duración máxima del contrato de servicios según el artículo 29 de la Ley 9/2017?",
+    "respuesta": "Los contratos de servicios de prestación sucesiva tendrán un plazo máximo de duración de cinco años, incluyendo las posibles prórrogas.",
+    "explicacion": "El artículo 29 de la Ley 9/2017 limita a cinco años la duración de los contratos de servicios de prestación sucesiva, prórrogas incluidas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E03-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 9/2017",
+    "articulo": "disp. adic. 2.ª",
+    "enunciado": "¿Qué especialidades tiene la contratación en las Entidades Locales según la disposición adicional segunda de la Ley 9/2017?",
+    "respuesta": "Corresponden a los Alcaldes y Presidentes las competencias como órgano de contratación cuando el valor estimado no supere el 10 % de los recursos ordinarios del presupuesto ni 6 millones de euros; en otro caso, al Pleno.",
+    "explicacion": "La disposición adicional segunda de la Ley 9/2017 distribuye las competencias de contratación en las Entidades Locales entre Alcalde/Presidente y Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-001",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 8",
+    "enunciado": "¿Qué clases de empleados públicos existen según el artículo 8 del TREBEP?",
+    "respuesta": "Los funcionarios de carrera, los funcionarios interinos, el personal laboral (fijo, por tiempo indefinido o temporal) y el personal eventual.",
+    "explicacion": "El artículo 8 del TREBEP clasifica a los empleados públicos en funcionarios de carrera, interinos, personal laboral y personal eventual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-002",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 9",
+    "enunciado": "¿Quiénes son funcionarios de carrera según el artículo 9 del TREBEP?",
+    "respuesta": "Quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+    "explicacion": "El artículo 9 del TREBEP define al funcionario de carrera: nombramiento legal y relación estatutaria de carácter permanente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-003",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 10",
+    "enunciado": "¿Quiénes son funcionarios interinos según el artículo 10 del TREBEP?",
+    "respuesta": "Los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las circunstancias tasadas (plaza vacante, sustitución, programas temporales o exceso de tareas).",
+    "explicacion": "El artículo 10 del TREBEP regula el funcionario interino: nombramiento por necesidad y urgencia en supuestos tasados.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-004",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 11",
+    "enunciado": "¿Quiénes integran el personal laboral según el artículo 11 del TREBEP?",
+    "respuesta": "El que en virtud de contrato de trabajo formalizado por escrito presta servicios retribuidos por las Administraciones Públicas, como personal fijo, por tiempo indefinido o temporal.",
+    "explicacion": "El artículo 11 del TREBEP define el personal laboral: contrato de trabajo escrito al servicio de la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-005",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué principios rigen el acceso al empleo público según el artículo 55 del TREBEP?",
+    "respuesta": "Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad, y con los principios de publicidad de las convocatorias, transparencia, imparcialidad y profesionalidad.",
+    "explicacion": "El artículo 55 del TREBEP consagra los principios de igualdad, mérito y capacidad, más publicidad, transparencia e imparcialidad en el acceso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-006",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 59",
+    "enunciado": "¿Qué reserva de plazas para personas con discapacidad establece el artículo 59 del TREBEP?",
+    "respuesta": "En las ofertas de empleo público se reservará un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, de modo que progresivamente se alcance el dos por ciento de los efectivos totales.",
+    "explicacion": "El artículo 59 del TREBEP impone la reserva mínima del 7 % de las vacantes para personas con discapacidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-007",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 63",
+    "enunciado": "¿Cuáles son las causas de pérdida de la condición de funcionario según el artículo 63 del TREBEP?",
+    "respuesta": "La renuncia, la pérdida de la nacionalidad, la jubilación total, la sanción disciplinaria de separación del servicio y la pena principal o accesoria de inhabilitación absoluta o especial.",
+    "explicacion": "El artículo 63 del TREBEP enumera las causas de pérdida de la condición de funcionario de carrera.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "SEV-A1-E04-008",
+    "perfil": [
+      "sev-a1"
+    ],
+    "tema": "E04",
+    "ley": "Real Decreto Legislativo 5/2015",
+    "articulo": "art. 62",
+    "enunciado": "¿Cómo se adquiere la condición de funcionario de carrera según el artículo 62 del TREBEP?",
+    "respuesta": "Por la superación del proceso selectivo, el nombramiento conferido por el órgano competente, el acto de acatamiento de la Constitución y del resto del ordenamiento jurídico y la toma de posesión dentro del plazo establecido.",
+    "explicacion": "El artículo 62 del TREBEP exige para adquirir la condición: superar el proceso selectivo, nombramiento, acatamiento y toma de posesión.",
+    "verificado_corpus": true
+  }
+]

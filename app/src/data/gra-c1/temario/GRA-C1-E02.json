@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E02",
+  "numero": 2,
+  "tema": "E02",
+  "tipo": "especifico",
+  "titulo": "La Administración tributaria. La relación jurídico-tributaria. Derechos y garantías",
+  "relacionados": [
+    "GRA-C1-E01",
+    "GRA-C1-E03",
+    "GRA-C1-E06"
+  ],
+  "secciones": [
+    {
+      "titulo": "La Administración tributaria",
+      "texto": "La Administración tributaria está integrada por los órganos y entidades de derecho público que desarrollan las funciones de aplicación de los tributos, potestad sancionadora y revisión en vía administrativa ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 5]]). La aplicación de los tributos y el ejercicio de la potestad sancionadora le corresponden en exclusiva.\n\nEntre sus obligaciones y deberes destacan informar y asistir a los obligados, expedir certificaciones, realizar las devoluciones previstas y desarrollar sus actuaciones con respeto a los derechos y garantías ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 30]]). Está obligada a resolver expresamente todas las peticiones que se le formulen ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 103]]), en los plazos máximos y con los efectos del silencio previstos para cada procedimiento ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 104]])."
+    },
+    {
+      "titulo": "La relación jurídico-tributaria",
+      "texto": "Es el conjunto de obligaciones y deberes, derechos y potestades originados por la aplicación de los tributos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 17]]). De ella derivan:\n\n- La **obligación tributaria principal**: pagar la cuota tributaria.\n- Las **obligaciones de realizar pagos a cuenta**.\n- Las **obligaciones entre particulares** resultantes del tributo (como la repercusión).\n- Las **obligaciones tributarias formales** y las accesorias (intereses, recargos).\n\nLa relación se rige por la normativa tributaria vigente en el momento del devengo, sin perjuicio de la aplicación retroactiva de las normas más favorables en materia sancionadora."
+    },
+    {
+      "titulo": "Derechos y garantías de los obligados",
+      "texto": "El [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 34]] reconoce a los obligados, entre otros derechos: ser informados y asistidos; conocer el estado de tramitación y la identidad de autoridades y personal; no aportar documentos ya en poder de la Administración; el carácter reservado de sus datos con trascendencia tributaria; ser tratados con respeto; y que las actuaciones se desarrollen en los plazos previstos.\n\nEstos derechos se complementan con el deber de colaboración: las personas físicas o jurídicas deben proporcionar a la Administración toda clase de datos e informes con trascendencia tributaria derivados de sus relaciones económicas, profesionales o financieras ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 93]])."
+    },
+    {
+      "titulo": "Consultas y notificaciones",
+      "texto": "Los obligados pueden formular consultas tributarias escritas sobre el régimen aplicable a su caso antes de que finalice el plazo de ejercicio de sus derechos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 88]]); las contestaciones vinculan a los órganos de aplicación respecto del consultante ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 89]]).\n\nLas notificaciones pueden recibirse por el obligado o su representante y, en su ausencia, por cualquier persona que se halle en el lugar y acredite su identidad ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 111]]). Si no es posible notificar, se cita al interesado para que comparezca en quince días naturales, entendiéndose producida la notificación si no comparece ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 112]])."
+    }
+  ]
+}

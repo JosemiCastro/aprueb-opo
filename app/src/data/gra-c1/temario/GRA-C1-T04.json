@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T04",
+  "numero": 4,
+  "tema": "T04",
+  "tipo": "comun",
+  "titulo": "El municipio y la provincia: elementos, organización y competencias",
+  "relacionados": [
+    "GRA-C1-T03",
+    "GRA-C1-T05",
+    "GRA-C1-E17"
+  ],
+  "secciones": [
+    {
+      "titulo": "El municipio: concepto y elementos",
+      "texto": "El municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad para el cumplimiento de sus fines; sus elementos son el territorio, la población y la organización ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 11]]). El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 12]]).\n\nLa creación o supresión de municipios se regula por la legislación autonómica, exigiéndose para los nuevos municipios núcleos diferenciados de al menos 5.000 habitantes con recursos suficientes ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 13]])."
+    },
+    {
+      "titulo": "La población municipal",
+      "texto": "Toda persona que viva en España está obligada a inscribirse en el padrón del municipio de residencia habitual ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 15]]). El padrón es el registro administrativo de los vecinos y sus datos constituyen prueba de la residencia y del domicilio habitual, con valor de documento público y fehaciente ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 16]]).\n\nLa condición de vecino se adquiere con la inscripción en el padrón y confiere derechos como la participación en los asuntos municipales y la utilización de los servicios públicos."
+    },
+    {
+      "titulo": "Organización municipal",
+      "texto": "El gobierno y la administración municipal corresponden al Ayuntamiento, integrado por el Alcalde y los Concejales ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 19]]). El Alcalde dirige el gobierno municipal, representa al Ayuntamiento, convoca y preside el Pleno y la Junta de Gobierno, dicta bandos e inspecciona los servicios ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 21]]).\n\nEl Pleno ejerce el control y fiscalización de los órganos de gobierno y aprueba presupuestos, ordenanzas, plantillas y las decisiones de especial trascendencia ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 22]]). Las competencias propias municipales abarcan urbanismo, medio ambiente urbano, agua, infraestructuras viarias, policía local, tráfico, comercio, cultura y deporte, entre otras ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 25]])."
+    },
+    {
+      "titulo": "La provincia",
+      "texto": "La provincia es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 31]]). Sus fines son garantizar la solidaridad y el equilibrio intermunicipales, asegurar la prestación integral de los servicios municipales en todo el territorio y coordinar la Administración local con la autonómica y la estatal.\n\nSu organización responde a las reglas del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 32]]: Presidente, Vicepresidentes, Junta de Gobierno y Pleno, con las competencias propias de coordinación, asistencia a los municipios y prestación de servicios supramunicipales del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 36]]."
+    }
+  ]
+}

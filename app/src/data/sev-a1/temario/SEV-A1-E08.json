@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E08",
+  "tema": "E08",
+  "tipo": "especifico",
+  "numero": 8,
+  "titulo": "Los obligados tributarios. La aplicación de los tributos y los procedimientos de gestión",
+  "secciones": [
+    {
+      "titulo": "1. Los obligados tributarios",
+      "texto": "Son obligados tributarios las personas físicas o jurídicas y las entidades a las que la normativa impone el cumplimiento de obligaciones tributarias ([[Ley 58/2003 | art. 35]]): contribuyentes, sustitutos, obligados a pagos a cuenta, retenedores y sucesores, entre otros."
+    },
+    {
+      "titulo": "2. Contribuyente y sustituto",
+      "texto": "Contribuyente es el sujeto pasivo que realiza el hecho imponible ([[Ley 58/2003 | art. 36]]). Sustituto es quien, por imposición legal y en lugar del contribuyente, cumple la obligación tributaria principal y las formales inherentes ([[Ley 58/2003 | art. 37]])."
+    },
+    {
+      "titulo": "3. La aplicación de los tributos",
+      "texto": "Comprende la información y asistencia a los obligados y la gestión, inspección y recaudación, además de las actuaciones de los obligados en ejercicio de sus derechos ([[Ley 58/2003 | art. 83]])."
+    },
+    {
+      "titulo": "4. La gestión tributaria",
+      "texto": "Es el conjunto de actuaciones dirigidas a determinar la deuda tributaria: recepción y tramitación de declaraciones, comprobaciones y liquidaciones ([[Ley 58/2003 | art. 117]]). La liquidación es el acto resolutorio que cuantifica la deuda ([[Ley 58/2003 | art. 101]])."
+    },
+    {
+      "titulo": "5. Declaraciones y autoliquidaciones",
+      "texto": "La declaración es el documento por el que se manifiesta espontáneamente la realización del hecho imponible ([[Ley 58/2003 | art. 119]]). En la autoliquidación, el obligado además cuantifica e ingresa la deuda ([[Ley 58/2003 | art. 120]])."
+    },
+    {
+      "titulo": "6. Las obligaciones formales",
+      "texto": "Junto a las obligaciones materiales de pago, los obligados tributarios deben cumplir obligaciones formales: presentar declaraciones y autoliquidaciones ([[Ley 58/2003 | art. 119]] y [[Ley 58/2003 | art. 120]]), llevar contabilidad y registros, facilitar la inspección y conservar documentación. Su incumplimiento constituye infracción con independencia de que exista deuda. La Administración, por su parte, debe informar y asistir a los obligados en el cumplimiento ([[Ley 58/2003 | art. 83]]), con programas de ayuda, borradores y oficinas de asistencia en materia de registros. Cuando concurren varios obligados en un mismo presupuesto, la solidaridad permite a la Administración exigir la totalidad de la deuda a cualquiera de ellos, sin perjuicio de su derecho de repetición interno. Es distinta de la responsabilidad de terceros ([[Ley 58/2003 | art. 41]]): el solidario es deudor desde el origen, mientras el responsable deriva de un acto posterior. La mancomunidad, en cambio, divide la deuda por partes iguales salvo pacto o ley en contrario. Las herencias yacentes, comunidades de bienes y demás entidades carentes de personalidad pueden ser obligados tributarios cuando constituyan una unidad económica o un patrimonio separado susceptible de imposición ([[Ley 58/2003 | art. 35]]). Responden solidariamente sus partícipes o cotitulares en proporción a sus cuotas. Esta previsión evita que la ausencia de personalidad jurídica sirva de refugio frente al deber de contribuir, extendiendo la sujeción tributaria a realidades económicas relevantes."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E07",
+    "SEV-A1-E09",
+    "SEV-A1-E10"
+  ]
+}

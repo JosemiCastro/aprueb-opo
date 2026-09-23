@@ -1,0 +1,26 @@
+{
+  "id": "GRA-C1-E17",
+  "numero": 17,
+  "tema": "E17",
+  "tipo": "especifico",
+  "titulo": "Las Haciendas locales: recursos y ordenanzas fiscales",
+  "relacionados": [
+    "GRA-C1-T05",
+    "GRA-C1-E18",
+    "GRA-C1-E20"
+  ],
+  "secciones": [
+    {
+      "titulo": "Recursos de las Haciendas locales",
+      "texto": "La hacienda local se nutre de ingresos patrimoniales y de derecho privado, tributos propios (tasas, contribuciones especiales e impuestos) y recargos, participaciones en tributos estatales y autonómicos, subvenciones, precios públicos, operaciones de crédito, multas y demás prestaciones de derecho público ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 2]]).\n\nPara la cobranza de tributos e ingresos de derecho público, la Hacienda local ostenta las prerrogativas de la Hacienda del Estado y actúa por los procedimientos administrativos correspondientes ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 2.2]])."
+    },
+    {
+      "titulo": "Gestión tributaria local",
+      "texto": "La gestión, liquidación, inspección y recaudación de los tributos locales corresponde al ayuntamiento, que puede delegarla en la Diputación Provincial, la Comunidad Autónoma o el Estado ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 12]]). Esta delegación es la base jurídica de la actuación del Servicio Provincial Tributario de la Diputación de Granada.\n\nLos ayuntamientos pueden exigir con carácter obligatorio el IBI, el IAE y el IVTM, y con carácter potestativo el ICIO y el IIVTNU ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 59]])."
+    },
+    {
+      "titulo": "Las ordenanzas fiscales",
+      "texto": "Las entidades locales deben acordar la imposición y supresión de sus tributos propios y aprobar las ordenanzas fiscales que los regulen ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 15]]). Su contenido mínimo comprende el hecho imponible, sujeto pasivo, responsables, exenciones, bases, tipos, período y devengo, los regímenes de declaración e ingreso y las fechas de aprobación y aplicación ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 16]]).\n\nLos acuerdos provisionales se exponen treinta días para reclamaciones de los interesados ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | arts. 17.1 y 18]])); sin reclamaciones, el acuerdo se entiende definitivamente adoptado ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 17.3]]). Las ordenanzas no entran en vigor hasta su publicación íntegra en el boletín oficial de la provincia ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 17.4]]) y solo cabe contra ellas el recurso contencioso-administrativo ([[Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales | art. 19]])."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "CAD-C2-T06",
+  "tema": "T06",
+  "numero": 6,
+  "tipo": "comun",
+  "titulo": "La Provincia. Organización: órganos necesarios y complementarios de las Diputaciones Provinciales. Sistema de elección de los/las Diputados/as y del/la Presidente/a.",
+  "relacionados": [
+    "CAD-C2-T05",
+    "CAD-C2-T07",
+    "CAD-C2-E07"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. La provincia como entidad local",
+      "texto": "La provincia es una entidad local determinada por la agrupación de municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 31]]). Sus fines propios son garantizar los principios de solidaridad y equilibrio intermunicipales, asegurar la prestación integral y adecuada de los servicios de competencia municipal en todo el territorio provincial y participar en la coordinación de la Administración local con la del Estado y la autonómica."
+    },
+    {
+      "titulo": "2. Órganos necesarios de la Diputación",
+      "texto": "La organización provincial responde a las reglas del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 32]]: son órganos necesarios el Presidente, los Vicepresidentes, el Pleno y la Junta de Gobierno. El Pleno está constituido por el Presidente y los Diputados ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 33]]). Al Presidente le corresponde, en todo caso, dirigir el gobierno y la administración de la provincia, representar a la Diputación, convocar y presidir las sesiones y ejercer la jefatura superior del personal ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 34]]). La Junta de Gobierno se integra por el Presidente y un número de Diputados no superior al tercio del número legal, nombrados y separados libremente por aquel ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 35]])."
+    },
+    {
+      "titulo": "3. Órganos complementarios",
+      "texto": "Además de los órganos necesarios, las Diputaciones pueden crear órganos complementarios como las Comisiones Informativas (de estudio e informe previo de los asuntos del Pleno), la Comisión Especial de Cuentas (examen y estudio de las cuentas anuales) y los Consejos Sectoriales. Su creación y funcionamiento se rigen por el Reglamento Orgánico de cada Diputación y por el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales."
+    },
+    {
+      "titulo": "4. Competencias propias de la Diputación",
+      "texto": "Son competencias propias de la Diputación las que le atribuyan las leyes estatales y autonómicas y, en todo caso, las del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 36]]: coordinar los servicios municipales entre sí para garantizar su prestación integral y adecuada; prestar asistencia y cooperación jurídica, económica y técnica a los municipios, especialmente a los de menor capacidad económica y de gestión; prestar servicios públicos de carácter supramunicipal y, en su caso, supracomarcal; y cooperar en el fomento del desarrollo económico y social y en la planificación territorial. La Diputación de Cádiz ejerce estas competencias sobre los municipios de la provincia de Cádiz."
+    },
+    {
+      "titulo": "5. Elección de Diputados y del Presidente",
+      "texto": "Los Diputados provinciales son elegidos de forma indirecta: tras las elecciones municipales, los Concejales electos eligen a los Diputados entre ellos, atribuyéndose a cada partido, coalición o agrupación un número de puestos proporcional a los votos obtenidos en la provincia, conforme a la Ley Orgánica 5/1985, del Régimen Electoral General. El Presidente de la Diputación es elegido por el Pleno entre sus miembros en la sesión constitutiva, por mayoría absoluta en primera votación o mayoría simple en segunda; puede ser destituido mediante moción de censura constructiva."
+    }
+  ]
+}

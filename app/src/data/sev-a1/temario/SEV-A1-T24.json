@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T24",
+  "tema": "T24",
+  "tipo": "comun",
+  "numero": 24,
+  "titulo": "El patrimonio de las Entidades Locales: bienes, clases y prerrogativas",
+  "secciones": [
+    {
+      "titulo": "1. Clases de bienes",
+      "texto": "El patrimonio de las entidades locales se integra por bienes de dominio público y bienes patrimoniales ([[Ley 7/1985 | art. 79]]). Son de dominio público los destinados a uso o servicio público y los comunales; son patrimoniales los no afectados a uso o servicio público que pueden constituir fuente de ingresos ([[Ley 7/1985 | art. 80]])."
+    },
+    {
+      "titulo": "2. El dominio público local",
+      "texto": "Los bienes demaniales son inalienables, imprescriptibles e inembargables ([[Ley 7/1985 | art. 80]]), principios que la Constitución extiende a todos los bienes de dominio público ([[Constitución Española de 1978 | art. 132]]). No pueden enajenarse ni gravarse, y la alteración de su calificación jurídica requiere expediente ([[Ley 7/1985 | art. 81]])."
+    },
+    {
+      "titulo": "3. Prerrogativas",
+      "texto": "Para la defensa de su patrimonio, las entidades locales gozan de las prerrogativas de investigar la situación de los bienes, deslindar en vía administrativa, recuperar de oficio la posesión indebidamente perdida y desahuciar en vía administrativa ([[Ley 7/1985 | art. 82]]). Son manifestaciones de la autotutela administrativa."
+    },
+    {
+      "titulo": "4. Inventario y gestión",
+      "texto": "Las entidades locales deben formar inventario de todos sus bienes y derechos y rectificarlo anualmente ([[Ley 7/1985 | art. 83]]). Los bienes patrimoniales se rigen por su legislación específica y supletoriamente por el Derecho privado ([[Ley 7/1985 | art. 84]])."
+    },
+    {
+      "titulo": "5. Uso de los bienes demaniales",
+      "texto": "El uso común general es libre; el uso especial o privativo requiere autorización o concesión. La ocupación del dominio público local con fines lucrativos está sujeta a tasa conforme al texto refundido de la Ley de Haciendas Locales."
+    },
+    {
+      "titulo": "6. El inventario y la defensa del patrimonio",
+      "texto": "El inventario de bienes y derechos, rectificado anualmente ([[Ley 7/1985 | art. 83]]), es el instrumento de conocimiento y control del patrimonio local. Para su defensa, las entidades locales ejercen las prerrogativas de investigación, deslinde, recuperación de oficio y desahucio administrativo ([[Ley 7/1985 | art. 82]]), manifestaciones de la autotutela que les permiten proteger sus bienes sin acudir al juez. Los bienes demaniales, además, gozan de inalienabilidad, imprescriptibilidad e inembargabilidad ([[Ley 7/1985 | art. 80]]). La enajenación de bienes patrimoniales exige expediente, tasación y, en general, subasta, garantizando la mejor tutela del interés público. Los bienes patrimoniales pueden constituir una fuente relevante de ingresos: arrendamientos, enajenaciones y aprovechamientos forestales o agrícolas. Se rigen por su legislación específica y supletoriamente por el Derecho privado ([[Ley 7/1985 | art. 84]]), y su enajenación exige expediente con tasación para garantizar el mejor precio. A diferencia de los demaniales ([[Ley 7/1985 | art. 80]]), son embargables y prescriptibles, aunque su gestión sigue sometida a los principios de publicidad y concurrencia propios de la contratación pública."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T22",
+    "SEV-A1-T20",
+    "SEV-A1-E13"
+  ]
+}

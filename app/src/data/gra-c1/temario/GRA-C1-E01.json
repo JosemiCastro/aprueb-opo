@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E01",
+  "numero": 1,
+  "tema": "E01",
+  "tipo": "especifico",
+  "titulo": "El Derecho Financiero y Tributario. Los tributos: concepto y clases. Principios",
+  "relacionados": [
+    "GRA-C1-E02",
+    "GRA-C1-E17",
+    "GRA-C1-E20"
+  ],
+  "secciones": [
+    {
+      "titulo": "El Derecho Financiero y Tributario",
+      "texto": "El Derecho Financiero es la rama del Derecho público que regula la actividad financiera del Estado y demás entes públicos: la obtención de ingresos y la realización del gasto público. Su parte principal es el Derecho Tributario, que disciplina los tributos como ingresos coactivos por excelencia.\n\nLas fuentes del Derecho Tributario son la Constitución, los tratados internacionales, las leyes (con la reserva de ley del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 8]]), los reglamentos y, en el ámbito local, las ordenanzas fiscales. La aplicación e interpretación de las normas tributarias se rige por los criterios del ordenamiento común, con la prohibición de la analogía para extender el hecho imponible o las exenciones."
+    },
+    {
+      "titulo": "Concepto y clases de tributos",
+      "texto": "Los tributos son prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la ley vincula el deber de contribuir ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 2]]). Sus clases son:\n\n- **Impuestos**: se exigen sin contraprestación, por la realización del hecho imponible ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 2.2.a)]]).\n- **Tasas**: por la utilización privativa del dominio público o la prestación de servicios en régimen de derecho público que afecten particularmente al obligado ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 2.2.b)]]).\n- **Contribuciones especiales**: por el beneficio o aumento de valor derivado de obras o servicios públicos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 2.2.c)]]).\n\nJunto a ellos existen las prestaciones patrimoniales de carácter público no tributarias, exigibles conforme al [[Constitución Española de 1978 | art. 31.3]]."
+    },
+    {
+      "titulo": "Principios del sistema tributario",
+      "texto": "El [[Constitución Española de 1978 | art. 31.1]] impone que todos contribuyan al sostenimiento de los gastos públicos de acuerdo con su capacidad económica, mediante un sistema tributario justo inspirado en la igualdad y la progresividad, sin alcance confiscatorio.\n\nEl [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 3]] desarrolla estos principios para la ordenación y aplicación del sistema: capacidad económica, justicia, generalidad, igualdad, progresividad, equitativa distribución de la carga y no confiscatoriedad; y en la aplicación, proporcionalidad, eficacia y limitación de costes indirectos, con respeto a los derechos y garantías de los obligados."
+    },
+    {
+      "titulo": "Potestad tributaria y lucha contra el fraude",
+      "texto": "La potestad de establecer tributos corresponde al Estado, las Comunidades Autónomas y las entidades locales, que la ejercen a través de sus propios órganos ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 4]]). Están reservadas a la ley la delimitación del hecho imponible, el obligado tributario, la base, el tipo y demás elementos cuantificadores, las exenciones, la prescripción y las infracciones y sanciones ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 8]]).\n\nFrente a la elusión, el [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 15]] regula el conflicto en la aplicación de la norma (actos notoriamente artificiosos sin efectos económicos relevantes distintos del ahorro fiscal, a los que se aplica la norma eludida), y el [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 16]] la simulación, en la que se grava el negocio efectivamente realizado."
+    }
+  ]
+}

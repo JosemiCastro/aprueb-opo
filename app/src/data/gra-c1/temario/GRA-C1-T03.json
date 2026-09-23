@@ -1,0 +1,26 @@
+{
+  "id": "GRA-C1-T03",
+  "numero": 3,
+  "tema": "T03",
+  "tipo": "comun",
+  "titulo": "El régimen local español: la Ley 7/1985, reguladora de las Bases del Régimen Local",
+  "relacionados": [
+    "GRA-C1-T02",
+    "GRA-C1-T04",
+    "GRA-C1-T05"
+  ],
+  "secciones": [
+    {
+      "titulo": "Fundamento constitucional y concepto",
+      "texto": "La Constitución garantiza la autonomía de los municipios ([[Constitución Española de 1978 | art. 140]]), configura la provincia como entidad local ([[Constitución Española de 1978 | art. 141]]) y asegura la suficiencia financiera de las Haciendas locales ([[Constitución Española de 1978 | art. 142]]). Sobre esta base, la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), establece el régimen jurídico básico común de todas las entidades locales.\n\nEl [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 1]] define los municipios como entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana, que gestionan con autonomía los intereses propios de sus colectividades."
+    },
+    {
+      "titulo": "Entidades locales y potestades",
+      "texto": "Son entidades locales territoriales el municipio, la provincia y la isla, y gozan también de esa condición las comarcas, áreas metropolitanas y mancomunidades ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 3]]). A los municipios, provincias e islas les corresponden las potestades reglamentaria y de autoorganización, tributaria y financiera, de programación, expropiatoria, de investigación y deslinde de bienes, y la potestad sancionadora ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 4]]).\n\nLas competencias locales se clasifican en propias y atribuidas por delegación del Estado o de las Comunidades Autónomas ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 7]]), y el [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 2]] garantiza su derecho a intervenir en cuantos asuntos afecten a sus intereses conforme a los principios de descentralización, proximidad, eficacia y eficiencia."
+    },
+    {
+      "titulo": "Organización y funcionamiento",
+      "texto": "El gobierno municipal corresponde al Ayuntamiento, integrado por el Alcalde y los Concejales, con el Pleno como órgano de control y decisión de las materias de mayor trascendencia ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | arts. 19 y 22]]). El [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 21]] atribuye al Alcalde dirigir el gobierno y la administración municipal, representar al Ayuntamiento y presidir sus órganos colegiados.\n\nLos acuerdos se adoptan por mayoría simple como regla general, exigiéndose mayoría absoluta para las materias tasadas ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 47]]). Las sesiones ordinarias del Pleno se celebran con la periodicidad mínima del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 46]] según la población, y las ordenanzas se aprueban por el procedimiento del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local | art. 49]]: aprobación inicial, información pública mínima de treinta días, resolución de reclamaciones y aprobación definitiva."
+    }
+  ]
+}

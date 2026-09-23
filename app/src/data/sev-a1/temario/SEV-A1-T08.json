@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T08",
+  "tema": "T08",
+  "tipo": "comun",
+  "numero": 8,
+  "titulo": "El Estatuto de Autonomía de Andalucía: competencias y organización institucional",
+  "secciones": [
+    {
+      "titulo": "1. Andalucía como nacionalidad histórica",
+      "texto": "Andalucía, como nacionalidad histórica y en ejercicio del derecho de autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la unidad de la nación española, siendo el Estatuto su norma institucional básica ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 1]]). La capital es Sevilla, sede del Parlamento, la Presidencia y el Consejo de Gobierno ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 4]]), y tienen la condición política de andaluces los españoles con vecindad administrativa en Andalucía ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 5]])."
+    },
+    {
+      "titulo": "2. Objetivos y competencias",
+      "texto": "El Estatuto fija los objetivos básicos de la Comunidad (pleno empleo, cohesión social, igualdad, medio ambiente) ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 10]]). Andalucía asume competencias exclusivas, compartidas y ejecutivas en numerosas materias; en régimen local tiene competencia exclusiva con respeto al artículo 149.1.18.ª CE y al principio de autonomía local ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 60]])."
+    },
+    {
+      "titulo": "3. La Junta de Andalucía",
+      "texto": "La Junta de Andalucía es la institución en que se organiza políticamente el autogobierno, integrada por el Parlamento, la Presidencia y el Consejo de Gobierno ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 99]])."
+    },
+    {
+      "titulo": "4. El Parlamento de Andalucía",
+      "texto": "Se compone de un mínimo de 109 Diputados elegidos por sufragio universal, igual, libre, directo y secreto ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 101]]). Ejerce la potestad legislativa, aprueba los presupuestos, controla al Consejo de Gobierno y elige al Presidente de la Junta."
+    },
+    {
+      "titulo": "5. Presidencia y Consejo de Gobierno",
+      "texto": "El Presidente dirige y coordina el Consejo de Gobierno y la Administración autonómica, designa y separa a los Consejeros y ostenta la suprema representación de la Comunidad ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 117]]). El Consejo de Gobierno ejerce la función ejecutiva y la potestad reglamentaria autonómica."
+    },
+    {
+      "titulo": "6. El sistema competencial andaluz",
+      "texto": "El Estatuto atribuye a Andalucía competencias exclusivas (organización e instituciones de autogobierno, régimen local con respeto al artículo 149.1.18.ª CE: [[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 60]]), compartidas (educación, sanidad, medio ambiente) y ejecutivas (laboral, entre otras). En las compartidas, el Estado fija las bases y la Comunidad desarrolla y ejecuta. La Junta participa en las instituciones estatales y en la Unión Europea en asuntos de su interés, y mantiene relaciones de cooperación con el Estado y con otras Comunidades Autónomas para la gestión eficaz de las competencias."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T07",
+    "SEV-A1-T09"
+  ]
+}

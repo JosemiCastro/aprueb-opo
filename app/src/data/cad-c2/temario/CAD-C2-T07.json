@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-T07",
+  "tema": "T07",
+  "numero": 7,
+  "tipo": "comun",
+  "titulo": "El Municipio. Organización Municipal. Competencias. Autonomía Municipal.",
+  "relacionados": [
+    "CAD-C2-T05",
+    "CAD-C2-T06",
+    "CAD-C2-E07"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. El municipio: elementos",
+      "texto": "El Municipio es la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 11]]). Sus elementos son el territorio (término municipal, donde el Ayuntamiento ejerce sus competencias, [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 12]]), la población (los vecinos inscritos en el padrón municipal) y la organización (el Ayuntamiento). La Constitución garantiza su autonomía para la gestión de sus intereses ([[Constitución Española de 1978 |  art. 140]]). La alteración de términos municipales y la creación o supresión de municipios se rigen por la legislación de las Comunidades Autónomas sobre régimen local."
+    },
+    {
+      "titulo": "2. Organización municipal",
+      "texto": "El gobierno y la administración municipal corresponde al Ayuntamiento, integrado por el Alcalde y los Concejales ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 19]]), salvo el régimen de Concejo Abierto, en el que el gobierno corresponde a una Asamblea vecinal. Son órganos necesarios el Alcalde, los Tenientes de Alcalde y el Pleno en todos los Ayuntamientos, y la Junta de Gobierno Local en los de más de 5.000 habitantes ([[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 20]]). El Pleno ejerce las funciones normativas y de control del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 22]], y el Alcalde dirige el gobierno municipal con las atribuciones del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 21]]. En los municipios de gran población la organización se completa con la Junta de Gobierno Local, los distritos y los órganos de gestión desconcentrada. El Pleno puede delegar competencias en el Alcalde y en la Junta de Gobierno, salvo las indelegables."
+    },
+    {
+      "titulo": "3. Competencias municipales",
+      "texto": "El municipio puede promover actividades y prestar servicios en las materias del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 25]] (urbanismo, medio ambiente, agua, vías públicas, servicios sociales, policía local, tráfico, turismo, cultura, deporte, etc.) y debe prestar en todo caso los servicios mínimos del [[Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local |  art. 26]], graduados por población. Las competencias municipales pueden ser propias o delegadas por el Estado o la Comunidad Autónoma, en cuyo caso la delegación debe acompañarse de la financiación correspondiente."
+    },
+    {
+      "titulo": "4. La autonomía municipal",
+      "texto": "La autonomía municipal, garantizada por el [[Constitución Española de 1978 |  art. 140]], se concreta en la potestad de autoorganización (reglamentos orgánicos), la potestad normativa (ordenanzas y bandos), la autonomía financiera y tributaria (ordenanzas fiscales), y la plena capacidad jurídica para adquirir, poseer y enajenar bienes. El Tribunal Constitucional ha declarado que la autonomía local es una garantía institucional: el legislador debe respetar un núcleo indisponible de autogobierno municipal. La garantía institucional de la autonomía local impide al legislador vaciar de contenido las competencias municipales, y los conflictos en defensa de la autonomía local se plantean ante el Tribunal Constitucional."
+    }
+  ]
+}

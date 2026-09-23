@@ -72,7 +72,7 @@ export default function FichaTema({ temaId }: { temaId: string }) {
       if (!beforeAll && afterAll) {
         return recordSession(after, {
           date: todayStr(),
-          perfil: 'a2',
+          perfil: 'HUE-A2',
           modo: 'ficha',
           temaId,
           total,
@@ -87,7 +87,7 @@ export default function FichaTema({ temaId }: { temaId: string }) {
     <div className="screen">
       <Header title="Ficha A2" backTo="/a2" />
       <main className="container">
-        <h1 className="tema-title">{tituloTema('a2', temaId)}</h1>
+        <h1 className="tema-title">{tituloTema('HUE-A2', temaId)}</h1>
         <Card>
           <h2>Puntos clave</h2>
           <ul style={listReset}>

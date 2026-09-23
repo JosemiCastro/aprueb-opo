@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-T05",
+  "tema": "T05",
+  "tipo": "comun",
+  "numero": 5,
+  "titulo": "El Gobierno y la Administración General del Estado",
+  "secciones": [
+    {
+      "titulo": "1. El Gobierno: composición y funciones",
+      "texto": "El Gobierno se compone del Presidente, los Vicepresidentes, los Ministros y los demás miembros que establezca la ley ([[Constitución Española de 1978 | art. 98]]). Dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva y la potestad reglamentaria ([[Constitución Española de 1978 | art. 97]])."
+    },
+    {
+      "titulo": "2. Investidura y responsabilidad",
+      "texto": "El Presidente es investido por el Congreso: mayoría absoluta en primera votación o mayoría simple cuarenta y ocho horas después; si en dos meses nadie obtiene la confianza, se disuelven las Cámaras ([[Constitución Española de 1978 | art. 99]]). La responsabilidad criminal del Presidente y los Ministros se exige ante la Sala de lo Penal del Tribunal Supremo ([[Constitución Española de 1978 | art. 102]])."
+    },
+    {
+      "titulo": "3. La Administración Pública en la Constitución",
+      "texto": "La Administración sirve con objetividad los intereses generales con sometimiento pleno a la ley y al Derecho, conforme a los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación ([[Constitución Española de 1978 | art. 103]]). Los Tribunales controlan la potestad reglamentaria y la legalidad administrativa, y los particulares tienen derecho a indemnización por el funcionamiento de los servicios públicos ([[Constitución Española de 1978 | art. 106]])."
+    },
+    {
+      "titulo": "4. Organización de la Administración General del Estado",
+      "texto": "La Ley 40/2015 estructura la AGE en organización central (Ministerios y servicios comunes) y organización territorial (Delegaciones y Subdelegaciones del Gobierno) ([[Ley 40/2015 | art. 55]]). Las Delegaciones del Gobierno en las Comunidades Autónomas y las Subdelegaciones en las provincias son sus órganos territoriales ([[Ley 40/2015 | art. 69]]), con el Delegado como representante del Gobierno en la Comunidad Autónoma."
+    },
+    {
+      "titulo": "5. Principios de actuación",
+      "texto": "El [[Ley 40/2015 | art. 3]] impone a las Administraciones principios de servicio efectivo, simplicidad, participación, transparencia, buena fe, confianza legítima y responsabilidad. Cada Administración actúa con personalidad jurídica única ([[Ley 40/2015 | art. 5]])."
+    },
+    {
+      "titulo": "6. El Presidente del Gobierno",
+      "texto": "El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros ([[Constitución Española de 1978 | art. 98]]). Es investido por el Congreso tras la propuesta del Rey, necesitando mayoría absoluta en primera votación o simple cuarenta y ocho horas después ([[Constitución Española de 1978 | art. 99]]). Nombra y separa a los Vicepresidentes y Ministros, plantea la cuestión de confianza, propone la disolución de las Cámaras y refrenda los actos del Rey. Su posición de primacía dentro del órgano colegiado configura un parlamentarismo de corte presidencialista, aunque la responsabilidad política del Gobierno ante el Congreso es solidaria. El Gobierno responde solidariamente de su gestión política ante el Congreso de los Diputados. La moción de censura constructiva y la cuestión de confianza son los instrumentos de control: si el Congreso niega su confianza o aprueba la censura, el Gobierno cesa y se abre un nuevo proceso de investidura ([[Constitución Española de 1978 | art. 99]])."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T04",
+    "SEV-A1-T13"
+  ]
+}

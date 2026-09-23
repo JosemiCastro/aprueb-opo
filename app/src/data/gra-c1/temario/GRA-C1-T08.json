@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-T08",
+  "numero": 8,
+  "tema": "T08",
+  "tipo": "comun",
+  "titulo": "Los recursos administrativos y la revisión de oficio",
+  "relacionados": [
+    "GRA-C1-T06",
+    "GRA-C1-T07",
+    "GRA-C1-E16"
+  ],
+  "secciones": [
+    {
+      "titulo": "Clases de recursos",
+      "texto": "Contra las resoluciones y actos administrativos cabe interponer el recurso de alzada, el recurso potestativo de reposición y el recurso extraordinario de revisión ([[Ley 39/2015 | art. 112]]). Ponen fin a la vía administrativa las resoluciones de los recursos de alzada, las de los órganos sin superior jerárquico y las que una norma declare como tales ([[Ley 39/2015 | art. 114]]).\n\nEl recurso de alzada procede contra actos que no ponen fin a la vía ([[Ley 39/2015 | art. 121]]) y se interpone en un mes si el acto es expreso, o en cualquier momento tras el silencio ([[Ley 39/2015 | art. 122]])."
+    },
+    {
+      "titulo": "Reposición y revisión extraordinaria",
+      "texto": "El recurso potestativo de reposición cabe contra los actos que ponen fin a la vía, ante el mismo órgano que los dictó, como alternativa a la impugnación judicial directa ([[Ley 39/2015 | art. 123]]); su plazo es de un mes (acto expreso) y se entiende desestimado por silencio en un mes ([[Ley 39/2015 | art. 124]]).\n\nEl recurso extraordinario de revisión solo cabe contra actos firmes por error de hecho (cuatro años), aparición de documentos esenciales o maquinación fraudulenta declarada judicialmente (tres meses) ([[Ley 39/2015 | art. 125]])."
+    },
+    {
+      "titulo": "Efectos y revisión de oficio",
+      "texto": "La interposición de un recurso no suspende la ejecución del acto, salvo que una norma lo prevea o el órgano competente acuerde la suspensión por perjuicios de imposible o difícil reparación ([[Ley 39/2015 | art. 117]]). El órgano que resuelve puede estimar, desestimar o declarar la inadmisión del recurso ([[Ley 39/2015 | art. 119]]).\n\nAl margen de los recursos, la Administración puede declarar de oficio la nulidad de los actos nulos del [[Ley 39/2015 | art. 47]] en cualquier momento, previo dictamen del Consejo de Estado ([[Ley 39/2015 | art. 106]])."
+    },
+    {
+      "titulo": "Recurso extraordinario de revisión y fin de la vía",
+      "texto": "El recurso extraordinario de revisión es el único que cabe contra actos firmes en vía administrativa, y solo por los motivos tasados del [[Ley 39/2015 | art. 125]]: error de hecho evidente en el propio expediente (plazo de cuatro años), aparición de documentos de valor esencial (tres meses desde su conocimiento) y prevaricación, cohecho, violencia o maquinación fraudulenta declarada por sentencia firme.\n\nAgotada la vía administrativa, los actos pueden impugnarse ante la jurisdicción contencioso-administrativa en el plazo de dos meses. En materia tributaria existe además el recurso de reposición potestativo previo a la reclamación económico-administrativa ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 222]]), y en el ámbito local el recurso de reposición es preceptivo antes de acudir a los tribunales frente a los actos de gestión, liquidación, inspección y recaudación."
+    }
+  ]
+}

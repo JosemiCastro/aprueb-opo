@@ -1,0 +1,73 @@
+[
+  {
+    "bop": "BOP Huelva nº 138 de 20/07/2026",
+    "cuerpo": "Administrativo/a",
+    "diputacion": "Huelva",
+    "estado": "bases-publicadas",
+    "formato": "preguntas",
+    "grupo": "C1",
+    "id": "HUE-C1",
+    "plazas": 7,
+    "plazasDetalle": "7 plazas, turno libre",
+    "sistema": "Oposición",
+    "turno": "Turno libre"
+  },
+  {
+    "bop": "BOP Huelva nº 138 de 20/07/2026",
+    "cuerpo": "Técnico/a Medio/a de Gestión",
+    "diputacion": "Huelva",
+    "estado": "bases-publicadas",
+    "formato": "fichas",
+    "grupo": "A2",
+    "id": "HUE-A2",
+    "plazas": 2,
+    "plazasDetalle": "2 plazas, turno libre (proceso 29)",
+    "sistema": "Oposición",
+    "turno": "Turno libre"
+  },
+  {
+    "bop": "BOP Cádiz nº 28 de 11/02/2026",
+    "bopUrl": "https://www.dipucadiz.es/export/sites/default/funcion_publica_y_recursos_humanos/.galeria_de_ficheros/documentos/ope/procesosentramite/aux_administrativo/01.-Convocatoria-de-plazas-y-bases-especificas.pdf",
+    "cuerpo": "Auxiliar Administrativo/a",
+    "diputacion": "Cádiz",
+    "estado": "pendiente-boe",
+    "formato": "preguntas",
+    "grupo": "C2",
+    "id": "CAD-C2",
+    "plazas": 44,
+    "plazasDetalle": "37 turno libre + 7 discapacidad",
+    "plazo": "20 días hábiles desde la publicación en el BOE",
+    "sistema": "Oposición libre",
+    "turno": "Turno libre"
+  },
+  {
+    "boe": "BOE nº 219 de 14/09/2026",
+    "boeUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-19151",
+    "bop": "BOP Granada nº 157 de 17/08/2026 (rect. nº 172 de 07/09/2026)",
+    "cuerpo": "Agente de Gestión Tributaria y Recaudación",
+    "diputacion": "Granada",
+    "estado": "plazo-abierto",
+    "formato": "preguntas",
+    "grupo": "C1",
+    "id": "GRA-C1",
+    "plazas": 13,
+    "plazasDetalle": "12 turno libre + 1 discapacidad",
+    "plazo": "Hasta el 13/10/2026",
+    "sistema": "Oposición",
+    "turno": "Turno libre"
+  },
+  {
+    "bop": "BOP Sevilla nº 166 de 27/08/2026",
+    "cuerpo": "Técnico/a de Administración General",
+    "diputacion": "Sevilla (OPAEF)",
+    "estado": "pendiente-boe",
+    "formato": "preguntas",
+    "grupo": "A1",
+    "id": "SEV-A1",
+    "plazas": 2,
+    "plazasDetalle": "2 plazas, turno libre",
+    "plazo": "10 días hábiles desde la publicación en el BOE (previsto)",
+    "sistema": "Oposición",
+    "turno": "Turno libre"
+  }
+]

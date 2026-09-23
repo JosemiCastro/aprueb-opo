@@ -26,12 +26,39 @@ export interface Esquema {
   checklist: string[];
 }
 
+// Oposición: cada convocatoria que cubre la app (Huelva + nuevas).
+export type OposicionId = 'HUE-C1' | 'HUE-A2' | 'CAD-C2' | 'GRA-C1' | 'SEV-A1';
+
+export type EstadoOposicion = 'plazo-abierto' | 'bases-publicadas' | 'pendiente-boe';
+
+export interface Oposicion {
+  id: OposicionId;
+  diputacion: string;
+  cuerpo: string;
+  grupo: string;
+  plazas: number;
+  plazasDetalle: string;
+  turno: string;
+  sistema: string;
+  estado: EstadoOposicion;
+  bop: string;
+  bopUrl?: string;
+  boe?: string;
+  boeUrl?: string;
+  plazo?: string;
+  /** 'preguntas': estudio por preguntas estilo C1; 'fichas': fichas-esquema estilo A2 */
+  formato: 'preguntas' | 'fichas';
+}
+
 export interface TemaMeta {
   id: string;
-  perfil: 'c1' | 'a2';
+  /** Grupo en minúsculas: 'c1' | 'a2' | 'c2' | 'a1' */
+  perfil: string;
   tipo: 'comun' | 'especifico';
   numero: string;
   titulo: string;
+  /** Oposición a la que pertenece. En las 100 de Huelva se deduce del perfil. */
+  oposicion?: OposicionId;
 }
 
 // Temario desarrollado (app/src/data/{c1,a2}/temario/*.json)
@@ -58,7 +85,11 @@ export interface QAStat {
 
 export interface SessionRec {
   date: string;
-  perfil: 'c1' | 'a2';
+  /**
+   * Oposición de la sesión. Las sesiones antiguas guardan 'c1'/'a2'
+   * (Huelva); las nuevas guardan el OposicionId ('HUE-C1', 'CAD-C2'…).
+   */
+  perfil: string;
   modo: 'estudio' | 'test' | 'repaso' | 'ficha';
   temaId?: string;
   total: number;

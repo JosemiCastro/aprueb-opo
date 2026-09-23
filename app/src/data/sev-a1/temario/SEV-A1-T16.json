@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T16",
+  "tema": "T16",
+  "tipo": "comun",
+  "numero": 16,
+  "titulo": "La terminación del procedimiento, el silencio administrativo y los recursos administrativos",
+  "secciones": [
+    {
+      "titulo": "1. Formas de terminación",
+      "texto": "El procedimiento termina por resolución, desistimiento, renuncia al derecho (cuando no esté prohibida), declaración de caducidad e imposibilidad material sobrevenida ([[Ley 39/2015 | art. 84]]). El interesado puede desistir de su solicitud y renunciar a sus derechos por medio que permita constancia ([[Ley 39/2015 | art. 94]]). La caducidad opera en procedimientos iniciados a solicitud del interesado paralizados por su causa durante tres meses tras advertencia ([[Ley 39/2015 | art. 95]])."
+    },
+    {
+      "titulo": "2. El silencio administrativo",
+      "texto": "En procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin resolución expresa legitima para entenderla estimada por silencio ([[Ley 39/2015 | art. 24]]). Es desestimatorio en el ejercicio del derecho de petición, en autorizaciones para el acceso a actividades y en recursos y revisión de oficio. En procedimientos iniciados de oficio, el silencio produce la caducidad o la desestimación según los casos."
+    },
+    {
+      "titulo": "3. Actos recurribles y clases de recursos",
+      "texto": "Son recurribles las resoluciones y los actos de trámite cualificados (los que deciden el fondo, impiden continuar, producen indefensión o perjuicio irreparable) ([[Ley 39/2015 | art. 112]]). Los recursos son el de alzada, el potestativo de reposición y el extraordinario de revisión."
+    },
+    {
+      "titulo": "4. Recurso de alzada y de reposición",
+      "texto": "La alzada se interpone contra actos que no agotan la vía administrativa, ante el superior jerárquico ([[Ley 39/2015 | art. 115]]). La reposición cabe potestativamente contra actos que agotan la vía, ante el propio órgano autor, como alternativa al contencioso ([[Ley 39/2015 | art. 124]])."
+    },
+    {
+      "titulo": "5. Recurso extraordinario de revisión",
+      "texto": "Cabe contra actos firmes en vía administrativa en los supuestos tasados del artículo 125 (error de hecho, documentos nuevos, falsedad declarada por sentencia o resolución judicial). Se interpone ante el órgano que dictó el acto en plazos de cuatro años o tres meses según el motivo."
+    },
+    {
+      "titulo": "6. La resolución: contenido y motivación",
+      "texto": "La resolución decide todas las cuestiones planteadas y las derivadas del expediente, con congruencia y motivación cuando la ley la exige. Deben motivarse los actos que limiten derechos, resuelvan recursos, se aparten de criterios anteriores o del dictamen consultivo, y los dictados en ejercicio de potestades discrecionales ([[Ley 39/2015 | art. 35]]). La falta de motivación en estos casos vicia el acto. La resolución pone fin al procedimiento ([[Ley 39/2015 | art. 84]]) y abre, en su caso, la vía de los recursos administrativos o del recurso contencioso-administrativo. El recurrente puede desistir del recurso en cualquier momento, poniendo fin al procedimiento impugnatorio sin prejuzgar el fondo. El desistimiento se formula por medio que permita constancia, siguiendo la lógica del artículo 94 ([[Ley 39/2015 | art. 94]]). La Administración debe entonces declarar la terminación, salvo que terceros personados insten la continuación o que el interés público lo exija. Frente a la resolución que declara el desistimiento cabe el recurso contencioso-administrativo."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T14",
+    "SEV-A1-T15",
+    "SEV-A1-T17"
+  ]
+}

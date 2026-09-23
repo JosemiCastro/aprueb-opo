@@ -1,0 +1,30 @@
+{
+  "id": "CAD-C2-E04",
+  "tema": "E04",
+  "numero": 4,
+  "tipo": "especifico",
+  "titulo": "Fases del procedimiento administrativo: iniciación, ordenación, instrucción y finalización. Derechos de los ciudadanos en el procedimiento.",
+  "relacionados": [
+    "CAD-C2-E03",
+    "CAD-C2-E05",
+    "CAD-C2-E11"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Iniciación del procedimiento",
+      "texto": "Los procedimientos pueden iniciarse de oficio o a solicitud del interesado ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 54]]). La iniciación de oficio se produce por propia iniciativa del órgano competente, como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  arts. 58 a 62]]). La iniciación a solicitud del interesado se rige por los [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  arts. 66 a 69]]: la solicitud debe contener los requisitos del [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 66]], puede subsanarse en diez días ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 68]]) y cabe la declaración responsable y la comunicación previa ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 69]]). Con anterioridad al inicio pueden realizarse actuaciones previas de investigación ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 55]]) y adoptarse medidas provisionales ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 56]])."
+    },
+    {
+      "titulo": "2. Ordenación del procedimiento",
+      "texto": "La ordenación comprende el impulso de oficio del procedimiento, la concentración de trámites, el cumplimiento de trámites y las cuestiones incidentales ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  arts. 71 a 74]]). El procedimiento se impulsa de oficio en todos sus trámites ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 71]]), se acordará en un solo acto todos los trámites que admitan impulsión simultánea ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 72]]) y los trámites deben cumplimentarse en el plazo de diez días salvo que se fije otro ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 73]]). El expediente administrativo es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 70]])."
+    },
+    {
+      "titulo": "3. Instrucción del procedimiento",
+      "texto": "La instrucción comprende los actos necesarios para la determinación, conocimiento y comprobación de los datos ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 75]]): alegaciones de los interesados ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 76]]), prueba ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  arts. 77 y 78]]), informes ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 80]]) y el trámite de audiencia, en el que los interesados pueden alegar y presentar documentos en un plazo no inferior a diez días ni superior a quince ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 82]]). Puede acordarse un período de información pública de al menos veinte días ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 83]]). En los procedimientos sancionadores y de responsabilidad patrimonial existen especialidades ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  arts. 63, 64 y 67]])."
+    },
+    {
+      "titulo": "4. Finalización del procedimiento",
+      "texto": "El procedimiento termina por resolución, desistimiento, renuncia, declaración de caducidad o imposibilidad material de continuarlo ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 84]]). La resolución debe decidir todas las cuestiones planteadas y ser motivada en los casos del [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 35]] ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 88]]). Cabe la terminación convencional mediante pactos o convenios ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 86]]). Los interesados pueden desistir de su solicitud y renunciar a sus derechos ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 94]]), y la Administración puede declarar la caducidad si el procedimiento se paraliza por causa imputable al interesado ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 95]])."
+    }
+  ]
+}

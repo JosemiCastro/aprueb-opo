@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T23",
+  "tema": "T23",
+  "tipo": "comun",
+  "numero": 23,
+  "titulo": "La potestad reglamentaria local y el régimen de sesiones y acuerdos",
+  "secciones": [
+    {
+      "titulo": "1. La potestad reglamentaria local",
+      "texto": "Las entidades locales gozan de potestad reglamentaria y de autoorganización ([[Ley 7/1985 | art. 4]]), que se manifiesta en ordenanzas y reglamentos. Las ordenanzas fiscales regulan los tributos locales conforme al texto refundido de la Ley de Haciendas Locales."
+    },
+    {
+      "titulo": "2. Procedimiento de aprobación de ordenanzas",
+      "texto": "La aprobación de ordenanzas requiere: aprobación inicial por el Pleno, información pública y audiencia por un plazo mínimo de treinta días, resolución de las reclamaciones y aprobación definitiva ([[Ley 7/1985 | art. 49]]). Sin reclamaciones, el acuerdo inicial se entiende definitivamente adoptado."
+    },
+    {
+      "titulo": "3. Las sesiones del Pleno",
+      "texto": "Las sesiones del Pleno son públicas, salvo el debate y votación de asuntos que afecten al honor, la intimidad o la propia imagen ([[Ley 7/1985 | art. 46]]). La sesión ordinaria se celebra como mínimo cada mes en municipios de más de 20.000 habitantes y Diputaciones, cada dos meses entre 5.001 y 20.000, y cada tres meses hasta 5.000 habitantes. El Pleno se constituye con un tercio del número legal de miembros, mínimo tres."
+    },
+    {
+      "titulo": "4. Mayorías y acuerdos",
+      "texto": "Los acuerdos se adoptan por mayoría simple de los miembros presentes como regla general; se exige mayoría absoluta para los supuestos tasados (planeamiento, operaciones de crédito, etc.) ([[Ley 7/1985 | art. 47]])."
+    },
+    {
+      "titulo": "5. Publicidad e impugnación",
+      "texto": "Los acuerdos se publican o notifican y se remiten a la Administración del Estado y a la de la Comunidad Autónoma ([[Ley 7/1985 | art. 70]]). Dichas Administraciones pueden impugnar los actos y acuerdos locales que infrinjan el ordenamiento jurídico ([[Ley 7/1985 | art. 62]])."
+    },
+    {
+      "titulo": "6. Las ordenanzas fiscales",
+      "texto": "Las ordenanzas fiscales regulan la imposición y ordenación de los tributos locales: impuestos, tasas y contribuciones especiales. Su aprobación sigue el procedimiento general de las ordenanzas —aprobación inicial, información pública mínima de treinta días y aprobación definitiva— ([[Ley 7/1985 | art. 49]]), con las especialidades del texto refundido de la Ley de Haciendas Locales. Deben publicarse íntegramente en el boletín oficial de la provincia y entran en vigor conforme a lo dispuesto en ellas. La potestad tributaria local ([[Ley 7/1985 | art. 4]]) se ejerce dentro de los márgenes de la ley: los Ayuntamientos no crean tributos, sino que desarrollan los previstos legalmente. Cada corporación aprueba su reglamento orgánico, que desarrolla su organización y funcionamiento dentro del marco legal: régimen de sesiones, comisiones informativas, grupos políticos, participación ciudadana y estatuto de los miembros. Es la máxima expresión de la potestad de autoorganización ([[Ley 7/1985 | art. 4]]). Su aprobación sigue el procedimiento de las ordenanzas ([[Ley 7/1985 | art. 49]]). Los reglamentos orgánicos de las Diputaciones ordenan, además, las relaciones con los municipios de la provincia en el ejercicio de las funciones de asistencia y cooperación."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T21",
+    "SEV-A1-T22",
+    "SEV-A1-T12"
+  ]
+}

@@ -5,7 +5,7 @@ import { listarTemario, temasRelacionados } from '../../lib/temario';
 import { recordSession } from '../../lib/progress';
 import { esTemaEstudiado, useProgress, useTemasEstudiados } from '../../lib/storage';
 import { link } from '../../lib/router';
-import type { TemaDesarrollado } from '../../types';
+import type { OposicionId, TemaDesarrollado } from '../../types';
 
 function todayStr(): string {
   const d = new Date();
@@ -15,10 +15,12 @@ function todayStr(): string {
 }
 
 export default function DetalleTema({
-  perfil,
+  opoId,
+  base,
   temaId,
 }: {
-  perfil: 'c1' | 'a2';
+  opoId: OposicionId;
+  base: string;
   temaId: string;
 }) {
   const [temas, setTemas] = useState<TemaDesarrollado[] | null>(null);
@@ -28,20 +30,20 @@ export default function DetalleTema({
 
   useEffect(() => {
     let vivo = true;
-    listarTemario(perfil).then((ts) => {
+    listarTemario(opoId).then((ts) => {
       if (vivo) setTemas(ts);
     });
     return () => {
       vivo = false;
     };
-  }, [perfil]);
+  }, [opoId]);
 
   const tema = temas?.find((t) => t.id === temaId) ?? null;
 
   useEffect(() => {
     let vivo = true;
     if (tema) {
-      temasRelacionados(perfil, tema).then((rs) => {
+      temasRelacionados(opoId, tema).then((rs) => {
         if (vivo) setRels(rs);
       });
     }
@@ -49,7 +51,7 @@ export default function DetalleTema({
     return () => {
       vivo = false;
     };
-  }, [perfil, tema]);
+  }, [opoId, tema]);
 
   const idx = temas && tema ? temas.findIndex((t) => t.id === tema.id) : -1;
   const anterior = idx > 0 ? temas![idx - 1] : null;
@@ -66,7 +68,7 @@ export default function DetalleTema({
       setProgress((p) =>
         recordSession(p, {
           date: todayStr(),
-          perfil,
+          perfil: opoId,
           modo: 'estudio',
           temaId: tema.tema,
           total: 1,
@@ -78,12 +80,12 @@ export default function DetalleTema({
 
   return (
     <div className="screen">
-      <Header title={`Tema ${tema?.numero ?? ''}`} backTo={`/${perfil}/temario`} />
+      <Header title={`Tema ${tema?.numero ?? ''}`} backTo={`${base}/temario`} />
       <main className="container">
         <nav className="breadcrumb" aria-label="Miga de pan">
-          <a href={link(`/${perfil}`)}>Examen</a>
+          <a href={link(base)}>Examen</a>
           <span aria-hidden="true">›</span>
-          <a href={link(`/${perfil}/temario`)}>Temario</a>
+          <a href={link(`${base}/temario`)}>Temario</a>
           <span aria-hidden="true">›</span>
           <span aria-current="page">Tema {tema?.numero ?? '…'}</span>
         </nav>
@@ -93,7 +95,7 @@ export default function DetalleTema({
         ) : !tema ? (
           <div className="card">
             <p>Este tema no existe en el temario desarrollado.</p>
-            <a className="btn btn-ghost" href={link(`/${perfil}/temario`)}>
+            <a className="btn btn-ghost" href={link(`${base}/temario`)}>
               Volver al temario
             </a>
           </div>
@@ -124,7 +126,7 @@ export default function DetalleTema({
                     <a
                       key={r.id}
                       className="chip-link"
-                      href={link(`/${perfil}/temario/${r.id}`)}
+                      href={link(`${base}/temario/${r.id}`)}
                     >
                       T{r.numero} · {r.titulo}
                     </a>
@@ -135,14 +137,14 @@ export default function DetalleTema({
 
             <nav className="prevnext" aria-label="Tema anterior y siguiente">
               {anterior ? (
-                <a className="btn btn-ghost" href={link(`/${perfil}/temario/${anterior.id}`)}>
+                <a className="btn btn-ghost" href={link(`${base}/temario/${anterior.id}`)}>
                   ‹ T{anterior.numero}
                 </a>
               ) : (
                 <span />
               )}
               {siguiente ? (
-                <a className="btn btn-ghost" href={link(`/${perfil}/temario/${siguiente.id}`)}>
+                <a className="btn btn-ghost" href={link(`${base}/temario/${siguiente.id}`)}>
                   T{siguiente.numero} ›
                 </a>
               ) : (

@@ -211,5 +211,14 @@
  "Tribunal Constitucional": {
   "archivo": null,
   "motivo": "jurisprudencia, verificar caso por caso (STC citada)"
+ },
+ "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación": {
+  "archivo": "BOE-A-2005-14803.md"
+ },
+ "RD 939/2005": {
+  "archivo": "BOE-A-2005-14803.md"
+ },
+ "Real Decreto 939/2005": {
+  "archivo": "BOE-A-2005-14803.md"
  }
 }

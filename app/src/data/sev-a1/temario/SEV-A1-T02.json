@@ -1,0 +1,33 @@
+{
+  "id": "SEV-A1-T02",
+  "tema": "T02",
+  "tipo": "comun",
+  "numero": 2,
+  "titulo": "Derechos y deberes fundamentales: clasificación, garantías y suspensión",
+  "secciones": [
+    {
+      "titulo": "1. Clasificación de los derechos en la Constitución",
+      "texto": "El Título I de la Constitución regula los derechos y deberes fundamentales. Se distinguen: los derechos fundamentales y libertades públicas de la Sección 1.ª del Capítulo II (arts. 15 a 29), dotados de la máxima protección; los derechos y deberes de los ciudadanos de la Sección 2.ª (arts. 30 a 38); y los principios rectores de la política social y económica del Capítulo III (arts. 39 a 52), que informan la legislación y la actuación de los poderes públicos. El [[Constitución Española de 1978 | art. 14]] proclama la igualdad ante la ley sin discriminación alguna."
+    },
+    {
+      "titulo": "2. Los derechos fundamentales",
+      "texto": "Entre los derechos de la Sección 1.ª destacan el derecho a la vida y a la integridad ([[Constitución Española de 1978 | art. 15]]), la libertad ideológica y religiosa, el derecho a la libertad y seguridad personal con el límite de setenta y dos horas de detención preventiva ([[Constitución Española de 1978 | art. 17]]), el honor, la intimidad y la propia imagen y la inviolabilidad del domicilio ([[Constitución Española de 1978 | art. 18]]), la libertad de expresión ([[Constitución Española de 1978 | art. 20]]) y el derecho a la tutela judicial efectiva ([[Constitución Española de 1978 | art. 24]])."
+    },
+    {
+      "titulo": "3. Garantías normativas y jurisdiccionales",
+      "texto": "El [[Constitución Española de 1978 | art. 53]] establece un triple nivel de protección: los derechos fundamentales vinculan a todos los poderes públicos y solo por ley (orgánica para la Sección 1.ª) puede regularse su ejercicio; cualquier ciudadano puede recabar su tutela ante los Tribunales ordinarios por un procedimiento preferente y sumario y, en su caso, mediante el recurso de amparo ante el Tribunal Constitucional. Además, el [[Constitución Española de 1978 | art. 10]] ordena interpretar estos derechos conforme a los tratados internacionales."
+    },
+    {
+      "titulo": "4. La suspensión de derechos",
+      "texto": "El [[Constitución Española de 1978 | art. 55]] permite suspender determinados derechos en los estados de excepción y de sitio (arts. 17, 18.2, 18.3, 19, 20.1.a y d, 20.5, 21, 28.2 y 37.2), y autoriza una suspensión individualizada frente a bandas armadas o elementos terroristas con intervención judicial y control parlamentario. La declaración de los estados de alarma, excepción y sitio se regula en el artículo 116."
+    },
+    {
+      "titulo": "5. Deberes constitucionales",
+      "texto": "Junto a los derechos, la Constitución impone deberes: el deber de defender a España ([[Constitución Española de 1978 | art. 30]]), el deber de contribuir al sostenimiento de los gastos públicos mediante un sistema tributario justo ([[Constitución Española de 1978 | art. 31]]) y el deber de trabajar y el derecho al trabajo ([[Constitución Española de 1978 | art. 35]])."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T01",
+    "SEV-A1-T06"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E04",
+  "tema": "E04",
+  "tipo": "especifico",
+  "numero": 4,
+  "titulo": "Los empleados públicos: clases, acceso y pérdida de la condición de funcionario",
+  "secciones": [
+    {
+      "titulo": "1. Clases de empleados públicos",
+      "texto": "Son empleados públicos los funcionarios de carrera, los funcionarios interinos, el personal laboral (fijo, indefinido o temporal) y el personal eventual ([[Real Decreto Legislativo 5/2015 | art. 8]]). El funcionario de carrera está vinculado por nombramiento legal y relación estatutaria permanente ([[Real Decreto Legislativo 5/2015 | art. 9]]); el interino, por razones de necesidad y urgencia en supuestos tasados ([[Real Decreto Legislativo 5/2015 | art. 10]]); y el personal laboral, por contrato de trabajo escrito ([[Real Decreto Legislativo 5/2015 | art. 11]])."
+    },
+    {
+      "titulo": "2. Principios de acceso",
+      "texto": "Todos los ciudadanos tienen derecho a acceder al empleo público conforme a los principios de igualdad, mérito y capacidad, con publicidad, transparencia e imparcialidad ([[Real Decreto Legislativo 5/2015 | art. 55]]). Los sistemas selectivos son la oposición, el concurso-oposición y, excepcionalmente, el concurso."
+    },
+    {
+      "titulo": "3. Reserva para personas con discapacidad",
+      "texto": "En las ofertas de empleo público se reserva un cupo no inferior al siete por ciento de las vacantes para personas con discapacidad, para alcanzar progresivamente el dos por ciento de los efectivos ([[Real Decreto Legislativo 5/2015 | art. 59]])."
+    },
+    {
+      "titulo": "4. Adquisición de la condición de funcionario",
+      "texto": "Se adquiere por la superación del proceso selectivo, el nombramiento, el acatamiento de la Constitución y la toma de posesión en plazo ([[Real Decreto Legislativo 5/2015 | art. 62]]). La toma de posesión debe producirse en el plazo reglamentario, normalmente de un mes desde el nombramiento."
+    },
+    {
+      "titulo": "5. Pérdida de la condición",
+      "texto": "Son causas de pérdida la renuncia, la pérdida de la nacionalidad, la jubilación total, la separación del servicio por sanción disciplinaria y la inhabilitación absoluta o especial por pena ([[Real Decreto Legislativo 5/2015 | art. 63]])."
+    },
+    {
+      "titulo": "6. La oferta de empleo público",
+      "texto": "Las necesidades de personal con asignación presupuestaria se articulan en la oferta de empleo público anual, que incluye las plazas vacantes dotadas cuya cobertura se considera necesaria. Su ejecución se desarrolla mediante convocatorias públicas regidas por los principios de igualdad, mérito, capacidad y publicidad ([[Real Decreto Legislativo 5/2015 | art. 55]]), con reserva para personas con discapacidad ([[Real Decreto Legislativo 5/2015 | art. 59]]). Los procesos selectivos garantizan la objetividad mediante tribunales colegiados y la conexión entre las pruebas y las funciones del cuerpo o escala convocado. Junto a funcionarios y laborales, el TREBEP contempla el personal eventual —nombrado con carácter no permanente para funciones de confianza o asesoramiento especial— y remite el personal directivo profesional a su normativa específica ([[Real Decreto Legislativo 5/2015 | art. 8]]). El eventual cesa automáticamente con la autoridad que lo nombró y en ningún caso puede constituir mérito para el acceso a la función pública. Su número y retribuciones son públicos, como garantía de transparencia en unos nombramientos de libre designación."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E05",
+    "SEV-A1-E06"
+  ]
+}

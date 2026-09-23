@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E04",
+  "numero": 4,
+  "tema": "E04",
+  "tipo": "especifico",
+  "titulo": "La cuantificación de la obligación tributaria y la deuda tributaria",
+  "relacionados": [
+    "GRA-C1-E03",
+    "GRA-C1-E05",
+    "GRA-C1-E18"
+  ],
+  "secciones": [
+    {
+      "titulo": "Esquema de cuantificación",
+      "texto": "La cuantificación de la obligación principal sigue el esquema del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 49]]: a partir de la **base imponible** se aplica el **tipo de gravamen** para obtener la **cuota íntegra**; practicadas las deducciones y bonificaciones se obtiene la **cuota líquida**; y descontadas las cantidades ingresadas a cuenta resulta la **cuota diferencial** o cantidad a ingresar o devolver.\n\nLa base imponible es la magnitud resultante de medir o valorar el hecho imponible, y puede determinarse por estimación directa, objetiva o indirecta ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 50]])."
+    },
+    {
+      "titulo": "Métodos de determinación de la base",
+      "texto": "La **estimación directa** parte de las declaraciones, documentos, libros y registros comprobados del obligado ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 51]]) y es el método ordinario.\n\nLa **estimación objetiva** aplica los módulos, índices o magnitudes previstos en la normativa de cada tributo, y es incompatible con la directa para el mismo concepto ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 52]]).\n\nLa **estimación indirecta** es subsidiaria: solo procede cuando la Administración no puede disponer de los datos necesarios por falta de declaraciones, resistencia u obstrucción, o desaparición de libros y registros ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 53]])."
+    },
+    {
+      "titulo": "Base liquidable, tipo y cuota",
+      "texto": "La **base liquidable** resulta de practicar en la base imponible las reducciones establecidas por la ley ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 54]]). El **tipo de gravamen** es la cifra, coeficiente o porcentaje que se aplica a la base liquidable para obtener la cuota íntegra, pudiendo ser una cantidad fija por unidad o un porcentaje ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 55]]).\n\nLa **cuota tributaria** es la cantidad resultante de aplicar el tipo a la base liquidable; de ella derivan la cuota líquida (tras deducciones y bonificaciones) y la cuota diferencial (tras restar los pagos a cuenta) ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 56]])."
+    },
+    {
+      "titulo": "Comprobación de valores y deuda tributaria",
+      "texto": "La Administración puede comprobar el valor de rentas, productos, bienes y demás elementos mediante capitalización, precios medios de mercado, cotizaciones, dictamen de peritos u otros medios; el obligado disconforme puede promover la tasación pericial contradictoria ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 57]]).\n\nLa **deuda tributaria** está constituida por la cuota o cantidad a ingresar más, en su caso, el interés de demora, los recargos por declaración extemporánea, los recargos del período ejecutivo y los recargos legales sobre bases o cuotas. Las sanciones no forman parte de la deuda tributaria ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 58]])."
+    }
+  ]
+}

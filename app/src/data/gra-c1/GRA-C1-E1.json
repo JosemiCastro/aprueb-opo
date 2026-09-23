@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "GRA-C1-E01-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué son los tributos según el artículo 2 de la Ley General Tributaria y cuáles son sus clases?",
+    "respuesta": "Los tributos son los ingresos públicos que consisten en prestaciones pecuniarias exigidas por una Administración pública como consecuencia de la realización del supuesto de hecho al que la ley vincula el deber de contribuir; sus clases son los impuestos, las tasas y las contribuciones especiales.",
+    "explicacion": "El artículo 2 LGT define el concepto de tributo y enumera sus tres clases.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 2.2.a)",
+    "enunciado": "¿Qué caracteriza al impuesto frente a las demás clases de tributos?",
+    "respuesta": "Que se exige sin contraprestación, como consecuencia de la realización del supuesto de hecho (hecho imponible) al que la ley vincula el deber de contribuir, con independencia de que el obligado obtenga o no un servicio o beneficio concreto.",
+    "explicacion": "El artículo 2.2.a) LGT define el impuesto como tributo sin contraprestación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 2.2.b)",
+    "enunciado": "¿Cuándo se exigen las tasas según el artículo 2.2.b) de la LGT?",
+    "respuesta": "Por la utilización privativa o el aprovechamiento especial del dominio público, la prestación de servicios o la realización de actividades en régimen de derecho público que se refieran, afecten o beneficien de modo particular al obligado tributario, cuando no sean de solicitud o recepción voluntaria o no se presten por el sector privado.",
+    "explicacion": "El artículo 2.2.b) LGT define el hecho imponible de las tasas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 2.2.c)",
+    "enunciado": "¿Cuándo se exigen las contribuciones especiales?",
+    "respuesta": "Cuando el obligado tributario obtiene un beneficio o un aumento de valor de sus bienes como consecuencia de la realización de obras públicas o del establecimiento o ampliación de servicios públicos.",
+    "explicacion": "El artículo 2.2.c) LGT define las contribuciones especiales por el beneficio obtenido.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué principios rigen la ordenación y aplicación del sistema tributario según el artículo 3 de la LGT?",
+    "respuesta": "La capacidad económica y los principios de justicia, generalidad, igualdad, progresividad, equitativa distribución de la carga tributaria y no confiscatoriedad; además, la aplicación del sistema se basará en los principios de proporcionalidad, eficacia y limitación de costes indirectos, con respeto a los derechos y garantías de los obligados.",
+    "explicacion": "El artículo 3 LGT desarrolla el mandato del artículo 31.1 de la Constitución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 4",
+    "enunciado": "¿A quién corresponde la potestad tributaria según el artículo 4 de la LGT?",
+    "respuesta": "Al Estado, a las Comunidades Autónomas y a las entidades locales, que la ejercerán a través de sus propios órganos de conformidad con lo dispuesto en la Constitución, el Estatuto de Autonomía y la legislación del régimen local.",
+    "explicacion": "El artículo 4 LGT atribuye la potestad originaria de establecer tributos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 5",
+    "enunciado": "¿Qué es la Administración tributaria según el artículo 5 de la LGT?",
+    "respuesta": "La integrada por los órganos y entidades de derecho público que desarrollen las funciones reguladas en los títulos III, IV y V de la ley (aplicación de los tributos, potestad sancionadora y revisión en vía administrativa); la aplicación de los tributos y el ejercicio de la potestad sancionadora corresponden en exclusiva a la Administración tributaria, sin perjuicio de las competencias de otros órganos.",
+    "explicacion": "El artículo 5 LGT define la Administración tributaria y reserva a ella la aplicación de los tributos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 8",
+    "enunciado": "¿Qué materias están reservadas a la ley en el ámbito tributario según el artículo 8 de la LGT?",
+    "respuesta": "La delimitación del hecho imponible, del devengo, del obligado tributario, de la base, del tipo de gravamen y demás elementos directamente determinantes de la cuantía de la deuda; el establecimiento de exenciones, reducciones y bonificaciones; los plazos de prescripción; y el establecimiento de infracciones y sanciones, entre otras.",
+    "explicacion": "El artículo 8 LGT desarrolla la reserva de ley tributaria del artículo 31.3 de la Constitución.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es el conflicto en la aplicación de la norma tributaria según el artículo 15 de la LGT?",
+    "respuesta": "Se entenderá que existe cuando se evite total o parcialmente la realización del hecho imponible o se minore la base o la deuda mediante actos o negocios en los que concurran: que sean notoriamente artificiosos o impropios para el resultado obtenido, y que de su utilización no resulten efectos jurídicos o económicos relevantes distintos del ahorro fiscal; en tal caso se exigirá el tributo aplicando la norma eludida.",
+    "explicacion": "El artículo 15 LGT regula el conflicto en la aplicación de la norma (antigua elusión fiscal).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E01-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E01",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué es la simulación en materia tributaria según el artículo 16 de la LGT?",
+    "respuesta": "En los actos o negocios en los que exista simulación, el hecho imponible gravado será el efectivamente realizado por las partes; la existencia de simulación será declarada por la Administración tributaria en el correspondiente acto de liquidación, sin que dicha calificación produzca otros efectos que los exclusivamente tributarios.",
+    "explicacion": "El artículo 16 LGT distingue la simulación del conflicto: aquí se grava el negocio realmente realizado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 17",
+    "enunciado": "¿Qué es la relación jurídico-tributaria según el artículo 17 de la LGT?",
+    "respuesta": "El conjunto de obligaciones y deberes, derechos y potestades originados por la aplicación de los tributos; de ella pueden derivarse obligaciones materiales (pago de la cuota, pagos a cuenta) y formales, así como obligaciones entre particulares resultantes del tributo.",
+    "explicacion": "El artículo 17 LGT define la relación jurídico-tributaria y sus obligaciones derivadas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué derechos y garantías asisten a los obligados tributarios según el artículo 34 de la LGT?",
+    "respuesta": "Entre otros: a ser informados y asistidos por la Administración; a conocer el estado de tramitación de los procedimientos; a conocer la identidad de las autoridades y personal; a no aportar documentos ya en poder de la Administración; al carácter reservado de sus datos; a ser tratados con respeto y consideración; y a que las actuaciones se desarrollen en los plazos previstos.",
+    "explicacion": "El artículo 34 LGT recoge el catálogo de derechos y garantías de los obligados tributarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 88",
+    "enunciado": "¿Qué son las consultas tributarias escritas según el artículo 88 de la LGT?",
+    "respuesta": "Las que los obligados pueden formular a la Administración tributaria respecto al régimen, la clasificación o la calificación tributaria que les corresponda en cada caso; se formularán antes de la finalización del plazo para el ejercicio de los derechos o el cumplimiento de las obligaciones y deberán referirse a supuestos concretos.",
+    "explicacion": "El artículo 88 LGT regula el derecho a formular consultas tributarias escritas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 89",
+    "enunciado": "¿Qué efectos tienen las contestaciones a las consultas tributarias escritas?",
+    "respuesta": "Vinculan a los órganos encargados de la aplicación de los tributos en su relación con el consultante, salvo que planteen cuestiones sobre las que exista jurisprudencia o doctrina administrativa contraria; no vinculan cuando los antecedentes o circunstancias del caso no coincidan con los manifestados en la consulta.",
+    "explicacion": "El artículo 89 LGT atribuye efecto vinculante a las contestaciones para la Administración respecto del consultante.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 93",
+    "enunciado": "¿Qué alcance tienen las obligaciones de información según el artículo 93 de la LGT?",
+    "respuesta": "Las personas físicas o jurídicas, públicas o privadas, están obligadas a proporcionar a la Administración tributaria toda clase de datos, informes, antecedentes y justificantes con trascendencia tributaria relacionados con el cumplimiento de sus propias obligaciones o deducidos de sus relaciones económicas, profesionales o financieras con otras personas.",
+    "explicacion": "El artículo 93 LGT establece el deber general de colaboración mediante suministro de información.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 30",
+    "enunciado": "¿Qué obligaciones tiene la Administración tributaria según el artículo 30 de la LGT?",
+    "respuesta": "Entre otros deberes: informar y asistir a los obligados; expedir certificaciones; realizar las devoluciones previstas; y, en general, los deberes que la normativa tributaria le impone en el desarrollo de la aplicación de los tributos.",
+    "explicacion": "El artículo 30 LGT enumera las obligaciones y deberes de la Administración tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 103",
+    "enunciado": "¿Qué exige la obligación de resolver del artículo 103 de la LGT?",
+    "respuesta": "La Administración tributaria está obligada a resolver expresamente todas las peticiones que se le formulen; no existirá obligación de resolver expresamente en los procedimientos relativos al ejercicio de derechos que solo deban ser objeto de comunicación y en los de comprobación e investigación con determinadas excepciones.",
+    "explicacion": "El artículo 103 LGT impone a la Administración tributaria la obligación general de resolver.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 104",
+    "enunciado": "¿Qué regula el artículo 104 de la LGT sobre los plazos de resolución?",
+    "respuesta": "Los plazos máximos de resolución de los procedimientos de aplicación de los tributos y los efectos de la falta de resolución expresa (silencio administrativo), con las especialidades propias de cada procedimiento tributario.",
+    "explicacion": "El artículo 104 LGT fija el régimen de plazos de resolución y silencio en materia tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 111",
+    "enunciado": "¿Quién puede recibir las notificaciones tributarias según el artículo 111 de la LGT?",
+    "respuesta": "El obligado tributario o su representante; cuando la notificación se practique en el lugar señalado al efecto y no se hallaren presentes, podrá hacerse cargo de la misma cualquier persona que se encuentre en dicho lugar o domicilio y haga constar su identidad, así como los empleados de la comunidad de vecinos o de propietarios.",
+    "explicacion": "El artículo 111 LGT regula las personas legitimadas para recibir notificaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E02-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E02",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 112",
+    "enunciado": "¿Qué es la notificación por comparecencia según el artículo 112 de la LGT?",
+    "respuesta": "Cuando no sea posible efectuar la notificación por causas no imputables a la Administración, se citará al interesado mediante anuncio para que comparezca en el plazo de quince días naturales; si no comparece, la notificación se entenderá producida a todos los efectos legales desde el día siguiente al del vencimiento del plazo.",
+    "explicacion": "El artículo 112 LGT regula la notificación por comparecencia tras dos intentos infructuosos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 35",
+    "enunciado": "¿Quiénes son obligados tributarios según el artículo 35 de la LGT?",
+    "respuesta": "Las personas físicas o jurídicas y las entidades a las que la normativa tributaria impone el cumplimiento de obligaciones tributarias; entre otros: contribuyentes, sustitutos, obligados a realizar pagos fraccionados, retenedores, obligados a practicar ingresos a cuenta, sucesores y responsables.",
+    "explicacion": "El artículo 35 LGT define el concepto general de obligado tributario y su elenco.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 36",
+    "enunciado": "¿Qué es el sujeto pasivo y quiénes pueden serlo según el artículo 36 de la LGT?",
+    "respuesta": "Es el obligado tributario que, según la ley, debe cumplir la obligación tributaria principal y las obligaciones formales inherentes, sea como contribuyente (quien realiza el hecho imponible) o como sustituto (quien, por imposición de la ley y en lugar del contribuyente, está obligado a cumplirla); el sustituto puede exigir del contribuyente el importe satisfecho.",
+    "explicacion": "El artículo 36 LGT distingue entre contribuyente y sustituto del contribuyente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 37",
+    "enunciado": "¿Quiénes están obligados a realizar pagos a cuenta según el artículo 37 de la LGT?",
+    "respuesta": "El contribuyente obligado a realizar pagos fraccionados (ingresos a cuenta de la obligación principal antes de que resulte exigible) y el retenedor, persona o entidad obligada a detraer e ingresar una parte del importe de los pagos que realice a otros obligados, a cuenta del tributo que les corresponda.",
+    "explicacion": "El artículo 37 LGT regula los pagos fraccionados y la retención.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 38",
+    "enunciado": "¿Qué regula el artículo 38 de la LGT sobre las obligaciones entre particulares?",
+    "respuesta": "Las obligaciones entre particulares resultantes del tributo, como la repercusión de la cuota: el obligado a repercutir debe exigir del obligado a soportar la repercusión el importe correspondiente conforme a la ley de cada tributo.",
+    "explicacion": "El artículo 38 LGT regula las obligaciones entre particulares derivadas del tributo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 39",
+    "enunciado": "¿Qué ocurre con las deudas tributarias a la muerte del obligado según el artículo 39 de la LGT?",
+    "respuesta": "A la muerte de los obligados tributarios, las obligaciones tributarias pendientes se transmiten a los herederos, sin perjuicio de lo que establece la legislación civil en cuanto a la adquisición de la herencia; se transmiten también a los legatarios en las mismas condiciones cuando la herencia se distribuya a través de legados o se instituyan legados de parte alícuota. En ningún caso se transmiten las sanciones, ni la obligación del responsable salvo acuerdo de derivación notificado antes del fallecimiento.",
+    "explicacion": "El artículo 39 LGT regula la transmisión de las obligaciones pendientes a herederos y legatarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 40",
+    "enunciado": "¿Qué ocurre con las deudas tributarias en la disolución de personas jurídicas según el artículo 40 de la LGT?",
+    "respuesta": "Las obligaciones tributarias pendientes de las sociedades y entidades con personalidad jurídica disueltas y liquidadas se transmiten a los socios, copartícipes o cotitulares, que quedan obligados solidariamente hasta el límite del valor de la cuota de liquidación que les corresponda.",
+    "explicacion": "El artículo 40 LGT regula la sucesión de personas jurídicas y entidades sin personalidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 41",
+    "enunciado": "¿Qué caracteriza a la responsabilidad tributaria según el artículo 41 de la LGT?",
+    "respuesta": "La ley puede configurar como responsables solidarios o subsidiarios a otras personas junto a los deudores principales; salvo precepto legal expreso en contrario, la responsabilidad será siempre subsidiaria; y no alcanzará a las sanciones, salvo las excepciones legales.",
+    "explicacion": "El artículo 41 LGT fija el régimen general de la responsabilidad tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 42",
+    "enunciado": "¿Quiénes son responsables solidarios según el artículo 42 de la LGT?",
+    "respuesta": "Los causantes o colaboradores activos en la realización de una infracción tributaria (responsabilidad que se extiende a la sanción); los que sucedan en la titularidad de explotaciones o actividades económicas, por las obligaciones del anterior titular; y los causantes o colaboradores en la ocultación o transmisión de bienes para impedir la actuación de la Administración, entre otros.",
+    "explicacion": "El artículo 42 LGT enumera los supuestos de responsabilidad solidaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 43",
+    "enunciado": "¿Quiénes son responsables subsidiarios según el artículo 43 de la LGT?",
+    "respuesta": "Entre otros, los administradores de hecho o de derecho de las personas jurídicas que, habiendo éstas cometido infracciones tributarias, no hubiesen realizado los actos necesarios para el cumplimiento de las obligaciones tributarias o hubiesen consentido el incumplimiento; y los administradores de personas jurídicas que hayan cesado en sus actividades por las obligaciones pendientes.",
+    "explicacion": "El artículo 43 LGT enumera los supuestos de responsabilidad subsidiaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E03-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E03",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 48",
+    "enunciado": "¿Qué es el domicilio fiscal según el artículo 48 de la LGT?",
+    "respuesta": "Para las personas físicas, el lugar donde tengan su residencia habitual; para las personas jurídicas, su domicilio social, siempre que en él esté efectivamente centralizada su gestión administrativa y la dirección de sus negocios; en otro caso, se atenderá al lugar en que se lleve a cabo dicha gestión o dirección.",
+    "explicacion": "El artículo 48 LGT define el domicilio fiscal como lugar de localización del obligado en sus relaciones con la Administración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 49",
+    "enunciado": "¿Cómo se cuantifica la obligación tributaria principal según el artículo 49 de la LGT?",
+    "respuesta": "La cuantificación se efectuará a partir de la base imponible, mediante la aplicación del tipo de gravamen, obteniéndose la cuota íntegra; de ella se practicarán, en su caso, las deducciones y bonificaciones para obtener la cuota líquida, y sobre ésta se aplicarán las cantidades a cuenta para obtener la cuota diferencial o deuda tributaria.",
+    "explicacion": "El artículo 49 LGT establece el esquema de cuantificación: base, tipo, cuota y deuda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 50",
+    "enunciado": "¿Qué es la base imponible y cómo puede determinarse según el artículo 50 de la LGT?",
+    "respuesta": "Es la magnitud dineraria o de otra naturaleza que resulta de la medición o valoración del hecho imponible; puede determinarse por estimación directa, por estimación objetiva o por estimación indirecta.",
+    "explicacion": "El artículo 50 LGT define la base imponible y sus tres métodos de determinación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 51",
+    "enunciado": "¿En qué consiste el método de estimación directa?",
+    "respuesta": "En determinar la base imponible a partir de los datos consignados en las declaraciones del obligado, de los documentos presentados o debidamente comprobados y de los datos consignados en libros y registros comprobados administrativamente.",
+    "explicacion": "El artículo 51 LGT regula la estimación directa como método ordinario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 52",
+    "enunciado": "¿En qué consiste el método de estimación objetiva?",
+    "respuesta": "En determinar la base imponible mediante la aplicación de las magnitudes, índices, módulos o datos previstos en la normativa propia de cada tributo; su aplicación requiere la renuncia expresa del obligado cuando la norma lo prevea, y es incompatible con la estimación directa para el mismo concepto.",
+    "explicacion": "El artículo 52 LGT regula la estimación objetiva por módulos o índices.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 53",
+    "enunciado": "¿Cuándo se aplica el método de estimación indirecta?",
+    "respuesta": "Cuando la Administración no pueda disponer de los datos necesarios para la determinación completa de la base imponible como consecuencia de alguna de estas circunstancias: falta de presentación de declaraciones, resistencia u obstrucción a la actuación inspectora, o desaparición o destrucción de libros y registros.",
+    "explicacion": "El artículo 53 LGT reserva la estimación indirecta a los casos en que no sea posible la determinación directa u objetiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 54",
+    "enunciado": "¿Qué es la base liquidable según el artículo 54 de la LGT?",
+    "respuesta": "La magnitud resultante de practicar en la base imponible las reducciones establecidas por la ley; la base imponible y la liquidable coincidirán cuando no existan reducciones aplicables.",
+    "explicacion": "El artículo 54 LGT define la base liquidable.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 55",
+    "enunciado": "¿Qué es el tipo de gravamen según el artículo 55 de la LGT?",
+    "respuesta": "La cifra, coeficiente o porcentaje que se aplica a la base liquidable para obtener como resultado la cuota íntegra; puede consistir en una cantidad fija señalada por unidad de base o en un porcentaje o escala aplicable sobre la base.",
+    "explicacion": "El artículo 55 LGT define el tipo de gravamen.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 56",
+    "enunciado": "¿Qué es la cuota tributaria según el artículo 56 de la LGT?",
+    "respuesta": "La cantidad resultante de aplicar el tipo de gravamen a la base liquidable (cuota íntegra); practicadas las deducciones y bonificaciones se obtiene la cuota líquida; y descontadas las cantidades a cuenta, la cuota diferencial o cantidad a ingresar o a devolver.",
+    "explicacion": "El artículo 56 LGT distingue cuota íntegra, líquida y diferencial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 57",
+    "enunciado": "¿Qué medios puede utilizar la Administración para la comprobación de valores según el artículo 57 de la LGT?",
+    "respuesta": "Entre otros: capitalización de rentas; estimación por referencia a los valores de mercado; precios medios de mercado; cotizaciones en mercados; dictamen de peritos; y el valor asignado a efectos de otros tributos; el obligado puede promover la tasación pericial contradictoria cuando no esté conforme.",
+    "explicacion": "El artículo 57 LGT enumera los medios de comprobación de valores y la tasación pericial contradictoria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E04-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E04",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 58",
+    "enunciado": "¿Qué integra la deuda tributaria según el artículo 58 de la LGT?",
+    "respuesta": "La cuota o cantidad a ingresar resultante de la obligación principal o de los pagos a cuenta y, en su caso, el interés de demora, los recargos por declaración extemporánea, los recargos del período ejecutivo y los recargos exigibles legalmente; las sanciones tributarias no forman parte de la deuda tributaria.",
+    "explicacion": "El artículo 58 LGT define los componentes de la deuda tributaria y excluye las sanciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 59",
+    "enunciado": "¿Cómo se extinguen las deudas tributarias según el artículo 59 de la LGT?",
+    "respuesta": "Por pago, prescripción, compensación o condonación, por los medios previstos en la normativa aduanera y por los demás medios previstos en las leyes; el pago, la compensación o la condonación tienen efectos liberatorios exclusivamente por el importe pagado, compensado o condonado.",
+    "explicacion": "El artículo 59 LGT enumera las causas de extinción de la deuda tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 60",
+    "enunciado": "¿Cómo se efectúa el pago de la deuda tributaria según el artículo 60 de la LGT?",
+    "respuesta": "En efectivo, por los medios y en la forma que se determinen reglamentariamente, pudiendo utilizarse técnicas y medios electrónicos; excepcionalmente podrá admitirse el pago en especie cuando una ley lo disponga expresamente.",
+    "explicacion": "El artículo 60 LGT regula las formas de pago de la deuda tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 62",
+    "enunciado": "¿Cuáles son los plazos de pago en período voluntario según el artículo 62 de la LGT?",
+    "respuesta": "Si la notificación de la liquidación se realiza entre los días 1 y 15 del mes, hasta el día 20 del mes posterior; si se realiza entre los días 16 y último, hasta el día 5 del segundo mes posterior; las deudas de notificación colectiva y periódica, en el plazo que determine su normativa reguladora (mínimo dos meses naturales).",
+    "explicacion": "El artículo 62 LGT fija los plazos del período voluntario de pago.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 66",
+    "enunciado": "¿Qué derechos prescriben a los cuatro años según el artículo 66 de la LGT?",
+    "respuesta": "El derecho de la Administración para determinar la deuda tributaria mediante la oportuna liquidación; el derecho para exigir el pago de las deudas liquidadas y autoliquidadas; el derecho a solicitar las devoluciones derivadas de la normativa de cada tributo; y el derecho a obtener las devoluciones derivadas de la normativa de cada tributo.",
+    "explicacion": "El artículo 66 LGT fija el plazo general de prescripción de cuatro años.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 67",
+    "enunciado": "¿Desde cuándo se computan los plazos de prescripción según el artículo 67 de la LGT?",
+    "respuesta": "El plazo para determinar la deuda se inicia el día siguiente a aquel en que finalice el plazo reglamentario para presentar la declaración o autoliquidación; el plazo para exigir el pago, el día siguiente a aquel en que finalice el plazo de pago en período voluntario; y los plazos para solicitar y obtener devoluciones, el día siguiente a aquel en que finalice el plazo para solicitarla o en que se produzca el ingreso indebido.",
+    "explicacion": "El artículo 67 LGT regula el cómputo (dies a quo) de la prescripción.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 68",
+    "enunciado": "¿Qué interrumpe los plazos de prescripción según el artículo 68 de la LGT?",
+    "respuesta": "Cualquier actuación fehaciente de la Administración tributaria, realizada con conocimiento formal del obligado, conducente al reconocimiento, regularización, comprobación, inspección, aseguramiento o liquidación de la deuda; la interposición de reclamaciones o recursos; y cualquier actuación fehaciente del obligado conducente a la liquidación o autoliquidación o al pago de la deuda.",
+    "explicacion": "El artículo 68 LGT enumera las causas de interrupción de la prescripción.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 69",
+    "enunciado": "¿Qué efectos tiene la prescripción ganada según el artículo 69 de la LGT?",
+    "respuesta": "La prescripción ganada extingue la deuda tributaria; se aplicará de oficio, incluso en los casos en que se haya pagado la deuda, sin necesidad de que la invoque o excepcione el obligado; e interrumpe los plazos para los demás obligados en los supuestos de concurrencia.",
+    "explicacion": "El artículo 69 LGT establece que la prescripción se aprecia de oficio y extingue la deuda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 71",
+    "enunciado": "¿Qué es la compensación de deudas tributarias según el artículo 71 de la LGT?",
+    "respuesta": "La extinción total o parcial de la deuda mediante la compensación con créditos reconocidos por acto administrativo a favor del obligado; puede acordarse de oficio o a instancia del obligado, y los créditos y deudas deben estar vencidos y ser exigibles.",
+    "explicacion": "El artículo 71 LGT regula la compensación como forma de extinción de la deuda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 26",
+    "enunciado": "¿Cómo se calcula el interés de demora según el artículo 26 de la LGT?",
+    "respuesta": "Será el interés legal del dinero vigente a lo largo del período en que resulte exigible, incrementado en un 25 por ciento, salvo que la Ley de Presupuestos Generales del Estado establezca otro diferente; se exigirá, entre otros casos, cuando finalice el plazo de pago en período voluntario sin haberse efectuado el ingreso.",
+    "explicacion": "El artículo 26 LGT fija el interés de demora en el interés legal incrementado en un 25%.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E05-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E05",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 28",
+    "enunciado": "¿Cuáles son los recargos del período ejecutivo según el artículo 28 de la LGT?",
+    "respuesta": "El recargo ejecutivo del 5%, cuando se pague antes de la notificación de la providencia de apremio; el recargo de apremio reducido del 10%, cuando se pague la totalidad de la deuda y el propio recargo antes de finalizar el plazo del artículo 62.5; y el recargo de apremio ordinario del 20% en los demás casos.",
+    "explicacion": "El artículo 28 LGT gradúa los recargos del período ejecutivo en 5, 10 y 20 por ciento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué es la gestión tributaria según el artículo 117 de la LGT?",
+    "respuesta": "El ejercicio de las funciones administrativas dirigidas a la aplicación de los tributos que no estén atribuidas a la inspección ni a la recaudación, como la recepción y tramitación de declaraciones, autoliquidaciones y comunicaciones, y las actuaciones de verificación y control de carácter limitado.",
+    "explicacion": "El artículo 117 LGT define la gestión tributaria por contraposición a inspección y recaudación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 118",
+    "enunciado": "¿Cómo se inicia la gestión tributaria según el artículo 118 de la LGT?",
+    "respuesta": "De oficio o a instancia del obligado tributario, mediante la presentación de declaraciones, autoliquidaciones, comunicaciones de datos o solicitudes; la iniciación de oficio se produce por acuerdo del órgano competente.",
+    "explicacion": "El artículo 118 LGT regula las formas de iniciación de la gestión tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 119",
+    "enunciado": "¿Qué es la declaración tributaria según el artículo 119 de la LGT?",
+    "respuesta": "Todo documento presentado ante la Administración tributaria donde se reconozca o manifieste la realización de cualquier hecho relevante para la aplicación de los tributos; su presentación no implica aceptación o reconocimiento por la Administración de la procedencia de la obligación tributaria.",
+    "explicacion": "El artículo 119 LGT define la declaración tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 120",
+    "enunciado": "¿Qué son las autoliquidaciones según el artículo 120 de la LGT?",
+    "respuesta": "Las declaraciones en las que los obligados, además de comunicar a la Administración los datos necesarios para la liquidación del tributo y otros de contenido informativo, realizan por sí mismos las operaciones de calificación y cuantificación necesarias para determinar e ingresar el importe de la deuda tributaria.",
+    "explicacion": "El artículo 120 LGT define la autoliquidación: el obligado calcula e ingresa.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 121",
+    "enunciado": "¿Qué son las comunicaciones de datos según el artículo 121 de la LGT?",
+    "respuesta": "Las declaraciones presentadas ante la Administración en las que se manifiesta la realización del hecho imponible o se comunican los datos necesarios para la práctica de la liquidación, sin que el obligado realice las operaciones de cuantificación.",
+    "explicacion": "El artículo 121 LGT define la comunicación de datos frente a la autoliquidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 122",
+    "enunciado": "¿Pueden presentarse declaraciones complementarias o sustitutivas?",
+    "respuesta": "Sí: el artículo 122 de la LGT permite presentar declaraciones, autoliquidaciones o comunicaciones complementarias o sustitutivas de las presentadas con anterioridad, cuando se adviertan errores o se quiera modificar su contenido, con los efectos previstos en la normativa.",
+    "explicacion": "El artículo 122 LGT regula las declaraciones complementarias o sustitutivas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 101",
+    "enunciado": "¿Qué son las liquidaciones tributarias y qué clases hay según el artículo 101 de la LGT?",
+    "respuesta": "El acto resolutorio mediante el cual el órgano competente de la Administración realiza las operaciones de cuantificación necesarias y determina el importe de la deuda tributaria o de la cantidad que resulte a devolver o a compensar; pueden ser provisionales o definitivas.",
+    "explicacion": "El artículo 101 LGT define la liquidación tributaria y sus dos clases.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 102",
+    "enunciado": "¿Qué exige la notificación de las liquidaciones tributarias según el artículo 102 de la LGT?",
+    "respuesta": "Deberá notificarse al obligado con expresión de los elementos determinantes de la cuantía de la deuda, la motivación cuando no se ajuste a los datos aportados, los medios de impugnación, el plazo y el lugar de pago y los recursos que procedan.",
+    "explicacion": "El artículo 102 LGT fija el contenido de la notificación de liquidaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 123",
+    "enunciado": "¿Qué procedimientos comprende la gestión tributaria según el artículo 123 de la LGT?",
+    "respuesta": "Entre otros: el procedimiento de devolución iniciado mediante autoliquidación, solicitud o comunicación de datos; el procedimiento iniciado mediante declaración; el procedimiento de verificación de datos; el procedimiento de comprobación de valores; el procedimiento de comprobación limitada; y el procedimiento de rectificación.",
+    "explicacion": "El artículo 123 LGT enumera los procedimientos de gestión tributaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E06-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E06",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 100",
+    "enunciado": "¿Cómo terminan los procedimientos tributarios según el artículo 100 de la LGT?",
+    "respuesta": "Por resolución expresa o por los efectos del silencio administrativo; por desistimiento o renuncia del obligado; por caducidad; por el cumplimiento de la obligación requerida; o por cualquier otra causa prevista en el ordenamiento tributario.",
+    "explicacion": "El artículo 100 LGT enumera las formas de terminación de los procedimientos tributarios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué funciones tiene la inspección tributaria según el artículo 141 de la LGT?",
+    "respuesta": "La investigación de los supuestos de hecho de las obligaciones tributarias para el descubrimiento de los que sean ignorados; la comprobación de la veracidad y exactitud de las declaraciones y autoliquidaciones; la realización de actuaciones de obtención de información; la comprobación del valor de derechos, rentas y bienes; la práctica de las liquidaciones resultantes de sus actuaciones; y la información a los obligados sobre sus derechos y obligaciones.",
+    "explicacion": "El artículo 141 LGT atribuye a la inspección las funciones de investigación, comprobación y liquidación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 142",
+    "enunciado": "¿Qué facultades tiene la inspección de los tributos según el artículo 142 de la LGT?",
+    "respuesta": "El examen de documentos, libros, contabilidad y ficheros; la entrada en las fincas, locales de negocio y demás establecimientos donde se desarrollen actividades sometidas a gravamen (con autorización judicial para el domicilio constitucionalmente protegido); y el requerimiento al obligado para que aporte la documentación necesaria.",
+    "explicacion": "El artículo 142 LGT enumera las facultades de comprobación e investigación de la inspección.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 143",
+    "enunciado": "¿Cómo se documentan las actuaciones de la inspección según el artículo 143 de la LGT?",
+    "respuesta": "En diligencias, comunicaciones, informes y actas; las diligencias recogen hechos y manifestaciones; las comunicaciones informan del inicio o del estado de las actuaciones; y las actas documentan el resultado de las actuaciones y la propuesta de liquidación.",
+    "explicacion": "El artículo 143 LGT regula la documentación de las actuaciones inspectoras.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 144",
+    "enunciado": "¿Qué valor probatorio tienen las actas de la inspección según el artículo 144 de la LGT?",
+    "respuesta": "Las actas extendidas por la inspección tienen naturaleza de documentos públicos y hacen prueba de los hechos que motiven su formalización, salvo que se acredite lo contrario; los hechos aceptados por los obligados se presumen ciertos y solo podrán rectificarse mediante prueba de error de hecho.",
+    "explicacion": "El artículo 144 LGT atribuye a las actas presunción de certeza iuris tantum.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 145",
+    "enunciado": "¿Cuál es el objeto del procedimiento de inspección según el artículo 145 de la LGT?",
+    "respuesta": "Comprobar e investigar el adecuado cumplimiento de las obligaciones tributarias y, en su caso, proceder a la regularización de la situación tributaria del obligado mediante la práctica de las liquidaciones que resulten procedentes.",
+    "explicacion": "El artículo 145 LGT define el objeto del procedimiento de inspección.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 146",
+    "enunciado": "¿Qué medidas cautelares pueden adoptarse en el procedimiento de inspección?",
+    "respuesta": "El precinto, depósito o incautación de libros, registros, documentos y soportes; y, cuando existan indicios de que se pueda impedir u obstaculizar el pago de la deuda, las medidas del artículo 81 de la LGT (retención de devoluciones, embargo preventivo).",
+    "explicacion": "El artículo 146 LGT permite medidas cautelares para asegurar la prueba y el cobro.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 147",
+    "enunciado": "¿Cómo se inicia el procedimiento de inspección según el artículo 147 de la LGT?",
+    "respuesta": "De oficio, mediante comunicación notificada al obligado tributario en la que se le informe de la naturaleza y alcance de las actuaciones y de sus derechos y obligaciones en el curso de las mismas.",
+    "explicacion": "El artículo 147 LGT exige la iniciación de oficio con comunicación notificada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 148",
+    "enunciado": "¿Qué alcance pueden tener las actuaciones del procedimiento de inspección?",
+    "respuesta": "Carácter general, cuando tengan por objeto la verificación en su conjunto de la situación tributaria del obligado en relación con alguno o varios tributos y períodos; o carácter parcial, cuando se limiten a determinados elementos de la obligación tributaria.",
+    "explicacion": "El artículo 148 LGT distingue entre actuaciones de alcance general y parcial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 149",
+    "enunciado": "¿Puede el obligado tributario solicitar una inspección de carácter general?",
+    "respuesta": "Sí: el artículo 149 de la LGT permite que el obligado solicite que las actuaciones del procedimiento de inspección tengan carácter general respecto al tributo y, en su caso, períodos afectados, en los términos reglamentarios.",
+    "explicacion": "El artículo 149 LGT reconoce al obligado el derecho a solicitar inspección general.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E07-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E07",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 150",
+    "enunciado": "¿Cuál es el plazo de las actuaciones inspectoras según el artículo 150 de la LGT?",
+    "respuesta": "Deberán concluir en el plazo de 18 meses, contado desde la notificación del inicio; este plazo podrá ampliarse por otros 12 meses cuando las actuaciones revistan especial complejidad; el incumplimiento no determina la caducidad pero impide considerar interrumpida la prescripción por actuaciones anteriores.",
+    "explicacion": "El artículo 150 LGT fija el plazo de 18 meses, ampliable en 12.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto del Reglamento General de Recaudación?",
+    "respuesta": "El desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de recaudación de los tributos y demás recursos de naturaleza pública, sin perjuicio de las especialidades de las Haciendas autonómica y local.",
+    "explicacion": "El artículo 1 RGR define su objeto como desarrollo reglamentario de la LGT en materia recaudatoria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué es la gestión recaudatoria según el artículo 2 del RGR?",
+    "respuesta": "El ejercicio de la función administrativa conducente al cobro de las deudas y sanciones tributarias y demás recursos de naturaleza pública que deban satisfacer los obligados al pago, tanto en período voluntario como en período ejecutivo.",
+    "explicacion": "El artículo 2 RGR define la gestión recaudatoria y sus dos períodos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué órganos tienen atribuida la recaudación de la Hacienda pública estatal?",
+    "respuesta": "Los órganos de recaudación de la Agencia Estatal de Administración Tributaria, que ejercerán las funciones de recaudación en período voluntario y ejecutivo de los recursos cuya gestión tengan atribuida.",
+    "explicacion": "El artículo 6 RGR atribuye la recaudación estatal a los órganos de la AEAT.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 8",
+    "enunciado": "¿Cómo se lleva a cabo la recaudación de las entidades locales y sus organismos autónomos según el artículo 8 del RGR?",
+    "respuesta": "Directamente por las entidades locales y sus organismos autónomos; por otros entes territoriales a cuyo ámbito pertenezcan cuando así se haya establecido legalmente, mediante convenio o por delegación; o por la AEAT cuando se acuerde mediante convenio de recaudación.",
+    "explicacion": "El artículo 8 RGR regula las tres vías de recaudación de las entidades locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 9",
+    "enunciado": "¿Pueden las entidades de crédito que prestan el servicio de caja actuar como órganos de recaudación?",
+    "respuesta": "No: en ningún caso la autorización o el convenio atribuirá el carácter de órganos de recaudación a las entidades de crédito que presten el servicio de caja o que sean colaboradoras en la recaudación.",
+    "explicacion": "El artículo 9.2 RGR niega expresamente la condición de órgano de recaudación a las entidades de crédito.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 10",
+    "enunciado": "¿Qué facultades tienen los órganos de recaudación según el artículo 10 del RGR?",
+    "respuesta": "La dirección de los estudios y propuestas, el dictado de instrucciones, el impulso y tramitación de los procedimientos recaudatorios, la resolución de los recursos y tercerías, la adopción de medidas cautelares y, en general, el ejercicio de las funciones necesarias para el cobro de las deudas.",
+    "explicacion": "El artículo 10 RGR enumera las facultades de los órganos de recaudación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 32",
+    "enunciado": "¿Cómo se extinguen las deudas recaudadas según el artículo 32 del RGR?",
+    "respuesta": "Por pago, prescripción, compensación, deducción sobre transferencias, condonación y por los demás medios previstos en las leyes, en los términos de la Ley General Tributaria y de este reglamento.",
+    "explicacion": "El artículo 32 RGR remite a las formas de extinción de la deuda de la LGT.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 33",
+    "enunciado": "¿Quién puede pagar la deuda y dónde según el artículo 33 del RGR?",
+    "respuesta": "Puede pagar cualquier persona, tenga o no interés en el cumplimiento de la obligación, ya lo conozca y lo apruebe ya lo ignore el obligado al pago; el pago se realizará en los lugares y por los medios previstos en el reglamento y no supondrá alteración de la titularidad de la deuda.",
+    "explicacion": "El artículo 33 RGR regula la legitimación para el pago y su lugar y forma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 41",
+    "enunciado": "¿Qué justificantes acreditan el pago según el artículo 41 del RGR?",
+    "respuesta": "El pago de las deudas se justificará mediante la exhibición del documento de ingreso debidamente diligenciado; la Administración expedirá, a solicitud del interesado, certificaciones del pago realizado.",
+    "explicacion": "El artículo 41 RGR regula los justificantes y certificaciones del pago.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E08-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E08",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 34",
+    "enunciado": "¿Qué medios pueden utilizarse para el pago en efectivo según el artículo 34 del RGR?",
+    "respuesta": "Dinero de curso legal, cheque, tarjeta de crédito y débito, transferencia bancaria, domiciliación bancaria y cualquier otro medio autorizado; se entiende pagada la deuda cuando se haya realizado el ingreso de su importe en los órganos o entidades autorizadas.",
+    "explicacion": "El artículo 34 RGR enumera los medios de pago en efectivo y el momento del pago.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 68",
+    "enunciado": "¿Cuándo se inicia y termina la recaudación en período voluntario según el artículo 68 del RGR?",
+    "respuesta": "Se inicia a partir de la notificación de la liquidación, de la apertura del plazo recaudatorio en deudas de notificación colectiva y periódica, o del comienzo del plazo de presentación en autoliquidaciones; concluye el día del vencimiento de los correspondientes plazos de ingreso.",
+    "explicacion": "El artículo 68 RGR fija el inicio y fin del período voluntario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 24",
+    "enunciado": "¿Qué debe contener el anuncio de cobranza según el artículo 24 del RGR?",
+    "respuesta": "El plazo de ingreso; la modalidad de cobro utilizable; los lugares, días y horas de ingreso; y la advertencia de que, transcurrido el plazo, las deudas se exigirán por el procedimiento de apremio con los recargos, intereses y costas correspondientes.",
+    "explicacion": "El artículo 24 RGR regula la comunicación colectiva del período de pago mediante edictos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 25",
+    "enunciado": "¿Cómo funciona la domiciliación del pago de deudas de vencimiento periódico según el artículo 25 del RGR?",
+    "respuesta": "Los obligados pueden domiciliar el pago en cuentas de entidades de crédito dirigiendo comunicación al órgano de recaudación al menos dos meses antes del comienzo del período de cobro; las domiciliaciones tienen validez indefinida mientras no sean anuladas.",
+    "explicacion": "El artículo 25 RGR regula los ingresos de deudas de vencimiento periódico y notificación colectiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 38",
+    "enunciado": "¿Qué requisitos tiene el pago mediante domiciliación bancaria según el artículo 38 del RGR?",
+    "respuesta": "Requiere la previa comunicación al órgano de recaudación con la antelación prevista; el cargo se realizará en la cuenta designada y, de no existir fondos suficientes o producirse el rechazo, la deuda quedará pendiente para su exigencia en período ejecutivo.",
+    "explicacion": "El artículo 38 RGR regula el pago mediante domiciliación bancaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 35",
+    "enunciado": "¿Qué requisitos exige el pago mediante cheque según el artículo 35 del RGR?",
+    "respuesta": "El cheque deberá ser nominativo a favor del Tesoro Público o del organismo correspondiente, estar conformado o certificado por la entidad librada y reunir los requisitos reglamentarios; el pago se entiende realizado en la fecha de su entrega si resulta pagado a su presentación.",
+    "explicacion": "El artículo 35 RGR regula el pago mediante cheque nominativo y conformado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 37",
+    "enunciado": "¿Cómo se realiza el pago mediante transferencia bancaria según el artículo 37 del RGR?",
+    "respuesta": "Mediante transferencia a las cuentas restringidas de recaudación, haciendo constar los datos identificativos de la deuda; el momento del pago será la fecha en que la transferencia tenga entrada en la cuenta restringida.",
+    "explicacion": "El artículo 37 RGR regula el pago mediante transferencia bancaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 40",
+    "enunciado": "¿Cuándo se admite el pago en especie según el artículo 40 del RGR?",
+    "respuesta": "Cuando una ley lo disponga expresamente y en los términos y condiciones que se prevean reglamentariamente; no se admitirá en los supuestos en que las deudas tengan la condición de inaplazables conforme al artículo 65.2 de la LGT.",
+    "explicacion": "El artículo 40 RGR regula el pago en especie con carácter excepcional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 43",
+    "enunciado": "¿Qué es la consignación según el artículo 43 del RGR?",
+    "respuesta": "El depósito del importe de la deuda a disposición de la Administración tributaria que puede realizar el obligado cuando concurran determinadas circunstancias; la deuda consignada no devengará intereses de demora desde la fecha de la consignación si resulta procedente.",
+    "explicacion": "El artículo 43 RGR regula la consignación del importe de la deuda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 42",
+    "enunciado": "¿Qué debe hacer la Administración ante tributos incompatibles según el artículo 42 del RGR?",
+    "respuesta": "Cuando se advierta la existencia de tributos incompatibles, la Administración realizará las actuaciones necesarias para evitar la doble imposición o la exigencia indebida, suspendiendo o anulando la liquidación que proceda.",
+    "explicacion": "El artículo 42 RGR regula las actuaciones ante tributos incompatibles.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E09-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E09",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 68.3",
+    "enunciado": "¿Qué ocurre si en período voluntario solo se paga parte de la deuda?",
+    "respuesta": "Los obligados pueden satisfacer total o parcialmente las deudas en período voluntario; por la cantidad no pagada se iniciará el período ejecutivo en los términos del artículo 69 del RGR.",
+    "explicacion": "El artículo 68.3 RGR permite el pago parcial e inicia el período ejecutivo por el resto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-001",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "articulo": "art. 65",
+    "enunciado": "¿Qué deudas pueden ser objeto de aplazamiento o fraccionamiento según el artículo 65 de la LGT?",
+    "respuesta": "Las deudas tributarias que se encuentren en período voluntario o ejecutivo podrán aplazarse o fraccionarse a solicitud del obligado cuando su situación económico-financiera le impida efectuar el pago en los plazos establecidos; no podrán aplazarse las deudas que tengan la condición de inaplazables por ley.",
+    "explicacion": "El artículo 65 LGT regula el aplazamiento y fraccionamiento a solicitud del obligado.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-002",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 44",
+    "enunciado": "¿Qué deudas son aplazables o fraccionables según el artículo 44 del RGR?",
+    "respuesta": "Todas las deudas tributarias y demás de naturaleza pública cuya titularidad corresponda a la Hacienda pública, salvo las excepciones previstas en las leyes.",
+    "explicacion": "El artículo 44 RGR establece la regla general de aplazabilidad de las deudas públicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-003",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué debe contener la solicitud de aplazamiento o fraccionamiento según el artículo 46 del RGR?",
+    "respuesta": "La identificación de la deuda, los plazos y condiciones solicitados, los motivos que la fundamentan y la garantía ofrecida o, en su caso, la solicitud de dispensa de garantía con justificación de la imposibilidad de aportarla.",
+    "explicacion": "El artículo 46 RGR regula el contenido de las solicitudes de aplazamiento y fraccionamiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-004",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 47",
+    "enunciado": "¿Cuándo se inadmiten las solicitudes de aplazamiento o fraccionamiento?",
+    "respuesta": "Cuando se refieran a deudas inaplazables por disposición legal; cuando sean reiteración de otras denegadas sin cambio de circunstancias; o cuando no reúnan los requisitos formales y no se subsanen en plazo, entre otros supuestos del artículo 47.",
+    "explicacion": "El artículo 47 RGR enumera las causas de inadmisión de las solicitudes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-005",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 48",
+    "enunciado": "¿Qué importe debe cubrir la garantía en los aplazamientos según el artículo 48 del RGR?",
+    "respuesta": "En período voluntario: el importe de la deuda, los intereses de demora que genere el aplazamiento y un 25 por ciento de la suma de ambas partidas; en período ejecutivo: el importe aplazado incluido el recargo, los intereses y un 5 por ciento adicional; el aval deberá exceder en seis meses al vencimiento del plazo garantizado.",
+    "explicacion": "El artículo 48 RGR fija la cobertura mínima de las garantías.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-006",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 50",
+    "enunciado": "¿Cuándo puede dispensarse la garantía en aplazamientos y fraccionamientos?",
+    "respuesta": "Cuando el obligado carezca de bienes suficientes para garantizar la deuda y la ejecución de su patrimonio pudiera afectar al mantenimiento de la capacidad productiva o al nivel de empleo, o cuando se trate de deudas de pequeña cuantía en los términos reglamentarios.",
+    "explicacion": "El artículo 50 RGR regula la dispensa total o parcial de garantías.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-007",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 52",
+    "enunciado": "¿Qué plazo tiene la Administración para resolver la solicitud de aplazamiento?",
+    "respuesta": "El artículo 52 del RGR regula la resolución de las solicitudes: deberán resolverse y notificarse en el plazo previsto reglamentariamente; transcurrido sin resolución expresa, la solicitud se entenderá desestimada por silencio administrativo.",
+    "explicacion": "El artículo 52 RGR regula la resolución y el silencio desestimatorio en aplazamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-008",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 53",
+    "enunciado": "¿Cómo se calculan los intereses en los aplazamientos y fraccionamientos?",
+    "respuesta": "Se calcularán sobre la deuda aplazada por el tiempo comprendido entre el vencimiento del período voluntario y el vencimiento del plazo concedido, al tipo del interés de demora vigente en cada momento.",
+    "explicacion": "El artículo 53 RGR regula el cálculo de intereses en aplazamientos y fraccionamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-009",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 54",
+    "enunciado": "¿Qué ocurre si no se paga una fracción del aplazamiento?",
+    "respuesta": "El incumplimiento de un plazo en los aplazamientos o fraccionamientos producirá los efectos previstos en el artículo 54: vencimiento anticipado de las fracciones pendientes y exigencia por el procedimiento de apremio con los recargos e intereses que procedan.",
+    "explicacion": "El artículo 54 RGR regula la falta de pago en aplazamientos y fraccionamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "GRA-C1-E10-010",
+    "perfil": [
+      "gra-c1"
+    ],
+    "tema": "E10",
+    "ley": "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación",
+    "articulo": "art. 49",
+    "enunciado": "¿Pueden adoptarse medidas cautelares en los aplazamientos y fraccionamientos?",
+    "respuesta": "Sí: el artículo 49 del RGR permite la adopción de medidas cautelares para asegurar el cobro de la deuda cuando existan indicios racionales de que, de no adoptarse, dicho cobro pueda verse frustrado o gravemente dificultado.",
+    "explicacion": "El artículo 49 RGR permite medidas cautelares en el ámbito de aplazamientos.",
+    "verificado_corpus": true
+  }
+]

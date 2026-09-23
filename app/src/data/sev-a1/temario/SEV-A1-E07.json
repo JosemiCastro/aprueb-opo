@@ -1,0 +1,37 @@
+{
+  "id": "SEV-A1-E07",
+  "tema": "E07",
+  "tipo": "especifico",
+  "numero": 7,
+  "titulo": "El Derecho Tributario: los tributos y la cuantificación de la obligación tributaria",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y clases de tributos",
+      "texto": "Los tributos son prestaciones pecuniarias exigidas por una Administración pública por la realización del supuesto de hecho legal, para el sostenimiento de los gastos públicos ([[Ley 58/2003 | art. 2]]). Se clasifican en tasas, contribuciones especiales e impuestos. Los impuestos pueden ser directos o indirectos, según graven manifestaciones directas o indirectas de capacidad económica."
+    },
+    {
+      "titulo": "2. El hecho imponible",
+      "texto": "Es el presupuesto fijado por la ley para configurar cada tributo y cuya realización origina el nacimiento de la obligación tributaria principal ([[Ley 58/2003 | art. 20]]). La ley puede completar su delimitación mediante supuestos de no sujeción y exenciones."
+    },
+    {
+      "titulo": "3. La cuantificación: base y tipo",
+      "texto": "La base imponible es la magnitud resultante de medir o valorar el hecho imponible ([[Ley 58/2003 | art. 49]]); puede determinarse por estimación directa, objetiva o indirecta. El tipo de gravamen es la cifra o porcentaje aplicable a la base liquidable para obtener la cuota íntegra ([[Ley 58/2003 | art. 55]])."
+    },
+    {
+      "titulo": "4. Cuota y deuda tributaria",
+      "texto": "La cuota tributaria resulta de aplicar el tipo a la base liquidable; la cuota líquida se obtiene tras deducciones y bonificaciones ([[Ley 58/2003 | art. 56]]). La deuda tributaria es la cantidad a ingresar: cuota más recargos, intereses y sanciones ([[Ley 58/2003 | art. 58]])."
+    },
+    {
+      "titulo": "5. La obligación tributaria principal",
+      "texto": "Tiene por objeto el pago de la cuota tributaria ([[Ley 58/2003 | art. 17]]). Junto a ella existen obligaciones accesorias (pagos a cuenta, obligaciones formales) y obligaciones entre particulares resultantes del tributo (repercusión, retención). La obligación nace con la realización del hecho imponible, aunque la ley pueda fijar un momento posterior para su exigibilidad."
+    },
+    {
+      "titulo": "6. Impuestos directos e indirectos",
+      "texto": "Los impuestos se clasifican en directos, que gravan manifestaciones inmediatas de capacidad económica (renta, patrimonio, titularidad de bienes), e indirectos, que gravan manifestaciones mediatas como el consumo o la transmisión de bienes ([[Ley 58/2003 | art. 2]]). En el ámbito local, el IBI, el IAE, el IVTM, el ICIO y el IIVTNU son impuestos directos, mientras las tasas y contribuciones especiales tienen naturaleza distinta. La distinción importa a efectos de repercusión, gestión y reparto competencial entre el Estado, las Comunidades Autónomas y las entidades locales. Los tributos se rigen por el principio de legalidad: solo la ley puede crearlos y regular sus elementos esenciales, como corolario del deber constitucional de contribuir al sostenimiento de los gastos públicos ([[Constitución Española de 1978 | art. 31]]). Las ordenanzas fiscales desarrollan la ley dentro de sus márgenes. El sistema tributario debe ser justo, inspirado en la igualdad y la progresividad, sin alcance confiscatorio. Estos principios limitan al legislador y fundan el control de constitucionalidad de las normas tributarias."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E08",
+    "SEV-A1-E13"
+  ]
+}

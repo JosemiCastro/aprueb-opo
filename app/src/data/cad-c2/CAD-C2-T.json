@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "CAD-C2-T01-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 1",
+    "enunciado": "¿Cómo define el artículo 1 de la Constitución a España y cuáles son los valores superiores de su ordenamiento jurídico?",
+    "respuesta": "España se constituye en un Estado social y democrático de Derecho; los valores superiores de su ordenamiento jurídico son la libertad, la justicia, la igualdad y el pluralismo político. La forma política del Estado español es la Monarquía parlamentaria.",
+    "explicacion": "El art. 1 CE contiene la definición del Estado y sus valores superiores, además de declarar la Monarquía parlamentaria como forma política.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué proclama el artículo 2 de la Constitución respecto a la Nación española y la autonomía?",
+    "respuesta": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+    "explicacion": "El art. 2 CE combina el principio de unidad nacional con el derecho a la autonomía, base del Estado de las Autonomías.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 3",
+    "enunciado": "Según el artículo 3 de la Constitución, ¿qué lenguas son oficiales en España?",
+    "respuesta": "El castellano es la lengua española oficial del Estado y todos los españoles tienen el deber de conocerla y el derecho a usarla. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.",
+    "explicacion": "El art. 3 CE establece el castellano como lengua oficial estatal y la cooficialidad de las demás lenguas según los Estatutos de Autonomía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 9",
+    "enunciado": "¿A quiénes vincula la Constitución según su artículo 9 y qué principios garantiza?",
+    "respuesta": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. Garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+    "explicacion": "El art. 9 CE consagra la supremacía constitucional y los principios informadores del ordenamiento jurídico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué establece el artículo 14 de la Constitución sobre la igualdad?",
+    "respuesta": "Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "explicacion": "El art. 14 CE proclama la igualdad formal ante la ley y prohíbe toda discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué derechos reconoce el artículo 15 de la Constitución?",
+    "respuesta": "Todos tienen derecho a la vida y a la integridad física y moral, sin que en ningún caso puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+    "explicacion": "El art. 15 CE, primero de la Sección 1.ª de derechos fundamentales, protege la vida y la integridad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 17",
+    "enunciado": "Según el artículo 17 de la Constitución, ¿cuál es el plazo máximo de la detención preventiva?",
+    "respuesta": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+    "explicacion": "El art. 17 CE regula el derecho a la libertad y seguridad, incluyendo el habeas corpus y el límite de 72 horas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 24",
+    "enunciado": "¿Qué garantías incluye el derecho a la tutela judicial efectiva del artículo 24 de la Constitución?",
+    "respuesta": "Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que en ningún caso pueda producirse indefensión. Incluye el derecho al juez ordinario predeterminado por la ley, a la defensa y asistencia de letrado, a un proceso público sin dilaciones indebidas y con todas las garantías, y a la presunción de inocencia.",
+    "explicacion": "El art. 24 CE es uno de los derechos más invocados ante el Tribunal Constitucional por su contenido procesal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 27",
+    "enunciado": "¿Qué establece el artículo 27 de la Constitución sobre el derecho a la educación?",
+    "respuesta": "Todos tienen el derecho a la educación y se reconoce la libertad de enseñanza. La educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales. La enseñanza básica es obligatoria y gratuita.",
+    "explicacion": "El art. 27 CE regula el derecho a la educación, la libertad de enseñanza y la obligatoriedad y gratuidad de la enseñanza básica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 28",
+    "enunciado": "¿Qué derechos reconoce el artículo 28 de la Constitución en el ámbito laboral colectivo?",
+    "respuesta": "Todos tienen derecho a sindicarse libremente y se reconoce el derecho de huelga a los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+    "explicacion": "El art. 28 CE protege la libertad sindical y el derecho de huelga, con garantía de los servicios esenciales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 31",
+    "enunciado": "Según el artículo 31 de la Constitución, ¿cómo deben contribuir los ciudadanos al sostenimiento de los gastos públicos y con qué criterios debe realizarse el gasto público?",
+    "respuesta": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio. El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de eficiencia y economía.",
+    "explicacion": "El art. 31 CE consagra el deber de contribuir y los principios de justicia tributaria y de eficiencia del gasto público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 53",
+    "enunciado": "¿Qué tutela establece el artículo 53 de la Constitución para los derechos fundamentales?",
+    "respuesta": "Los derechos y libertades del Capítulo II del Título I vinculan a todos los poderes públicos y solo por ley (orgánica cuando proceda) puede regularse su ejercicio. Los derechos reconocidos en los artículos 14 a 29, más la objeción de conciencia del art. 30.2, son tutelables en amparo ante el Tribunal Constitucional. Los principios del Capítulo III informan la legislación, la práctica judicial y la actuación de los poderes públicos.",
+    "explicacion": "El art. 53 CE gradúa la protección: máxima para la Sección 1.ª (amparo), legal para la Sección 2.ª e informadora para los principios rectores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 55",
+    "enunciado": "¿En qué supuestos pueden suspenderse los derechos reconocidos en los artículos 17, 18 y 19 de la Constitución?",
+    "respuesta": "Pueden ser suspendidos cuando se acuerde la declaración de los estados de excepción o de sitio, en los términos previstos en la Constitución y en la Ley Orgánica 4/1981. Además, una ley orgánica puede determinar la suspensión individual de esos derechos en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, con la necesaria intervención judicial y el adecuado control parlamentario.",
+    "explicacion": "El art. 55 CE regula la suspensión general (estados de excepción y sitio) y la suspensión individual (terrorismo).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 81",
+    "enunciado": "¿Qué materias requieren ley orgánica y qué mayoría exige su aprobación según el artículo 81 de la Constitución?",
+    "respuesta": "Son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución. Su aprobación, modificación o derogación exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+    "explicacion": "El art. 81 CE reserva a la ley orgánica determinadas materias y exige mayoría absoluta del Congreso.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 167",
+    "enunciado": "¿Qué mayorías exige el procedimiento ordinario de reforma constitucional del artículo 167?",
+    "respuesta": "Los proyectos de reforma deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras. Si no hubiera acuerdo, se intentará mediante una Comisión paritaria; de no lograrse, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso por mayoría de dos tercios podrá aprobar la reforma. Además, aprobada la reforma por las Cortes, será sometida a referéndum cuando lo soliciten una décima parte de los miembros de cualquiera de las Cámaras.",
+    "explicacion": "El art. 167 CE regula la reforma ordinaria, con mayorías cualificadas y referéndum facultativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T01-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T01",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 168",
+    "enunciado": "¿Cuándo se aplica el procedimiento agravado de reforma constitucional del artículo 168 y en qué consiste?",
+    "respuesta": "Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo II, Sección 1.ª del Título I (derechos fundamentales) o al Título II (la Corona). Exige aprobación por mayoría de dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación de la decisión y estudio del nuevo texto por las nuevas Cámaras (aprobado por dos tercios de cada una) y sometimiento a referéndum obligatorio.",
+    "explicacion": "El art. 168 CE protege el núcleo esencial de la Constitución con el procedimiento de reforma más exigente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 56",
+    "enunciado": "Según el artículo 56 de la Constitución, ¿cuál es la posición institucional del Rey?",
+    "respuesta": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales y ejerce las funciones que le atribuyen la Constitución y las leyes.",
+    "explicacion": "El art. 56 CE define la Jefatura del Estado y las funciones arbitrales y representativas de la Corona.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 57",
+    "enunciado": "¿Qué orden de sucesión en la Corona establece el artículo 57 de la Constitución?",
+    "respuesta": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.",
+    "explicacion": "El art. 57 CE regula la sucesión hereditaria en la Corona con criterios de línea, grado, sexo y edad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 62",
+    "enunciado": "Cite tres funciones que el artículo 62 de la Constitución atribuye al Rey.",
+    "respuesta": "Sancionar y promulgar las leyes; convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución; proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones; el mando supremo de las Fuerzas Armadas; ejercer el derecho de gracia con arreglo a la ley (que no podrá autorizar indultos generales).",
+    "explicacion": "El art. 62 CE enumera las funciones del Rey, que ejerce como Jefe del Estado con refrendo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 64",
+    "enunciado": "¿Qué es el refrendo de los actos del Rey y quién asume la responsabilidad según el artículo 64 de la Constitución?",
+    "respuesta": "Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno y la disolución prevista en el art. 99 serán refrendados por el Presidente del Congreso. De los actos del Rey serán responsables las personas que los refrenden.",
+    "explicacion": "El art. 64 CE establece el refrendo ministerial: el Rey es inviolable y la responsabilidad recae en quien refrenda.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 66",
+    "enunciado": "¿Qué son las Cortes Generales y qué funciones ejercen según el artículo 66 de la Constitución?",
+    "respuesta": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado. Ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.",
+    "explicacion": "El art. 66 CE define el Parlamento bicameral y sus tres funciones clásicas: legislativa, presupuestaria y de control.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 68",
+    "enunciado": "Según el artículo 68 de la Constitución, ¿cómo se elige el Congreso de los Diputados y cuál es la duración del mandato?",
+    "respuesta": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley. La circunscripción electoral es la provincia y el mandato de los Diputados dura cuatro años.",
+    "explicacion": "El art. 68 CE regula la composición y elección del Congreso, con circunscripción provincial y mandato cuatrienal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 69",
+    "enunciado": "¿Qué carácter tiene el Senado según el artículo 69 de la Constitución?",
+    "respuesta": "El Senado es la Cámara de representación territorial.",
+    "explicacion": "El art. 69 CE atribuye al Senado la representación territorial, frente al Congreso que representa al conjunto del pueblo español.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 87",
+    "enunciado": "¿A quiénes corresponde la iniciativa legislativa y qué requisitos tiene la iniciativa popular según el artículo 87 de la Constitución?",
+    "respuesta": "La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, a las Asambleas de las Comunidades Autónomas y a la iniciativa popular. Esta última requiere al menos 500.000 firmas acreditadas y no procede en materias propias de ley orgánica, de carácter tributario, de carácter internacional ni en lo relativo a la prerrogativa de gracia.",
+    "explicacion": "El art. 87 CE enumera los titulares de la iniciativa legislativa y los límites de la iniciativa popular.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 97",
+    "enunciado": "¿Qué funciones atribuye el artículo 97 de la Constitución al Gobierno?",
+    "respuesta": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+    "explicacion": "El art. 97 CE define al Gobierno como órgano de dirección política y titular de la potestad reglamentaria.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 98",
+    "enunciado": "¿Cómo se compone el Gobierno según el artículo 98 de la Constitución?",
+    "respuesta": "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros del mismo.",
+    "explicacion": "El art. 98 CE establece la composición del Gobierno y la preeminencia directiva del Presidente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 99",
+    "enunciado": "¿Cómo se produce la investidura del Presidente del Gobierno según el artículo 99 de la Constitución?",
+    "respuesta": "El Rey, previa consulta con los representantes designados por los grupos políticos, propone un candidato a la Presidencia del Gobierno. El Congreso lo vota: si obtiene la mayoría absoluta es investido; si no, se somete a nueva votación 48 horas después, bastando la mayoría simple. Si transcurrido el plazo de dos meses ningún candidato obtiene la confianza, el Rey disolverá ambas Cámaras y convocará nuevas elecciones.",
+    "explicacion": "El art. 99 CE regula el procedimiento de investidura con doble votación y disolución automática a los dos meses.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 113",
+    "enunciado": "¿Qué requisitos exige el artículo 113 de la Constitución para la moción de censura?",
+    "respuesta": "Debe ser propuesta al menos por la décima parte de los Diputados, incluir un candidato a la Presidencia del Gobierno, no puede ser votada hasta que transcurran cinco días desde su presentación, y para su adopción se exige la mayoría absoluta del Congreso.",
+    "explicacion": "El art. 113 CE configura una moción de censura constructiva: exige candidato alternativo y mayoría absoluta.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 114",
+    "enunciado": "¿Qué ocurre si el Gobierno no obtiene la confianza del Congreso en la cuestión de confianza del artículo 114 de la Constitución?",
+    "respuesta": "La cuestión de confianza la plantea el Presidente del Gobierno, previa deliberación del Consejo de Ministros, sobre su programa o una declaración de política general. Si el Congreso niega su confianza por mayoría simple, el Gobierno presentará su dimisión al Rey.",
+    "explicacion": "El art. 114 CE regula la cuestión de confianza como instrumento del Gobierno para verificar su apoyo parlamentario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 117",
+    "enunciado": "¿Qué principios rigen el ejercicio de la función jurisdiccional según el artículo 117 de la Constitución?",
+    "respuesta": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley. La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.",
+    "explicacion": "El art. 117 CE consagra la independencia judicial y la gratuidad de la justicia para personas sin recursos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 122",
+    "enunciado": "¿Cómo se compone el Consejo General del Poder Judicial según el artículo 122 de la Constitución?",
+    "respuesta": "Está integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un periodo de cinco años: doce entre Jueces y Magistrados de todas las categorías judiciales, y ocho entre abogados y otros juristas de reconocida competencia con más de quince años de ejercicio profesional (cuatro propuestos por el Congreso y cuatro por el Senado, por mayoría de tres quintos).",
+    "explicacion": "El art. 122 CE regula el órgano de gobierno del Poder Judicial, con mayoría de vocales judiciales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T02-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T02",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 103",
+    "enunciado": "¿Con arreglo a qué principios actúa la Administración Pública según el artículo 103 de la Constitución?",
+    "respuesta": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho. El acceso a la función pública se realizará de acuerdo con los principios de mérito y capacidad.",
+    "explicacion": "El art. 103 CE fija los principios de actuación administrativa y el mérito y la capacidad en el acceso al empleo público.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué Administraciones integran el ámbito subjetivo de la Ley 40/2015 según su artículo 2?",
+    "respuesta": "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional.",
+    "explicacion": "El art. 2 de la Ley 40/2015 delimita las Administraciones Públicas sometidas a su régimen jurídico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 3",
+    "enunciado": "Cite cuatro principios generales que deben respetar las Administraciones Públicas en su actuación según el artículo 3 de la Ley 40/2015.",
+    "respuesta": "Servicio efectivo a los ciudadanos; simplicidad, claridad y proximidad a los ciudadanos; participación, objetividad y transparencia; racionalización y agilidad de los procedimientos administrativos; buena fe y confianza legítima; eficacia en el cumplimiento de los objetivos; eficiencia en la asignación y utilización de los recursos públicos; y cooperación y coordinación entre Administraciones.",
+    "explicacion": "El art. 3 de la Ley 40/2015 recoge los principios de actuación y de relaciones entre Administraciones Públicas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 84",
+    "enunciado": "¿Cómo se clasifica el sector público institucional según el artículo 84 de la Ley 40/2015?",
+    "respuesta": "Se integra por: a) los organismos públicos vinculados o dependientes (organismos autónomos, entidades públicas empresariales y agencias estatales); b) las autoridades administrativas independientes; c) las sociedades mercantiles estatales; d) los consorcios; e) las fundaciones del sector público; f) los fondos sin personalidad jurídica; y g) las universidades públicas no transferidas.",
+    "explicacion": "El art. 84 de la Ley 40/2015 establece la composición y clasificación del sector público institucional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 85",
+    "enunciado": "¿A qué controles están sometidas las entidades del sector público institucional según el artículo 85 de la Ley 40/2015?",
+    "respuesta": "A un control de eficacia y a una supervisión continua, con el fin de comprobar la subsistencia de los motivos que justificaron su creación y su sostenibilidad financiera.",
+    "explicacion": "El art. 85 de la Ley 40/2015 impone el control de eficacia y la supervisión continua de las entidades del sector público institucional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 86",
+    "enunciado": "¿Qué es un medio propio y servicio técnico según el artículo 86 de la Ley 40/2015?",
+    "respuesta": "Son entidades del sector público que, por disponer de medios suficientes e idóneos, pueden recibir encargos de los poderes adjudicadores de los que dependen para ejecutar prestaciones propias de contratos, quedando excluidos de la legislación de contratos del sector público en esos encargos.",
+    "explicacion": "El art. 86 de la Ley 40/2015 regula la figura del medio propio, instrumento de cooperación vertical entre Administraciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "arts. 88 y 89",
+    "enunciado": "¿Qué características tienen los organismos públicos según los artículos 88 y 89 de la Ley 40/2015?",
+    "respuesta": "Tienen personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión. Desarrollan actividades de ejecución o gestión, tanto administrativas de fomento, prestacionales o de gestión de servicios públicos, como de contenido económico reservadas a las Administraciones Públicas.",
+    "explicacion": "Los arts. 88 y 89 de la Ley 40/2015 definen los organismos públicos y sus potestades.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 149",
+    "enunciado": "¿Qué competencia exclusiva reserva al Estado el artículo 149.1.18.ª de la Constitución en materia de Administraciones Públicas?",
+    "respuesta": "Las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios, que en todo caso garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común y la legislación sobre expropiación forzosa, responsabilidad patrimonial y el sistema de responsabilidad de todas las Administraciones Públicas.",
+    "explicacion": "El art. 149.1.18.ª CE reserva al Estado las bases del régimen jurídico de las AAPP y el procedimiento administrativo común.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 137",
+    "enunciado": "¿Cómo se organiza territorialmente el Estado según el artículo 137 de la Constitución?",
+    "respuesta": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+    "explicacion": "El art. 137 CE es el precepto base de la organización territorial y de la autonomía de los entes territoriales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué entidades integran la Administración Local según el artículo 3 de la Ley 7/1985?",
+    "respuesta": "Son entidades locales territoriales: el Municipio, la Provincia y la Isla (en los archipiélagos balear y canario). Gozan asimismo de la condición de entidades locales las comarcas u otras entidades que agrupen varios municipios, las áreas metropolitanas y las mancomunidades de municipios.",
+    "explicacion": "El art. 3 de la Ley 7/1985 enumera las entidades locales, distinguiendo las territoriales de las no territoriales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué son los Municipios según el artículo 1 de la Ley 7/1985?",
+    "respuesta": "Los Municipios son entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos, que institucionalizan y gestionan con autonomía los intereses propios de las correspondientes colectividades.",
+    "explicacion": "El art. 1 de la Ley 7/1985 define al municipio como entidad básica y cauce de participación ciudadana.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 31",
+    "enunciado": "¿Qué es la Provincia según el artículo 31 de la Ley 7/1985?",
+    "respuesta": "La Provincia es una entidad local determinada por la agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+    "explicacion": "El art. 31 de la Ley 7/1985 define la provincia como agrupación de municipios con personalidad jurídica propia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué garantiza el artículo 2 de la Ley 7/1985 para la efectividad de la autonomía local?",
+    "respuesta": "Para la efectividad de la autonomía garantizada constitucionalmente a las entidades locales, la legislación del Estado y de las Comunidades Autónomas deberá asegurar a los Municipios, las Provincias y las Islas su derecho a intervenir en cuantos asuntos afecten directamente al círculo de sus intereses, atribuyéndoles las competencias que proceda.",
+    "explicacion": "El art. 2 de la Ley 7/1985 desarrolla la garantía constitucional de la autonomía local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 147",
+    "enunciado": "¿Qué son los Estatutos de Autonomía y qué contenido mínimo deben tener según el artículo 147 de la Constitución?",
+    "respuesta": "Son la norma institucional básica de cada Comunidad Autónoma, aprobados por ley orgánica. Deben contener la denominación de la Comunidad, la delimitación de su territorio, la denominación, organización y sede de las instituciones autonómicas propias y las competencias asumidas.",
+    "explicacion": "El art. 147 CE configura el Estatuto como norma institucional básica de la Comunidad Autónoma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 40/2015",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué diferencia existe entre descentralización y desconcentración como principios de organización administrativa?",
+    "respuesta": "La descentralización supone la transferencia de competencias a entes con personalidad jurídica propia y autonomía (por ejemplo, a las Comunidades Autónomas o a los organismos públicos), mientras que la desconcentración es la transferencia de competencias dentro de la misma Administración, de órganos superiores a órganos inferiores jerárquicamente dependientes. Ambos son principios del art. 3 de la Ley 40/2015.",
+    "explicacion": "Descentralización y desconcentración son principios organizativos del art. 3 de la Ley 40/2015 con distinto alcance jurídico.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 2",
+    "enunciado": "¿A quiénes se aplica la Ley 39/2015 según su artículo 2?",
+    "respuesta": "A la Administración General del Estado, a las Administraciones de las Comunidades Autónomas, a las Entidades que integran la Administración Local y al sector público institucional.",
+    "explicacion": "El art. 2 de la Ley 39/2015 establece su ámbito subjetivo de aplicación, coincidente con el de la Ley 40/2015.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T03-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T03",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 103",
+    "enunciado": "¿Cómo se organiza la Administración General del Estado en el territorio?",
+    "respuesta": "Además de los órganos centrales (ministerios), cuenta con organización territorial: las Delegaciones del Gobierno en las Comunidades Autónomas y las Subdelegaciones del Gobierno en las provincias, que dirigen y coordinan la Administración periférica del Estado bajo la dirección del Gobierno y conforme al art. 103 de la Constitución.",
+    "explicacion": "La organización territorial del Estado completa la Administración central con delegaciones y subdelegaciones del Gobierno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T04-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 1",
+    "enunciado": "¿Qué declara el artículo 1 del Estatuto de Autonomía para Andalucía?",
+    "respuesta": "Andalucía, como nacionalidad histórica y en el ejercicio del derecho de autogobierno que reconoce la Constitución, se constituye en Comunidad Autónoma en el marco de la unidad de la Nación española.",
+    "explicacion": "El art. 1 del Estatuto proclama la constitución de Andalucía como Comunidad Autónoma y nacionalidad histórica.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 2",
+    "enunciado": "¿Qué territorio comprende la Comunidad Autónoma de Andalucía según el artículo 2 de su Estatuto?",
+    "respuesta": "El territorio de Andalucía comprende el de los municipios de las provincias de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla.",
+    "explicacion": "El art. 2 del Estatuto delimita el territorio andaluz por las ocho provincias históricas.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 3",
+    "enunciado": "¿Cuáles son los símbolos de Andalucía según el artículo 3 de su Estatuto?",
+    "respuesta": "La bandera (formada por tres franjas horizontales verde, blanca y verde), el escudo (con la figura de Hércules entre las dos columnas) y el himno de Andalucía.",
+    "explicacion": "El art. 3 del Estatuto regula los símbolos: bandera, escudo e himno.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 4",
+    "enunciado": "¿Cuál es la capital de Andalucía y dónde tienen su sede las instituciones de autogobierno?",
+    "respuesta": "La capital de Andalucía es la ciudad de Sevilla, sede del Parlamento, de la Presidencia de la Junta y del Consejo de Gobierno.",
+    "explicacion": "El art. 4 del Estatuto establece la capitalidad y las sedes institucionales en Sevilla.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 10",
+    "enunciado": "Cite tres objetivos básicos de la Comunidad Autónoma de Andalucía según el artículo 10 de su Estatuto.",
+    "respuesta": "La consecución del pleno empleo; la cohesión social mediante un eficaz sistema de bienestar público; la igualdad efectiva entre hombres y mujeres; la protección del medio ambiente; el acceso de todos los andaluces a una educación permanente y de calidad; o el fortalecimiento de la sociedad civil.",
+    "explicacion": "El art. 10 del Estatuto enumera los objetivos básicos que orientan las políticas públicas andaluzas.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 42",
+    "enunciado": "¿Cómo clasifica el artículo 42 del Estatuto las competencias de la Comunidad Autónoma de Andalucía?",
+    "respuesta": "En competencias exclusivas (potestad legislativa, reglamentaria y ejecutiva íntegras), competencias compartidas (desarrollo legislativo y ejecución en el marco de las bases estatales) y competencias ejecutivas (ejecución de la legislación del Estado).",
+    "explicacion": "El art. 42 del Estatuto clasifica las competencias en exclusivas, compartidas y ejecutivas.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 99",
+    "enunciado": "¿Qué es la Junta de Andalucía según el artículo 99 del Estatuto?",
+    "respuesta": "La Junta de Andalucía es la institución en que se organiza políticamente el autogobierno de la Comunidad Autónoma, integrada por el Parlamento de Andalucía, la Presidencia de la Junta y el Consejo de Gobierno.",
+    "explicacion": "El art. 99 del Estatuto define la Junta de Andalucía y sus tres instituciones básicas.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 106",
+    "enunciado": "¿Qué funciones corresponden al Parlamento de Andalucía según el artículo 106 del Estatuto?",
+    "respuesta": "Representar al pueblo andaluz, ejercer la potestad legislativa, aprobar los presupuestos de la Comunidad Autónoma, controlar la acción del Consejo de Gobierno y elegir al Presidente de la Junta, entre otras.",
+    "explicacion": "El art. 106 del Estatuto atribuye al Parlamento las funciones legislativa, presupuestaria y de control.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "arts. 117 a 119",
+    "enunciado": "¿Qué órganos integran el poder ejecutivo andaluz según los artículos 117 a 119 del Estatuto?",
+    "respuesta": "El Presidente de la Junta, que dirige y coordina la acción del Consejo de Gobierno y ostenta la suprema representación de la Comunidad Autónoma, y el Consejo de Gobierno, órgano colegiado que dirige la política y la Administración autonómica.",
+    "explicacion": "Los arts. 117 a 119 del Estatuto regulan la Presidencia y el Consejo de Gobierno de la Junta de Andalucía.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 128",
+    "enunciado": "¿Qué es el Defensor del Pueblo Andaluz según el artículo 128 del Estatuto?",
+    "respuesta": "Es el comisionado del Parlamento para la defensa de los derechos y libertades comprendidos en el Título I del Estatuto, pudiendo supervisar la actividad de las Administraciones Públicas andaluzas.",
+    "explicacion": "El art. 128 del Estatuto configura al Defensor del Pueblo Andaluz como comisionado parlamentario.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 60",
+    "enunciado": "¿Qué establece el artículo 60 del Estatuto sobre el régimen local en Andalucía?",
+    "respuesta": "Corresponde a la Comunidad Autónoma la competencia exclusiva en materia de régimen local, que incluye las relaciones entre las instituciones autonómicas y los entes locales, la determinación de sus competencias y potestades, y la regulación de sus bienes, respetando la autonomía local y la legislación básica del Estado.",
+    "explicacion": "El art. 60 del Estatuto atribuye a Andalucía la competencia sobre el régimen local andaluz.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T04-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 148",
+    "enunciado": "Según el artículo 148 de la Constitución, ¿qué competencias pueden asumir las Comunidades Autónomas?",
+    "respuesta": "Entre otras: organización de sus instituciones de autogobierno; ordenación del territorio, urbanismo y vivienda; obras públicas de interés autonómico; agricultura y ganadería; medio ambiente; sanidad e higiene; turismo; cultura; y fomento del desarrollo económico dentro de los objetivos estatales.",
+    "explicacion": "El art. 148 CE enumera las materias que las CCAA pueden asumir en sus Estatutos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T04-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 149",
+    "enunciado": "Cite tres competencias exclusivas del Estado según el artículo 149.1 de la Constitución.",
+    "respuesta": "La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles; nacionalidad, inmigración y extranjería; relaciones internacionales; defensa y Fuerzas Armadas; bases del régimen jurídico de las Administraciones Públicas; legislación básica sobre protección del medio ambiente; o Hacienda general y Deuda del Estado.",
+    "explicacion": "El art. 149.1 CE reserva al Estado 32 materias de competencia exclusiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T04-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 138",
+    "enunciado": "¿Qué principio establece el artículo 138 de la Constitución respecto a las Comunidades Autónomas?",
+    "respuesta": "El Estado garantiza la realización efectiva del principio de solidaridad consagrado en el art. 2, velando por el establecimiento de un equilibrio económico adecuado y justo entre las diversas partes del territorio español, sin que las diferencias entre los Estatutos puedan implicar privilegios económicos o sociales.",
+    "explicacion": "El art. 138 CE consagra el principio de solidaridad interterritorial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T04-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 147",
+    "enunciado": "¿Mediante qué norma se aprueban los Estatutos de Autonomía y qué rango tienen?",
+    "respuesta": "Los Estatutos serán la norma institucional básica de cada Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico, aprobándose mediante ley orgánica.",
+    "explicacion": "El art. 147 CE exige ley orgánica para la aprobación de los Estatutos de Autonomía.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T04-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T04",
+    "ley": "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "articulo": "art. 130",
+    "enunciado": "¿Qué función tiene la Cámara de Cuentas de Andalucía según el artículo 130 del Estatuto?",
+    "respuesta": "Es el órgano de control externo de la actividad económica y presupuestaria de la Junta de Andalucía, de los entes locales y del resto del sector público andaluz.",
+    "explicacion": "El art. 130 del Estatuto configura la Cámara de Cuentas como órgano de fiscalización externa.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T05-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Qué garantiza el artículo 140 de la Constitución a los municipios?",
+    "respuesta": "La Constitución garantiza la autonomía de los municipios, que gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales, elegidos por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+    "explicacion": "El art. 140 CE consagra la autonomía municipal y la elección democrática de los Ayuntamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿Qué establece el artículo 141 de la Constitución sobre la provincia?",
+    "respuesta": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Su gobierno y administración autónoma están encomendados a Diputaciones u otras Corporaciones de carácter representativo.",
+    "explicacion": "El art. 141 CE define la provincia y atribuye su gobierno a las Diputaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 19",
+    "enunciado": "¿A quién corresponde el gobierno y la administración municipal según el artículo 19 de la Ley 7/1985?",
+    "respuesta": "Al Ayuntamiento, integrado por el Alcalde y los Concejales, salvo en aquellos municipios que legalmente funcionen en régimen de Concejo Abierto.",
+    "explicacion": "El art. 19 de la Ley 7/1985 atribuye el gobierno municipal al Ayuntamiento, con la excepción del Concejo Abierto.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué órganos existen en todos los Ayuntamientos según el artículo 20 de la Ley 7/1985?",
+    "respuesta": "El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los Ayuntamientos. La Junta de Gobierno Local existe en todos los municipios con población superior a 5.000 habitantes y en los de menos cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno.",
+    "explicacion": "El art. 20 de la Ley 7/1985 fija las reglas básicas de la organización municipal.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 21",
+    "enunciado": "Según el artículo 21 de la Ley 7/1985, ¿qué posición ocupa el Alcalde en la Corporación?",
+    "respuesta": "El Alcalde es el Presidente de la Corporación y ostenta, entre otras atribuciones, dirigir el gobierno y la administración municipal, representar al Ayuntamiento, convocar y presidir las sesiones del Pleno y de la Junta de Gobierno, dictar bandos y ejercer la jefatura superior de todo el personal.",
+    "explicacion": "El art. 21 de la Ley 7/1985 configura al Alcalde como Presidente de la Corporación con amplias atribuciones ejecutivas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 22",
+    "enunciado": "¿Qué órgano municipal aprueba los presupuestos y las ordenanzas según el artículo 22 de la Ley 7/1985?",
+    "respuesta": "El Pleno, integrado por todos los Concejales y presidido por el Alcalde. Le corresponde, entre otras atribuciones, el control y la fiscalización de los órganos de gobierno, la aprobación de los presupuestos, de las ordenanzas y del planeamiento urbanístico.",
+    "explicacion": "El art. 22 de la Ley 7/1985 atribuye al Pleno las decisiones normativas y de control más relevantes.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 25",
+    "enunciado": "¿En qué materias puede actuar el municipio según el artículo 25 de la Ley 7/1985?",
+    "respuesta": "En urbanismo; medio ambiente urbano; abastecimiento de agua potable y evacuación de aguas residuales; infraestructura viaria; evaluación e información de situaciones de necesidad social; policía local y protección civil; tráfico y transporte colectivo urbano; información y promoción de la actividad turística; ferias y mercados; protección de la salubridad pública; cementerios; promoción del deporte y la cultura, entre otras.",
+    "explicacion": "El art. 25 de la Ley 7/1985 enumera las materias de competencia municipal propia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 26",
+    "enunciado": "¿Qué servicios mínimos debe prestar todo municipio según el artículo 26 de la Ley 7/1985?",
+    "respuesta": "En todo caso: alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas.",
+    "explicacion": "El art. 26 de la Ley 7/1985 impone servicios mínimos obligatorios, ampliados por tramos de población.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 26",
+    "enunciado": "¿Qué servicios adicionales deben prestar los municipios de más de 50.000 habitantes según el artículo 26 de la Ley 7/1985?",
+    "respuesta": "Además de los exigibles en tramos inferiores, transporte colectivo urbano de viajeros y medio ambiente urbano.",
+    "explicacion": "El art. 26 de la Ley 7/1985 gradúa los servicios obligatorios: 5.000 (parque, biblioteca, mercado, tratamiento de residuos), 20.000 (protección civil, servicios sociales, incendios, instalaciones deportivas) y 50.000 (transporte colectivo y medio ambiente).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué personalidad tiene el Municipio según el artículo 11 de la Ley 7/1985?",
+    "respuesta": "El Municipio es la entidad local básica de la organización territorial del Estado, tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.",
+    "explicacion": "El art. 11 de la Ley 7/1985 atribuye al municipio personalidad jurídica y plena capacidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué es el término municipal según el artículo 12 de la Ley 7/1985?",
+    "respuesta": "Es el territorio en que el Ayuntamiento ejerce sus competencias.",
+    "explicacion": "El art. 12 de la Ley 7/1985 define el término municipal como ámbito territorial de las competencias del Ayuntamiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿Cómo se eligen los Concejales según el artículo 140 de la Constitución?",
+    "respuesta": "Por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.",
+    "explicacion": "El art. 140 CE exige la elección democrática directa de los miembros de los Ayuntamientos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué periodicidad mínima debe celebrar sesión ordinaria el Pleno según el artículo 46 de la Ley 7/1985?",
+    "respuesta": "Los órganos colegiados funcionan en régimen de sesiones ordinarias de periodicidad preestablecida y extraordinarias. El Pleno celebra sesión ordinaria como mínimo cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales; cada dos meses en los de 5.001 a 20.000; y cada tres meses en los de hasta 5.000 habitantes.",
+    "explicacion": "El art. 46 de la Ley 7/1985 fija la periodicidad mínima de las sesiones plenarias ordinarias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 57",
+    "enunciado": "¿Cómo se desarrolla la cooperación entre la Administración local y las demás Administraciones según el artículo 57 de la Ley 7/1985?",
+    "respuesta": "Con carácter voluntario, bajo las formas y en los términos previstos en las leyes, pudiendo tener lugar mediante los consorcios o los convenios administrativos que suscriban.",
+    "explicacion": "El art. 57 de la Ley 7/1985 regula la cooperación interadministrativa mediante consorcios y convenios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 2",
+    "enunciado": "¿Quién aprueba las bases del régimen local y qué norma autonómica las desarrolla en Andalucía?",
+    "respuesta": "Las bases del régimen local las aprueba el Estado mediante la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local; en Andalucía se desarrollan por la Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía.",
+    "explicacion": "El régimen local combina la legislación básica estatal (Ley 7/1985) con la legislación autonómica de desarrollo (Ley 5/2010 en Andalucía).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T05-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T05",
+    "ley": "Ley 5/2010",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 5/2010, de Autonomía Local de Andalucía?",
+    "respuesta": "Regular el régimen local de Andalucía y desarrollar la autonomía local reconocida en la Constitución y en el Estatuto de Autonomía, completando la legislación básica estatal en materia de régimen local.",
+    "explicacion": "La Ley 5/2010 es la norma autonómica andaluza de desarrollo del régimen local.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 31",
+    "enunciado": "¿Cuáles son los fines propios de la Provincia según la Ley 7/1985?",
+    "respuesta": "Garantizar los principios de solidaridad y equilibrio intermunicipales; asegurar la prestación integral y adecuada en la totalidad del territorio provincial de los servicios de competencia municipal; y participar en la coordinación de la Administración local con la de la Comunidad Autónoma y la del Estado.",
+    "explicacion": "El art. 31 de la Ley 7/1985, tras definir la provincia, le asigna estos fines propios.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 32",
+    "enunciado": "¿Cuáles son los órganos necesarios de la Diputación Provincial según el artículo 32 de la Ley 7/1985?",
+    "respuesta": "El Presidente, los Vicepresidentes, el Pleno y la Junta de Gobierno.",
+    "explicacion": "El art. 32 de la Ley 7/1985 enumera los órganos necesarios de la organización provincial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 33",
+    "enunciado": "¿Cómo está constituido el Pleno de la Diputación según el artículo 33 de la Ley 7/1985?",
+    "respuesta": "Por el Presidente y los Diputados.",
+    "explicacion": "El art. 33 de la Ley 7/1985 define la composición del Pleno provincial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 34",
+    "enunciado": "Cite tres atribuciones del Presidente de la Diputación según el artículo 34 de la Ley 7/1985.",
+    "respuesta": "Dirigir el gobierno y la administración de la provincia; representar a la Diputación; convocar y presidir las sesiones del Pleno y de la Junta de Gobierno; ejercer la jefatura superior de todo el personal de la Corporación; y dictar las disposiciones particulares para el mejor cumplimiento de los acuerdos.",
+    "explicacion": "El art. 34 de la Ley 7/1985 atribuye al Presidente la dirección del gobierno provincial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 35",
+    "enunciado": "¿Cómo se integra la Junta de Gobierno de la Diputación según el artículo 35 de la Ley 7/1985?",
+    "respuesta": "Por el Presidente y un número de Diputados no superior al tercio del número legal de los mismos, nombrados y separados libremente por aquel, dando cuenta al Pleno.",
+    "explicacion": "El art. 35 de la Ley 7/1985 regula la composición de la Junta de Gobierno provincial.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 36",
+    "enunciado": "Cite tres competencias propias de la Diputación según el artículo 36 de la Ley 7/1985.",
+    "respuesta": "La coordinación de los servicios municipales entre sí para garantizar su prestación integral y adecuada; la asistencia y cooperación jurídica, económica y técnica a los Municipios, especialmente los de menor capacidad económica y de gestión; la prestación de servicios públicos de carácter supramunicipal; y la cooperación en el fomento del desarrollo económico y social y en la planificación en el territorio provincial.",
+    "explicacion": "El art. 36 de la Ley 7/1985 enumera las competencias propias de las Diputaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley Orgánica 5/1985",
+    "articulo": "art. 205",
+    "enunciado": "¿Cómo se eligen los Diputados Provinciales?",
+    "respuesta": "De forma indirecta: una vez celebradas las elecciones municipales, los Concejales electos eligen entre ellos a los Diputados Provinciales, atribuyéndose a cada partido, coalición, federación o agrupación un número de puestos proporcional al número de votos obtenidos en la provincia.",
+    "explicacion": "La elección de los Diputados es de segundo grado y proporcional, conforme a la Ley Orgánica del Régimen Electoral General.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T06-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 34",
+    "enunciado": "¿Cómo se elige al Presidente de la Diputación?",
+    "respuesta": "Es elegido por el Pleno de la Diputación entre sus miembros en la sesión constitutiva, por mayoría absoluta en primera votación o por mayoría simple en segunda votación.",
+    "explicacion": "El Presidente provincial es elegido por los Diputados en la sesión constitutiva de la Corporación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 33",
+    "enunciado": "¿Qué órganos complementarios pueden existir en una Diputación Provincial?",
+    "respuesta": "Las Comisiones Informativas, la Comisión Especial de Cuentas, los Consejos Sectoriales y otros órganos que establezca el Reglamento Orgánico de la Diputación.",
+    "explicacion": "Junto a los órganos necesarios, las Diputaciones crean órganos complementarios de estudio, informe y participación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 141",
+    "enunciado": "¿A quién encomienda la Constitución el gobierno y la administración autónoma de la provincia?",
+    "respuesta": "A las Diputaciones u otras Corporaciones de carácter representativo.",
+    "explicacion": "El art. 141 CE atribuye el gobierno provincial a las Diputaciones como corporaciones representativas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 36",
+    "enunciado": "¿Qué municipios reciben una atención preferente en la asistencia de la Diputación según el artículo 36 de la Ley 7/1985?",
+    "respuesta": "Los de menor capacidad económica y de gestión.",
+    "explicacion": "El art. 36 de la Ley 7/1985 orienta la asistencia provincial hacia los municipios con menor capacidad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 32",
+    "enunciado": "¿Quiénes son los Vicepresidentes de la Diputación y cómo se nombran?",
+    "respuesta": "Son Diputados nombrados y separados libremente por el Presidente, que les encomiendan la sustitución de este en casos de vacante, ausencia o enfermedad.",
+    "explicacion": "Los Vicepresidentes provinciales son de libre designación del Presidente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley Orgánica 5/1985",
+    "articulo": "art. 206",
+    "enunciado": "¿Puede ser destituido el Presidente de la Diputación mediante moción de censura?",
+    "respuesta": "Sí, mediante moción de censura constructiva aprobada por mayoría absoluta del número legal de Diputados, que debe incluir un candidato alternativo a la Presidencia.",
+    "explicacion": "La LOREG prevé la moción de censura constructiva contra el Presidente de la Diputación.",
+    "verificado_corpus": false
+  },
+  {
+    "id": "CAD-C2-T06-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 31",
+    "enunciado": "¿La provincia tiene personalidad jurídica propia según el artículo 31 de la Ley 7/1985?",
+    "respuesta": "Sí, la Provincia es una entidad local con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+    "explicacion": "El art. 31 de la Ley 7/1985 reconoce a la provincia personalidad jurídica propia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 36",
+    "enunciado": "¿Qué servicios de carácter supramunicipal puede prestar la Diputación?",
+    "respuesta": "Aquellos servicios públicos de carácter supramunicipal y, en su caso, supracomarcal, como competencia propia atribuida por el art. 36 de la Ley 7/1985 (por ejemplo, carreteras provinciales, asistencia a municipios o servicios coordinados).",
+    "explicacion": "El art. 36 de la Ley 7/1985 incluye la prestación de servicios supramunicipales entre las competencias propias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T06-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T06",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 46",
+    "enunciado": "¿Con qué periodicidad mínima celebra sesión ordinaria el Pleno de la Diputación?",
+    "respuesta": "Como mínimo cada mes, al igual que los Ayuntamientos de municipios de más de 20.000 habitantes.",
+    "explicacion": "El art. 46 de la Ley 7/1985 fija la periodicidad mínima mensual para las Diputaciones Provinciales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 11",
+    "enunciado": "¿Cuáles son los elementos del Municipio?",
+    "respuesta": "El territorio (término municipal), la población (vecinos) y la organización (Ayuntamiento).",
+    "explicacion": "El municipio se compone de territorio, población y organización, conforme a los arts. 11 y 12 de la Ley 7/1985.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 19",
+    "enunciado": "¿Qué es el régimen de Concejo Abierto?",
+    "respuesta": "Es un régimen especial de gobierno municipal en el que el gobierno y la administración del municipio corresponden a una Asamblea vecinal integrada por todos los electores, en lugar del Ayuntamiento. Funciona en municipios de muy escasa población que tradicional e históricamente lo hayan tenido.",
+    "explicacion": "El Concejo Abierto es la excepción al gobierno por Ayuntamiento prevista en el art. 19 de la Ley 7/1985.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué son los Tenientes de Alcalde y cómo se nombran?",
+    "respuesta": "Son Concejales nombrados y separados libremente por el Alcalde, que les encomiendan la sustitución de este en los casos de vacante, ausencia o enfermedad, así como la dirección de áreas de gobierno.",
+    "explicacion": "Los Tenientes de Alcalde son órganos necesarios de libre designación del Alcalde (art. 20 de la Ley 7/1985).",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué atribuciones del Alcalde requieren dar cuenta al Pleno según el artículo 21 de la Ley 7/1985?",
+    "respuesta": "El Alcalde puede delegar el ejercicio de sus atribuciones, salvo las de convocar y presidir las sesiones, decidir los empates con voto de calidad, la concertación de operaciones de crédito cuando superen ciertos límites y la jefatura superior del personal, entre otras indelegables; de las resoluciones que adopte debe dar cuenta al Pleno.",
+    "explicacion": "El art. 21 de la Ley 7/1985 permite la delegación de atribuciones del Alcalde con límites y control del Pleno.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 22",
+    "enunciado": "¿Qué mayorías requiere el Pleno para adoptar acuerdos según la Ley 7/1985?",
+    "respuesta": "Con carácter general, los acuerdos se adoptan por mayoría simple de los miembros presentes. Se requiere mayoría absoluta del número legal de miembros para la aprobación del planeamiento general, la creación de órganos desconcentrados, la alteración del término municipal o la aprobación de ordenanzas fiscales, entre otros supuestos.",
+    "explicacion": "El art. 47 de la Ley 7/1985 fija las mayorías: simple como regla general y absoluta para materias tasadas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 25",
+    "enunciado": "¿Las competencias del artículo 25 de la Ley 7/1985 son propias o delegadas?",
+    "respuesta": "Son competencias propias del municipio: el propio artículo 25 habilita al municipio para promover actividades y prestar servicios en esas materias en el ámbito de sus competencias y para la gestión de sus intereses.",
+    "explicacion": "El art. 25 de la Ley 7/1985 atribuye competencias propias, distintas de las delegadas por el Estado o la Comunidad Autónoma.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 26",
+    "enunciado": "Un municipio de 8.000 habitantes, ¿qué servicios mínimos debe prestar según el artículo 26 de la Ley 7/1985?",
+    "respuesta": "Los exigibles a todo municipio (alumbrado, cementerio, recogida de residuos, limpieza viaria, agua potable, alcantarillado, acceso a núcleos y pavimentación) más los del tramo de más de 5.000 habitantes: parque público, biblioteca pública, mercado y tratamiento de residuos.",
+    "explicacion": "El art. 26 de la Ley 7/1985 gradúa los servicios mínimos por tramos de población.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 140",
+    "enunciado": "¿En qué se concreta la autonomía municipal garantizada por la Constitución?",
+    "respuesta": "En la potestad de autoorganización, la potestad normativa (ordenanzas), la autonomía financiera y tributaria, la plena capacidad jurídica y patrimonial, y el derecho a intervenir en los asuntos que afecten a sus intereses con las competencias que le atribuyan las leyes.",
+    "explicacion": "La autonomía municipal del art. 140 CE se desarrolla en la Ley 7/1985 como garantía institucional.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 12",
+    "enunciado": "¿Quién puede alterar el término municipal y mediante qué procedimiento?",
+    "respuesta": "La alteración de términos municipales se regula por la legislación de las Comunidades Autónomas, requiriendo en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado o del órgano consultivo autonómico, y se aprueba por el Consejo de Gobierno autonómico.",
+    "explicacion": "La alteración del término municipal (art. 13 de la Ley 7/1985) exige audiencia y dictamen consultivo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 20",
+    "enunciado": "¿Qué funciones tienen las Comisiones Informativas en el Ayuntamiento?",
+    "respuesta": "Son órganos complementarios sin atribuciones resolutorias, integrados por Concejales, cuya función es el estudio, informe o consulta de los asuntos que hayan de ser sometidos a la decisión del Pleno o de la Junta de Gobierno.",
+    "explicacion": "Las Comisiones Informativas preparan los asuntos de los órganos de gobierno municipales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 21",
+    "enunciado": "¿Cómo se elige al Alcalde en el régimen general?",
+    "respuesta": "En la sesión constitutiva del Ayuntamiento, es proclamado Alcalde el cabeza de la lista más votada si obtiene mayoría absoluta; si ninguno la obtiene, es proclamado el cabeza de la lista más votada en las elecciones.",
+    "explicacion": "La elección del Alcalde se rige por la Ley Orgánica del Régimen Electoral General.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 22",
+    "enunciado": "¿Puede el Pleno delegar sus atribuciones?",
+    "respuesta": "Sí, el Pleno puede delegar el ejercicio de sus atribuciones en el Alcalde y en la Junta de Gobierno Local, salvo las indelegables como la aprobación de presupuestos y ordenanzas, el planeamiento urbanístico o el control de los órganos de gobierno.",
+    "explicacion": "El art. 22.4 de la Ley 7/1985 permite la delegación del Pleno con un núcleo de atribuciones indelegables.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 25",
+    "enunciado": "¿Qué ocurre si el Estado o la Comunidad Autónoma delegan competencias en el municipio?",
+    "respuesta": "La delegación debe ir acompañada de la financiación necesaria y no puede suponer un mayor gasto para el municipio; además, la Administración delegante puede dirigir y controlar el ejercicio de los servicios delegados.",
+    "explicacion": "El art. 27 de la Ley 7/1985 exige que la delegación de competencias incluya su financiación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 26",
+    "enunciado": "¿Quién puede dispensar a un municipio de prestar un servicio mínimo obligatorio?",
+    "respuesta": "La Diputación Provincial (o la Comunidad Autónoma en municipios de provincias sin diputación), a solicitud del municipio y cuando por sus características peculiares resulte imposible o muy difícil su prestación.",
+    "explicacion": "El art. 26.2 de la Ley 7/1985 prevé la dispensa de servicios mínimos por la Diputación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 142",
+    "enunciado": "¿Cómo se financian las Haciendas locales según el artículo 142 de la Constitución?",
+    "respuesta": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+    "explicacion": "El art. 142 CE consagra la suficiencia financiera de las entidades locales.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T07-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T07",
+    "ley": "Ley 7/1985",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué significa que el municipio tenga plena capacidad para el cumplimiento de sus fines?",
+    "respuesta": "Que puede adquirir, poseer, reivindicar, permutar, gravar o enajenar toda clase de bienes, celebrar contratos, establecer y explotar obras y servicios públicos, obligarse, interponer recursos y ejercitar acciones judiciales.",
+    "explicacion": "La plena capacidad del art. 11 de la Ley 7/1985 permite al municipio actuar en el tráfico jurídico como persona jurídica.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 13",
+    "enunciado": "Cite cuatro derechos de las personas en sus relaciones con las Administraciones Públicas según el artículo 13 de la Ley 39/2015.",
+    "respuesta": "Comunicarse con las Administraciones a través de un Punto de Acceso General electrónico; ser asistidos en el uso de medios electrónicos; utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma; acceder a la información pública, archivos y registros; ser tratados con respeto y deferencia; exigir las responsabilidades de las Administraciones y autoridades; obtener y utilizar los medios de identificación y firma electrónica; y la protección de datos de carácter personal.",
+    "explicacion": "El art. 13 de la Ley 39/2015 enumera los derechos generales de las personas ante las AAPP.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 4",
+    "enunciado": "¿Quiénes tienen la consideración de interesados en el procedimiento administrativo según el artículo 4 de la Ley 39/2015?",
+    "respuesta": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos; los que, sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte; y aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+    "explicacion": "El art. 4 de la Ley 39/2015 define al interesado en sus tres modalidades.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 53",
+    "enunciado": "¿Qué derechos tiene el interesado en el procedimiento administrativo según el artículo 53 de la Ley 39/2015?",
+    "respuesta": "A conocer el estado de la tramitación y el sentido del silencio; a identificar a las autoridades y al personal responsable; a no presentar documentos originales salvo excepciones ni documentos ya en poder de la Administración; a no presentar datos que ya obren en poder de las AAPP; a formular alegaciones y aportar documentos en cualquier fase anterior a la audiencia; a obtener información y orientación; al acceso a la información pública; y a actuar asistido de asesor.",
+    "explicacion": "El art. 53 de la Ley 39/2015 concreta los derechos del interesado dentro del procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 5",
+    "enunciado": "¿Cómo puede actuar el interesado en el procedimiento según el artículo 5 de la Ley 39/2015?",
+    "respuesta": "Por sí mismo o por medio de representante. La representación puede acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia, y se presume para los actos y gestiones de mero trámite.",
+    "explicacion": "El art. 5 de la Ley 39/2015 regula la representación, con presunción para actos de mero trámite.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 3",
+    "enunciado": "¿Quiénes tienen capacidad de obrar ante las Administraciones Públicas según el artículo 3 de la Ley 39/2015?",
+    "respuesta": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles; los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento sin asistencia de quien ejerza la patria potestad; y los grupos de afectados, uniones sin personalidad y patrimonios independientes cuando la ley lo declare expresamente.",
+    "explicacion": "El art. 3 de la Ley 39/2015 regula la capacidad de obrar en el procedimiento administrativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 23",
+    "enunciado": "¿Qué derecho reconoce el artículo 23 de la Constitución sobre la participación en los asuntos públicos?",
+    "respuesta": "Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal, y a acceder en condiciones de igualdad a las funciones y cargos públicos.",
+    "explicacion": "El art. 23 CE consagra el derecho de participación política, base de la colaboración ciudadana.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 105",
+    "enunciado": "¿Qué garantías de participación establece el artículo 105 de la Constitución?",
+    "respuesta": "La ley regulará la audiencia de los ciudadanos, directamente o a través de las organizaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten; el acceso de los ciudadanos a los archivos y registros administrativos; y el procedimiento a través del cual deben producirse los actos administrativos, garantizando la audiencia del interesado.",
+    "explicacion": "El art. 105 CE impone la audiencia ciudadana en la elaboración de normas y el acceso a archivos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 83",
+    "enunciado": "¿En qué consiste el trámite de información pública del artículo 83 de la Ley 39/2015?",
+    "respuesta": "El órgano al que corresponda la resolución puede acordar un período de información pública para que cualquier persona física o jurídica examine el expediente y formule alegaciones. Se anuncia en el diario oficial correspondiente y su duración no puede ser inferior a veinte días.",
+    "explicacion": "El art. 83 de la Ley 39/2015 articula la participación general mediante la información pública.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 62",
+    "enunciado": "¿Qué efectos tiene la denuncia en el procedimiento administrativo según el artículo 62 de la Ley 39/2015?",
+    "respuesta": "La denuncia puede dar lugar a la iniciación de oficio del procedimiento si existen indicios suficientes. La presentación de una denuncia no confiere por sí sola la condición de interesado, aunque el denunciante puede solicitar ser informado del inicio del procedimiento.",
+    "explicacion": "El art. 62 de la Ley 39/2015 regula la denuncia como forma de colaboración ciudadana.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 13",
+    "enunciado": "¿Tienen los ciudadanos derecho a no presentar documentos que ya obren en poder de la Administración?",
+    "respuesta": "Sí, el art. 53.1.d) de la Ley 39/2015 reconoce el derecho a no presentar documentos originales salvo excepciones y a no presentar datos y documentos no exigidos por las normas aplicables que ya se encuentren en poder de las Administraciones Públicas.",
+    "explicacion": "Este derecho evita cargas innecesarias y se apoya en la interoperabilidad entre Administraciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 14",
+    "enunciado": "¿Quiénes están obligados a relacionarse electrónicamente con las Administraciones Públicas según el artículo 14 de la Ley 39/2015?",
+    "respuesta": "Las personas jurídicas; las entidades sin personalidad jurídica; quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria; quienes representen a un interesado obligado a relacionarse electrónicamente; y los empleados públicos para los trámites realizados por razón de su condición.",
+    "explicacion": "El art. 14 de la Ley 39/2015 impone la relación electrónica a determinados colectivos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué asistencia deben prestar las Administraciones a los interesados en el uso de medios electrónicos según el artículo 12 de la Ley 39/2015?",
+    "respuesta": "Deben garantizar que los interesados puedan relacionarse con la Administración a través de medios electrónicos, poniendo a su disposición los canales de acceso necesarios y los sistemas y aplicaciones para ello, así como asistencia en oficinas de asistencia en materia de registros.",
+    "explicacion": "El art. 12 de la Ley 39/2015 obliga a las AAPP a asistir a los interesados en el uso de medios electrónicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 29",
+    "enunciado": "¿Qué derecho reconoce el artículo 29 de la Constitución como cauce de participación individual?",
+    "respuesta": "Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+    "explicacion": "El art. 29 CE consagra el derecho de petición como instrumento de participación ciudadana.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 4",
+    "enunciado": "¿Pueden las asociaciones ser interesadas en un procedimiento administrativo?",
+    "respuesta": "Sí, cuando sean titulares de intereses legítimos colectivos, conforme al art. 4 de la Ley 39/2015, que reconoce la condición de interesado a quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos.",
+    "explicacion": "El art. 4 de la Ley 39/2015 admite intereses legítimos colectivos, amparando a asociaciones y organizaciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 19/2013",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué derecho reconoce el artículo 12 de la Ley 19/2013 a todas las personas?",
+    "respuesta": "El derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución.",
+    "explicacion": "El art. 12 de la Ley 19/2013 configura el acceso a la información pública como derecho de todas las personas.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T08-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T08",
+    "ley": "Ley 39/2015",
+    "articulo": "art. 53",
+    "enunciado": "¿Puede el interesado actuar asistido de asesor en el procedimiento administrativo?",
+    "respuesta": "Sí, el art. 53.1.i) de la Ley 39/2015 reconoce expresamente el derecho de los interesados a actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+    "explicacion": "El derecho a la asistencia de asesor forma parte de las garantías del interesado en el procedimiento.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 3",
+    "enunciado": "¿A quiénes se aplica la Ley 31/1995 de Prevención de Riesgos Laborales según su artículo 3?",
+    "respuesta": "A las relaciones laborales reguladas en el Estatuto de los Trabajadores, a las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas y al personal civil al servicio de la Administración militar, con las particularidades de cada ámbito.",
+    "explicacion": "El art. 3 de la Ley 31/1995 incluye al personal de las Administraciones Públicas en su ámbito de aplicación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué se entiende por prevención según el artículo 4 de la Ley 31/1995?",
+    "respuesta": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo.",
+    "explicacion": "El art. 4 de la Ley 31/1995 define los conceptos básicos: prevención, riesgo laboral y daños derivados del trabajo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué es un riesgo grave e inminente según el artículo 4 de la Ley 31/1995?",
+    "respuesta": "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores.",
+    "explicacion": "El art. 4 de la Ley 31/1995 define el riesgo grave e inminente, que habilita la paralización de la actividad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 4",
+    "enunciado": "¿Qué son los daños derivados del trabajo según el artículo 4 de la Ley 31/1995?",
+    "respuesta": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+    "explicacion": "El art. 4 de la Ley 31/1995 define los daños derivados del trabajo de forma amplia.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derecho reconoce el artículo 14 de la Ley 31/1995 a los trabajadores?",
+    "respuesta": "El derecho a una protección eficaz en materia de seguridad y salud en el trabajo, que supone la existencia de un correlativo deber del empresario de protección de los trabajadores frente a los riesgos laborales.",
+    "explicacion": "El art. 14 de la Ley 31/1995 consagra el derecho a la protección y el deber empresarial correlativo.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 15",
+    "enunciado": "Enumere los principios de la acción preventiva del artículo 15 de la Ley 31/1995.",
+    "respuesta": "Evitar los riesgos; evaluar los riesgos que no se puedan evitar; combatir los riesgos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución de la técnica; sustituir lo peligroso por lo que entrañe poco o ningún peligro; planificar la prevención; anteponer la protección colectiva a la individual; y dar las debidas instrucciones a los trabajadores.",
+    "explicacion": "El art. 15 de la Ley 31/1995 establece los nueve principios de la acción preventiva.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 15",
+    "enunciado": "Según el artículo 15 de la Ley 31/1995, ¿qué protección debe anteponerse, la colectiva o la individual?",
+    "respuesta": "Debe adoptarse la medida que anteponga la protección colectiva a la individual.",
+    "explicacion": "El art. 15 de la Ley 31/1995 prioriza la protección colectiva sobre la individual.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 16",
+    "enunciado": "¿Qué debe integrar el empresario en su sistema general de gestión según el artículo 16 de la Ley 31/1995?",
+    "respuesta": "La prevención de riesgos laborales, a través de la implantación y aplicación de un plan de prevención de riesgos laborales que incluya la evaluación de riesgos y la planificación de la actividad preventiva.",
+    "explicacion": "El art. 16 de la Ley 31/1995 exige el plan de prevención, la evaluación de riesgos y su planificación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 21",
+    "enunciado": "¿Qué puede hacer el trabajador ante un riesgo grave e inminente según el artículo 21 de la Ley 31/1995?",
+    "respuesta": "Interrumpir su actividad y, de ser necesario, abandonar de inmediato el lugar de trabajo, sin que pueda sufrir perjuicio alguno por ello, salvo que hubiera obrado de mala fe o cometido negligencia grave.",
+    "explicacion": "El art. 21 de la Ley 31/1995 protege al trabajador que se aparta ante un riesgo grave e inminente.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 18",
+    "enunciado": "¿Qué derechos de información, consulta y participación tienen los trabajadores según el artículo 18 de la Ley 31/1995?",
+    "respuesta": "A recibir todas las informaciones necesarias sobre los riesgos para su seguridad y salud, las medidas de protección y prevención aplicables y las medidas de emergencia; y a ser consultados y participar en las cuestiones relacionadas con la prevención.",
+    "explicacion": "El art. 18 de la Ley 31/1995 garantiza la información y la participación de los trabajadores.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 19",
+    "enunciado": "¿Cómo debe ser la formación en materia preventiva según el artículo 19 de la Ley 31/1995?",
+    "respuesta": "El empresario debe garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva, centrada en su puesto de trabajo, al inicio de la relación laboral, cuando se produzcan cambios o se introduzcan nuevas tecnologías, y repetirse periódicamente si fuera necesario.",
+    "explicacion": "El art. 19 de la Ley 31/1995 exige formación preventiva suficiente, adecuada y actualizada.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 22",
+    "enunciado": "¿Qué características tiene la vigilancia de la salud de los trabajadores según el artículo 22 de la Ley 31/1995?",
+    "respuesta": "El empresario garantizará la vigilancia periódica de la salud en función de los riesgos inherentes al trabajo. Como regla general es voluntaria para el trabajador, salvo cuando los reconocimientos sean imprescindibles para evaluar los efectos de las condiciones de trabajo o para verificar si el estado de salud puede constituir un peligro.",
+    "explicacion": "El art. 22 de la Ley 31/1995 regula la vigilancia de la salud, voluntaria salvo excepciones.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 25",
+    "enunciado": "¿Qué protección especial establece el artículo 25 de la Ley 31/1995 para los trabajadores especialmente sensibles?",
+    "respuesta": "El empresario garantizará de manera específica la protección de los trabajadores que, por sus características personales o estado biológico conocido, sean especialmente sensibles a los riesgos derivados del trabajo, y no podrán ser empleados en puestos donde puedan ponerse en peligro.",
+    "explicacion": "El art. 25 de la Ley 31/1995 protege a los trabajadores especialmente sensibles a determinados riesgos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 29",
+    "enunciado": "¿Qué obligaciones tienen los trabajadores en materia preventiva según el artículo 29 de la Ley 31/1995?",
+    "respuesta": "Velar por su propia seguridad y salud y por la de las personas a las que pueda afectar su actividad; usar adecuadamente las máquinas, herramientas y equipos de protección; no poner fuera de funcionamiento los dispositivos de seguridad; informar de inmediato de cualquier situación de riesgo; y cooperar con el empresario.",
+    "explicacion": "El art. 29 de la Ley 31/1995 impone a los trabajadores deberes de autoprotección y colaboración.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 31",
+    "enunciado": "¿Qué son los servicios de prevención según el artículo 31 de la Ley 31/1995?",
+    "respuesta": "El conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas, a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo al empresario y a los trabajadores.",
+    "explicacion": "El art. 31 de la Ley 31/1995 define los servicios de prevención como apoyo técnico del empresario.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T09-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T09",
+    "ley": "Ley 31/1995",
+    "articulo": "art. 33",
+    "enunciado": "¿A través de qué órganos se articula la consulta de los trabajadores en materia preventiva?",
+    "respuesta": "A través de los Delegados de Prevención y el Comité de Seguridad y Salud, que es el órgano paritario y colegiado de participación destinado a la consulta regular de las actuaciones de la empresa en materia de prevención.",
+    "explicacion": "Los arts. 33 a 38 de la Ley 31/1995 regulan la participación mediante Delegados de Prevención y Comité de Seguridad y Salud.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-001",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 14",
+    "enunciado": "¿Qué prohíbe el artículo 14 de la Constitución en relación con la discriminación?",
+    "respuesta": "Que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+    "explicacion": "El art. 14 CE es la base constitucional de la prohibición de discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-002",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley Orgánica 3/2007 según su artículo 1?",
+    "respuesta": "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer, sea cual fuere su circunstancia o condición, en cualesquiera de los ámbitos de la vida.",
+    "explicacion": "El art. 1 de la LO 3/2007 fija su objeto: la igualdad efectiva entre mujeres y hombres.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-003",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 3",
+    "enunciado": "¿Qué es el principio de igualdad de trato entre mujeres y hombres según el artículo 3 de la LO 3/2007?",
+    "respuesta": "Supone la ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil.",
+    "explicacion": "El art. 3 de la LO 3/2007 define el principio de igualdad de trato.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-004",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué diferencia hay entre discriminación directa e indirecta según el artículo 6 de la LO 3/2007?",
+    "respuesta": "Es discriminación directa la situación en que una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable por razón de sexo. Es discriminación indirecta la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular respecto a personas del otro.",
+    "explicacion": "El art. 6 de la LO 3/2007 define los dos tipos básicos de discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-005",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 7",
+    "enunciado": "¿Qué son el acoso sexual y el acoso por razón de sexo según el artículo 7 de la LO 3/2007?",
+    "respuesta": "El acoso sexual es cualquier comportamiento verbal o físico de naturaleza sexual con el propósito o efecto de atentar contra la dignidad de una persona. El acoso por razón de sexo es cualquier comportamiento realizado en función del sexo de una persona con el mismo propósito o efecto. Ambos se consideran discriminatorios.",
+    "explicacion": "El art. 7 de la LO 3/2007 tipifica ambas formas de acoso como discriminatorias.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-006",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 11",
+    "enunciado": "¿Qué son las acciones positivas según el artículo 11 de la LO 3/2007?",
+    "respuesta": "Medidas específicas en favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto de los hombres, aplicables en tanto subsistan dichas situaciones y razonables y proporcionadas al objetivo perseguido.",
+    "explicacion": "El art. 11 de la LO 3/2007 habilita las acciones positivas como instrumento corrector.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-007",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 5",
+    "enunciado": "¿Qué establece el artículo 5 de la LO 3/2007 sobre la igualdad en el empleo?",
+    "respuesta": "El principio de igualdad de trato y de oportunidades entre mujeres y hombres se garantizará en el acceso al empleo, en la formación y en la promoción profesionales, y en las condiciones de trabajo.",
+    "explicacion": "El art. 5 de la LO 3/2007 proyecta la igualdad al ámbito laboral.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-008",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 15",
+    "enunciado": "¿Qué es la transversalidad del principio de igualdad según el artículo 15 de la LO 3/2007?",
+    "respuesta": "El principio de igualdad de trato entre mujeres y hombres informará, con carácter transversal, la actuación de todos los Poderes Públicos, que lo integrarán en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas y en el desarrollo del conjunto de sus actividades.",
+    "explicacion": "El art. 15 de la LO 3/2007 impone la perspectiva de género en toda la actuación pública.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-009",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 45",
+    "enunciado": "¿Quiénes están obligados a elaborar planes de igualdad según el artículo 45 de la LO 3/2007?",
+    "respuesta": "Las empresas están obligadas a respetar la igualdad de trato y de oportunidades en el ámbito laboral y, con esta finalidad, deberán adoptar medidas dirigidas a evitar cualquier tipo de discriminación laboral, medidas que deberán negociar con los representantes de los trabajadores, elaborando y aplicando un plan de igualdad.",
+    "explicacion": "El art. 45 de la LO 3/2007 impone la elaboración y aplicación de planes de igualdad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-010",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 46",
+    "enunciado": "¿Qué es un plan de igualdad según el artículo 46 de la LO 3/2007?",
+    "respuesta": "Un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, tendentes a alcanzar en la empresa la igualdad de trato y de oportunidades entre mujeres y hombres y a eliminar la discriminación por razón de sexo.",
+    "explicacion": "El art. 46 de la LO 3/2007 define y fija el contenido de los planes de igualdad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-011",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley 15/2022",
+    "articulo": "art. 6",
+    "enunciado": "¿Qué causas de discriminación contempla la Ley 15/2022 según su artículo 6?",
+    "respuesta": "El nacimiento, origen racial o étnico, sexo, religión, convicción u opinión, edad, discapacidad, orientación o identidad sexual, expresión de género, enfermedad o condición de salud, estado serológico, características genéticas, lengua, situación socioeconómica, o cualquier otra condición o circunstancia personal o social.",
+    "explicacion": "El art. 6 de la Ley 15/2022 ofrece un catálogo amplio y abierto de causas de discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-012",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley 15/2022",
+    "articulo": "art. 2",
+    "enunciado": "¿Cuál es el ámbito de aplicación de la Ley 15/2022 según su artículo 2?",
+    "respuesta": "Se aplica a todos los ámbitos de la vida política, económica, cultural y social, incluyendo el empleo, la educación, la sanidad, la vivienda, los servicios sociales y el acceso a bienes y servicios.",
+    "explicacion": "El art. 2 de la Ley 15/2022 establece un ámbito subjetivo universal de la igualdad de trato.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-013",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 14",
+    "enunciado": "Cite dos criterios generales de actuación de los Poderes Públicos en materia de igualdad según el artículo 14 de la LO 3/2007.",
+    "respuesta": "La integración del principio de igualdad en el conjunto de sus actuaciones; la erradicación de la violencia de género; la atención a la singularidad cultural; o la protección de la maternidad.",
+    "explicacion": "El art. 14 de la LO 3/2007 fija los criterios generales de actuación de los Poderes Públicos.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-014",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 13",
+    "enunciado": "¿Qué especialidad probatoria establece el artículo 13 de la LO 3/2007 en los procesos por discriminación?",
+    "respuesta": "Cuando se aleguen discriminaciones por razón de sexo y se aporten indicios fundados, corresponderá a la parte demandada la aportación de una justificación objetiva y razonable de las medidas adoptadas (inversión de la carga de la prueba).",
+    "explicacion": "El art. 13 de la LO 3/2007 invierte la carga de la prueba ante indicios de discriminación.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-015",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Ley Orgánica 3/2007",
+    "articulo": "art. 12",
+    "enunciado": "¿Qué tutela judicial garantiza el artículo 12 de la LO 3/2007 frente a la discriminación?",
+    "respuesta": "Toda persona podrá recabar de los tribunales la tutela del derecho a la igualdad entre mujeres y hombres, incluso tras la terminación de la relación en la que supuestamente se ha producido la discriminación.",
+    "explicacion": "El art. 12 de la LO 3/2007 garantiza la tutela judicial efectiva del derecho a la igualdad.",
+    "verificado_corpus": true
+  },
+  {
+    "id": "CAD-C2-T10-016",
+    "perfil": [
+      "cad-c2"
+    ],
+    "tema": "T10",
+    "ley": "Constitución Española de 1978",
+    "articulo": "art. 9",
+    "enunciado": "¿Qué deber impone el artículo 9.2 de la Constitución a los poderes públicos en materia de igualdad?",
+    "respuesta": "Promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.",
+    "explicacion": "El art. 9.2 CE consagra la igualdad material o sustancial como mandato a los poderes públicos.",
+    "verificado_corpus": true
+  }
+]

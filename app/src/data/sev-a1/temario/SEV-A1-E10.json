@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-E10",
+  "tema": "E10",
+  "tipo": "especifico",
+  "numero": 10,
+  "titulo": "La extinción de la deuda tributaria. Responsables y sucesores",
+  "secciones": [
+    {
+      "titulo": "1. Formas de extinción",
+      "texto": "La deuda tributaria se extingue por el pago, la prescripción, la compensación, la condonación y los demás medios previstos en las leyes ([[Ley 58/2003 | art. 59]])."
+    },
+    {
+      "titulo": "2. La prescripción",
+      "texto": "Prescriben a los cuatro años el derecho a determinar la deuda, a exigir su pago y a solicitar y obtener devoluciones ([[Ley 58/2003 | art. 66]]). La prescripción se interrumpe por actuaciones fehacientes del obligado o de la Administración dirigidas a la liquidación ([[Ley 58/2003 | art. 68]])."
+    },
+    {
+      "titulo": "3. Compensación y condonación",
+      "texto": "Las deudas pueden extinguirse por compensación con créditos reconocidos por acto administrativo a favor del mismo obligado ([[Ley 58/2003 | art. 71]]). La condonación solo cabe en virtud de ley, en la cuantía y con los requisitos que ésta determine ([[Ley 58/2003 | art. 75]]). Por su carácter excepcional, la condonación nunca puede acordarla la Administración por vía reglamentaria ni en un acto singular. La condonación graciosa solo puede concederla la ley, en supuestos tasados y con plena publicidad."
+    },
+    {
+      "titulo": "4. Responsables",
+      "texto": "La ley puede declarar responsables de la deuda, junto a los deudores principales, a otras personas, solidaria o subsidiariamente ([[Ley 58/2003 | art. 41]]). Son responsables solidarios, entre otros, quienes causen o colaboren activamente en infracciones tributarias ([[Ley 58/2003 | art. 42]]). La derivación de responsabilidad requiere acto administrativo previo con audiencia."
+    },
+    {
+      "titulo": "5. Sucesores",
+      "texto": "A la muerte del obligado, las obligaciones pendientes se transmiten a herederos y legatarios ([[Ley 58/2003 | art. 40]]). En la disolución de sociedades, las obligaciones se transmiten a los socios con el límite del valor de la cuota de liquidación."
+    },
+    {
+      "titulo": "6. La derivación de responsabilidad",
+      "texto": "Declarar responsable a un tercero exige un acto administrativo de derivación, con audiencia previa, que funde la responsabilidad solidaria o subsidiaria en los supuestos legales ([[Ley 58/2003 | art. 41]] y [[Ley 58/2003 | art. 42]]). La responsabilidad subsidiaria requiere la previa declaración de fallido del deudor principal. El responsable puede impugnar tanto la liquidación originaria como el acto de derivación. En supuestos de sucesión, las obligaciones se transmiten a herederos y legatarios ([[Ley 58/2003 | art. 40]]), con las limitaciones propias del Derecho civil en la aceptación hereditaria. La compensación puede acordarse de oficio cuando el obligado es acreedor y deudor de la Hacienda pública, o a instancia del interesado con créditos reconocidos por acto administrativo ([[Ley 58/2003 | art. 71]]). Extingue las deudas concurrentes hasta el importe del crédito menor. Es un medio ágil de extinción que evita pagos cruzados innecesarios. No cabe compensar deudas en período voluntario con créditos no vencidos, ni las deudas afectadas por procedimientos concursales salvo en los términos legales."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-E08",
+    "SEV-A1-E09",
+    "SEV-A1-E12"
+  ]
+}

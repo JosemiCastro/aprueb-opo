@@ -1,0 +1,30 @@
+{
+  "id": "GRA-C1-E11",
+  "numero": 11,
+  "tema": "E11",
+  "tipo": "especifico",
+  "titulo": "El período ejecutivo y la providencia de apremio",
+  "relacionados": [
+    "GRA-C1-E05",
+    "GRA-C1-E08",
+    "GRA-C1-E12"
+  ],
+  "secciones": [
+    {
+      "titulo": "Inicio del período ejecutivo",
+      "texto": "El período ejecutivo se inicia el día siguiente al del vencimiento del plazo de ingreso en período voluntario sin haberse efectuado el ingreso ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 161]]). Su inicio determina la exigencia de los intereses de demora y de los recargos del período ejecutivo (5% ejecutivo, 10% de apremio reducido y 20% de apremio ordinario, según el [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 28]]).\n\nEn período ejecutivo la recaudación se efectúa por el procedimiento de apremio, que se inicia a su vez con la notificación de la providencia de apremio; el obligado puede pagar total o parcialmente, continuando el procedimiento por el resto impagado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 69]])."
+    },
+    {
+      "titulo": "La providencia de apremio",
+      "texto": "Es el acto de la Administración que ordena la ejecución contra el patrimonio del obligado ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 70]]). Debe contener su identificación, el concepto e importe de la deuda, la indicación de que ha finalizado el período voluntario y comenzado el devengo de intereses, la liquidación del recargo, el requerimiento de pago en el plazo del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62.5]] y la advertencia de embargo con el recargo del 20%.\n\nEl procedimiento de apremio tiene carácter exclusivamente administrativo y la competencia sobre sus incidencias corresponde solo a la Administración tributaria ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 163]])."
+    },
+    {
+      "titulo": "Notificación y plazo de pago",
+      "texto": "En la notificación de la providencia constan el lugar de ingreso, la repercusión de costas, la posibilidad de solicitar aplazamiento o fraccionamiento, los supuestos de suspensión y los recursos procedentes ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 71]]).\n\nEl plazo de pago es el del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 62.5]]: notificada entre los días 1 y 15, hasta el día 20 de ese mes; entre el 16 y último, hasta el día 5 del mes siguiente. Contra la providencia solo caben los motivos tasados de oposición del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 167]] (pago, prescripción, aplazamiento, falta de notificación de la liquidación, entre otros)."
+    },
+    {
+      "titulo": "Suspensión e intereses",
+      "texto": "El procedimiento de apremio se suspende en los casos previstos en la normativa: recurso o reclamación con garantía, solicitud de aplazamiento con garantía o causa legal apreciada por el órgano competente ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 73]]).\n\nDesde el inicio del período ejecutivo se devengan intereses de demora hasta el pago, al tipo vigente, salvo deuda garantizada o procedimiento suspendido con garantía ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 72]]). Antes del embargo se procede a la ejecución de las garantías existentes ([[Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación | art. 74]])."
+    }
+  ]
+}

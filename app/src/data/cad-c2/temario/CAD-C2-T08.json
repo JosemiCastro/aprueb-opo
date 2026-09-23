@@ -1,0 +1,31 @@
+{
+  "id": "CAD-C2-T08",
+  "tema": "T08",
+  "numero": 8,
+  "tipo": "comun",
+  "titulo": "Los derechos de los ciudadanos ante la Administración Pública. Consideración especial del interesado. Colaboración y participación de los ciudadanos en la Administración.",
+  "relacionados": [
+    "CAD-C2-T01",
+    "CAD-C2-E03",
+    "CAD-C2-E04",
+    "CAD-C2-E11"
+  ],
+  "secciones": [
+    {
+      "titulo": "1. Los derechos de los ciudadanos ante la Administración",
+      "texto": "La [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 13]] reconoce a las personas en sus relaciones con las Administraciones Públicas derechos como comunicarse a través de un punto de acceso general electrónico, ser asistidos en el uso de medios electrónicos, utilizar las lenguas oficiales, acceder a la información pública y a los archivos y registros, ser tratados con respeto y deferencia, exigir responsabilidades, obtener y utilizar los medios de identificación y firma electrónica, y a la protección de sus datos personales. Estos derechos se completan con los derechos del interesado en el procedimiento del [[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 53]]."
+    },
+    {
+      "titulo": "2. Consideración especial del interesado",
+      "texto": "Tienen la consideración de interesados en el procedimiento quienes lo promuevan como titulares de derechos o intereses legítimos, quienes tengan derechos que puedan resultar afectados por la decisión y aquellos cuyos intereses legítimos puedan resultar afectados y se personen ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 4]]). El interesado puede actuar por medio de representante ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 5]]), con capacidad de obrar ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 3]]), y tiene derecho a conocer el estado de tramitación, identificar a las autoridades y empleados responsables, no presentar documentos ya en poder de la Administración y acceder al expediente ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 53]])."
+    },
+    {
+      "titulo": "3. Colaboración de los ciudadanos con la Administración",
+      "texto": "Los ciudadanos están obligados a colaborar con la Administración: deben facilitar informes, inspecciones y otros actos de investigación, comparecer cuando sean citados y comunicar los datos que les sean requeridos cuando una norma lo imponga. La denuncia es una forma de colaboración que puede dar lugar a la iniciación de oficio de un procedimiento ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 62]]). Quienes denuncien hechos que puedan constituir infracción tienen derecho a que se les informe del inicio del procedimiento si lo solicitan. La colaboración también se manifiesta en el deber de facilitar a la Administración los datos necesarios para el ejercicio de sus competencias cuando una norma con rango de ley lo exija, y en la participación en los procedimientos de elaboración de disposiciones generales."
+    },
+    {
+      "titulo": "4. Participación de los ciudadanos en la Administración",
+      "texto": "La participación ciudadana se articula a través del derecho de petición, la iniciativa popular, la audiencia en el procedimiento de elaboración de normas, el trámite de información pública ([[Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas |  art. 83]]), el acceso a la información pública (Ley 19/2013) y la participación en órganos colegiados y consejos sectoriales. La Constitución reconoce el derecho de los ciudadanos a participar en los asuntos públicos, directamente o por medio de representantes ([[Constitución Española de 1978 |  art. 23]]), y a ser oídos en la elaboración de disposiciones administrativas ([[Constitución Española de 1978 |  art. 105]]). En el ámbito local, los vecinos participan a través de las asociaciones vecinales, los consejos sectoriales y la consulta popular municipal, cauces que refuerzan la democracia participativa junto a la representativa."
+    }
+  ]
+}

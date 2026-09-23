@@ -1,0 +1,29 @@
+{
+  "id": "GRA-C1-E15",
+  "numero": 15,
+  "tema": "E15",
+  "tipo": "especifico",
+  "titulo": "Tipos de infracciones tributarias y procedimiento sancionador",
+  "relacionados": [
+    "GRA-C1-E14",
+    "GRA-C1-E07"
+  ],
+  "secciones": [
+    {
+      "titulo": "Infracciones con perjuicio económico",
+      "texto": "Constituye infracción dejar de ingresar en plazo la deuda que debiera resultar de una autoliquidación, salvo regularización por recargos del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 27]] ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 191]]). También lo son obtener indebidamente devoluciones ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 193]]) y solicitarlas indebidamente, así como acreditar improcedentemente partidas o créditos tributarios.\n\nLa calificación como leve, grave o muy grave depende de la ocultación y de los medios fraudulentos del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 184]], y las sanciones son proporcionales sobre la base correspondiente."
+    },
+    {
+      "titulo": "Infracciones formales y de colaboración",
+      "texto": "No presentar en plazo autoliquidaciones o declaraciones sin perjuicio económico, no comunicar el domicilio fiscal o incumplir condiciones de autorizaciones se sanciona con multa fija ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 198]]).\n\nEl incumplimiento de obligaciones contables y registrales ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 200]]) y de las obligaciones de facturación o documentación ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 201]]) se sanciona proporcionalmente. La resistencia, obstrucción, excusa o negativa a las actuaciones de la Administración (no facilitar documentos, desatender requerimientos, incomparecencia) constituye la infracción del [[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 203]]."
+    },
+    {
+      "titulo": "El procedimiento sancionador",
+      "texto": "Se tramita de forma separada a los procedimientos de aplicación de los tributos, salvo renuncia del obligado ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 208]]), y se inicia siempre de oficio mediante acuerdo notificado, sin que pueda incoarse pasados seis meses desde la liquidación del procedimiento de aplicación ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 209]]).\n\nEn la instrucción se formula propuesta de resolución motivada con audiencia al interesado por quince días para alegaciones y prueba ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 210]]). Termina por resolución o caducidad, en el plazo máximo de seis meses; la caducidad impide iniciar un nuevo procedimiento ([[Ley 58/2003, de 17 de diciembre, General Tributaria | art. 211]])."
+    },
+    {
+      "titulo": "Infracciones en ayudas y comunicaciones",
+      "texto": "También son infracciones el incumplimiento de obligaciones establecidas en acuerdos de concesión de ayudas o subvenciones de naturaleza tributaria y el incumplimiento de la obligación de comunicar correctamente datos al pagador de rentas sometidas a retención, cuando de ello derive una retención inferior ([[Ley 58/2003, de 17 de diciembre, General Tributaria | arts. 205 y 206]]).\n\nEn el ámbito local son frecuentes las infracciones por no presentar declaraciones o autoliquidaciones de tasas o del ICIO, por presentarlas con datos falsos o por incumplir los requerimientos de los órganos de gestión. La correcta tipificación y graduación de cada conducta es esencial para la validez de la sanción."
+    }
+  ]
+}

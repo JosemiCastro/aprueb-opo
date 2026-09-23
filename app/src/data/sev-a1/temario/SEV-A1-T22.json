@@ -1,0 +1,38 @@
+{
+  "id": "SEV-A1-T22",
+  "tema": "T22",
+  "tipo": "comun",
+  "numero": 22,
+  "titulo": "La provincia como entidad local: organización, competencias y cooperación",
+  "secciones": [
+    {
+      "titulo": "1. Concepto y fines",
+      "texto": "La provincia es entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado ([[Constitución Española de 1978 | art. 141]]). Sus fines son garantizar la solidaridad y el equilibrio intermunicipales, asegurar la prestación integral de los servicios municipales en todo el territorio provincial y coordinar la Administración local con la autonómica y la estatal ([[Ley 7/1985 | art. 31]])."
+    },
+    {
+      "titulo": "2. Organización",
+      "texto": "La Diputación Provincial se compone del Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno ([[Ley 7/1985 | art. 32]]). Los Diputados provinciales son elegidos por y entre los Concejales de los partidos judiciales. Al Pleno corresponden la organización, la aprobación de ordenanzas y presupuestos y el control de los órganos de gobierno ([[Ley 7/1985 | art. 33]]); al Presidente, la dirección, representación y jefatura de personal ([[Ley 7/1985 | art. 34]])."
+    },
+    {
+      "titulo": "3. Competencias propias",
+      "texto": "Entre las competencias propias: coordinar los servicios municipales, asistir y cooperar jurídica, económica y técnicamente con los municipios (especialmente los de menor capacidad), prestar servicios públicos supramunicipales y fomentar los intereses peculiares de la provincia ([[Ley 7/1985 | art. 36]])."
+    },
+    {
+      "titulo": "4. La cooperación económica",
+      "texto": "Las Diputaciones aprueban anualmente un plan provincial de cooperación a las obras y servicios de competencia municipal, con participación de los municipios ([[Ley 7/1985 | art. 37]]). Es el instrumento central de la asistencia a los municipios de menor capacidad económica y de gestión."
+    },
+    {
+      "titulo": "5. Coordinación con el Estado",
+      "texto": "La actividad provincial se desarrolla sin perjuicio de las funciones de la Administración General del Estado en la provincia ([[Ley 7/1985 | art. 38]]). En Andalucía, la Diputación de Sevilla ejerce además las competencias que le atribuye la legislación autonómica de régimen local."
+    },
+    {
+      "titulo": "6. Funcionamiento de la Diputación Provincial",
+      "texto": "La Diputación funciona en Pleno y Junta de Gobierno, con el régimen de sesiones de las corporaciones locales: sesiones públicas del Pleno ([[Ley 7/1985 | art. 46]]), mayorías simple y absoluta según la materia ([[Ley 7/1985 | art. 47]]) y publicación de acuerdos. El Presidente dirige el gobierno provincial y ostenta su representación ([[Ley 7/1985 | art. 34]]), mientras el Pleno aprueba la organización, las ordenanzas y los presupuestos y controla a los órganos de gobierno ([[Ley 7/1985 | art. 33]]). Los Diputados, elegidos indirectamente por los Concejales ([[Ley 7/1985 | art. 32]]), representan a los partidos judiciales, articulando la cooperación entre la provincia y sus municipios. Además de sus competencias propias ([[Ley 7/1985 | art. 36]]), la Diputación puede ejercer competencias delegadas por el Estado o la Comunidad Autónoma, con la correspondiente financiación y bajo la dirección de la Administración delegante. Esta técnica amplía su papel gestor en materias como carreteras provinciales, servicios sociales o cultura. La delegación no altera la titularidad de la competencia y puede revocarse, pero mientras está vigente la Diputación actúa con plena responsabilidad administrativa."
+    }
+  ],
+  "relacionados": [
+    "SEV-A1-T09",
+    "SEV-A1-T21",
+    "SEV-A1-T24"
+  ]
+}
