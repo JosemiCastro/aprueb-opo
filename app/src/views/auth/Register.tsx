@@ -4,10 +4,11 @@ import { useAuth } from '../../lib/auth';
 import { link, navigate } from '../../lib/router';
 import { Btn } from '../../components/ui';
 
-export default function Login() {
-  const { login } = useAuth();
+export default function Register() {
+  const { register } = useAuth();
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [confirm, setConfirm] = useState('');
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
 
@@ -23,13 +24,17 @@ export default function Login() {
       setError('La contraseña debe tener al menos 6 caracteres.');
       return;
     }
+    if (password !== confirm) {
+      setError('Las contraseñas no coinciden.');
+      return;
+    }
     setBusy(true);
     try {
-      await login(name, password);
+      await register(name, password);
       navigate('/');
     } catch (err) {
       setError(
-        err instanceof Error ? err.message : 'No se pudo iniciar sesión.',
+        err instanceof Error ? err.message : 'No se pudo crear la cuenta.',
       );
     } finally {
       setBusy(false);
@@ -41,7 +46,7 @@ export default function Login() {
       <div className="container">
         <form className="auth-card" onSubmit={onSubmit} noValidate>
           <img className="auth-logo" src="/logo.png" alt="OposDipu" />
-          <h1 className="auth-title">Entrar</h1>
+          <h1 className="auth-title">Crear cuenta</h1>
           {error ? (
             <p className="auth-error" role="alert">
               {error}
@@ -65,16 +70,26 @@ export default function Login() {
               type="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              autoComplete="current-password"
+              autoComplete="new-password"
+              minLength={6}
+            />
+          </label>
+          <label>
+            Repetir contraseña
+            <input
+              className="input"
+              type="password"
+              value={confirm}
+              onChange={(e) => setConfirm(e.target.value)}
+              autoComplete="new-password"
               minLength={6}
             />
           </label>
           <Btn type="submit" disabled={busy}>
-            {busy ? 'Entrando…' : 'Entrar'}
+            {busy ? 'Creando…' : 'Crear cuenta'}
           </Btn>
           <p className="auth-switch">
-            ¿No tienes cuenta?{' '}
-            <a href={link('/register')}>Crear cuenta</a>
+            ¿Ya tienes cuenta? <a href={link('/login')}>Entrar</a>
           </p>
         </form>
       </div>

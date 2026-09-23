@@ -73,6 +73,24 @@ export async function login(username: string, password: string): Promise<void> {
   setToken(await parseToken(res));
 }
 
+export async function register(
+  username: string,
+  password: string,
+): Promise<void> {
+  const res = await fetch('/api/auth/register', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ username, password }),
+  });
+  if (!res.ok) {
+    if (res.status === 409) {
+      throw new Error('Ese nombre de usuario ya está en uso');
+    }
+    throw new Error(await readError(res, 'No se pudo crear la cuenta'));
+  }
+  setToken(await parseToken(res));
+}
+
 export function authFetch(
   path: string,
   init: RequestInit = {},
@@ -103,14 +121,15 @@ interface AuthContextValue {
   user: string | null;
   loading: boolean;
   login: (username: string, password: string) => Promise<void>;
+  register: (username: string, password: string) => Promise<void>;
   logout: () => void;
   refresh: () => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
 
-// La función login() de arriba habla con la API;
-// el proveedor la envuelve para mantener el estado de React sincronizado.
+// Las funciones login()/register()/logout() de arriba hablan con la API;
+// el proveedor las envuelve para mantener el estado de React sincronizado.
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
@@ -153,6 +172,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     [refresh],
   );
 
+  const signUp = useCallback(
+    async (username: string, password: string) => {
+      await register(username, password);
+      await refresh();
+    },
+    [refresh],
+  );
+
   const signOut = useCallback(() => {
     logout();
     setUser(null);
@@ -164,6 +191,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         user,
         loading,
         login: signIn,
+        register: signUp,
         logout: signOut,
         refresh,
       }}
