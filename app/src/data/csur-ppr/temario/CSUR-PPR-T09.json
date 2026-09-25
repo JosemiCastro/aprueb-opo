@@ -1,0 +1,25 @@
+{
+  "id": "CSUR-PPR-T09",
+  "numero": 9,
+  "relacionados": [
+    "CSUR-PPR-E18",
+    "CSUR-PPR-T07"
+  ],
+  "secciones": [
+    {
+      "texto": "La **Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales**, tiene por objeto promover la seguridad y la salud de los trabajadores. Su [[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | art. 4]] define los conceptos básicos: **prevención** (conjunto de actividades para evitar o disminuir los riesgos), **riesgo laboral** (posibilidad de que un trabajador sufra un daño derivado del trabajo) y **daño** (enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo).\n\nSe aplica a todas las relaciones laborales, incluido el personal de RTVA y Canal Sur.",
+      "titulo": "Objeto y conceptos básicos"
+    },
+    {
+      "texto": "El [[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | art. 14]] reconoce el **derecho de los trabajadores a una protección eficaz** en materia de seguridad y salud, y correlativamente el **deber del empresario** de garantizarla, integrando la actividad preventiva en la empresa.\n\nEl [[Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales | art. 15]] establece los **principios de la acción preventiva**, en orden de prioridad: evitar los riesgos; evaluar los que no se puedan evitar; combatirlos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución de la técnica; sustituir lo peligroso; planificar la prevención; anteponer la protección colectiva a la individual; y dar las debidas instrucciones a los trabajadores.",
+      "titulo": "Derecho a la protección y principios preventivos"
+    },
+    {
+      "texto": "La prevención se organiza a través del **plan de prevención**, la **evaluación de riesgos** y la **planificación de la actividad preventiva**. Según el tamaño de la empresa, el empresario puede asumirla personalmente, designar trabajadores, constituir un servicio de prevención propio o concertar uno ajeno.\n\nLos trabajadores tienen derecho a ser **informados y formados** sobre los riesgos de su puesto, a ser consultados y a participar a través de los **delegados de prevención** y el **comité de seguridad y salud**. También tienen obligaciones: usar correctamente los equipos de protección y no poner fuera de funcionamiento los dispositivos de seguridad.",
+      "titulo": "Organización de la prevención y participación"
+    }
+  ],
+  "tema": "T09",
+  "tipo": "comun",
+  "titulo": "Ley 31/1995 de Prevención de Riesgos Laborales"
+}

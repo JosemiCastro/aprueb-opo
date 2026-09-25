@@ -19,6 +19,8 @@ export default defineConfig({
         // Los JSON de temas van empaquetados en el bundle via import.meta.glob,
         // asi que el precache de workbox (globPatterns por defecto) los cubre.
         globPatterns: ['**/*.{js,css,html,ico,png,svg,json}'],
+        // El bundle supera los 2 MiB por el banco de preguntas empaquetado.
+        maximumFileSizeToCacheInBytes: 4 * 1024 * 1024,
       },
       manifest: {
         name: 'OposDipu',

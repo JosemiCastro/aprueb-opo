@@ -1,0 +1,25 @@
+{
+  "id": "CSUR-PPR-T10",
+  "numero": 10,
+  "relacionados": [
+    "CSUR-PPR-E16",
+    "CSUR-PPR-T04"
+  ],
+  "secciones": [
+    {
+      "texto": "El **Reglamento (UE) 2016/679 (RGPD)** es la norma europea de referencia, directamente aplicable en todos los Estados miembros. Se desarrolla en España por la **Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales**.\n\nEl tratamiento de datos debe respetar los principios de licitud, lealtad y transparencia; limitación de la finalidad; minimización; exactitud —la [[Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | art. 4]] exige datos exactos y actualizados—; limitación del plazo de conservación; e integridad y confidencialidad.",
+      "titulo": "RGPD y Ley Orgánica 3/2018"
+    },
+    {
+      "texto": "La base jurídica más habitual es el **consentimiento del interesado**, que debe ser libre, específico, informado e inequívoco; la [[Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | art. 6]] regula el tratamiento basado en el consentimiento. La [[Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | art. 7]] fija en **14 años** la edad a partir de la cual el menor puede consentir por sí mismo el tratamiento de sus datos.\n\nTodo el personal que intervenga en el tratamiento está sujeto al **deber de confidencialidad** ([[Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales | art. 5]]). Los interesados tienen los derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad.",
+      "titulo": "Consentimiento, menores y derechos"
+    },
+    {
+      "texto": "En el sector audiovisual concurren especialidades: la captación y difusión de **imágenes de personas identificables** en informativos, el tratamiento de datos de **menores y víctimas**, y la ponderación entre la protección de datos y la **libertad de información** ([[Constitución Española de 1978 | art. 20]]).\n\nEl interés público informativo puede legitimar el tratamiento cuando la información es veraz y de relevancia pública, pero exige especial diligencia con datos especialmente protegidos (salud, ideología, orientación sexual, datos de menores) y con las imágenes de víctimas de delitos, donde rige un criterio restrictivo.",
+      "titulo": "Especialidades en el sector audiovisual"
+    }
+  ],
+  "tema": "T10",
+  "tipo": "comun",
+  "titulo": "Protección de datos personales: RGPD, LO 3/2018 y especialidades audiovisuales"
+}

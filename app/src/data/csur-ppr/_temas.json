@@ -1,0 +1,226 @@
+[
+  {
+    "id": "T01",
+    "numero": "1",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Constitución Española de 1978: valores superiores y principios inspiradores. El Estado Social y Democrático de Derecho. Derechos y deberes fundamentales, garantías y suspensión. La reforma constitucional. Órganos constitucionales: la Corona, las Cortes Generales, el Gobierno del Estado, el Poder Judicial, el Tribunal Constitucional. Organización territorial del Estado: Comunidades Autónomas, Estatutos de Autonomía y delimitación de competencias. El municipio y la provincia: organización y competencias."
+  },
+  {
+    "id": "T02",
+    "numero": "2",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "El Estatuto de Autonomía para Andalucía: estructura y contenido básico. Competencias de la Comunidad Autónoma. Reforma del Estatuto. Organización institucional: el Parlamento de Andalucía, el Tribunal Superior de Justicia de Andalucía, el Defensor del Pueblo andaluz, la Cámara de Cuentas, la Presidencia de la Junta de Andalucía, el Consejo de Gobierno y el Consejo Consultivo. La Administración de la Junta de Andalucía: principios de organización, organización central y territorial y entidades instrumentales."
+  },
+  {
+    "id": "T03",
+    "numero": "3",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "La Unión Europea. Tratado de la Unión Europea y Carta de derechos fundamentales. La representación de la Junta de Andalucía ante la Unión Europea."
+  },
+  {
+    "id": "T04",
+    "numero": "4",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Normativa del sector: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual y Ley 10/2018, de 9 de octubre, audiovisual de Andalucía. Principios de la comunicación audiovisual, pluralismo, protección de menores, accesibilidad y servicio público."
+  },
+  {
+    "id": "T05",
+    "numero": "5",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA). Régimen jurídico básico de Canal Sur Radio y Televisión: misión de servicio público, organización, órganos de gobierno y control parlamentario."
+  },
+  {
+    "id": "T06",
+    "numero": "6",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029. Misión de servicio público audiovisual: pluralismo, veracidad, independencia editorial, cohesión territorial, cultura andaluza y atención a la ciudadanía. Estatuto profesional de la RTVA y Canal Sur."
+  },
+  {
+    "id": "T07",
+    "numero": "7",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Articulado del X Convenio Colectivo Interprovincial de RTVA y sus sociedades filiales. Cuadro de licencias y permisos."
+  },
+  {
+    "id": "T08",
+    "numero": "8",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Normativa sobre igualdad: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía; Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación; Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
+  },
+  {
+    "id": "T09",
+    "numero": "9",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: derechos y obligaciones, principios de la acción preventiva y organización de la prevención."
+  },
+  {
+    "id": "T10",
+    "numero": "10",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "El régimen jurídico de la protección de los datos de carácter personal. Normativa europea y nacional. Especialidades en el sector audiovisual."
+  },
+  {
+    "id": "E01",
+    "numero": "1",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Lenguaje radiofónico: palabra, música, silencio, efectos, ritmo, continuidad y narrativa sonora."
+  },
+  {
+    "id": "E02",
+    "numero": "2",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Diseño de programas de radio: formatos, secciones, escaleta, guion, rundown, tono y público objetivo."
+  },
+  {
+    "id": "E03",
+    "numero": "3",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Producción de contenidos: búsqueda de temas, documentación, invitados, entrevistas, permisos y coordinación."
+  },
+  {
+    "id": "E04",
+    "numero": "4",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Presentación y locución: dicción, ritmo, improvisación, lectura, autocontrol y comunicación con el operador."
+  },
+  {
+    "id": "E05",
+    "numero": "5",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Informativos y magazines radiofónicos: actualidad, servicio público, territorios, cultura y participación ciudadana."
+  },
+  {
+    "id": "E06",
+    "numero": "6",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Técnicas de entrevista, debate, tertulia, reportaje sonoro, crónica, conexión en directo y narración deportiva."
+  },
+  {
+    "id": "E07",
+    "numero": "7",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Sonido en radio: microfonía, mesa, híbridos, RDSI/IP, codecs, telefonía, streaming y podcast."
+  },
+  {
+    "id": "E08",
+    "numero": "8",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Autocontrol y operación básica: niveles, entradas, salidas, cuñas, músicas, ráfagas y continuidad."
+  },
+  {
+    "id": "E09",
+    "numero": "9",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Normas de estilo, verificación, contraste de fuentes, pluralismo, rectificación y tratamiento de la desinformación."
+  },
+  {
+    "id": "E10",
+    "numero": "10",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Derechos de autor, música, archivo sonoro, propiedad intelectual y derechos de imagen y voz."
+  },
+  {
+    "id": "E11",
+    "numero": "11",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Producción multiplataforma: podcast, redes, vídeo radio, clips, directos online y participación interactiva."
+  },
+  {
+    "id": "E12",
+    "numero": "12",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Protección de menores, igualdad, diversidad, lenguaje inclusivo y tratamiento de colectivos vulnerables."
+  },
+  {
+    "id": "E13",
+    "numero": "13",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Planificación de medios, presupuesto básico, logística de exteriores y coordinación técnica."
+  },
+  {
+    "id": "E14",
+    "numero": "14",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Gestión de imprevistos en directo, tiempos, escaleta, incidencias técnicas y comunicación interna."
+  },
+  {
+    "id": "E15",
+    "numero": "15",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Relación con redacción, producción, realización, documentación, continuidad y centros territoriales."
+  },
+  {
+    "id": "E16",
+    "numero": "16",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Análisis de audiencia radiofónica y digital, indicadores y mejora de contenidos."
+  },
+  {
+    "id": "E17",
+    "numero": "17",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Ética profesional y responsabilidad: Carta Ética Mundial para Periodistas de la FIP, Estatuto Profesional de RTVA/CSRTV, Libro de Estilo, independencia, conflicto de intereses, deber de imparcialidad, incompatibilidad de ventajas o tratos de favor, rectificación, transparencia con la audiencia y Defensor/a de la Audiencia."
+  },
+  {
+    "id": "E18",
+    "numero": "18",
+    "oposicion": "CSUR-PPR",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas."
+  }
+]

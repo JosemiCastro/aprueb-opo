@@ -1,0 +1,25 @@
+{
+  "id": "CSUR-AYP-T03",
+  "numero": 3,
+  "relacionados": [
+    "CSUR-AYP-T01",
+    "CSUR-AYP-T04"
+  ],
+  "secciones": [
+    {
+      "texto": "La Unión Europea nace de un proceso de integración iniciado tras la Segunda Guerra Mundial (Tratado de París de 1951, Tratados de Roma de 1957). El **Tratado de la Unión Europea (TUE)**, en su redacción del Tratado de Lisboa de 2007 —en vigor desde 2009—, junto al Tratado de Funcionamiento de la UE, constituye el derecho originario de la Unión.\n\nEl TUE proclama que la Unión se fundamenta en los valores de respeto a la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto a los derechos humanos. España es Estado miembro desde el 1 de enero de 1986.",
+      "titulo": "El Tratado de la Unión Europea"
+    },
+    {
+      "texto": "La **Carta de los Derechos Fundamentales de la UE**, proclamada en Niza en 2000, tiene desde Lisboa el mismo valor jurídico que los Tratados. Recoge en 54 artículos los derechos civiles, políticos, económicos y sociales: dignidad, libertades, igualdad, solidaridad, ciudadanía y justicia.\n\nEntre sus preceptos destaca el artículo 11, que garantiza la **libertad de expresión y de información**, incluyendo la libertad de recibir o comunicar informaciones e ideas y el respeto a la libertad y al pluralismo de los medios de comunicación.",
+      "titulo": "La Carta de derechos fundamentales"
+    },
+    {
+      "texto": "Las Comunidades Autónomas participan en los asuntos europeos a través de la **Conferencia para Asuntos Relacionados con la Unión Europea** y de sus oficinas de representación en Bruselas. La Junta de Andalucía mantiene una **Delegación permanente ante la UE**, encargada de defender los intereses andaluces ante las instituciones comunitarias, seguir las políticas europeas con impacto regional (cohesión, agricultura, pesca) y captar fondos europeos.\n\nEl Estatuto de Autonomía reconoce la participación de Andalucía en la formación de la voluntad del Estado ante la UE en materias de su competencia.",
+      "titulo": "La representación de Andalucía ante la UE"
+    }
+  ],
+  "tema": "T03",
+  "tipo": "comun",
+  "titulo": "La Unión Europea: Tratado, Carta de derechos fundamentales y representación de Andalucía"
+}

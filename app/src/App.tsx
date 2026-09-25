@@ -63,7 +63,7 @@ const publicRoutes: Record<string, () => ReactElement> = {
   '/register': Register,
 };
 
-const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1', 'CSUR-RED'];
+const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1', 'CSUR-RED', 'CSUR-PRO', 'CSUR-AYP', 'CSUR-PPR'];
 
 function vistasOpo(opoId: OposicionId): Record<string, () => ReactElement> {
   const base = baseDeOpo(opoId);

@@ -1,0 +1,25 @@
+{
+  "id": "CSUR-AYP-T08",
+  "numero": 8,
+  "relacionados": [
+    "CSUR-AYP-E11",
+    "CSUR-AYP-E17"
+  ],
+  "secciones": [
+    {
+      "texto": "La **Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía**, es la norma autonómica de referencia: establece la transversalidad de género en las políticas públicas andaluzas, regula la representación equilibrada en órganos colegiados, la coeducación, la conciliación y el uso no sexista del lenguaje en la Administración.\n\nEn el ámbito de los medios públicos andaluces, exige una imagen igualitaria y no estereotipada de mujeres y hombres en la programación y la publicidad institucional.",
+      "titulo": "Ley 12/2007 de igualdad de género en Andalucía"
+    },
+    {
+      "texto": "La **Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación**, tiene por objeto garantizar y promover el derecho a la igualdad de trato y no discriminación ([[Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación | art. 1]]). Su ámbito subjetivo es universal: se aplica a todas las personas ([[Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación | art. 2]]) y su ámbito objetivo abarca el empleo, la educación, la sanidad, los servicios sociales y el acceso a bienes y servicios ([[Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación | art. 3]]).\n\nIntroduce la inversión de la carga de la prueba en procesos por discriminación y tipifica las represalias contra quien denuncie.",
+      "titulo": "Ley 15/2022 de igualdad de trato"
+    },
+    {
+      "texto": "La **Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI**, reconoce el derecho a la autodeterminación de género, regula la rectificación registral de la mención al sexo y establece medidas contra la discriminación por orientación sexual e identidad de género en todos los ámbitos, incluidos los medios de comunicación.\n\nPara el redactor/a es clave su impacto en el **lenguaje inclusivo** y en el tratamiento informativo respetuoso de la diversidad sexual y de género, evitando la patologización y los estereotipos.",
+      "titulo": "Ley 4/2023 trans y LGTBI"
+    }
+  ],
+  "tema": "T08",
+  "tipo": "comun",
+  "titulo": "Normativa de igualdad: Ley 12/2007, Ley 15/2022 y Ley 4/2023"
+}

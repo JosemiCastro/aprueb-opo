@@ -84,5 +84,50 @@
     "plazo": "Hasta el 06/10/2026 (10 días laborables)",
     "sistema": "Concurso-oposición libre",
     "turno": "Turno libre"
+  },
+  {
+    "bop": "BOJA nº 186 de 24/09/2026",
+    "bopUrl": "https://www.juntadeandalucia.es/boja/2026/186/BOJA26-186-00095-12371-01_00343601.pdf",
+    "cuerpo": "Productor/a",
+    "diputacion": "Canal Sur / RTVA",
+    "estado": "plazo-abierto",
+    "formato": "preguntas",
+    "grupo": "B03",
+    "id": "CSUR-PRO",
+    "plazas": 14,
+    "plazasDetalle": "14 plazas (12 Sevilla, 1 Granada, 1 Jaén); sujetas a fases internas previas",
+    "plazo": "Hasta el 06/10/2026 (10 días laborables)",
+    "sistema": "Concurso-oposición libre",
+    "turno": "Turno libre"
+  },
+  {
+    "bop": "BOJA nº 186 de 24/09/2026",
+    "bopUrl": "https://www.juntadeandalucia.es/boja/2026/186/BOJA26-186-00095-12371-01_00343601.pdf",
+    "cuerpo": "Ayudante de Producción",
+    "diputacion": "Canal Sur / RTVA",
+    "estado": "plazo-abierto",
+    "formato": "preguntas",
+    "grupo": "B04",
+    "id": "CSUR-AYP",
+    "plazas": 4,
+    "plazasDetalle": "4 plazas (3 Sevilla, 1 Madrid); sujetas a fases internas previas",
+    "plazo": "Hasta el 06/10/2026 (10 días laborables)",
+    "sistema": "Concurso-oposición libre",
+    "turno": "Turno libre"
+  },
+  {
+    "bop": "BOJA nº 186 de 24/09/2026",
+    "bopUrl": "https://www.juntadeandalucia.es/boja/2026/186/BOJA26-186-00095-12371-01_00343601.pdf",
+    "cuerpo": "Presentador/a Productor/a de Radio",
+    "diputacion": "Canal Sur / RTVA",
+    "estado": "plazo-abierto",
+    "formato": "preguntas",
+    "grupo": "B03",
+    "id": "CSUR-PPR",
+    "plazas": 1,
+    "plazasDetalle": "1 plaza (Granada); sujeta a fases internas previas",
+    "plazo": "Hasta el 06/10/2026 (10 días laborables)",
+    "sistema": "Concurso-oposición libre",
+    "turno": "Turno libre"
   }
 ]

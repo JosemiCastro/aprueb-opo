@@ -1,0 +1,26 @@
+{
+  "id": "CSUR-AYP-T05",
+  "numero": 5,
+  "relacionados": [
+    "CSUR-AYP-T02",
+    "CSUR-AYP-T04",
+    "CSUR-AYP-T06"
+  ],
+  "secciones": [
+    {
+      "texto": "La **Ley 18/2007, de 17 de diciembre**, regula la radio y la televisión de titularidad autonómica gestionadas por la **Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA)**. La RTVA es una agencia pública empresarial adscrita a la Consejería competente en materia de comunicación, con personalidad jurídica propia y patrimonio propio.\n\nLa gestión directa del servicio público se encomienda a la sociedad mercantil **Canal Sur Radio y Televisión, S.A.**, participada íntegramente por la Agencia, que opera las marcas Canal Sur Televisión, Canal Sur Radio y los servicios digitales.",
+      "titulo": "La Agencia Pública Empresarial RTVA"
+    },
+    {
+      "texto": "La ley define la **misión de servicio público** de la radio y televisión andaluzas: difundir una información veraz, objetiva y plural; promover el pluralismo político, social y cultural; contribuir a la cohesión territorial de Andalucía; difundir la cultura, la lengua y las señas de identidad andaluzas; y atender a las minorías y colectivos con necesidades específicas.\n\nEsta misión se conecta con la regulación estatal del servicio público autonómico: la [[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 72]] atribuye a las Comunidades Autónomas la prestación del servicio público de comunicación audiovisual en su ámbito territorial.",
+      "titulo": "Misión de servicio público"
+    },
+    {
+      "texto": "Los órganos de gobierno de la Agencia son el **Consejo de Administración** —cuyos miembros son elegidos por el Parlamento de Andalucía por mayoría cualificada— y la **Dirección General**, nombrada por el Consejo de Gobierno a propuesta del Consejo de Administración.\n\nEl **control parlamentario** se ejerce a través de una comisión parlamentaria específica: el Director General comparece periódicamente para dar cuenta de la gestión, del cumplimiento de la misión de servicio público y de la ejecución presupuestaria. Existe además un **Consejo Asesor** con representación de organizaciones sociales y un Defensor de la Audiencia.",
+      "titulo": "Organización y control parlamentario"
+    }
+  ],
+  "tema": "T05",
+  "tipo": "comun",
+  "titulo": "Ley 18/2007 de la RTVA: la Agencia, la misión de servicio público y el control parlamentario"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "CSUR-PRO-T02",
+  "numero": 2,
+  "relacionados": [
+    "CSUR-PRO-T01",
+    "CSUR-PRO-T05",
+    "CSUR-PRO-E02"
+  ],
+  "secciones": [
+    {
+      "texto": "El Estatuto de Autonomía para Andalucía, aprobado por la Ley Orgánica 2/2007, de 19 de marzo, es la norma institucional básica de la Comunidad Autónoma. Su artículo 1 declara que Andalucía se constituye en Comunidad Autónoma en el marco de la unidad de la Nación española ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 1]]).\n\nEstructuralmente consta de un título preliminar y diez títulos. El [[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 42]] clasifica las competencias en **exclusivas** (legislación, potestad reglamentaria y función ejecutiva íntegras), **compartidas** (bases estatales y desarrollo autonómico) y **ejecutivas** (solo la función ejecutiva). La reforma del Estatuto exige proposición del Parlamento, aprobación por mayoría cualificada, aprobación por las Cortes Generales mediante ley orgánica y referéndum.",
+      "titulo": "Estructura, competencias y reforma"
+    },
+    {
+      "texto": "La organización institucional andaluza se articula en torno al **Parlamento de Andalucía**, que representa al pueblo andaluz ([[Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía | art. 100]]) y ejerce la potestad legislativa; la **Presidencia de la Junta**, elegida por el Parlamento; y el **Consejo de Gobierno**, órgano colegiado que dirige la acción política y administrativa.\n\nCompletan el entramado institucional el **Tribunal Superior de Justicia de Andalucía** (culmina la organización judicial en la Comunidad), el **Defensor del Pueblo andaluz**, la **Cámara de Cuentas de Andalucía** (fiscalización económica) y el **Consejo Consultivo de Andalucía** (órgano de asesoramiento).",
+      "titulo": "Organización institucional"
+    },
+    {
+      "texto": "La Administración de la Junta de Andalucía actúa con sometimiento pleno a la ley y al Derecho, y sirve con objetividad a los intereses generales. Sus principios de organización son la eficacia, la jerarquía, la descentralización, la desconcentración y la coordinación.\n\nSe organiza en una **administración central** (Consejerías y sus órganos directivos) y una **administración territorial** (Delegaciones del Gobierno y Delegaciones Territoriales en cada provincia). Junto a ellas existen las **entidades instrumentales**: agencias administrativas, agencias públicas empresariales —como la propia RTVA—, sociedades mercantiles y fundaciones del sector público andaluz.",
+      "titulo": "La Administración de la Junta: organización y entidades instrumentales"
+    }
+  ],
+  "tema": "T02",
+  "tipo": "comun",
+  "titulo": "El Estatuto de Autonomía para Andalucía: estructura, competencias, organización institucional y Administración de la Junta"
+}

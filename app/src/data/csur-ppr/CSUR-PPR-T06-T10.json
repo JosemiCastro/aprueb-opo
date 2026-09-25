@@ -1,0 +1,652 @@
+[
+  {
+    "articulo": "art. 54",
+    "enunciado": "¿Qué es el mandato-marco de los medios públicos según la Ley 13/2022?",
+    "explicacion": "El art. 54 define el mandato-marco como el instrumento aprobado por ley que concreta los objetivos generales del servicio público.",
+    "id": "CSUR-PPR-T06-001",
+    "ley": "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Es la norma legal que concreta los objetivos generales del servicio público de comunicación audiovisual para un periodo determinado.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 55",
+    "enunciado": "¿Qué son los contratos-programa en el ámbito del servicio público audiovisual?",
+    "explicacion": "El art. 55 define los contratos-programa como el desarrollo operativo del mandato-marco.",
+    "id": "CSUR-PPR-T06-002",
+    "ley": "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Los instrumentos que desarrollan y concretan los objetivos del mandato-marco, fijando las obligaciones, la financiación y los indicadores de cumplimiento del prestador público.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 50",
+    "enunciado": "¿Cómo define la Ley 13/2022 el servicio público de comunicación audiovisual?",
+    "explicacion": "El art. 50 lo define como un servicio esencial de interés económico general.",
+    "id": "CSUR-PPR-T06-003",
+    "ley": "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Como un servicio esencial de interés económico general que tiene como misión difundir contenidos que fomenten los valores constitucionales, la pluralismo y la cohesión social.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 51",
+    "enunciado": "¿Cuál es la misión del servicio público de comunicación audiovisual según el artículo 51?",
+    "explicacion": "El art. 51 desarrolla la misión en torno a la información veraz, la pluralidad y el acceso universal.",
+    "id": "CSUR-PPR-T06-004",
+    "ley": "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Difundir información veraz, objetiva y plural; garantizar el acceso universal a contenidos de calidad; y promover los valores democráticos, la cultura y la cohesión social y territorial.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 52",
+    "enunciado": "¿Qué principios deben guiar el funcionamiento del servicio público audiovisual?",
+    "explicacion": "El art. 52 recoge los principios de funcionamiento: pluralismo, objetividad, veracidad e imparcialidad.",
+    "id": "CSUR-PPR-T06-005",
+    "ley": "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El pluralismo, la objetividad, la veracidad, la imparcialidad, la independencia editorial y la responsabilidad social.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué período abarca el vigente mandato-marco andaluz del servicio público de la RTVA?",
+    "explicacion": "El mandato-marco andaluz es de carácter sexenal.",
+    "id": "CSUR-PPR-T06-006",
+    "ley": "Carta del Servicio Público de la RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Es sexenal: el período 2024-2029.",
+    "tema": "T06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué garantiza el Estatuto Profesional de RTVA/CSRTV a sus redactores?",
+    "explicacion": "El Estatuto Profesional protege la independencia editorial de los profesionales de la información.",
+    "id": "CSUR-PPR-T06-007",
+    "ley": "Estatuto Profesional de RTVA/CSRTV",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Su independencia profesional frente a presiones, la cláusula de conciencia, el secreto profesional sobre las fuentes y la participación en la orientación editorial.",
+    "tema": "T06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 20.1.d",
+    "enunciado": "¿Qué derechos reconoce el artículo 20.1.d de la Constitución a los profesionales de la información?",
+    "explicacion": "El art. 20.1.d CE reconoce la cláusula de conciencia y el secreto profesional.",
+    "id": "CSUR-PPR-T06-008",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La cláusula de conciencia y el secreto profesional en el ejercicio de las libertades de expresión e información.",
+    "tema": "T06",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es la Carta del Servicio Público de la RTVA?",
+    "explicacion": "La Carta desarrolla la misión y los principios deontológicos del medio público andaluz.",
+    "id": "CSUR-PPR-T06-009",
+    "ley": "Carta del Servicio Público de la RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El documento que desarrolla la misión, los principios y los compromisos deontológicos del servicio público de radio y televisión en Andalucía.",
+    "tema": "T06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué exige la Carta del Servicio Público en materia de transformación digital?",
+    "explicacion": "La Carta incorpora el mandato de adaptación a los nuevos entornos digitales.",
+    "id": "CSUR-PPR-T06-010",
+    "ley": "Carta del Servicio Público de la RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Que la RTVA adapte su oferta a los entornos digitales y multiplataforma, con presencia relevante en internet, aplicaciones y redes sociales.",
+    "tema": "T06",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué ámbito tiene el X Convenio Colectivo de la RTVA?",
+    "explicacion": "Es un convenio de empresa con ámbito interprovincial.",
+    "id": "CSUR-PPR-T07-001",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Ámbito interprovincial: se aplica a todos los centros de trabajo de la RTVA y de Canal Sur Radio y Televisión, S.A., en Andalucía.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿En qué grupo profesional se encuadra la categoría de Redactor/a en el X Convenio Colectivo?",
+    "explicacion": "La clasificación profesional sitúa al redactor en el grupo B02.",
+    "id": "CSUR-PPR-T07-002",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "En el grupo B02, que agrupa a los profesionales de la información con titulación universitaria superior y responsabilidad editorial.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué criterios utiliza el X Convenio para la clasificación profesional?",
+    "explicacion": "La clasificación atiende a la titulación, la responsabilidad y la complejidad de las funciones.",
+    "id": "CSUR-PPR-T07-003",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La titulación exigida, el grado de responsabilidad, la complejidad de las tareas y el nivel de autonomía en el desempeño.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué orden de prelación sigue la provisión de puestos en el X Convenio Colectivo?",
+    "explicacion": "Se priorizan los traslados y la promoción interna antes que la contratación externa.",
+    "id": "CSUR-PPR-T07-004",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Primero los traslados del personal fijo, después la promoción interna y, en último lugar, la selección externa.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué licencia retribuida corresponde por matrimonio en el X Convenio Colectivo?",
+    "explicacion": "El convenio recoge las licencias retribuidas por circunstancias personales.",
+    "id": "CSUR-PPR-T07-005",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Quince días naturales.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué permiso reconoce el X Convenio por nacimiento de hijo/a?",
+    "explicacion": "El convenio desarrolla los permisos por nacimiento y cuidado del menor.",
+    "id": "CSUR-PPR-T07-006",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El permiso por nacimiento y cuidado del menor previsto en la legislación, complementado con las mejoras que establezca el convenio en cada momento.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué derecho de reducción de jornada reconoce la normativa para el cuidado de menores o familiares?",
+    "explicacion": "La guarda legal permite reducir la jornada con disminución proporcional del salario.",
+    "id": "CSUR-PPR-T07-007",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La reducción de jornada por guarda legal de un menor de doce años o de una persona con discapacidad, con disminución proporcional del salario.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es el complemento de turnicidad?",
+    "explicacion": "Retribuye la prestación de servicios en régimen de turnos rotativos.",
+    "id": "CSUR-PPR-T07-008",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El complemento salarial que retribuye la prestación del trabajo en régimen de turnos rotativos de mañana, tarde y noche.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué régimen disciplinario establece el X Convenio Colectivo?",
+    "explicacion": "El convenio tipifica las faltas y las sanciones correspondientes.",
+    "id": "CSUR-PPR-T07-009",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Clasifica las faltas en leves, graves y muy graves, con sus correspondientes sanciones, y regula el procedimiento disciplinario con audiencia al trabajador.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué órganos de representación de los trabajadores prevé el X Convenio Colectivo?",
+    "explicacion": "El convenio reconoce los órganos legales de representación unitaria y sindical.",
+    "id": "CSUR-PPR-T07-010",
+    "ley": "X Convenio Colectivo de RTVA",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Los comités de empresa y delegados de personal como representación unitaria, y las secciones sindicales como representación sindical.",
+    "tema": "T07",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué objeto tiene la Ley 12/2007 para la promoción de la igualdad de género en Andalucía?",
+    "explicacion": "La Ley 12/2007 establece el marco andaluz de igualdad entre mujeres y hombres.",
+    "id": "CSUR-PPR-T08-001",
+    "ley": "Ley 12/2007",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres en Andalucía, mediante la transversalidad de género en todas las políticas públicas.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 1",
+    "enunciado": "¿Cuál es el objeto de la Ley 15/2022, integral para la igualdad de trato y la no discriminación?",
+    "explicacion": "El art. 1 de la Ley 15/2022 define su objeto: garantizar la igualdad de trato y prevenir la discriminación.",
+    "id": "CSUR-PPR-T08-002",
+    "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Garantizar y promover el derecho a la igualdad de trato y no discriminación y prevenir y erradicar cualquier forma de discriminación.",
+    "tema": "T08",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 2",
+    "enunciado": "¿Cuál es el ámbito subjetivo de la Ley 15/2022?",
+    "explicacion": "El art. 2 establece un ámbito subjetivo universal.",
+    "id": "CSUR-PPR-T08-003",
+    "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Todas las personas, tanto en el sector público como en el privado, sin distinción.",
+    "tema": "T08",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 3",
+    "enunciado": "¿Qué ámbitos materiales abarca la Ley 15/2022?",
+    "explicacion": "El art. 3 enumera los ámbitos: empleo, educación, sanidad, vivienda, servicios sociales y otros.",
+    "id": "CSUR-PPR-T08-004",
+    "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El empleo, la educación, la sanidad, la vivienda, los servicios sociales, el acceso a bienes y servicios y la publicidad y los medios de comunicación, entre otros.",
+    "tema": "T08",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué particularidad procesal introduce la Ley 15/2022 en los procesos por discriminación?",
+    "explicacion": "La ley invierte la carga de la prueba cuando existen indicios de discriminación.",
+    "id": "CSUR-PPR-T08-005",
+    "ley": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La inversión de la carga de la prueba: acreditados indicios fundados de discriminación, corresponde a la parte demandada probar que no ha existido.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué reconoce la Ley 4/2023 para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI?",
+    "explicacion": "La Ley 4/2023 consagra la autodeterminación de género.",
+    "id": "CSUR-PPR-T08-006",
+    "ley": "Ley 4/2023",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El derecho a la autodeterminación de género y un conjunto de medidas para la igualdad real de las personas trans y LGTBI en todos los ámbitos.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué exige la normativa de igualdad respecto del lenguaje en la comunicación institucional y periodística?",
+    "explicacion": "El lenguaje no sexista es una obligación transversal de las políticas de igualdad.",
+    "id": "CSUR-PPR-T08-007",
+    "ley": "Ley 12/2007",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El uso de un lenguaje no sexista e inclusivo que visibilice a las mujeres y evite estereotipos de género.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es la representación equilibrada de mujeres y hombres?",
+    "explicacion": "Es el criterio de paridad en órganos y espacios de decisión.",
+    "id": "CSUR-PPR-T08-008",
+    "ley": "Ley 12/2007",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La presencia de mujeres y hombres de forma que ninguno de los dos sexos supere el 60 % ni sea inferior al 40 % en órganos colegiados y puestos de decisión.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es la coeducación según la Ley 12/2007?",
+    "explicacion": "La coeducación integra la igualdad en el modelo educativo.",
+    "id": "CSUR-PPR-T08-009",
+    "ley": "Ley 12/2007",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El modelo educativo que integra la igualdad de género en los contenidos, la metodología y la organización de los centros, para eliminar los estereotipos sexistas.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué obligación tienen los medios de comunicación respecto de la imagen de las mujeres según la normativa de igualdad?",
+    "explicacion": "Los medios deben ofrecer una imagen igualitaria y no estereotipada.",
+    "id": "CSUR-PPR-T08-010",
+    "ley": "Ley 12/2007",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Promover una imagen igualitaria, plural y no estereotipada de las mujeres, evitando su cosificación y los contenidos sexistas.",
+    "tema": "T08",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué conceptos básicos define el artículo 4 de la Ley 31/1995 de Prevención de Riesgos Laborales?",
+    "explicacion": "El art. 4 define prevención, riesgo laboral, daños derivados del trabajo y otros conceptos clave.",
+    "id": "CSUR-PPR-T09-001",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "La prevención, el riesgo laboral, los daños derivados del trabajo, el riesgo grave e inminente y los procesos, actividades y equipos de trabajo potencialmente peligrosos.",
+    "tema": "T09",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 14",
+    "enunciado": "¿Qué derecho reconoce el artículo 14 de la Ley 31/1995 a los trabajadores?",
+    "explicacion": "El art. 14 reconoce el derecho a una protección eficaz y el correlativo deber empresarial.",
+    "id": "CSUR-PPR-T09-002",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El derecho a una protección eficaz en materia de seguridad y salud en el trabajo, con el correlativo deber del empresario de garantizarla.",
+    "tema": "T09",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 15",
+    "enunciado": "¿Cuáles son los principios de la acción preventiva del artículo 15 de la Ley 31/1995?",
+    "explicacion": "El art. 15 enumera nueve principios ordenados por prioridad.",
+    "id": "CSUR-PPR-T09-003",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Evitar los riesgos; evaluar los que no se puedan evitar; combatirlos en su origen; adaptar el trabajo a la persona; tener en cuenta la evolución técnica; sustituir lo peligroso; planificar la prevención; anteponer la protección colectiva a la individual; y dar las debidas instrucciones.",
+    "tema": "T09",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es la evaluación de riesgos laborales?",
+    "explicacion": "Es el proceso de estimar la magnitud de los riesgos para decidir las medidas preventivas.",
+    "id": "CSUR-PPR-T09-004",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El proceso dirigido a estimar la magnitud de los riesgos que no hayan podido evitarse, para decidir sobre la necesidad de adoptar medidas preventivas y su tipo.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué son los delegados de prevención?",
+    "explicacion": "Son los representantes de los trabajadores con funciones específicas en prevención.",
+    "id": "CSUR-PPR-T09-005",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo, designados por y entre los representantes del personal.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Cuándo debe constituirse un comité de seguridad y salud?",
+    "explicacion": "Es obligatorio en empresas o centros de trabajo con 50 o más trabajadores.",
+    "id": "CSUR-PPR-T09-006",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "En todas las empresas o centros de trabajo que cuenten con 50 o más trabajadores, como órgano paritario de participación en la prevención.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué derecho tienen los trabajadores en materia de información y formación preventiva?",
+    "explicacion": "El empresario debe informar y formar sobre los riesgos del puesto.",
+    "id": "CSUR-PPR-T09-007",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "A recibir información y formación suficiente y adecuada sobre los riesgos de su puesto de trabajo y las medidas de prevención aplicables.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué obligaciones tienen los trabajadores en materia de prevención de riesgos?",
+    "explicacion": "Los trabajadores deben velar por su seguridad y la de terceros.",
+    "id": "CSUR-PPR-T09-008",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Usar correctamente los equipos de trabajo y de protección, no anular los dispositivos de seguridad e informar de inmediato de cualquier situación de riesgo.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué es la vigilancia de la salud de los trabajadores?",
+    "explicacion": "Es el conjunto de actuaciones sanitarias para detectar precozmente daños derivados del trabajo.",
+    "id": "CSUR-PPR-T09-009",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El conjunto de reconocimientos y actuaciones sanitarias que el empresario debe garantizar a los trabajadores, con carácter voluntario salvo excepciones legales.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué modalidades puede adoptar el servicio de prevención en una empresa?",
+    "explicacion": "El empresario puede organizar la prevención con medios propios o concertados.",
+    "id": "CSUR-PPR-T09-010",
+    "ley": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Asunción personal por el empresario, designación de trabajadores, servicio de prevención propio, servicio de prevención mancomunado o servicio de prevención ajeno.",
+    "tema": "T09",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué norma regula la protección de datos personales en la Unión Europea?",
+    "explicacion": "El RGPD es directamente aplicable en todos los Estados miembros.",
+    "id": "CSUR-PPR-T10-001",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El Reglamento (UE) 2016/679, Reglamento General de Protección de Datos (RGPD), directamente aplicable desde el 25 de mayo de 2018.",
+    "tema": "T10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "art. 6",
+    "enunciado": "¿Qué regula el artículo 6 de la Ley Orgánica 3/2018?",
+    "explicacion": "El art. 6 LO 3/2018 desarrolla el tratamiento basado en el consentimiento.",
+    "id": "CSUR-PPR-T10-002",
+    "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El tratamiento de datos basado en el consentimiento del afectado: debe ser libre, específico, informado e inequívoco.",
+    "tema": "T10",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 7",
+    "enunciado": "¿Desde qué edad puede un menor consentir por sí mismo el tratamiento de sus datos?",
+    "explicacion": "El art. 7 LO 3/2018 fija la edad en 14 años.",
+    "id": "CSUR-PPR-T10-003",
+    "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Desde los 14 años.",
+    "tema": "T10",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 5",
+    "enunciado": "¿Qué deber establece el artículo 5 de la Ley Orgánica 3/2018?",
+    "explicacion": "El art. 5 impone el deber de confidencialidad.",
+    "id": "CSUR-PPR-T10-004",
+    "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El deber de confidencialidad de responsables, encargados y de quienes intervengan en cualquier fase del tratamiento.",
+    "tema": "T10",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "art. 4",
+    "enunciado": "¿Qué exige el principio de exactitud del artículo 4 de la Ley Orgánica 3/2018?",
+    "explicacion": "El art. 4 exige que los datos sean exactos y actualizados.",
+    "id": "CSUR-PPR-T10-005",
+    "ley": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Que los datos personales sean exactos y, si fuera necesario, actualizados, suprimiéndose o rectificándose sin dilación los inexactos.",
+    "tema": "T10",
+    "verificado_corpus": true
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué principios rigen el tratamiento de datos personales según el RGPD?",
+    "explicacion": "El art. 5 RGPD enumera los principios relativos al tratamiento.",
+    "id": "CSUR-PPR-T10-006",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Licitud, lealtad y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva.",
+    "tema": "T10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué derechos puede ejercer el interesado sobre sus datos personales?",
+    "explicacion": "El RGPD reconoce un catálogo de derechos ejercitables ante el responsable.",
+    "id": "CSUR-PPR-T10-007",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Acceso, rectificación, supresión (derecho al olvido), limitación del tratamiento, portabilidad y oposición.",
+    "tema": "T10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué son las categorías especiales de datos personales?",
+    "explicacion": "Son los datos especialmente protegidos con prohibición general de tratamiento.",
+    "id": "CSUR-PPR-T10-008",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Los que revelan el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, la afiliación sindical, los datos genéticos, biométricos, de salud, de vida sexual u orientación sexual.",
+    "tema": "T10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Cómo se resuelve el conflicto entre la protección de datos y la libertad de información?",
+    "explicacion": "Se pondera caso a caso entre el art. 18.4 y el art. 20 CE.",
+    "id": "CSUR-PPR-T10-009",
+    "ley": "Constitución Española de 1978",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "Mediante la ponderación entre el derecho a la protección de datos y la libertad de información, atendiendo a la veracidad, la relevancia pública del hecho y la condición pública o privada del afectado.",
+    "tema": "T10",
+    "verificado_corpus": false
+  },
+  {
+    "articulo": "—",
+    "enunciado": "¿Qué legitimación ampara la difusión de imágenes de personas identificables en noticias de interés general?",
+    "explicacion": "El interés público informativo legitima el tratamiento cuando es relevante y proporcionado.",
+    "id": "CSUR-PPR-T10-010",
+    "ley": "Reglamento (UE) 2016/679",
+    "perfil": [
+      "csur-ppr"
+    ],
+    "respuesta": "El interés público de la información veraz, siempre que la difusión sea relevante para la noticia y proporcionada a su finalidad informativa.",
+    "tema": "T10",
+    "verificado_corpus": false
+  }
+]

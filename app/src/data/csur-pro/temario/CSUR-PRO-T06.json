@@ -1,0 +1,26 @@
+{
+  "id": "CSUR-PRO-T06",
+  "numero": 6,
+  "relacionados": [
+    "CSUR-PRO-T04",
+    "CSUR-PRO-T05",
+    "CSUR-PRO-E02"
+  ],
+  "secciones": [
+    {
+      "texto": "La **Carta del Servicio Público** es el documento que concreta la misión de servicio público de la RTVA para un sexenio (2024-2029). Equivale, en el ámbito autonómico, al **mandato-marco** previsto en la legislación estatal: la [[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 54]] establece que el servicio público se presta conforme a un mandato-marco aprobado por la asamblea legislativa correspondiente, desarrollado después mediante contratos-programa ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 55]]).\n\nLa Carta fija objetivos medibles de pluralismo, producción propia, cobertura territorial y servicio a la ciudadanía.",
+      "titulo": "Naturaleza: el mandato-marco del servicio público"
+    },
+    {
+      "texto": "Los ejes de la misión de servicio público, según la definición legal ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 51]] y [[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 52]]), son: satisfacer las necesidades informativas, culturales y educativas de la ciudadanía; garantizar el **pluralismo** y la **veracidad**; asegurar la **independencia editorial** frente a poderes políticos y económicos; promover la **cohesión territorial** de Andalucía con presencia en las ocho provincias; difundir la **cultura andaluza**; y prestar especial atención a la infancia, las personas mayores y las personas con discapacidad.\n\nLa Carta 2024-2029 refuerza además la transformación digital y la presencia multiplataforma.",
+      "titulo": "Ejes de la misión: pluralismo, veracidad, cohesión territorial"
+    },
+    {
+      "texto": "El **Estatuto Profesional de RTVA y Canal Sur** es la norma interna que regula el ejercicio profesional de los trabajadores de la información: reconoce la independencia profesional de los redactores, establece los mecanismos de participación en la línea editorial (consejos de informativos) y desarrolla la **cláusula de conciencia** y el **secreto profesional**.\n\nEstos derechos tienen anclaje constitucional: el [[Constitución Española de 1978 | art. 20]].1.d) reconoce la cláusula de conciencia y el secreto profesional en el ejercicio de las libertades de expresión e información, y encomienda a la ley su regulación.",
+      "titulo": "El Estatuto Profesional: independencia y cláusula de conciencia"
+    }
+  ],
+  "tema": "T06",
+  "tipo": "comun",
+  "titulo": "Carta del Servicio Público de la RTVA 2024-2029 y Estatuto Profesional"
+}

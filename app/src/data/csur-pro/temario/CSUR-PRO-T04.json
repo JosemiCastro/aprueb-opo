@@ -1,0 +1,26 @@
+{
+  "id": "CSUR-PRO-T04",
+  "numero": 4,
+  "relacionados": [
+    "CSUR-PRO-E02",
+    "CSUR-PRO-E11",
+    "CSUR-PRO-E13"
+  ],
+  "secciones": [
+    {
+      "texto": "La **Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual**, es la norma básica estatal del sector. Su [[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 1]] fija como objeto regular la comunicación audiovisual de ámbito estatal y establecer las normas básicas en todo el territorio, transponiendo la Directiva europea de servicios de comunicación audiovisual.\n\nSu [[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 3]] define el ámbito de aplicación: servicios de televisión lineales y a petición, servicios radiofónicos, plataformas de intercambio de vídeos y otros agentes de la cadena de valor, con independencia de la tecnología empleada.",
+      "titulo": "Ley 13/2022: objeto y ámbito"
+    },
+    {
+      "texto": "El Título I recoge los principios generales que informan toda la comunicación audiovisual: la **dignidad humana** ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 4]]), el **pluralismo** ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 5]]), la **igualdad de género y la imagen de las mujeres** ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 6]]), los derechos de las **personas con discapacidad** ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 7]]) y la **veracidad de la información** ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 9]]), que exige diligencia profesional en la comprobación de los hechos.\n\nEstos principios son de aplicación directa a los prestadores del servicio público autonómico como Canal Sur.",
+      "titulo": "Principios: pluralismo, igualdad y veracidad"
+    },
+    {
+      "texto": "La ley dedica una atención especial a la **protección de los menores**: reconoce sus derechos en el ámbito audiovisual ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 95]]), exige códigos de conducta para su tratamiento en informativos ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 96]]) y regula los contenidos perjudiciales para su desarrollo ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 99]]), así como los **descriptores visuales y la calificación por edades** (arts. 97 y 98).\n\nEn **accesibilidad**, impone la accesibilidad universal al servicio ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 101]]) con obligaciones graduadas de subtitulado, audiodescripción y lengua de signos ([[Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual | art. 102]]). La **Ley 10/2018, audiovisual de Andalucía**, desarrolla estas previsiones en el ámbito autonómico y regula el Consejo Audiovisual de Andalucía como autoridad audiovisual andaluza.",
+      "titulo": "Protección de menores, accesibilidad y Ley 10/2018"
+    }
+  ],
+  "tema": "T04",
+  "tipo": "comun",
+  "titulo": "Ley 13/2022 General de Comunicación Audiovisual y Ley 10/2018 audiovisual de Andalucía"
+}

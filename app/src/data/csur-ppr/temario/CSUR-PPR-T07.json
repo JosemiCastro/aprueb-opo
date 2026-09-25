@@ -1,0 +1,25 @@
+{
+  "id": "CSUR-PPR-T07",
+  "numero": 7,
+  "relacionados": [
+    "CSUR-PPR-T05",
+    "CSUR-PPR-E03"
+  ],
+  "secciones": [
+    {
+      "texto": "El **X Convenio Colectivo Interprovincial de RTVA y sus sociedades filiales** es la norma que regula las condiciones de trabajo del personal laboral de la Agencia y de Canal Sur Radio y Televisión, S.A. Como convenio de ámbito interprovincial, se aplica en todos los centros de trabajo de Andalucía.\n\nSu estructura típica comprende: ámbito de aplicación, clasificación profesional y grupos/niveles, contratación, jornada y horarios, retribuciones, licencias y permisos, excedencias, régimen disciplinario y representación de los trabajadores.",
+      "titulo": "Naturaleza y estructura del convenio"
+    },
+    {
+      "texto": "La **clasificación profesional** ordena los puestos en grupos y niveles según la titulación exigida, la responsabilidad y la complejidad de las funciones. En la convocatoria de 2026 aparecen, entre otros, el grupo B02 (Redactor/a, Documentalista) y el grupo B03 (Productor/a).\n\nEl convenio regula la **provisión de puestos** (concursos de traslado, promoción interna), la **movilidad funcional y geográfica** y los complementos retributivos vinculados al puesto (turnicidad, nocturnidad, disponibilidad, programas especiales).",
+      "titulo": "Clasificación profesional y provisión de puestos"
+    },
+    {
+      "texto": "El **cuadro de licencias y permisos** del convenio recoge, entre otros: licencias retribuidas por matrimonio, nacimiento de hijo, fallecimiento o enfermedad grave de familiares, traslado de domicilio y deberes públicos; permisos por lactancia, reducción de jornada por guarda legal y excedencias por cuidado de familiares.\n\nTambién regula las **vacaciones anuales**, los días de asuntos propios y los permisos no retribuidos. Para el examen conviene conocer la sistemática del cuadro (qué supuestos generan licencia retribuida y su duración orientativa) más que memorizar cifras aisladas: las preguntas suelen versar sobre el reconocimiento del derecho y sus condiciones.",
+      "titulo": "Licencias, permisos y vacaciones"
+    }
+  ],
+  "tema": "T07",
+  "tipo": "comun",
+  "titulo": "X Convenio Colectivo Interprovincial de RTVA: estructura y cuadro de licencias y permisos"
+}

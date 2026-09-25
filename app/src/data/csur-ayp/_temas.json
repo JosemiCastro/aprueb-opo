@@ -1,0 +1,218 @@
+[
+  {
+    "id": "T01",
+    "numero": "1",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Constitución Española de 1978: valores superiores y principios inspiradores. El Estado Social y Democrático de Derecho. Derechos y deberes fundamentales, garantías y suspensión. La reforma constitucional. Órganos constitucionales: la Corona, las Cortes Generales, el Gobierno del Estado, el Poder Judicial, el Tribunal Constitucional. Organización territorial del Estado: Comunidades Autónomas, Estatutos de Autonomía y delimitación de competencias. El municipio y la provincia: organización y competencias."
+  },
+  {
+    "id": "T02",
+    "numero": "2",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "El Estatuto de Autonomía para Andalucía: estructura y contenido básico. Competencias de la Comunidad Autónoma. Reforma del Estatuto. Organización institucional: el Parlamento de Andalucía, el Tribunal Superior de Justicia de Andalucía, el Defensor del Pueblo andaluz, la Cámara de Cuentas, la Presidencia de la Junta de Andalucía, el Consejo de Gobierno y el Consejo Consultivo. La Administración de la Junta de Andalucía: principios de organización, organización central y territorial y entidades instrumentales."
+  },
+  {
+    "id": "T03",
+    "numero": "3",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "La Unión Europea. Tratado de la Unión Europea y Carta de derechos fundamentales. La representación de la Junta de Andalucía ante la Unión Europea."
+  },
+  {
+    "id": "T04",
+    "numero": "4",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Normativa del sector: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual y Ley 10/2018, de 9 de octubre, audiovisual de Andalucía. Principios de la comunicación audiovisual, pluralismo, protección de menores, accesibilidad y servicio público."
+  },
+  {
+    "id": "T05",
+    "numero": "5",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA). Régimen jurídico básico de Canal Sur Radio y Televisión: misión de servicio público, organización, órganos de gobierno y control parlamentario."
+  },
+  {
+    "id": "T06",
+    "numero": "6",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029. Misión de servicio público audiovisual: pluralismo, veracidad, independencia editorial, cohesión territorial, cultura andaluza y atención a la ciudadanía. Estatuto profesional de la RTVA y Canal Sur."
+  },
+  {
+    "id": "T07",
+    "numero": "7",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Articulado del X Convenio Colectivo Interprovincial de RTVA y sus sociedades filiales. Cuadro de licencias y permisos."
+  },
+  {
+    "id": "T08",
+    "numero": "8",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Normativa sobre igualdad: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía; Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación; Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
+  },
+  {
+    "id": "T09",
+    "numero": "9",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: derechos y obligaciones, principios de la acción preventiva y organización de la prevención."
+  },
+  {
+    "id": "T10",
+    "numero": "10",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "comun",
+    "titulo": "El régimen jurídico de la protección de los datos de carácter personal. Normativa europea y nacional. Especialidades en el sector audiovisual."
+  },
+  {
+    "id": "E01",
+    "numero": "1",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "La producción audiovisual en radio, televisión y entornos digitales: fases del proceso productivo y funciones básicas del área de producción."
+  },
+  {
+    "id": "E02",
+    "numero": "2",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Tareas principales del puesto de Ayudante de Producción en RTVA/CSRTV: apoyo operativo a la preparación, coordinación y seguimiento de programas, informativos, retransmisiones, grabaciones y eventos."
+  },
+  {
+    "id": "E03",
+    "numero": "3",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Organización básica de una producción audiovisual: preproducción, producción, grabación/emisión, postproducción, cierre documental y archivo."
+  },
+  {
+    "id": "E04",
+    "numero": "4",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "La escaleta y el guion: desglose."
+  },
+  {
+    "id": "E05",
+    "numero": "5",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Documentación de producción: planes de trabajo y órdenes de trabajo, citaciones, partes, listados, escaletas, hojas de ruta, permisos, autorizaciones, necesidades técnicas y documentación de cierre."
+  },
+  {
+    "id": "E06",
+    "numero": "6",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Apoyo a la planificación de recursos humanos y técnicos: gestión de disponibilidad, turnos, desplazamientos, alojamiento, transporte, dietas y coordinación con las áreas implicadas. Normativa de la Junta de Andalucía en materia de gastos de desplazamiento y dietas."
+  },
+  {
+    "id": "E07",
+    "numero": "7",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Gestión operativa de localizaciones, espacios y permisos: proceso de obtención de autorizaciones y permisos, documentación necesaria y gestión de incidencias."
+  },
+  {
+    "id": "E08",
+    "numero": "8",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Apoyo a la contratación y relación con proveedores, colaboradores y servicios externos: solicitud de presupuestos, control de documentación, seguimiento de encargos y comprobación de prestaciones."
+  },
+  {
+    "id": "E09",
+    "numero": "9",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Medios materiales de producción: control básico de necesidades, equipos técnicos y artísticos, solicitud, recepción, entrega, devolución, inventario, transporte y conservación de materiales."
+  },
+  {
+    "id": "E10",
+    "numero": "10",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Producción de programas en estudio: necesidades de plató, público, invitados, escaleta, tiempos, accesos, coordinación con realización, redacción, técnica y servicios generales."
+  },
+  {
+    "id": "E11",
+    "numero": "11",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Producción en exteriores y retransmisiones: desplazamientos, unidades móviles, acreditaciones, permisos, logística, equipos técnicos y seguimiento de incidencias."
+  },
+  {
+    "id": "E12",
+    "numero": "12",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Documentación internacional para desplazamientos de equipos técnicos y humanos."
+  },
+  {
+    "id": "E13",
+    "numero": "13",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Producción de informativos y actualidad: apoyo a coberturas, convocatorias, recursos, enlaces, coordinación territorial, tiempos de entrega y necesidades urgentes."
+  },
+  {
+    "id": "E14",
+    "numero": "14",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Control administrativo básico de gastos de producción: facturas, albaranes, justificantes, dietas, desplazamientos, partes de trabajo y documentación económica elemental."
+  },
+  {
+    "id": "E15",
+    "numero": "15",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Herramientas ofimáticas y aplicaciones de gestión aplicadas a la producción: hojas de cálculo, documentos compartidos, correo, agenda, bases de datos y sistemas corporativos."
+  },
+  {
+    "id": "E16",
+    "numero": "16",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Igualdad, diversidad, accesibilidad y sostenibilidad en la producción audiovisual: trato adecuado, lenguaje inclusivo, menores, personas invitadas y colaboradoras."
+  },
+  {
+    "id": "E17",
+    "numero": "17",
+    "oposicion": "CSUR-AYP",
+    "perfil": "b04",
+    "tipo": "especifico",
+    "titulo": "Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas."
+  }
+]

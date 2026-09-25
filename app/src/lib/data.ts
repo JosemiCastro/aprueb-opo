@@ -91,6 +91,15 @@ const preguntas: Question[] = [
   ...globJson<Question>(
     import.meta.glob('../data/csur-red/CSUR-RED-*.json', { eager: true }) as Record<string, unknown>,
   ),
+  ...globJson<Question>(
+    import.meta.glob('../data/csur-pro/CSUR-PRO-*.json', { eager: true }) as Record<string, unknown>,
+  ),
+  ...globJson<Question>(
+    import.meta.glob('../data/csur-ayp/CSUR-AYP-*.json', { eager: true }) as Record<string, unknown>,
+  ),
+  ...globJson<Question>(
+    import.meta.glob('../data/csur-ppr/CSUR-PPR-*.json', { eager: true }) as Record<string, unknown>,
+  ),
 ];
 
 const esquemas: Esquema[] = globJson<Esquema>(

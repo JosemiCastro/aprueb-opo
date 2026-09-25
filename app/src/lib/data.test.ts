@@ -72,15 +72,15 @@ describe('data', () => {
     expect(tituloTema('HUE-A2', 'E01')).toContain('Procedimiento Administrativo');
   });
 
-  it('oposicionDe y metadatos de las 6 oposiciones', () => {
-    expect(oposiciones).toHaveLength(6);
+  it('oposicionDe y metadatos de las 9 oposiciones', () => {
+    expect(oposiciones).toHaveLength(9);
     const ids = oposiciones.map((o) => o.id);
-    expect(new Set(ids).size).toBe(6);
+    expect(new Set(ids).size).toBe(9);
     for (const o of oposiciones) {
       expect(oposicionDe(o.id)).toBe(o);
       expect(o.diputacion.length).toBeGreaterThan(0);
       expect(o.cuerpo.length).toBeGreaterThan(0);
-      expect(o.grupo).toMatch(/^(?:[CA][12]|B02)$/);
+      expect(o.grupo).toMatch(/^(?:[CA][12]|B0[2-4])$/);
       expect(o.plazas).toBeGreaterThan(0);
       expect(o.bop.length).toBeGreaterThan(0);
     }
@@ -88,7 +88,7 @@ describe('data', () => {
 });
 
 describe('validación de datos de las nuevas oposiciones', () => {
-  const NUEVAS: OposicionId[] = ['CAD-C2', 'GRA-C1', 'SEV-A1', 'CSUR-RED'];
+  const NUEVAS: OposicionId[] = ['CAD-C2', 'GRA-C1', 'SEV-A1', 'CSUR-RED', 'CSUR-PRO', 'CSUR-AYP', 'CSUR-PPR'];
 
   it('todas las preguntas tienen id único con prefijo de su oposición', () => {
     const vistos = new Set<string>();

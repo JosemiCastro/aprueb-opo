@@ -9,6 +9,9 @@ const modulosPorOpo: Record<OposicionId, Record<string, () => Promise<unknown>>>
   'GRA-C1': import.meta.glob('../data/gra-c1/temario/*.json'),
   'SEV-A1': import.meta.glob('../data/sev-a1/temario/*.json'),
   'CSUR-RED': import.meta.glob('../data/csur-red/temario/*.json'),
+  'CSUR-PRO': import.meta.glob('../data/csur-pro/temario/*.json'),
+  'CSUR-AYP': import.meta.glob('../data/csur-ayp/temario/*.json'),
+  'CSUR-PPR': import.meta.glob('../data/csur-ppr/temario/*.json'),
 };
 
 function esTemaDesarrollado(v: unknown): v is TemaDesarrollado {

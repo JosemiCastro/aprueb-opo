@@ -1,0 +1,202 @@
+[
+  {
+    "id": "T01",
+    "numero": "1",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Constitución Española de 1978: valores superiores y principios inspiradores. El Estado Social y Democrático de Derecho. Derechos y deberes fundamentales, garantías y suspensión. La reforma constitucional. Órganos constitucionales: la Corona, las Cortes Generales, el Gobierno del Estado, el Poder Judicial, el Tribunal Constitucional. Organización territorial del Estado: Comunidades Autónomas, Estatutos de Autonomía y delimitación de competencias. El municipio y la provincia: organización y competencias."
+  },
+  {
+    "id": "T02",
+    "numero": "2",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "El Estatuto de Autonomía para Andalucía: estructura y contenido básico. Competencias de la Comunidad Autónoma. Reforma del Estatuto. Organización institucional: el Parlamento de Andalucía, el Tribunal Superior de Justicia de Andalucía, el Defensor del Pueblo andaluz, la Cámara de Cuentas, la Presidencia de la Junta de Andalucía, el Consejo de Gobierno y el Consejo Consultivo. La Administración de la Junta de Andalucía: principios de organización, organización central y territorial y entidades instrumentales."
+  },
+  {
+    "id": "T03",
+    "numero": "3",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "La Unión Europea. Tratado de la Unión Europea y Carta de derechos fundamentales. La representación de la Junta de Andalucía ante la Unión Europea."
+  },
+  {
+    "id": "T04",
+    "numero": "4",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Normativa del sector: Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual y Ley 10/2018, de 9 de octubre, audiovisual de Andalucía. Principios de la comunicación audiovisual, pluralismo, protección de menores, accesibilidad y servicio público."
+  },
+  {
+    "id": "T05",
+    "numero": "5",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA). Régimen jurídico básico de Canal Sur Radio y Televisión: misión de servicio público, organización, órganos de gobierno y control parlamentario."
+  },
+  {
+    "id": "T06",
+    "numero": "6",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Carta del Servicio Público de la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA) para el sexenio 2024-2029. Misión de servicio público audiovisual: pluralismo, veracidad, independencia editorial, cohesión territorial, cultura andaluza y atención a la ciudadanía. Estatuto profesional de la RTVA y Canal Sur."
+  },
+  {
+    "id": "T07",
+    "numero": "7",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Articulado del X Convenio Colectivo Interprovincial de RTVA y sus sociedades filiales. Cuadro de licencias y permisos."
+  },
+  {
+    "id": "T08",
+    "numero": "8",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Normativa sobre igualdad: Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía; Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación; Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI."
+  },
+  {
+    "id": "T09",
+    "numero": "9",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: derechos y obligaciones, principios de la acción preventiva y organización de la prevención."
+  },
+  {
+    "id": "T10",
+    "numero": "10",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "comun",
+    "titulo": "El régimen jurídico de la protección de los datos de carácter personal. Normativa europea y nacional. Especialidades en el sector audiovisual."
+  },
+  {
+    "id": "E01",
+    "numero": "1",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "La producción audiovisual en radio, televisión y plataformas digitales: concepto, fases, modelos productivos y función estratégica del área de producción."
+  },
+  {
+    "id": "E02",
+    "numero": "2",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "El puesto de Productor/a en RTVA/CSRTV: planificación, coordinación y control de recursos humanos, técnicos, económicos y materiales para programas, informativos, retransmisiones y contenidos audiovisuales."
+  },
+  {
+    "id": "E03",
+    "numero": "3",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Diseño y planificación del plan de producción: análisis de necesidades, cronograma, fases, recursos, prioridades, riesgos, coordinación de áreas y seguimiento del proyecto."
+  },
+  {
+    "id": "E04",
+    "numero": "4",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Presupuesto de producción: elaboración, control, desviaciones, imputación de costes, justificación de gastos, seguimiento económico y cierre presupuestario."
+  },
+  {
+    "id": "E05",
+    "numero": "5",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Gestión de recursos humanos y condiciones de prestación: dimensionamiento de equipos, convocatorias, turnos, jornadas, desplazamientos, dietas, coordinación territorial y adecuación a la normativa laboral interna."
+  },
+  {
+    "id": "E06",
+    "numero": "6",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Gestión de recursos técnicos y materiales: estudios, controles, unidades móviles, cámaras, sonido, iluminación, enlaces, edición, grafismo, continuidad, archivo y sistemas digitales de producción."
+  },
+  {
+    "id": "E07",
+    "numero": "7",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Producción de programas en estudio: diseño operativo, coordinación de plató, invitados, público, escaleta, tiempos, recursos técnicos, realización, redacción y necesidades de emisión."
+  },
+  {
+    "id": "E08",
+    "numero": "8",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Producción de exteriores, retransmisiones, eventos especiales e informativos: localizaciones, proceso y regulación para la obtención de permisos, logística, seguridad, transporte, telecomunicaciones, directos, urgencias y coordinación institucional."
+  },
+  {
+    "id": "E09",
+    "numero": "9",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Producción de contenidos grabados, directos y multiplataforma: captación de imagen y sonido, televisión, radio, web, redes sociales, streaming, podcast, piezas digitales y adaptación de recursos al formato."
+  },
+  {
+    "id": "E10",
+    "numero": "10",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Contratación de servicios, suministros y colaboraciones en producción: definición de necesidades, prescripciones, presupuestos, proveedores, seguimiento de ejecución, recepción y conformidad. Principios básicos de contratación pública (Ley de Contratos del Sector Público)."
+  },
+  {
+    "id": "E11",
+    "numero": "11",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Derechos audiovisuales y documentación jurídica de producción: derechos de imagen, música, archivo, propiedad intelectual, obras preexistentes, menores, autorizaciones y cesiones."
+  },
+  {
+    "id": "E12",
+    "numero": "12",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Gestión documental y trazabilidad de la producción: expedientes, contratos, permisos, autorizaciones, partes, órdenes de trabajo, informes y cierres de producción."
+  },
+  {
+    "id": "E13",
+    "numero": "13",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Igualdad, diversidad y accesibilidad en la producción de audiovisuales: planificación preventiva, coordinación de actividades, exteriores, público, proveedores, emergencias, protección de menores y criterios de servicio público."
+  },
+  {
+    "id": "E14",
+    "numero": "14",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Prevención de riesgos laborales en la producción audiovisual: identificación de riesgos en la planificación y ejecución de programas, informativos, retransmisiones, grabaciones y eventos; coordinación de actividades empresariales con personal externo; seguridad en estudios, platós, exteriores, localizaciones, unidades móviles, desplazamientos, montajes, desmontajes, presencia de público e invitados; riesgos por electricidad, iluminación, cableado, manipulación de cargas, trabajo en altura, climatología, aglomeraciones, estrés operativo y trabajo a turnos; medidas preventivas, emergencias, evacuación, primeros auxilios, accidente in itinere y en misión, comunicación de incidencias y escalado al responsable preventivo."
+  },
+  {
+    "id": "E15",
+    "numero": "15",
+    "oposicion": "CSUR-PRO",
+    "perfil": "b03",
+    "tipo": "especifico",
+    "titulo": "Prevención de riesgos laborales aplicada al puesto de trabajo: derechos y obligaciones de las personas trabajadoras en materia preventiva; riesgos generales y específicos del puesto en RTVA/CSRTV; pantallas de visualización de datos, ergonomía y trastornos musculoesqueléticos; accidente in itinere y en misión; equipos de protección individual y medidas preventivas."
+  }
+]

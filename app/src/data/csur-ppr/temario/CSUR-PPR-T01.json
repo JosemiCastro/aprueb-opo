@@ -1,0 +1,26 @@
+{
+  "id": "CSUR-PPR-T01",
+  "numero": 1,
+  "relacionados": [
+    "CSUR-PPR-T02",
+    "CSUR-PPR-E01",
+    "CSUR-PPR-E12"
+  ],
+  "secciones": [
+    {
+      "texto": "La Constitución de 1978, ratificada en referéndum el 6 de diciembre de 1978, es la norma suprema del ordenamiento jurídico español. Consta de un preámbulo, 169 artículos distribuidos en un título preliminar y diez títulos numerados, además de disposiciones adicionales, transitorias, derogatoria y final.\n\nEl [[Constitución Española de 1978 | art. 1]] define a España como un **Estado social y democrático de Derecho** y proclama como valores superiores del ordenamiento la **libertad, la justicia, la igualdad y el pluralismo político**. La soberanía nacional reside en el pueblo español y la forma política del Estado es la **Monarquía parlamentaria**.",
+      "titulo": "Estructura y valores superiores"
+    },
+    {
+      "texto": "El Título I (arts. 10 a 55) regula los derechos y deberes fundamentales. Su núcleo duro (arts. 14 a 29 más la objeción de conciencia del art. 30.2) goza de la máxima protección: se desarrollan por **ley orgánica** ([[Constitución Española de 1978 | art. 81]]), están amparados por el recurso de amparo y su reforma exige el procedimiento agravado.\n\nLas garantías se recogen en el [[Constitución Española de 1978 | art. 53]]: reserva de ley, respeto al contenido esencial y tutela judicial. El [[Constitución Española de 1978 | art. 55]] permite la **suspensión** de determinados derechos en estados de excepción y sitio, y de forma individualizada en la lucha contra el terrorismo.",
+      "titulo": "Derechos fundamentales: garantías y suspensión"
+    },
+    {
+      "texto": "Los órganos constitucionales son: la **Corona** ([[Constitución Española de 1978 | art. 56]]), las **Cortes Generales** —Congreso y Senado— ([[Constitución Española de 1978 | art. 66]]), el **Gobierno** ([[Constitución Española de 1978 | art. 97]]), el **Poder Judicial** ([[Constitución Española de 1978 | art. 117]]) y el **Tribunal Constitucional** ([[Constitución Española de 1978 | art. 159]]), además del Tribunal de Cuentas y el Defensor del Pueblo.\n\nLa organización territorial (Título VIII) se basa en la indisoluble unidad de la Nación y el derecho a la autonomía ([[Constitución Española de 1978 | art. 2]]). El **municipio** goza de autonomía para la gestión de sus intereses ([[Constitución Española de 1978 | art. 140]]) y la **provincia** es entidad local con personalidad jurídica propia ([[Constitución Española de 1978 | art. 141]]). La reforma constitucional sigue el procedimiento ordinario del art. 167 o el agravado del art. 168.",
+      "titulo": "Órganos constitucionales y organización territorial"
+    }
+  ],
+  "tema": "T01",
+  "tipo": "comun",
+  "titulo": "La Constitución Española de 1978: valores, derechos fundamentales, órganos constitucionales y organización territorial"
+}
