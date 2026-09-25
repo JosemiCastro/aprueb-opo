@@ -45,6 +45,12 @@ export function etiquetaOpo(id: OposicionId): string {
   return `${o.grupo} · ${o.diputacion}`;
 }
 
+/** Etiqueta de la entidad convocante: 'Diputación de Huelva', 'RTVA / Canal Sur'… */
+export function etiquetaEntidad(diputacion: string): string {
+  if (diputacion === 'Canal Sur / RTVA') return 'RTVA / Canal Sur';
+  return `Diputación de ${diputacion}`;
+}
+
 // Temas de Huelva (temas.json) + fragmentos de las nuevas oposiciones
 // (app/src/data/<dir>/_temas.json).
 export const temas: TemaMeta[] = [
@@ -81,6 +87,9 @@ const preguntas: Question[] = [
   ),
   ...globJson<Question>(
     import.meta.glob('../data/sev-a1/SEV-A1-*.json', { eager: true }) as Record<string, unknown>,
+  ),
+  ...globJson<Question>(
+    import.meta.glob('../data/csur-red/CSUR-RED-*.json', { eager: true }) as Record<string, unknown>,
   ),
 ];
 

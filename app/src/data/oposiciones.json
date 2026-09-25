@@ -69,5 +69,20 @@
     "plazo": "10 días hábiles desde la publicación en el BOE (previsto)",
     "sistema": "Oposición",
     "turno": "Turno libre"
+  },
+  {
+    "bop": "BOJA nº 186 de 24/09/2026",
+    "bopUrl": "https://www.juntadeandalucia.es/boja/2026/186/BOJA26-186-00095-12371-01_00343601.pdf",
+    "cuerpo": "Redactor/a",
+    "diputacion": "Canal Sur / RTVA",
+    "estado": "plazo-abierto",
+    "formato": "preguntas",
+    "grupo": "B02",
+    "id": "CSUR-RED",
+    "plazas": 61,
+    "plazasDetalle": "61 plazas (29 Sevilla, 8 Málaga); sujetas a fases internas previas",
+    "plazo": "Hasta el 06/10/2026 (10 días laborables)",
+    "sistema": "Concurso-oposición libre",
+    "turno": "Turno libre"
   }
 ]

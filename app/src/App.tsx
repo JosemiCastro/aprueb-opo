@@ -2,7 +2,7 @@ import type { ReactElement } from 'react';
 import { BottomNav, Header } from './components/ui';
 import { RequireAuth } from './components/RequireAuth';
 import { AuthProvider } from './lib/auth';
-import { baseDeOpo, oposiciones, oposicionDe } from './lib/data';
+import { baseDeOpo, etiquetaEntidad, oposiciones, oposicionDe } from './lib/data';
 import { link, useHashRoute } from './lib/router';
 import type { OposicionId } from './types';
 import TemasOpo from './views/oposicion/TemasOpo';
@@ -20,7 +20,7 @@ import Progreso from './views/Progreso';
 import Login from './views/auth/Login';
 import Register from './views/auth/Register';
 
-const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)'];
+const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)', 'Canal Sur / RTVA'];
 
 function Home() {
   const grupos = ORDEN_DIPUTACION.map((dip) => ({
@@ -36,13 +36,13 @@ function Home() {
           <img className="hero-logo" src="/logo.png" alt="Logo de OposDipu" />
           <p className="hero-title">OposDipu</p>
           <p className="hero-sub">
-            Estudia las oposiciones de las diputaciones andaluzas: cuestionarios,
+            Estudia las oposiciones públicas andaluzas: cuestionarios,
             temario desarrollado y seguimiento de tu progreso.
           </p>
         </section>
         {grupos.map((g) => (
-          <section key={g.dip} aria-label={`Diputación de ${g.dip}`}>
-            <h2 className="temario-grupo">Diputación de {g.dip}</h2>
+          <section key={g.dip} aria-label={etiquetaEntidad(g.dip)}>
+            <h2 className="temario-grupo">{etiquetaEntidad(g.dip)}</h2>
             <div className="opo-grid">
               {g.opos.map((o) => (
                 <OpoCard key={o.id} opo={o} />
@@ -63,7 +63,7 @@ const publicRoutes: Record<string, () => ReactElement> = {
   '/register': Register,
 };
 
-const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1'];
+const OPOS_PREGUNTAS: OposicionId[] = ['HUE-C1', 'CAD-C2', 'GRA-C1', 'SEV-A1', 'CSUR-RED'];
 
 function vistasOpo(opoId: OposicionId): Record<string, () => ReactElement> {
   const base = baseDeOpo(opoId);

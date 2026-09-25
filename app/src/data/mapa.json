@@ -1,224 +1,304 @@
 {
- "Acuerdo Marco de Concertación de la Diputación de Huelva": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Constitución Española de 1978": {
-  "archivo": "BOE-A-1978-31229.md"
- },
- "Constitución y Ley 39/2015": {
-  "archivo": null,
-  "motivo": "cita doble: usar CE + Ley 39/2015"
- },
- "Convenio Marco de Concertación de la Diputación de Huelva (aprobado el 4 de octubre de 2023)": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Código Civil": {
-  "archivo": "BOE-A-1889-4763.md"
- },
- "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales": {
-  "archivo": "BOE-A-1955-10057.md"
- },
- "Documentación de LibreOffice": {
-  "archivo": null,
-  "motivo": "no es una norma jurídica"
- },
- "Ley 15/2022": {
-  "archivo": "BOE-A-2022-11589.md"
- },
- "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación": {
-  "archivo": "BOE-A-2022-11589.md"
- },
- "Ley 19/2013": {
-  "archivo": "BOE-A-2013-12887.md"
- },
- "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno": {
-  "archivo": "BOE-A-2013-12887.md"
- },
- "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa": {
-  "archivo": "BOE-A-1998-16718.md"
- },
- "Ley 31/1995": {
-  "archivo": "BOE-A-1995-24292.md"
- },
- "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales": {
-  "archivo": "BOE-A-1995-24292.md"
- },
- "Ley 33/2003": {
-  "archivo": "BOE-A-2003-20254.md"
- },
- "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas": {
-  "archivo": "BOE-A-2003-20254.md"
- },
- "Ley 38/2003": {
-  "archivo": "BOE-A-2003-20977.md"
- },
- "Ley 38/2003, de 17 de noviembre, General de Subvenciones": {
-  "archivo": "BOE-A-2003-20977.md"
- },
- "Ley 39/2015": {
-  "archivo": "BOE-A-2015-10565.md"
- },
- "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas": {
-  "archivo": "BOE-A-2015-10565.md"
- },
- "Ley 40/2015": {
-  "archivo": "BOE-A-2015-10566.md"
- },
- "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público": {
-  "archivo": "BOE-A-2015-10566.md"
- },
- "Ley 5/2010": {
-  "archivo": "BOE-A-2010-11491.md"
- },
- "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía": {
-  "archivo": "BOE-A-2010-11491.md"
- },
- "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local": {
-  "archivo": "BOE-A-2015-679.md"
- },
- "Ley 53/1984": {
-  "archivo": "BOE-A-1985-151.md"
- },
- "Ley 53/1984, de 26 de diciembre, de Incompatibilidades": {
-  "archivo": "BOE-A-1985-151.md"
- },
- "Ley 58/2003": {
-  "archivo": "BOE-A-2003-23186.md"
- },
- "Ley 58/2003, de 17 de diciembre, General Tributaria": {
-  "archivo": "BOE-A-2003-23186.md"
- },
- "Ley 7/1985": {
-  "archivo": "BOE-A-1985-5392.md"
- },
- "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local": {
-  "archivo": "BOE-A-1985-5392.md"
- },
- "Ley 9/2017": {
-  "archivo": "BOE-A-2017-12902.md"
- },
- "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público": {
-  "archivo": "BOE-A-2017-12902.md"
- },
- "Ley Orgánica 10/1995": {
-  "archivo": "BOE-A-1995-25444.md"
- },
- "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical": {
-  "archivo": "BOE-A-1985-16660.md"
- },
- "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía": {
-  "archivo": "BOE-A-2007-5825.md"
- },
- "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera": {
-  "archivo": "BOE-A-2012-5730.md"
- },
- "Ley Orgánica 3/2007": {
-  "archivo": "BOE-A-2007-6115.md"
- },
- "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres": {
-  "archivo": "BOE-A-2007-6115.md"
- },
- "Ley Orgánica 3/2018": {
-  "archivo": "BOE-A-2018-16673.md"
- },
- "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales": {
-  "archivo": "BOE-A-2018-16673.md"
- },
- "Ley Orgánica 5/1985": {
-  "archivo": "BOE-A-1985-11672.md"
- },
- "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General": {
-  "archivo": "BOE-A-1985-11672.md"
- },
- "Ley de Expropiación Forzosa de 1954": {
-  "archivo": "BOE-A-1954-15431.md"
- },
- "Ley de Expropiación Forzosa, de 16 de diciembre de 1954": {
-  "archivo": "BOE-A-1954-15431.md"
- },
- "Ley para la Reforma Política, de 4 de enero de 1977": {
-  "archivo": null,
-  "motivo": "norma histórica derogada, no está en el corpus (solo normas vigentes)"
- },
- "Ordenanza fiscal de la Diputación de Huelva": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Plan Provincial de Concertación Municipal de la Diputación de Huelva": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Real Decreto 1372/1986": {
-  "archivo": "BOE-A-1986-17958.md"
- },
- "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales": {
-  "archivo": "BOE-A-1986-17958.md"
- },
- "Real Decreto 203/2021": {
-  "archivo": "BOE-A-2021-5032.md"
- },
- "Real Decreto 2568/1986": {
-  "archivo": "BOE-A-1986-33252.md"
- },
- "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales": {
-  "archivo": "BOE-A-1986-33252.md"
- },
- "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, en materia de presupuestos": {
-  "archivo": "BOE-A-1990-9664.md"
- },
- "Real Decreto Legislativo 2/2004": {
-  "archivo": "BOE-A-2004-4214.md"
- },
- "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales": {
-  "archivo": "BOE-A-2004-4214.md"
- },
- "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores": {
-  "archivo": "BOE-A-2015-11430.md"
- },
- "Real Decreto Legislativo 5/2015": {
-  "archivo": "BOE-A-2015-11719.md"
- },
- "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público": {
-  "archivo": "BOE-A-2015-11719.md"
- },
- "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana": {
-  "archivo": "BOE-A-2015-11723.md"
- },
- "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social": {
-  "archivo": "BOE-A-2015-11724.md"
- },
- "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo": {
-  "archivo": "BOE-A-1977-6061.md"
- },
- "Reglamento (UE) 2016/679": {
-  "archivo": null,
-  "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
- },
- "Reglamento Orgánico de la Diputación de Huelva": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Reglamento de Organización y Funcionamiento de la Diputación de Huelva (BOP Huelva nº 136, 18/07/2016)": {
-  "archivo": null,
-  "motivo": "normativa propia local, no está en el corpus"
- },
- "Tribunal Constitucional": {
-  "archivo": null,
-  "motivo": "jurisprudencia, verificar caso por caso (STC citada)"
- },
- "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación": {
-  "archivo": "BOE-A-2005-14803.md"
- },
- "RD 939/2005": {
-  "archivo": "BOE-A-2005-14803.md"
- },
- "Real Decreto 939/2005": {
-  "archivo": "BOE-A-2005-14803.md"
- }
+  "Acuerdo Marco de Concertación de la Diputación de Huelva": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Acuerdo mixto de condiciones de trabajo del personal al servicio de la Excma. Diputación Provincial de Huelva": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Constitución Española de 1978": {
+    "archivo": "BOE-A-1978-31229.md"
+  },
+  "Constitución y Ley 39/2015": {
+    "archivo": null,
+    "motivo": "cita doble: usar CE + Ley 39/2015"
+  },
+  "Convenio Marco de Concertación de la Diputación de Huelva (aprobado el 4 de octubre de 2023)": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Código Civil": {
+    "archivo": "BOE-A-1889-4763.md"
+  },
+  "Decreto de 17 de junio de 1955, por el que se aprueba el Reglamento de Servicios de las Corporaciones Locales": {
+    "archivo": "BOE-A-1955-10057.md"
+  },
+  "Documentación de LibreOffice": {
+    "archivo": null,
+    "motivo": "no es una norma jurídica"
+  },
+  "Ley 15/2022": {
+    "archivo": "BOE-A-2022-11589.md"
+  },
+  "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación": {
+    "archivo": "BOE-A-2022-11589.md"
+  },
+  "Ley 19/2013": {
+    "archivo": "BOE-A-2013-12887.md"
+  },
+  "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno": {
+    "archivo": "BOE-A-2013-12887.md"
+  },
+  "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa": {
+    "archivo": "BOE-A-1998-16718.md"
+  },
+  "Ley 31/1995": {
+    "archivo": "BOE-A-1995-24292.md"
+  },
+  "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales": {
+    "archivo": "BOE-A-1995-24292.md"
+  },
+  "Ley 33/2003": {
+    "archivo": "BOE-A-2003-20254.md"
+  },
+  "Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas": {
+    "archivo": "BOE-A-2003-20254.md"
+  },
+  "Ley 38/2003": {
+    "archivo": "BOE-A-2003-20977.md"
+  },
+  "Ley 38/2003, de 17 de noviembre, General de Subvenciones": {
+    "archivo": "BOE-A-2003-20977.md"
+  },
+  "Ley 39/2015": {
+    "archivo": "BOE-A-2015-10565.md"
+  },
+  "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas": {
+    "archivo": "BOE-A-2015-10565.md"
+  },
+  "Ley 40/2015": {
+    "archivo": "BOE-A-2015-10566.md"
+  },
+  "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público": {
+    "archivo": "BOE-A-2015-10566.md"
+  },
+  "Ley 5/2010": {
+    "archivo": "BOE-A-2010-11491.md"
+  },
+  "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía": {
+    "archivo": "BOE-A-2010-11491.md"
+  },
+  "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local": {
+    "archivo": "BOE-A-2015-679.md"
+  },
+  "Ley 53/1984": {
+    "archivo": "BOE-A-1985-151.md"
+  },
+  "Ley 53/1984, de 26 de diciembre, de Incompatibilidades": {
+    "archivo": "BOE-A-1985-151.md"
+  },
+  "Ley 58/2003": {
+    "archivo": "BOE-A-2003-23186.md"
+  },
+  "Ley 58/2003, de 17 de diciembre, General Tributaria": {
+    "archivo": "BOE-A-2003-23186.md"
+  },
+  "Ley 7/1985": {
+    "archivo": "BOE-A-1985-5392.md"
+  },
+  "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local": {
+    "archivo": "BOE-A-1985-5392.md"
+  },
+  "Ley 9/2017": {
+    "archivo": "BOE-A-2017-12902.md"
+  },
+  "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público": {
+    "archivo": "BOE-A-2017-12902.md"
+  },
+  "Ley Orgánica 10/1995": {
+    "archivo": "BOE-A-1995-25444.md"
+  },
+  "Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical": {
+    "archivo": "BOE-A-1985-16660.md"
+  },
+  "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía": {
+    "archivo": "BOE-A-2007-5825.md"
+  },
+  "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera": {
+    "archivo": "BOE-A-2012-5730.md"
+  },
+  "Ley Orgánica 3/2007": {
+    "archivo": "BOE-A-2007-6115.md"
+  },
+  "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres": {
+    "archivo": "BOE-A-2007-6115.md"
+  },
+  "Ley Orgánica 3/2018": {
+    "archivo": "BOE-A-2018-16673.md"
+  },
+  "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales": {
+    "archivo": "BOE-A-2018-16673.md"
+  },
+  "Ley Orgánica 5/1985": {
+    "archivo": "BOE-A-1985-11672.md"
+  },
+  "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General": {
+    "archivo": "BOE-A-1985-11672.md"
+  },
+  "Ley de Expropiación Forzosa de 1954": {
+    "archivo": "BOE-A-1954-15431.md"
+  },
+  "Ley de Expropiación Forzosa, de 16 de diciembre de 1954": {
+    "archivo": "BOE-A-1954-15431.md"
+  },
+  "Ley para la Reforma Política, de 4 de enero de 1977": {
+    "archivo": null,
+    "motivo": "norma histórica derogada, no está en el corpus (solo normas vigentes)"
+  },
+  "Ordenanza fiscal de la Diputación de Huelva": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Plan Provincial de Concertación Municipal de la Diputación de Huelva": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Real Decreto 1372/1986": {
+    "archivo": "BOE-A-1986-17958.md"
+  },
+  "Real Decreto 1372/1986, de 13 de junio, por el que se aprueba el Reglamento de Bienes de las Entidades Locales": {
+    "archivo": "BOE-A-1986-17958.md"
+  },
+  "Real Decreto 203/2021": {
+    "archivo": "BOE-A-2021-5032.md"
+  },
+  "Real Decreto 2568/1986": {
+    "archivo": "BOE-A-1986-33252.md"
+  },
+  "Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales": {
+    "archivo": "BOE-A-1986-33252.md"
+  },
+  "Real Decreto 500/1990, de 20 de abril, por el que se desarrolla el capítulo primero del título sexto de la Ley 39/1988, en materia de presupuestos": {
+    "archivo": "BOE-A-1990-9664.md"
+  },
+  "Real Decreto Legislativo 2/2004": {
+    "archivo": "BOE-A-2004-4214.md"
+  },
+  "Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales": {
+    "archivo": "BOE-A-2004-4214.md"
+  },
+  "Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores": {
+    "archivo": "BOE-A-2015-11430.md"
+  },
+  "Real Decreto Legislativo 5/2015": {
+    "archivo": "BOE-A-2015-11719.md"
+  },
+  "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público": {
+    "archivo": "BOE-A-2015-11719.md"
+  },
+  "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana": {
+    "archivo": "BOE-A-2015-11723.md"
+  },
+  "Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social": {
+    "archivo": "BOE-A-2015-11724.md"
+  },
+  "Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo": {
+    "archivo": "BOE-A-1977-6061.md"
+  },
+  "Reglamento (UE) 2016/679": {
+    "archivo": null,
+    "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  },
+  "Reglamento Orgánico de la Diputación de Huelva": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Reglamento de Organización y Funcionamiento de la Diputación de Huelva (BOP Huelva nº 136, 18/07/2016)": {
+    "archivo": null,
+    "motivo": "normativa propia local, no está en el corpus"
+  },
+  "Tribunal Constitucional": {
+    "archivo": null,
+    "motivo": "jurisprudencia, verificar caso por caso (STC citada)"
+  },
+  "Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación": {
+    "archivo": "BOE-A-2005-14803.md"
+  },
+  "RD 939/2005": {
+    "archivo": "BOE-A-2005-14803.md"
+  },
+  "Real Decreto 939/2005": {
+    "archivo": "BOE-A-2005-14803.md"
+  },
+  "Ley 13/2022": {
+    "archivo": "BOE-A-2022-11311.md"
+  },
+  "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual": {
+    "archivo": "BOE-A-2022-11311.md"
+  },
+  "Ley Orgánica 1/1982": {
+    "archivo": "BOE-A-1982-11196.md"
+  },
+  "Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen": {
+    "archivo": "BOE-A-1982-11196.md"
+  },
+  "Ley Orgánica 2/1984": {
+    "archivo": "BOE-A-1984-7248.md"
+  },
+  "Ley Orgánica 2/1984, de 26 de marzo, reguladora del derecho de rectificación": {
+    "archivo": "BOE-A-1984-7248.md"
+  },
+  "Ley Orgánica 1/2004": {
+    "archivo": "BOE-A-2004-21760.md"
+  },
+  "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género": {
+    "archivo": "BOE-A-2004-21760.md"
+  },
+  "Ley 18/2007": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 18/2007, de 17 de diciembre, de la radio y televisión de titularidad autonómica gestionada por la Agencia Pública Empresarial de la Radio y Televisión de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 10/2018": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 10/2018, de 9 de octubre, audiovisual de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Carta del Servicio Público de la RTVA": {
+    "archivo": null,
+    "motivo": "documento de planificación de la RTVA, no es norma jurídica"
+  },
+  "X Convenio Colectivo de RTVA": {
+    "archivo": null,
+    "motivo": "convenio colectivo, sin texto en el corpus"
+  },
+  "FORTA": {
+    "archivo": null,
+    "motivo": "federación de organismos autonómicos de radio y televisión, no es norma jurídica"
+  },
+  "Estatuto Profesional de RTVA/CSRTV": {
+    "archivo": null,
+    "motivo": "norma interna de la RTVA, sin texto en el corpus"
+  },
+  "Libro de Estilo de Canal Sur": {
+    "archivo": null,
+    "motivo": "norma interna de estilo, sin texto en el corpus"
+  },
+  "Carta Ética Mundial para Periodistas (FIP)": {
+    "archivo": null,
+    "motivo": "código deontológico internacional, no es norma jurídica"
+  },
+  "Ley 12/2007": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 4/2023": {
+    "archivo": null,
+    "motivo": "norma estatal sin texto en el corpus"
+  },
+  "Carta Ética Mundial para Periodistas": {
+    "archivo": null,
+    "motivo": "documento de la FIP, sin texto en el corpus"
+  },
+  "Reglamento (UE) 2024/1689": {
+    "archivo": null,
+    "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  }
 }

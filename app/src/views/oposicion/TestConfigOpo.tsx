@@ -2,7 +2,7 @@ import { useState } from 'react';
 import type { CSSProperties } from 'react';
 import type { Question } from '../../types';
 import { Header, Btn, Card } from '../../components/ui';
-import { todasPreguntas, oposicionDe } from '../../lib/data';
+import { todasPreguntas, oposicionDe, etiquetaEntidad } from '../../lib/data';
 import { failedIds, isDominated } from '../../lib/progress';
 import { useProgress } from '../../lib/storage';
 import { navigate } from '../../lib/router';
@@ -127,7 +127,7 @@ export default function TestConfigOpo({ opoId, base }: OpoProps) {
 
         <Btn onClick={empezar}>Empezar test</Btn>
         <p style={{ fontSize: '0.875rem', color: 'var(--text-muted)' }}>
-          Test de {tituloOpo(opoId)} · Diputación de {oposicionDe(opoId).diputacion}
+          Test de {tituloOpo(opoId)} · {etiquetaEntidad(oposicionDe(opoId).diputacion)}
         </p>
       </main>
     </div>

@@ -1,5 +1,5 @@
 import { Header } from '../components/ui';
-import { baseDeOpo, oposiciones, todasPreguntas, temasDeOpo } from '../lib/data';
+import { baseDeOpo, etiquetaEntidad, oposiciones, todasPreguntas, temasDeOpo } from '../lib/data';
 import { link } from '../lib/router';
 import type { EstadoOposicion, Oposicion } from '../types';
 
@@ -28,7 +28,7 @@ export function OpoCard({ opo }: { opo: Oposicion }) {
         <EstadoBadge estado={opo.estado} />
       </div>
       <h3 className="opo-cuerpo">{opo.cuerpo}</h3>
-      <p className="opo-diputacion">Diputación de {opo.diputacion}</p>
+      <p className="opo-diputacion">{etiquetaEntidad(opo.diputacion)}</p>
       <p className="opo-meta">
         {opo.plazas} plazas · {opo.plazasDetalle}
       </p>
@@ -58,7 +58,7 @@ export function OpoCard({ opo }: { opo: Oposicion }) {
   );
 }
 
-const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)'];
+const ORDEN_DIPUTACION = ['Huelva', 'Cádiz', 'Granada', 'Sevilla (OPAEF)', 'Canal Sur / RTVA'];
 
 export default function Oposiciones() {
   const grupos = ORDEN_DIPUTACION.map((dip) => ({
@@ -71,8 +71,8 @@ export default function Oposiciones() {
       <Header title="Oposiciones" backTo="/" />
       <main className="container">
         {grupos.map((g) => (
-          <section key={g.dip} aria-label={`Diputación de ${g.dip}`}>
-            <h2 className="temario-grupo">Diputación de {g.dip}</h2>
+          <section key={g.dip} aria-label={etiquetaEntidad(g.dip)}>
+            <h2 className="temario-grupo">{etiquetaEntidad(g.dip)}</h2>
             <div className="opo-grid">
               {g.opos.map((o) => (
                 <OpoCard key={o.id} opo={o} />

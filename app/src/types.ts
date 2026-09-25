@@ -27,7 +27,7 @@ export interface Esquema {
 }
 
 // Oposición: cada convocatoria que cubre la app (Huelva + nuevas).
-export type OposicionId = 'HUE-C1' | 'HUE-A2' | 'CAD-C2' | 'GRA-C1' | 'SEV-A1';
+export type OposicionId = 'HUE-C1' | 'HUE-A2' | 'CAD-C2' | 'GRA-C1' | 'SEV-A1' | 'CSUR-RED';
 
 export type EstadoOposicion = 'plazo-abierto' | 'bases-publicadas' | 'pendiente-boe';
 
