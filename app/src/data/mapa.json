@@ -300,5 +300,84 @@
   "Reglamento (UE) 2024/1689": {
     "archivo": null,
     "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  },
+  "Ley 2/2024": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 4/2005": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 2/2021": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 2/2021, de 18 de junio, de lucha contra el fraude y la corrupción en Andalucía y protección de la persona denunciante": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 6/2006": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 6/2006, de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 9/2007": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley Orgánica 1/1996": {
+    "archivo": null,
+    "motivo": "norma estatal sin texto en el corpus"
+  },
+  "Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil": {
+    "archivo": null,
+    "motivo": "norma estatal sin texto en el corpus"
+  },
+  "Ley 9/1983": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 9/1983, de 1 de diciembre, del Defensor del Pueblo Andaluz": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 1/1988": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Ley 1/1988, de 17 de marzo, de la Cámara de Cuentas de Andalucía": {
+    "archivo": null,
+    "motivo": "norma autonómica andaluza (BOJA), sin texto en el corpus"
+  },
+  "Tratado de la Unión Europea": {
+    "archivo": null,
+    "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  },
+  "Carta de los Derechos Fundamentales de la Unión Europea": {
+    "archivo": null,
+    "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  },
+  "Reglamento (UE) 2016/679, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (RGPD)": {
+    "archivo": null,
+    "motivo": "norma europea, fuera del ámbito del corpus (legislación española)"
+  },
+  "Ley Orgánica 2/2007": {
+    "archivo": "BOE-A-2007-5825.md"
   }
 }
