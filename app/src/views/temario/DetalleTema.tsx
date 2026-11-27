@@ -2,9 +2,11 @@ import { useEffect, useState } from 'react';
 import { Btn, Card, Header } from '../../components/ui';
 import { renderTextoConCitas } from '../../lib/citas';
 import { listarTemario, temasRelacionados } from '../../lib/temario';
+import { descargarPdfTema } from '../../lib/pdfTema';
 import { recordSession } from '../../lib/progress';
 import { esTemaEstudiado, useProgress, useTemasEstudiados } from '../../lib/storage';
 import { link } from '../../lib/router';
+import { tituloOpo } from '../oposicion/props';
 import type { OposicionId, TemaDesarrollado } from '../../types';
 
 function todayStr(): string {
@@ -27,6 +29,8 @@ export default function DetalleTema({
   const [rels, setRels] = useState<TemaDesarrollado[]>([]);
   const [estudiados, setEstudiado] = useTemasEstudiados();
   const [, setProgress] = useProgress();
+  const [descargandoPdf, setDescargandoPdf] = useState(false);
+  const [errorPdf, setErrorPdf] = useState<string | null>(null);
 
   useEffect(() => {
     let vivo = true;
@@ -78,10 +82,23 @@ export default function DetalleTema({
     }
   };
 
+  const onDescargarPdf = async () => {
+    if (!tema || descargandoPdf) return;
+    setDescargandoPdf(true);
+    setErrorPdf(null);
+    try {
+      await descargarPdfTema(tituloOpo(opoId), tema);
+    } catch {
+      setErrorPdf('No se pudo generar el PDF. Inténtalo de nuevo.');
+    } finally {
+      setDescargandoPdf(false);
+    }
+  };
+
   return (
     <div className="screen">
       <Header title={`Tema ${tema?.numero ?? ''}`} backTo={`${base}/temario`} />
-      <main className="container">
+      <main className="container container-reading">
         <nav className="breadcrumb" aria-label="Miga de pan">
           <a href={link(base)}>Examen</a>
           <span aria-hidden="true">›</span>
@@ -103,13 +120,25 @@ export default function DetalleTema({
           <>
             <h1 className="tema-title">{tema.titulo}</h1>
 
-            <Btn
-              variant={estudiado ? 'ghost' : 'primary'}
-              onClick={onToggleEstudiado}
-              aria-pressed={estudiado}
-            >
-              {estudiado ? '✓ Estudiado — desmarcar' : 'Marcar como estudiado'}
-            </Btn>
+            <div className="actions-row">
+              <Btn
+                variant={estudiado ? 'ghost' : 'primary'}
+                onClick={onToggleEstudiado}
+                aria-pressed={estudiado}
+              >
+                {estudiado ? '✓ Estudiado — desmarcar' : 'Marcar como estudiado'}
+              </Btn>
+              <Btn
+                variant="ghost"
+                onClick={onDescargarPdf}
+                disabled={descargandoPdf}
+              >
+                {descargandoPdf ? 'Generando PDF…' : '⬇ Descargar PDF'}
+              </Btn>
+            </div>
+            {errorPdf ? (
+              <p style={{ color: 'var(--danger)', fontWeight: 600 }}>{errorPdf}</p>
+            ) : null}
 
             {tema.secciones.map((s, i) => (
               <Card key={i}>

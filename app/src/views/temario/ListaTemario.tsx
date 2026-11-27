@@ -78,27 +78,31 @@ export default function ListaTemario({ opoId, base }: { opoId: OposicionId; base
             {comunes.length > 0 && (
               <section aria-label="Temas comunes">
                 <h2 className="temario-grupo">Temas comunes</h2>
-                {comunes.map((t) => (
-                  <FilaTema
-                    key={t.id}
-                    base={base}
-                    tema={t}
-                    estudiado={esTemaEstudiado(estudiados, t.id)}
-                  />
-                ))}
+                <div className="tema-rows">
+                  {comunes.map((t) => (
+                    <FilaTema
+                      key={t.id}
+                      base={base}
+                      tema={t}
+                      estudiado={esTemaEstudiado(estudiados, t.id)}
+                    />
+                  ))}
+                </div>
               </section>
             )}
             {especificos.length > 0 && (
               <section aria-label="Temas específicos">
                 <h2 className="temario-grupo">Temas específicos</h2>
-                {especificos.map((t) => (
-                  <FilaTema
-                    key={t.id}
-                    base={base}
-                    tema={t}
-                    estudiado={esTemaEstudiado(estudiados, t.id)}
-                  />
-                ))}
+                <div className="tema-rows">
+                  {especificos.map((t) => (
+                    <FilaTema
+                      key={t.id}
+                      base={base}
+                      tema={t}
+                      estudiado={esTemaEstudiado(estudiados, t.id)}
+                    />
+                  ))}
+                </div>
               </section>
             )}
           </>

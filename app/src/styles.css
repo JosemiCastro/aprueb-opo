@@ -68,6 +68,72 @@ body {
   flex: 1;
 }
 
+/* Lista de temas: en móvil una columna con hueco entre filas. */
+.tema-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ---------- Escritorio: ensanchar ---------- */
+/* En móvil la columna estrecha (680px) es lo correcto; en escritorio
+   se desperdiciaba más de la mitad de la pantalla. A partir de 1024px
+   la app pasa a 1080px (1240px en pantallas grandes) y las rejillas
+   y listas usan el ancho extra. La lectura del tema, en cambio, se
+   mantiene en una columna cómoda (~880px) para no alargar las líneas. */
+
+@media (min-width: 1024px) {
+  .screen {
+    max-width: 1080px;
+  }
+
+  .container {
+    padding: 24px;
+    gap: 16px;
+  }
+
+  .home-grid,
+  .opo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .tema-rows {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .container-reading {
+    max-width: 880px;
+    margin-inline: auto;
+    width: 100%;
+  }
+
+  .temario-sec-texto {
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+
+  .tema-title {
+    font-size: 1.5rem;
+  }
+
+  .modal {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .screen {
+    max-width: 1240px;
+  }
+
+  .container {
+    padding: 32px;
+  }
+}
+
 /* ---------- Header ---------- */
 
 .header {
@@ -995,6 +1061,19 @@ button.cita-pill-btn:hover {
     border-left: 1px solid var(--border);
     border-right: 1px solid var(--border);
     border-radius: 18px 18px 0 0;
+  }
+}
+
+/* La barra inferior sigue el ancho de la pantalla en escritorio. */
+@media (min-width: 1024px) {
+  .bottom-nav {
+    width: 1080px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .bottom-nav {
+    width: 1240px;
   }
 }
 
