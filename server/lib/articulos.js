@@ -143,7 +143,12 @@ function parseDoc(archivo) {
     let texto = body.slice(heads[i].fin, siguiente).trim();
     // por si acaso: recorta restos de cabeceras pegadas
     texto = texto.replace(/^#{1,6}\s+.*$/gm, "").trim();
-    if (!articulos.has(clave)) {
+    // Algunas leyes del corpus (p. ej. BOE-A-2022-11311, LGCA) traen un índice
+    // de artículos al principio con las cabeceras vacías y el articulado real
+    // repetido más abajo. Si ya existe el artículo, nos quedamos con la versión
+    // que tenga MÁS texto (la del articulado, no la del índice).
+    const existente = articulos.get(clave);
+    if (!existente || texto.length > existente.texto.length) {
       articulos.set(clave, { numero, titulo: tituloArt, texto });
     }
   }
